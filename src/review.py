@@ -31,21 +31,24 @@ def getRecentReviews():
     timestr = time.strftime("%Y%m%d%H%M%S")
     fileName = "recentReviews_"
     extension = ".xml"
+    folder = "original/"
 
     payload = {'key': key}
     response = requests.get("https://www.goodreads.com/review/recent_reviews.xml?", params=payload,stream=True)
 
-    with open(dataFolder+fileName+timestr+extension, "w") as reviewsFile:
+    with open(dataFolder+folder+fileName+timestr+extension, "w") as reviewsFile:
         reviewsFile.write(response.content)
 
 
 def getReviewsList():
 
     reviewsList = []
+    IDdict = []
+    folder = "original/"
 
-    for fileName in os.listdir(dataFolder):
+    for fileName in os.listdir(dataFolder+folder):
 
-        f = open(os.path.join(dataFolder, fileName), "r")
+        f = open(os.path.join(dataFolder+folder, fileName), "r")
         
         xml = f.read()
         root = ET.fromstring(xml)
@@ -53,20 +56,54 @@ def getReviewsList():
         for r in root.iter('review'):
 
             id = r.find('id').text
-            rating = r.find('rating').text
+            rating = int(r.find('rating').text)
             body = r.find('body').text
             
             review = Review(id,rating,body.encode('utf-8'))
+
+            # if (rating == 3):
+            #     print review 
             
-            reviewsList.append(review)
+            if not id in IDdict:
+                reviewsList.append(review)
+                IDdict.append(id)
+
 
     return reviewsList
 
 def printReviews(reviewsList):
 
-    for review in reviewsList:
-        print review
 
+    positiveReviews = open(dataFolder+'divided/positive.data','w')
+    negativeReviews = open(dataFolder+'divided/negative.data','w')
+    neutralReviews = open(dataFolder+'divided/neutral.data','w')
+
+    # f.close() 
+
+    total = 0
+    positive = 0
+    negative = 0
+    neutral = 0
+
+    for review in reviewsList:
+        
+        rating = review.rating
+        body = review.body.rstrip()
+        if (rating > 3):
+            positiveReviews.write(body)
+            positive += 1
+
+        elif (rating == 3):
+            neutralReviews.write(body)
+            neutral += 1
+
+        elif (rating < 3):
+            negativeReviews.write(body)
+            negative += 1
+
+        total += 1
+
+    print "Total: %s, Positive: %s, Negative: %s, Neutral: %s" %(total,positive,negative,neutral)
 
 getRecentReviews()
 reviewsList = getReviewsList()

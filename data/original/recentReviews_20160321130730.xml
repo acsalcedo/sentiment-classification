@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1586360702</id>
+    
+  <user>
+    <id>6289247</id>
+    <name>Sherri</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6289247-sherri-wyman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25109689</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <title>Sought by the Alphas Complete Boxed Set</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25109689-sought-by-the-alphas-complete-boxed-set</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>152</ratings_count>
+<authors>
+<author>
+<id>7734118</id>
+<name>Carina Wilder</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7734118.Carina_Wilder]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>4296</ratings_count>
+<text_reviews_count>825</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 21 10:34:29 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:34:28 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:34:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Enticing Read</strong><br /><br />Well written story line with complex likable characters. Plenty of steamy sex scenes with a generous helping of action. This story is well worth the read!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586360702]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586360702]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586360493</id>
+    
+  <user>
+    <id>5455280</id>
+    <name>Wilde</name>
+
+    <location><![CDATA[Bristol, Avon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5455280-wilde-sky]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442520845p3/5455280.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442520845p2/5455280.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28931528</id>
+  <isbn nil="true"/>
+  <isbn13>9781473616318</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>How to Perform Under Pressure: The Science of Doing Your Best When It Matters Most</title>
+  <image_url>https://d.gr-assets.com/books/1454583467m/28931528.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454583467s/28931528.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28931528-how-to-perform-under-pressure</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>John Murray Learning</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>24750</id>
+<name>Hendrie Weisinger</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24750.Hendrie_Weisinger]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>310</ratings_count>
+<text_reviews_count>41</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 20 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:34:11 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:34:36 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book provides a guide to handling situations when you are under pressure.<br /><br />I found this book quite inspiring in places but it was too long winded (some of the anecdotes seemed irrelevant) and some of the advice / sections were a bit incoherent, if it had been a hundred pages shorter it could h...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586360493]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586360493]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586360486</id>
+    
+  <user>
+    <id>22371286</id>
+    <name>Bernice</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22371286-bernice-tsao]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">125406</id>
+  <isbn>0380702843</isbn>
+  <isbn13>9780380702848</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>The Return of the Indian</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/125406.The_Return_of_the_Indian</link>
+  <num_pages>208</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTrophy</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>308</ratings_count>
+<authors>
+<author>
+<id>72237</id>
+<name>Lynne Reid Banks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202838464p5/72237.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202838464p2/72237.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/72237.Lynne_Reid_Banks]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>107415</ratings_count>
+<text_reviews_count>2907</text_reviews_count>
+</author>
+</authors>
+  <published>1985</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:34:11 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:34:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      favorite of the series
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586360486]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586360486]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586359895</id>
+    
+  <user>
+    <id>23133809</id>
+    <name>P.S.</name>
+
+    <location>Kalispell, MT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23133809-p-s-winn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1425419459p3/23133809.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1425419459p2/23133809.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29547337</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Journal for Women: 105 Questions for Women with Motivational Quotes: Self Discovery Journal: (Notebook)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29547337-journal-for-women</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>7182893</id>
+<name>Shalu Sharma</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442896338p5/7182893.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442896338p2/7182893.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7182893.Shalu_Sharma]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>187</ratings_count>
+<text_reviews_count>62</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 10:33:39 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:33:26 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I thoroughly enjoyed this journal. I like that the author added the reasons for keeping this journal and the benefits of writing, I also love the inspirational quotes at the end of the book, that encourage people to think and write about what the motivations mean to them, For me, keeping a journa...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586359895]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586359895]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586359743</id>
+    
+  <user>
+    <id>5043899</id>
+    <name>Mandyred</name>
+
+    <location>Belfast, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5043899-mandyred]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27775256</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>How to Bewitch an Earl</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27775256-how-to-bewitch-an-earl</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>27</ratings_count>
+<authors>
+<author>
+<id>8126303</id>
+<name>Ally Broadfield</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1396994544p5/8126303.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1396994544p2/8126303.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8126303.Ally_Broadfield]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>573</ratings_count>
+<text_reviews_count>205</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:33:14 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Fun and cute</strong><br /><br />I love how the book started. You got to know the key players and love them. Even when the truth comes out. All and all it was a cute short story.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586359743]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586359743]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586359735</id>
+    
+  <user>
+    <id>11612855</id>
+    <name>elstaffe</name>
+
+    <location>Boston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11612855-elstaffe]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1345691697p3/11612855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1345691697p2/11612855.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25403165</id>
+  <isbn nil="true"/>
+  <isbn13>9781620046302</isbn13>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>Could be a Crowd</title>
+  <image_url>https://d.gr-assets.com/books/1429652930m/25403165.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1429652930s/25403165.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25403165-could-be-a-crowd</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Less Than Three Press</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>14</ratings_count>
+<authors>
+<author>
+<id>8290651</id>
+<name>C.J. Munoz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1437789115p5/8290651.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1437789115p2/8290651.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8290651.C_J_Munoz]]></link>
+<average_rating>3.52</average_rating>
+<ratings_count>27</ratings_count>
+<text_reviews_count>20</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 03 00:00:00 -0800 2016</read_at>
+  <date_added>Mon Mar 21 10:33:13 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      1.5 rounds up to 2 stars.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586359735]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586359735]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586359692</id>
+    
+  <user>
+    <id>22371286</id>
+    <name>Bernice</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22371286-bernice-tsao]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">947128</id>
+  <isbn>1596430672</isbn>
+  <isbn13>9781596430679</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>The Mirror of Fire and Dreaming: Book II of the Brotherhood of the Conch</title>
+  <image_url>https://d.gr-assets.com/books/1317792005m/947128.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1317792005s/947128.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/947128.The_Mirror_of_Fire_and_Dreaming</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Roaring Brook Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>17</ratings_count>
+<authors>
+<author>
+<id>51589</id>
+<name>Chitra Banerjee Divakaruni</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238090182p5/51589.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238090182p2/51589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/51589.Chitra_Banerjee_Divakaruni]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>59951</ratings_count>
+<text_reviews_count>6151</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:33:09 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      fave!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586359692]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586359692]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586359488</id>
+    
+  <user>
+    <id>5455280</id>
+    <name>Wilde</name>
+
+    <location><![CDATA[Bristol, Avon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5455280-wilde-sky]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442520845p3/5455280.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442520845p2/5455280.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29413536</id>
+  <isbn>178488023X</isbn>
+  <isbn13>9781784880231</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Spare Change: How to Save More, Budget and be Happy with Your Finances</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29413536-spare-change</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>15045442</id>
+<name>Iona Bain</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15045442.Iona_Bain]]></link>
+<average_rating>3.00</average_rating>
+<ratings_count>1</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 20 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:32:54 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book provides a straight forward guide to managing your money.<br /><br />The layout and print quality of this book was very good, but the advice was quite low level / simplistic and would probably only be good for people with very limited financial experience / knowledge.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586359488]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586359488]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586359135</id>
+    
+  <user>
+    <id>11612855</id>
+    <name>elstaffe</name>
+
+    <location>Boston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11612855-elstaffe]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1345691697p3/11612855.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1345691697p2/11612855.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25686352</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">175</text_reviews_count>
+  <title>Waiting for Clark</title>
+  <image_url>https://d.gr-assets.com/books/1433750986m/25686352.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1433750986s/25686352.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25686352-waiting-for-clark</link>
+  <num_pages>77</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>M/M Romance Group @ Goodreads</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>623</ratings_count>
+<authors>
+<author>
+<id>6477494</id>
+<name>Annabeth Albert</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1345951662p5/6477494.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1345951662p2/6477494.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6477494.Annabeth_Albert]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>5133</ratings_count>
+<text_reviews_count>1514</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Mon Mar 21 10:32:30 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:32:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      2.5 rounds up to 3 stars
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586359135]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586359135]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586359119</id>
+    
+  <user>
+    <id>16228832</id>
+    <name>Thychat</name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16228832-thychat]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357722696p3/16228832.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357722696p2/16228832.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29365144</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Secret de Trop</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29365144-secret-de-trop</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2</ratings_count>
+<authors>
+<author>
+<id>14984228</id>
+<name>Celina Rose</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14984228.Celina_Rose]]></link>
+<average_rating>4.60</average_rating>
+<ratings_count>5</ratings_count>
+<text_reviews_count>5</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:32:28 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:51 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[J'ai rencontré Célina sur booknode grâce à mon roman qu'elle avait adoré et c'est à ce moment-là qu'elle m'a demandé des conseils pour la publication du sien. Après plusieurs échanges nous avons rapidement sympathisé. Je l'ai ensuite intégrée à mon équipe, comme vous le savez, et présentée à L.S....]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586359119]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586359119]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358882</id>
+    
+  <user>
+    <id>31528524</id>
+    <name>Theresa</name>
+
+    <location>Carbondale, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31528524-theresa-masker]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">21415541</id>
+  <isbn nil="true"/>
+  <isbn13>9781940652276</isbn13>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <title>Pleasured by You (Love in the City, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1415289413m/21415541.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415289413s/21415541.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21415541-pleasured-by-you</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>146</ratings_count>
+<authors>
+<author>
+<id>7392900</id>
+<name>Steph Nuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447988714p5/7392900.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447988714p2/7392900.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7392900.Steph_Nuss]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>1998</ratings_count>
+<text_reviews_count>513</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:32:12 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[*Copy received through NetGalley, courtesy of The Book Enthusiast as part of the #30DayReadingIndie Challenge.*<br />I did not read the two first books in the " Love in the City Series " books. But that didn't stop me from enjoying this book.<br />Fletcher Haney and Baylor Jennings had a one night stand on N...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358882]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358882]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358877</id>
+    
+  <user>
+    <id>22371286</id>
+    <name>Bernice</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22371286-bernice-tsao]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5453</id>
+  <isbn>0385729367</isbn>
+  <isbn13>9780385729369</isbn13>
+  <text_reviews_count type="integer">1438</text_reviews_count>
+  <title>Forever in Blue: The Fourth Summer of the Sisterhood (Sisterhood, #4)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5453.Forever_in_Blue</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Books</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>50680</ratings_count>
+<authors>
+<author>
+<id>3681</id>
+<name>Ann Brashares</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208391697p5/3681.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208391697p2/3681.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3681.Ann_Brashares]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>761029</ratings_count>
+<text_reviews_count>23950</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:32:11 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:32:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      .... lot to take in....
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358877]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358877]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358598</id>
+    
+  <user>
+    <id>5455280</id>
+    <name>Wilde</name>
+
+    <location><![CDATA[Bristol, Avon, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5455280-wilde-sky]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442520845p3/5455280.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442520845p2/5455280.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12913187</id>
+  <isbn>0007385846</isbn>
+  <isbn13>9780007385843</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>City of Gold</title>
+  <image_url>https://d.gr-assets.com/books/1356456925m/12913187.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1356456925s/12913187.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12913187-city-of-gold</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>31234</id>
+<name>Len Deighton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1359135015p5/31234.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1359135015p2/31234.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/31234.Len_Deighton]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>50371</ratings_count>
+<text_reviews_count>1410</text_reviews_count>
+</author>
+</authors>
+  <published>1992</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Mar 19 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:31:54 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:32:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A prisoner ends up taking on the identity of an army investigator and searches for a German spy.<br /><br />The basic story and characters were good, but in places the plot and writing were a bit laboured.<br /><br />Real rating 3.5]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358598]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358598]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358498</id>
+    
+  <user>
+    <id>9438394</id>
+    <name>Seliah</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9438394-seliah-jimenez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1438229775p3/9438394.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1438229775p2/9438394.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29561878</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Silent Kingdom (Silent Kingdom, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29561878-silent-kingdom</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Asta Publications, LLC</publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>13539433</id>
+<name>Rachel L. Schade</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447269159p5/13539433.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447269159p2/13539433.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13539433.Rachel_L_Schade]]></link>
+<average_rating>4.56</average_rating>
+<ratings_count>16</ratings_count>
+<text_reviews_count>13</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:31:48 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:32:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I got a beta version of this recently and I loved it ! Im excited to see any changes and have that beautiful cover in my hands !! ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358498]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358498]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358449</id>
+    
+  <user>
+    <id>49155106</id>
+    <name>Penny</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49155106-penny-layne]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447946644p3/49155106.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447946644p2/49155106.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17289067</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">103</text_reviews_count>
+  <title>Brie Pleases Her New Master (After Graduation, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1359417918m/17289067.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1359417918s/17289067.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17289067-brie-pleases-her-new-master</link>
+  <num_pages>56</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Red Phoenix</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1870</ratings_count>
+<authors>
+<author>
+<id>5557309</id>
+<name>Red Phoenix</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409964772p5/5557309.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409964772p2/5557309.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5557309.Red_Phoenix]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>38713</ratings_count>
+<text_reviews_count>3130</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 21 10:31:46 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:31:45 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:31:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Perfect Follow-up</strong><br /><br />Wonder what happens after graduation? Wonder no farther, thus book perfectly explains the next step in this wonderful story of Brie's journey through submission.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358449]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358449]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358446</id>
+    
+  <user>
+    <id>17020123</id>
+    <name>Randy</name>
+
+    <location>Waynesville, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17020123-randy-troyer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1359683671p3/17020123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1359683671p2/17020123.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22098813</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>Ice Station Wolfenstein (Order of the Black Sun #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22098813-ice-station-wolfenstein</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>413</ratings_count>
+<authors>
+<author>
+<id>6093565</id>
+<name>Preston W. Child</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6093565.Preston_W_Child]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>897</ratings_count>
+<text_reviews_count>47</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 21 10:31:46 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:31:45 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:31:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Adventure series with unlikely heroes</strong><br /><br />A depressed journalist befriends a young PhD and the two begin an adventure steeped in history as dark as a pot of tea left on the stove for hours. Hard to put down, plenty of plot twists, and an excellent use of history blended with current events to make for...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358446]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358446]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358203</id>
+    
+  <user>
+    <id>2052230</id>
+    <name>Julia</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2052230-julia-wilson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1235098276p3/2052230.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1235098276p2/2052230.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18090112</id>
+  <isbn>0062271601</isbn>
+  <isbn13>9780062271600</isbn13>
+  <text_reviews_count type="integer">286</text_reviews_count>
+  <title>To Dwell in Darkness (Duncan Kincaid &amp; Gemma James, #16)</title>
+  <image_url>https://d.gr-assets.com/books/1409600768m/18090112.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1409600768s/18090112.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18090112-to-dwell-in-darkness</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1798</ratings_count>
+<authors>
+<author>
+<id>43691</id>
+<name>Deborah Crombie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1390326755p5/43691.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1390326755p2/43691.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/43691.Deborah_Crombie]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>63086</ratings_count>
+<text_reviews_count>4147</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Mon Mar 21 10:31:29 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:32:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I think this will be my last Crombie for a while but I do like her plotting and characters. Just enough excitement to keep the reading interesting. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358203]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358203]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358191</id>
+    
+  <user>
+    <id>22684946</id>
+    <name>Marcelo</name>
+
+    <location>Port Moody, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22684946-marcelo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1423260853p3/22684946.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1423260853p2/22684946.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2921730</id>
+  <isbn>1401901662</isbn>
+  <isbn13>9781401901660</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Create An Abundant Life</title>
+  <image_url>https://d.gr-assets.com/books/1264611569m/2921730.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1264611569s/2921730.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2921730-create-an-abundant-life</link>
+  <num_pages>0</num_pages>
+  <format>DVD</format>
+  <edition_information/>
+  <publisher>Hay House</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>16</ratings_count>
+<authors>
+<author>
+<id>57502</id>
+<name>Cheryl Richardson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264611285p5/57502.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264611285p2/57502.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57502.Cheryl_Richardson]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>4157</ratings_count>
+<text_reviews_count>310</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 10:31:28 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:31:28 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:31:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Short, straight to her points, inspiring.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358191]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358191]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358146</id>
+    
+  <user>
+    <id>54133293</id>
+    <name>Anna</name>
+
+    <location>Nowy Sacz, 77, Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54133293-anna]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1305001</id>
+  <isbn>2266127039</isbn>
+  <isbn13>9782266127035</isbn13>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <title>L'Âme du mal</title>
+  <image_url>https://d.gr-assets.com/books/1327352642m/1305001.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327352642s/1305001.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1305001.L_me_du_mal</link>
+  <num_pages>544</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Pocket</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>951</ratings_count>
+<authors>
+<author>
+<id>599793</id>
+<name>Maxime Chattam</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1352210265p5/599793.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1352210265p2/599793.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/599793.Maxime_Chattam]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>10365</ratings_count>
+<text_reviews_count>741</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 21 10:31:26 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:33:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[One of the best books i've ever read in my whole life. Absolutely addictive. Once you start reading you can't stop till the last page. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358146]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358146]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1586358133</id>
+    
+  <user>
+    <id>21104822</id>
+    <name>Liberty</name>
+
+    <location>Marshall, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21104822-liberty-moore]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1370628919p3/21104822.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1370628919p2/21104822.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">81107</id>
+  <isbn>0470100281</isbn>
+  <isbn13>9780470100288</isbn13>
+  <text_reviews_count type="integer">482</text_reviews_count>
+  <title>The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy</title>
+  <image_url>https://d.gr-assets.com/books/1419179201m/81107.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1419179201s/81107.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/81107.The_Energy_Bus</link>
+  <num_pages>172</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>John Wiley &amp; Sons</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3338</ratings_count>
+<authors>
+<author>
+<id>46174</id>
+<name>Jon Gordon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1371434005p5/46174.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1371434005p2/46174.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/46174.Jon_Gordon]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>8662</ratings_count>
+<text_reviews_count>1122</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 10:32:00 -0700 2016</read_at>
+  <date_added>Mon Mar 21 10:31:25 -0700 2016</date_added>
+  <date_updated>Mon Mar 21 10:32:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Very insightful. 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1586358133]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1586358133]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

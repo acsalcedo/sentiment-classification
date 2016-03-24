@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588818516</id>
+    
+  <user>
+    <id>5723080</id>
+    <name>John</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5723080-john-brown]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27239265</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1362</text_reviews_count>
+  <title>The Short Drop (Gibson Vaughn #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27239265-the-short-drop</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>19895</ratings_count>
+<authors>
+<author>
+<id>14126306</id>
+<name>Matthew FitzSimmons</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1446727733p5/14126306.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1446727733p2/14126306.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14126306.Matthew_FitzSimmons]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>20375</ratings_count>
+<text_reviews_count>1454</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 18 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:19:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:20:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Adventure...fun read
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588818516]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588818516]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588818376</id>
+    
+  <user>
+    <id>26424199</id>
+    <name>Lisa</name>
+
+    <location><![CDATA[Kidderminster, Q4, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26424199-lisa-helen-gray]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442969644p3/26424199.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442969644p2/26424199.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27249428</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">31</text_reviews_count>
+  <title>Firestorm (Sons of Templar MC #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27249428-firestorm</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>342</ratings_count>
+<authors>
+<author>
+<id>13857312</id>
+<name>Anne Malcom</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453901329p5/13857312.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453901329p2/13857312.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13857312.Anne_Malcom]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>3367</ratings_count>
+<text_reviews_count>337</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 22 00:00:00 -0800 2016</started_at>
+  <read_at>Thu Feb 25 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 19:19:46 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:20:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<a target="_blank" href="http://lisas-book-reviews.blogspot.co.uk/2016/03/firestorm-sons-of-templar-mc-2-by-anne.html" rel="nofollow">http://lisas-book-reviews.blogspot.co...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588818376]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588818376]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588818324</id>
+    
+  <user>
+    <id>48299891</id>
+    <name>Paulette Scott-Collins</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48299891-paulette-scott-collins]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18929717</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>The Billionaire's Best Friend (The Sherbrookes of Newport Book 4)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18929717-the-billionaire-s-best-friend</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>245</ratings_count>
+<authors>
+<author>
+<id>5782446</id>
+<name>Christina Tetreault</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442622051p5/5782446.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442622051p2/5782446.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5782446.Christina_Tetreault]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>7415</ratings_count>
+<text_reviews_count>482</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 19:19:43 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:19:43 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:19:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Nice reading</strong><br /><br />I really enjoyed reading 2 books in this series. It was page turner from beginning to end. I will be reading more from this author. Excellent writing Christine!!<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588818324]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588818324]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588817452</id>
+    
+  <user>
+    <id>3455093</id>
+    <name>Joe</name>
+
+    <location>Wrentham, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3455093-joe]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452195941p3/3455093.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452195941p2/3455093.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">886189</id>
+  <isbn>0446530891</isbn>
+  <isbn13>9780446530897</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <title>Split Second (Sean King &amp; Michelle Maxwell, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1179185759m/886189.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1179185759s/886189.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/886189.Split_Second</link>
+  <num_pages>406</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>400</ratings_count>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383944009p5/9291.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383944009p2/9291.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>823476</ratings_count>
+<text_reviews_count>47537</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="1263547011" sortable="false" />
+    <shelf name="mystery" exclusive="false" review_shelf_id="1263547013" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:18:46 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:20:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Decent writing and a good story, but I must admit that I got some of the characters mixed up - they weren't developed enough for me to quickly visualize them. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588817452]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588817452]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816798</id>
+    
+  <user>
+    <id>3310457</id>
+    <name>Marissa</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3310457-marissa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1266556166p3/3310457.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1266556166p2/3310457.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23209971</id>
+  <isbn>0812996348</isbn>
+  <isbn13>9780812996340</isbn13>
+  <text_reviews_count type="integer">846</text_reviews_count>
+  <title>Girl at War</title>
+  <image_url>https://d.gr-assets.com/books/1414348859m/23209971.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1414348859s/23209971.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23209971-girl-at-war</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5443</ratings_count>
+<authors>
+<author>
+<id>8288614</id>
+<name>Sara Nović</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456165616p5/8288614.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456165616p2/8288614.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8288614.Sara_Novi_]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>6012</ratings_count>
+<text_reviews_count>917</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="book-club-wi" exclusive="false" review_shelf_id="1263547606" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="1263547613" sortable="false" />
+    <shelf name="young-adult" exclusive="false" review_shelf_id="1263547657" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 02 00:00:00 -0800 2016</started_at>
+  <read_at>Sat Mar 12 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 19:18:07 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:19:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[3.5 A pretty quick read. I liked how the author went back and forth between present day &amp; the past with things slowly coming together. Plenty of good themes for a good book club discussion. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816798]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816798]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816753</id>
+    
+  <user>
+    <id>5723080</id>
+    <name>John</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5723080-john-brown]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12788229</id>
+  <isbn>1612181511</isbn>
+  <isbn13>9781612181516</isbn13>
+  <text_reviews_count type="integer">209</text_reviews_count>
+  <title>She Can Run (She Can... #1)</title>
+  <image_url>https://d.gr-assets.com/books/1327879706m/12788229.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327879706s/12788229.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12788229-she-can-run</link>
+  <num_pages>327</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Montlake Romance</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1882</ratings_count>
+<authors>
+<author>
+<id>5141609</id>
+<name>Melinda Leigh</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1426712223p5/5141609.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1426712223p2/5141609.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5141609.Melinda_Leigh]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>29760</ratings_count>
+<text_reviews_count>1925</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 19:18:04 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:18:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Thriller Romance...just a fun read]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816753]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816753]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816689</id>
+    
+  <user>
+    <id>26424199</id>
+    <name>Lisa</name>
+
+    <location><![CDATA[Kidderminster, Q4, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26424199-lisa-helen-gray]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442969644p3/26424199.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442969644p2/26424199.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25442666</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">147</text_reviews_count>
+  <title>Making the Cut (Sons of Templar MC #1)</title>
+  <image_url>https://d.gr-assets.com/books/1439328661m/25442666.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1439328661s/25442666.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25442666-making-the-cut</link>
+  <num_pages>387</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1333</ratings_count>
+<authors>
+<author>
+<id>13857312</id>
+<name>Anne Malcom</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453901329p5/13857312.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453901329p2/13857312.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13857312.Anne_Malcom]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>3367</ratings_count>
+<text_reviews_count>337</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 21 00:00:00 -0800 2016</started_at>
+  <read_at>Sun Feb 21 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 19:17:59 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:18:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<a target="_blank" href="http://lisas-book-reviews.blogspot.co.uk/2016/03/making-cut-sons-of-templar-mc-1-by-anne.html" rel="nofollow">http://lisas-book-reviews.blogspot.co...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816689]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816689]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816636</id>
+    
+  <user>
+    <id>53979423</id>
+    <name>Maggie</name>
+
+    <location>Westlake, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53979423-maggie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4989</id>
+  <isbn>0312353766</isbn>
+  <isbn13>9780312353766</isbn13>
+  <text_reviews_count type="integer">13459</text_reviews_count>
+  <title>The Red Tent</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4989.The_Red_Tent</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>387595</ratings_count>
+<authors>
+<author>
+<id>626222</id>
+<name>Anita Diamant</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405136091p5/626222.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405136091p2/626222.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/626222.Anita_Diamant]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>477007</ratings_count>
+<text_reviews_count>24577</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:17:56 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:19:05 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[good book. loosely based on biblical story. Enjoyed much. Highly recommend, good story line, lots of twists/action, little strange/comfortable beginning]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816636]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816636]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816588</id>
+    
+  <user>
+    <id>5682602</id>
+    <name>Jeff</name>
+
+    <location>Rocklin, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5682602-jeff-wheeler]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1314739102p3/5682602.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1314739102p2/5682602.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18049017</id>
+  <isbn>1442497025</isbn>
+  <isbn13>9781442497023</isbn13>
+  <text_reviews_count type="integer">551</text_reviews_count>
+  <title>Sky Raiders (Five Kingdoms, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1421828643m/18049017.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1421828643s/18049017.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18049017-sky-raiders</link>
+  <num_pages>432</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Aladdin</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>4395</ratings_count>
+<authors>
+<author>
+<id>25052</id>
+<name>Brandon Mull</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202163082p5/25052.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202163082p2/25052.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25052.Brandon_Mull]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>424003</ratings_count>
+<text_reviews_count>28130</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 19:17:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:20:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I'm a fan of everything Brandon Mull writes and recently started on the Five Kingdoms series. His books are full of humor (especially teenage comebacks), tension, and interesting plots. I liked Fablehaven better than this, but this was better than Beyonders in my opinion. The story is about some...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816588]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816588]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816581</id>
+    
+  <user>
+    <id>39021080</id>
+    <name>Peter</name>
+
+    <location>San Mateo, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39021080-peter-heller]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">133394</id>
+  <isbn>0140184937</isbn>
+  <isbn13>9780140184938</isbn13>
+  <text_reviews_count type="integer">705</text_reviews_count>
+  <title>Our Man in Havana</title>
+  <image_url>https://d.gr-assets.com/books/1327926887m/133394.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327926887s/133394.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/133394.Our_Man_in_Havana</link>
+  <num_pages>220</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Twentieth Century Classics</edition_information>
+  <publisher>Penguin Books Ltd</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>13012</ratings_count>
+<authors>
+<author>
+<id>2533</id>
+<name>Graham Greene</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1254688603p5/2533.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1254688603p2/2533.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2533.Graham_Greene]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>182084</ratings_count>
+<text_reviews_count>12452</text_reviews_count>
+</author>
+</authors>
+  <published>1958</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:17:52 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:19:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A great read. The premise of the book is pretty humorous. Looking forward to watching the 1959 movie.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816581]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816581]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816525</id>
+    
+  <user>
+    <id>28111499</id>
+    <name>Books and Boys Book Blog </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28111499-books-and-boys-book-blog]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455252993p3/28111499.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455252993p2/28111499.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25477309</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">225</text_reviews_count>
+  <title>The Lessons (Off-Limits, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1430716210m/25477309.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1430716210s/25477309.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25477309-the-lessons</link>
+  <num_pages>344</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>1st Edition</edition_information>
+  <publisher>Amazon Digital Services, Inc.</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1099</ratings_count>
+<authors>
+<author>
+<id>10796845</id>
+<name>Elizabeth   Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450159919p5/10796845.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450159919p2/10796845.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10796845.Elizabeth_Brown]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>2291</ratings_count>
+<text_reviews_count>454</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:17:49 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:18:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[** ARC PROVIDED BY THE AUTHOR FOR AN HONEST REVIEW ** <br /><br />OK first of all I have to say I'm in love. Elizabeth Brown is a gifted writer. This book was very well written. And can easily be a favorite. When reading feels like it's speaking directly to you. It has everything a book lover could want it's...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816525]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816525]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588816346</id>
+    
+  <user>
+    <id>7481433</id>
+    <name>Michael</name>
+
+    <location>Forest Hills, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7481433-michael-lewyn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1446951330p3/7481433.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1446951330p2/7481433.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16182014</id>
+  <isbn>9047432363</isbn>
+  <isbn13>9789047432364</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>The Arabic Translation and Commentary of Yefet Ben 'Eli the Karaite on the Book of Esther: Edition, Translation, and Introduction (Karaite Texts and Studies, Volume 1)</title>
+  <image_url>https://d.gr-assets.com/books/1355145367m/16182014.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1355145367s/16182014.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16182014-the-arabic-translation-and-commentary-of-yefet-ben-eli-the-karaite-on-t</link>
+  <num_pages>476</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Brill Academic Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>0</average_rating>
+  <ratings_count>0</ratings_count>
+<authors>
+<author>
+<id>5748686</id>
+<name>Michael Wechsler</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5748686.Michael_Wechsler]]></link>
+<average_rating>4.54</average_rating>
+<ratings_count>24</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 19:17:36 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:18:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The second half of this book is a straightforward, comprehensible commentary on the book of Esther (despite the fact that it is more than 1000 years old). Because it is a PhD thesis, it contains a huge amount of background, so most of the first half of the book is only of interest to specialists....]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588816346]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588816346]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815895</id>
+    
+  <user>
+    <id>9038323</id>
+    <name>Belinda</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9038323-belinda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1335331376p3/9038323.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1335331376p2/9038323.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22553705</id>
+  <isbn>1452141991</isbn>
+  <isbn13>9781452141992</isbn13>
+  <text_reviews_count type="integer">76</text_reviews_count>
+  <title>Polar Bear's Underwear</title>
+  <image_url>https://d.gr-assets.com/books/1415582181m/22553705.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415582181s/22553705.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22553705-polar-bear-s-underwear</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Chronicle Books</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>375</ratings_count>
+<authors>
+<author>
+<id>6149797</id>
+<name>Tupera Tupera</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6149797.Tupera_Tupera]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>380</ratings_count>
+<text_reviews_count>77</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Feb 15 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 19:17:09 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:19:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Like an eight year old, I find books about underwear hilarious. The deal was sealed for my library to order our own copy when my children's programmer borrowed it from another library and read it at story time -- to hear a group of children yell "Underwear" in the library is pretty hysterical.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815895]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815895]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815719</id>
+    
+  <user>
+    <id>5723080</id>
+    <name>John</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5723080-john-brown]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20434279</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>Papyrus: A Thriller</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20434279-papyrus</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>197</ratings_count>
+<authors>
+<author>
+<id>6626206</id>
+<name>John Oehler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1355763142p5/6626206.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1355763142p2/6626206.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6626206.John_Oehler]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>338</ratings_count>
+<text_reviews_count>32</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:16:58 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:17:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      ok theme...faded at end
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815719]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815719]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815667</id>
+    
+  <user>
+    <id>11164137</id>
+    <name>Catherine</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11164137-catherine]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1362371051p3/11164137.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1362371051p2/11164137.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25814204</id>
+  <isbn>1501118471</isbn>
+  <isbn13>9781501118470</isbn13>
+  <text_reviews_count type="integer">114</text_reviews_count>
+  <title>No One Knows</title>
+  <image_url>https://d.gr-assets.com/books/1458692690m/25814204.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458692690s/25814204.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25814204-no-one-knows</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Gallery Books</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>182</ratings_count>
+<authors>
+<author>
+<id>1311949</id>
+<name>J.T. Ellison</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450824118p5/1311949.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450824118p2/1311949.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1311949.J_T_Ellison]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>33192</ratings_count>
+<text_reviews_count>3320</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 19:16:55 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:18:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It's an interesting "thriller," but lengthy and fragmented with the past/present and varying narrators. By the end of the story, I was relieved it had ended. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815667]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815667]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815440</id>
+    
+  <user>
+    <id>17725950</id>
+    <name>Chelsey</name>
+
+    <location>Chowchilla, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17725950-chelsey-middleton]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1400527909p3/17725950.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1400527909p2/17725950.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18143733</id>
+  <isbn>1421558572</isbn>
+  <isbn13>9781421558578</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>False Memories, Vol. 2</title>
+  <image_url>https://d.gr-assets.com/books/1406399538m/18143733.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1406399538s/18143733.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18143733-false-memories-vol-2</link>
+  <num_pages>202</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>SuBLime</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>69</ratings_count>
+<authors>
+<author>
+<id>661544</id>
+<name>Isaku Natsume</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1363517570p5/661544.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1363517570p2/661544.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/661544.Isaku_Natsume]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>1919</ratings_count>
+<text_reviews_count>101</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 19:16:41 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:19:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I very much enjoyed this one more over the 1st book. I was drenched in reading this one from the moment i picked it up.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815440]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815440]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815257</id>
+    
+  <user>
+    <id>3796956</id>
+    <name>Jody</name>
+
+    <location>Clifton, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3796956-jody]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">311056</id>
+  <isbn>0824519507</isbn>
+  <isbn13>9780824519506</isbn13>
+  <text_reviews_count type="integer">75</text_reviews_count>
+  <title>The Enneagram: A Christian Perspective</title>
+  <image_url>https://d.gr-assets.com/books/1328806655m/311056.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328806655s/311056.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/311056.The_Enneagram</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Crossroad</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>934</ratings_count>
+<authors>
+<author>
+<id>7919</id>
+<name>Richard Rohr</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1372442705p5/7919.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1372442705p2/7919.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7919.Richard_Rohr]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>13119</ratings_count>
+<text_reviews_count>1483</text_reviews_count>
+</author>
+</authors>
+  <published>1989</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Mar 19 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:16:31 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:19:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Great book if you want to know your personality type and then be blown away when you realize some of the motivations behind the things you do. But the importance of this book is when it is used as a tool for personal growth.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815257]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815257]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815184</id>
+    
+  <user>
+    <id>13259580</id>
+    <name>Mari Cardenas</name>
+
+    <location>Guatemala</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13259580-mari-cardenas-bayou-book-junkie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1348971450p3/13259580.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1348971450p2/13259580.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28671427</id>
+  <isbn nil="true"/>
+  <isbn13>9781311957030</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>The Way Life Turns</title>
+  <image_url>https://d.gr-assets.com/books/1454500895m/28671427.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454500895s/28671427.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28671427-the-way-life-turns</link>
+  <num_pages>72</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>BonyDee Press</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2</ratings_count>
+<authors>
+<author>
+<id>13489667</id>
+<name>April Kelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1423674787p5/13489667.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1423674787p2/13489667.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13489667.April_Kelley]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>815</ratings_count>
+<text_reviews_count>164</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:16:27 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:17:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[*** Copy provided to Bayou Book Junkie in exchange for a fair and honest review. ***<br /><br />Jonah and Scott recently started dating, although they've been interested in each other since high school. However, they are at very different stages in their relationship, as evidenced when Jonah finds Scott chea...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815184]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815184]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815171</id>
+    
+  <user>
+    <id>39019689</id>
+    <name>Jaclyn D Smith</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39019689-jaclyn-d-smith]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12352798</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>What Happens When Women Say Yes to God</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12352798-what-happens-when-women-say-yes-to-god</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>85</ratings_count>
+<authors>
+<author>
+<id>61792</id>
+<name>Lysa TerKeurst</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1423592175p5/61792.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1423592175p2/61792.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61792.Lysa_TerKeurst]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>26420</ratings_count>
+<text_reviews_count>2010</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 19:16:26 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:16:26 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:16:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Obedience at its best</strong><br /><br />I am in love with this book. Halfway through I bought a copy for a friend and have recommended to numerous people. This book has opened my eyes tremendously and brought me closer to God than ever before. I'm beyond blessed to have been given the opportunity to read and study...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815171]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815171]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588815140</id>
+    
+  <user>
+    <id>47698701</id>
+    <name>sara</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47698701-sara]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27925072</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>The Alastair Affair 2: Sylvain (The Alastair Affair, #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27925072-the-alastair-affair-2</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>139</ratings_count>
+<authors>
+<author>
+<id>6941559</id>
+<name>Scarlett Edwards</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6941559.Scarlett_Edwards]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>20647</ratings_count>
+<text_reviews_count>1752</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 19:16:25 -0700 2016</read_at>
+  <date_added>Wed Mar 23 19:16:25 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 19:16:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Cool</strong><br /><br />Love the second part this this book I like the fact that it's gone to the mans point of view on what he's been doing . I also like the fact that they explained his back history.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588815140]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588815140]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

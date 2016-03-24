@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588922166</id>
+    
+  <user>
+    <id>47830381</id>
+    <name>Alex</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47830381-alex-lew]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1444609833p3/47830381.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1444609833p2/47830381.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26889576</id>
+  <isbn>039335315X</isbn>
+  <isbn13>9780393353150</isbn13>
+  <text_reviews_count type="integer">480</text_reviews_count>
+  <title>The Big Short: Inside the Doomsday Machine</title>
+  <image_url>https://d.gr-assets.com/books/1446581171m/26889576.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1446581171s/26889576.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26889576-the-big-short</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>7458</ratings_count>
+<authors>
+<author>
+<id>776</id>
+<name>Michael Lewis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1317447168p5/776.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1317447168p2/776.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/776.Michael_Lewis]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>296907</ratings_count>
+<text_reviews_count>17866</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 21:41:44 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:41:11 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:41:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Really entertaining account of the 2008 meltdown. Wall Street makes me sad. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588922166]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588922166]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921773</id>
+    
+  <user>
+    <id>2032506</id>
+    <name>Jennifer</name>
+
+    <location>Nanaimo , BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2032506-jennifer-mclean]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1234726440p3/2032506.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1234726440p2/2032506.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25972943</id>
+  <isbn>1608091678</isbn>
+  <isbn13>9781608091676</isbn13>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <title>Passenger 19 (Jammer Davis, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1442160933m/25972943.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1442160933s/25972943.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25972943-passenger-19</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Oceanview Publishing</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>75</ratings_count>
+<authors>
+<author>
+<id>7893</id>
+<name>Ward Larsen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342037354p5/7893.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342037354p2/7893.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7893.Ward_Larsen]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>4246</ratings_count>
+<text_reviews_count>311</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:40:38 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:41:05 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["Passenger 19" by Ward Larsen was a pretty darn good yarn. I'm not usually a "plane down, go rescue" kind of girl, I tend to choose the more traditional mysteries. But this was a very tightly written mystery that had me wondering how the hero was going to win the day.<br /><br />Jammer Davis has been a pilot...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921773]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921773]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921448</id>
+    
+  <user>
+    <id>1975617</id>
+    <name>Amanda</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1975617-amanda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1248662984p3/1975617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1248662984p2/1975617.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24688</id>
+  <isbn nil="true"/>
+  <isbn13>9780307157850</isbn13>
+  <text_reviews_count type="integer">174</text_reviews_count>
+  <title>Cars and Trucks and Things That Go</title>
+  <image_url>https://d.gr-assets.com/books/1333576382m/24688.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1333576382s/24688.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24688.Cars_and_Trucks_and_Things_That_Go</link>
+  <num_pages>72</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Golden Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6680</ratings_count>
+<authors>
+<author>
+<id>13901</id>
+<name>Richard Scarry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188187401p5/13901.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188187401p2/13901.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13901.Richard_Scarry]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>101083</ratings_count>
+<text_reviews_count>1857</text_reviews_count>
+</author>
+</authors>
+  <published>1974</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="young-children" exclusive="false" review_shelf_id="1263642859" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:40:07 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:41:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is currently Sawyer's (2.5) favorite book. He will read it while practicing sitting on the toilet. He pours over it looking for Goldbug on each page and when he and Daddy read it together they have fun trying to find Goldbug before the other does. <br /><br />It's a long book so usually we just read a f...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921448]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921448]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921445</id>
+    
+  <user>
+    <id>54093607</id>
+    <name>Monikasatote</name>
+
+    <location>San Mateo, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54093607-monikasatote]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6101196</id>
+  <isbn>0557015731</isbn>
+  <isbn13>9780557015733</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <title>Warrior Of The Light   Volume 1</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6101196-warrior-of-the-light-volume-1</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>394</ratings_count>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>1786663</ratings_count>
+<text_reviews_count>82117</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:40:07 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:40:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      simply awesome!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921445]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921445]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921418</id>
+    
+  <user>
+    <id>50269234</id>
+    <name>Brooklynn</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50269234-brooklynn]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">105548</id>
+  <isbn>0679882804</isbn>
+  <isbn13>9780679882800</isbn13>
+  <text_reviews_count type="integer">591</text_reviews_count>
+  <title>The Foot Book: Dr. Seuss's Whacky Book of Opposites (Bright and Early Board Books)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/105548.The_Foot_Book</link>
+  <num_pages>24</num_pages>
+  <format>Board Book</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>21278</ratings_count>
+<authors>
+<author>
+<id>61105</id>
+<name>Dr. Seuss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1193930952p5/61105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1193930952p2/61105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61105.Dr_Seuss]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>2226181</ratings_count>
+<text_reviews_count>36250</text_reviews_count>
+</author>
+</authors>
+  <published>1968</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:40:04 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:40:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[this book is so quickly to read I get done fast]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921418]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921418]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921357</id>
+    
+  <user>
+    <id>9945293</id>
+    <name>Neelam</name>
+
+    <location><![CDATA[Tanzania, The United Republic of]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9945293-neelam]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1408165785p3/9945293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1408165785p2/9945293.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">537074</id>
+  <isbn>1419183524</isbn>
+  <isbn13>9781419183522</isbn13>
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <title>The Stolen White Elephant</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/537074.The_Stolen_White_Elephant</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>217</ratings_count>
+<authors>
+<author>
+<id>1244</id>
+<name>Mark Twain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322103868p5/1244.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322103868p2/1244.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>1742910</ratings_count>
+<text_reviews_count>30374</text_reviews_count>
+</author>
+</authors>
+  <published>1882</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 21:41:53 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:40:00 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:41:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A nice hilarious and refreshing read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921357]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921357]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921288</id>
+    
+  <user>
+    <id>11948006</id>
+    <name>Arti</name>
+
+    <location>Hyderabad, 02, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11948006-arti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1345176860p3/11948006.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1345176860p2/11948006.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">52036</id>
+  <isbn>0553208845</isbn>
+  <isbn13>9780553208849</isbn13>
+  <text_reviews_count type="integer">7082</text_reviews_count>
+  <title>Siddhartha</title>
+  <image_url>https://d.gr-assets.com/books/1428715580m/52036.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428715580s/52036.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/52036.Siddhartha</link>
+  <num_pages>160</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1981</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>318637</ratings_count>
+<authors>
+<author>
+<id>1113469</id>
+<name>Hermann Hesse</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1287463141p5/1113469.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1287463141p2/1113469.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1113469.Hermann_Hesse]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>563085</ratings_count>
+<text_reviews_count>17177</text_reviews_count>
+</author>
+</authors>
+  <published>1922</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:39:54 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:40:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A book for keepsakes... read it time and again...<br />One of the best i have ever read ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921288]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921288]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921232</id>
+    
+  <user>
+    <id>50445705</id>
+    <name>Aimee Wesely</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50445705-aimee-wesely]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451013747p3/50445705.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451013747p2/50445705.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18810411</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <title>Locked In: One Girl's Explosive True Story of Child Abuse</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18810411-locked-in</link>
+  <num_pages>22</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Child Abuse True Stories</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>201</ratings_count>
+<authors>
+<author>
+<id>7392336</id>
+<name>Emily Essence</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7392336.Emily_Essence]]></link>
+<average_rating>3.03</average_rating>
+<ratings_count>202</ratings_count>
+<text_reviews_count>18</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 21:39:48 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:39:48 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:39:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Ok book</strong><br /><br />That was the shortest book I believe I have ever read. I was sitting down thinking this was going to be a long book, I had the whole thing done in less than an hour. Really glad I didn't buy this book!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921232]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921232]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921187</id>
+    
+  <user>
+    <id>8798729</id>
+    <name>منى</name>
+
+    <location>Jiddah, 14, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8798729]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1334530526p3/8798729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1334530526p2/8798729.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6177895</id>
+  <isbn>159239020x</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">129</text_reviews_count>
+  <title>هروبي إلى الحرية</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6177895</link>
+  <num_pages>468</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>دار الفكر</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>775</ratings_count>
+<authors>
+<author>
+<id>4859959</id>
+<name>Alija Izetbegović</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1305663494p5/4859959.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1305663494p2/4859959.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4859959.Alija_Izetbegovi_]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>8204</ratings_count>
+<text_reviews_count>1513</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:39:45 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:40:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[خواطر كتبها خلسة في سجنه الذي قضى به خمس سنوات ، عصارة فكر وخبرة للحياة ، اطلاع واسع وعميق في مختلف المجالات الدينية والفلسفية والفكرية والتاريخية .<br /> في هذا الكتاب ستجد مزيجا من كل شيء ، يقطف لك المفكر الاسلامي علي عزت بيجوفيتش من كل بستان زهرة مما يجذبني للقراءة فيه بذهن صافٍ وتركيز عميق لما فيه...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921187]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921187]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921178</id>
+    
+  <user>
+    <id>36476496</id>
+    <name>Layla</name>
+
+    <location>Savannah, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36476496-layla]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1414786156p3/36476496.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1414786156p2/36476496.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27073769</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>Golden</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27073769-golden</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>12</ratings_count>
+<authors>
+<author>
+<id>860829</id>
+<name>Kathryn Robson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449481320p5/860829.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449481320p2/860829.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/860829.Kathryn_Robson]]></link>
+<average_rating>4.46</average_rating>
+<ratings_count>13</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:39:44 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:39:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[4.5 stars<br />"Golden” by Kathryn Robson was one of the most unexpectedly awesome books I’ve read in a looong time. To be totally honest, at first I wasn’t sure I’d like it because I had a hard time figuring out what it was about from the description, and I’ve been a bit burned out on paranormal latel...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921178]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921178]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921128</id>
+    
+  <user>
+    <id>15288340</id>
+    <name>L.E.</name>
+
+    <location>Melbourne, 07, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15288340-l-e-truscott]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442877818p3/15288340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442877818p2/15288340.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2180468</id>
+  <isbn>1740513215</isbn>
+  <isbn13>9781740513210</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>Watson's Dictionary of Weasel Words, Contemporary Cliches, Cant &amp; Manage</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2180468.Watson_s_Dictionary_of_Weasel_Words_Contemporary_Cliches_Cant_Manage</link>
+  <num_pages>357</num_pages>
+  <format>Hardover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>58</ratings_count>
+<authors>
+<author>
+<id>136875</id>
+<name>Don Watson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1257233318p5/136875.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1257233318p2/136875.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/136875.Don_Watson]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>954</ratings_count>
+<text_reviews_count>127</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:39:39 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:41:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Written in 2004, Watson’s Dictionary of Weasel Words describes itself as “a serious weapon in the struggle against those whose words kill brain cells and sink hearts”. For those who know me even just a little, it should come as no great surprise that I was drawn to this book.<br /><br />So what are “weasel w...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921128]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921128]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588921055</id>
+    
+  <user>
+    <id>28470999</id>
+    <name>For the Love of</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28470999-for-the-love-of-books-alcohol-blog]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442246411p3/28470999.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442246411p2/28470999.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22747738</id>
+  <isbn>0385539487</isbn>
+  <isbn13>9780385539487</isbn13>
+  <text_reviews_count type="integer">78</text_reviews_count>
+  <title>The Winter Family</title>
+  <image_url>https://d.gr-assets.com/books/1408926902m/22747738.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1408926902s/22747738.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22747738-the-winter-family</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Doubleday</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>305</ratings_count>
+<authors>
+<author>
+<id>8044698</id>
+<name>Clifford Jackman</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8044698.Clifford_Jackman]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>377</ratings_count>
+<text_reviews_count>99</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Apr 01 00:00:00 -0700 2015</read_at>
+  <date_added>Wed Mar 23 21:39:33 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:40:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<p> <em> <strong>"The world's a hard fucking place…A little hard to get by with just please."</strong> </em> </p><br />Reading this book was like being the middle of a high action Western! Horrible things happened and I loved it. The blurb pretty much covers it all, so I’ll just stick with telling how much I enjoyed this book.<br /><br />I loved...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588921055]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588921055]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588920881</id>
+    
+  <user>
+    <id>42539793</id>
+    <name>Nicole</name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42539793-nicole-bowers]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29413265</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Three Way, Book 3</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29413265-three-way-book-3</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>19</ratings_count>
+<authors>
+<author>
+<id>13220432</id>
+<name>Olivia Hawthorne</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13220432.Olivia_Hawthorne]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>9838</ratings_count>
+<text_reviews_count>422</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 03 00:00:00 -0800 2016</started_at>
+  <read_at>Thu Mar 03 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 21:39:18 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:40:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[just can't wait for the next one. getting better with each book.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588920881]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588920881]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588920854</id>
+    
+  <user>
+    <id>54080196</id>
+    <name>Moonrroe</name>
+
+    <location>Vienna, 1901, Austria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54080196-moonrroe]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458441642p3/54080196.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458441642p2/54080196.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24128</id>
+  <isbn>0743477561</isbn>
+  <isbn13>9780743477567</isbn13>
+  <text_reviews_count type="integer">1566</text_reviews_count>
+  <title>The Merchant of Venice</title>
+  <image_url>https://d.gr-assets.com/books/1327871054m/24128.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327871054s/24128.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24128.The_Merchant_of_Venice</link>
+  <num_pages>247</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>100522</ratings_count>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>4463531</ratings_count>
+<text_reviews_count>65640</text_reviews_count>
+</author>
+</authors>
+  <published>1596</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:39:16 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:40:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A masterpiece of tragicomedy! ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588920854]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588920854]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588920609</id>
+    
+  <user>
+    <id>13457620</id>
+    <name>Tee Jay</name>
+
+    <location>Tallahassee, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13457620-tee-jay]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13493463</id>
+  <isbn>0312583516</isbn>
+  <isbn13>9780312583514</isbn13>
+  <text_reviews_count type="integer">1418</text_reviews_count>
+  <title>Eve &amp; Adam (Eve &amp; Adam, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1335162768m/13493463.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1335162768s/13493463.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13493463-eve-adam</link>
+  <num_pages>291</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Feiwel &amp; Friends</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>9778</ratings_count>
+<authors>
+<author>
+<id>1599723</id>
+<name>Michael  Grant</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1412040452p5/1599723.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1412040452p2/1599723.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1599723.Michael_Grant]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>361113</ratings_count>
+<text_reviews_count>23781</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 01 00:00:00 -0800 2015</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:38:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:41:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Very good. 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588920609]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588920609]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588920264</id>
+    
+  <user>
+    <id>4782574</id>
+    <name>Dana</name>
+
+    <location>Spring, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4782574-dana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25835605</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <title>The God's Eye View</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25835605-the-god-s-eye-view</link>
+  <num_pages>418</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>348</ratings_count>
+<authors>
+<author>
+<id>603</id>
+<name>Barry Eisler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1271016603p5/603.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1271016603p2/603.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/603.Barry_Eisler]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>45543</ratings_count>
+<text_reviews_count>2806</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 21:38:24 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:38:24 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:38:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Loved this book!</strong><br /><br />Great, fast read. Adventure at every turn. Lots of twists and turns. I thoroughly enjoyed this book! Mystery thriller that keeps your heartbeat up!!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588920264]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588920264]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588919837</id>
+    
+  <user>
+    <id>9126346</id>
+    <name>Cat</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9126346-cat]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1335638644p3/9126346.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1335638644p2/9126346.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29340318</id>
+  <isbn nil="true"/>
+  <isbn13>9781634771290</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <title>Love Comes To Light (Senses, #6)</title>
+  <image_url>https://d.gr-assets.com/books/1456433474m/29340318.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456433474s/29340318.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29340318-love-comes-to-light</link>
+  <num_pages>206</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Dreamspinner</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>32</ratings_count>
+<authors>
+<author>
+<id>2953781</id>
+<name>Andrew  Grey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383444272p5/2953781.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383444272p2/2953781.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2953781.Andrew_Grey]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>52200</ratings_count>
+<text_reviews_count>5869</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 15 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Mar 15 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:37:47 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:38:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Arik feels that his days as an artist on the rise are over now that he’s suffered horrible burns to his dominant left hand. Unaware of the damage to his hand culminating in the apparent end of his burgeoning career, one of his idols, Ken Brighton, extends an invitation to collaborate on a project...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588919837]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588919837]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1588919835</id>
+    
+  <user>
+    <id>20987145</id>
+    <name>Catherine</name>
+
+    <location>Grand Prairie, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20987145-catherine-persons]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1434324870p3/20987145.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1434324870p2/20987145.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19776042</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>Maximum Exposure (Max Revere Novels)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19776042-maximum-exposure</link>
+  <num_pages>102</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>239</ratings_count>
+<authors>
+<author>
+<id>52527</id>
+<name>Allison Brennan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407912907p5/52527.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407912907p2/52527.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/52527.Allison_Brennan]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>71043</ratings_count>
+<text_reviews_count>4352</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:37:46 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:37:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Maximum Exposure</strong><br /><br />Unexpectedly good plot and character development. I liked the storyline and the way it unfolded. Looking forward to the next book. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588919835]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588919835]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588919682</id>
+    
+  <user>
+    <id>4308396</id>
+    <name>Jay</name>
+
+    <location>Brentwood, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4308396-jay-wasack]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1284860601p3/4308396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1284860601p2/4308396.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29010239</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>The IOU</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29010239-the-iou</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0</average_rating>
+  <ratings_count>0</ratings_count>
+<authors>
+<author>
+<id>905876</id>
+<name>Len Serafino</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/905876.Len_Serafino]]></link>
+<average_rating>3.17</average_rating>
+<ratings_count>6</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 21:37:34 -0700 2016</read_at>
+  <date_added>Wed Mar 23 21:37:34 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:37:36 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Couldn't Put It Down</strong><br /><br />IOU was a well crafted story that kept me wanting to read on. Len's style was engaging from the very first sentence. One of those stories that stays with you. Highly recommend this to anyone looking for a great read with no slow spots.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588919682]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588919682]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588919593</id>
+    
+  <user>
+    <id>52831718</id>
+    <name>Pagebypage13</name>
+
+    <location>Bothell, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52831718-pagebypage13]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23677341</id>
+  <isbn nil="true"/>
+  <isbn13>9781481449632</isbn13>
+  <text_reviews_count type="integer">308</text_reviews_count>
+  <title>We Are the Ants</title>
+  <image_url>https://d.gr-assets.com/books/1425574151m/23677341.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1425574151s/23677341.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23677341-we-are-the-ants</link>
+  <num_pages>455</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon Pulse</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1017</ratings_count>
+<authors>
+<author>
+<id>3130410</id>
+<name>Shaun David Hutchinson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387295428p5/3130410.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387295428p2/3130410.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3130410.Shaun_David_Hutchinson]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>6191</ratings_count>
+<text_reviews_count>1489</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 21:37:25 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 21:37:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[this book was amazing! One of my favorite books of the year so far. The writing was beautiful and thoughtfull. I was smiling like an idiot while reading this book. Henry Denton is such a deep charcter. His struggles with family and just life are relatable and inspiring. I highly recommend!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588919593]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588919593]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

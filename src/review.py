@@ -2,6 +2,7 @@ import requests
 import xml.etree.ElementTree as ET
 import time
 import os
+import csv
 
 key = 'HGmnXC4msdSA8LNb7ejQ'
 secret = '8oSbMVVrHxKDZblIpjR7xwqsPcbdyRO3zS8FRfBiRQ'
@@ -101,6 +102,51 @@ def printReviews(reviewsList):
             negativeReviews.write(body)
             negative += 1
 
+        total += 1
+
+    print "Total: %s, Positive: %s, Negative: %s, Neutral: %s" %(total,positive,negative,neutral)
+
+
+def printReviews2(reviewsList):
+
+
+    positiveReviews = open(dataFolder+'divided/positive.csv','w')
+    negativeReviews = open(dataFolder+'divided/negative.csv','w')
+    neutralReviews = open(dataFolder+'divided/neutral.csv','w')
+    allReviews = open(dataFolder+'divided/all.csv','w')
+
+    NUMREVIEWS = 175
+    # f.close() 
+
+    fieldnames = ['review', 'class']
+    posWriter = csv.DictWriter(positiveReviews, fieldnames=fieldnames)
+    negWriter = csv.DictWriter(negativeReviews, fieldnames=fieldnames)
+    neuWriter = csv.DictWriter(neutralReviews, fieldnames=fieldnames)
+    posWriter.writeheader()
+    negWriter.writeheader()
+
+    total = 0
+    positive = 0
+    negative = 0
+    neutral = 0
+
+
+    for review in reviewsList:
+        
+        rating = review.rating
+        body = review.body.rstrip()
+        if (rating > 3 and positive < NUMREVIEWS):
+            posWriter.writerow({'review': body, 'class': 'positive'})
+            positive += 1
+
+        elif (rating == 3):
+            neuWriter.writerow({'review': body, 'class': 'negative'})
+            neutral += 1
+
+        elif (rating < 3 and negative < NUMREVIEWS):
+            negWriter.writerow({'review': body, 'class': 'negative'})
+            negative += 1
+            
         total += 1
 
     print "Total: %s, Positive: %s, Negative: %s, Neutral: %s" %(total,positive,negative,neutral)

@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588859390</id>
+    
+  <user>
+    <id>13321866</id>
+    <name>Kara</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13321866-kara]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1362658861p3/13321866.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1362658861p2/13321866.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">876637</id>
+  <isbn>080483251X</isbn>
+  <isbn13>9780804832519</isbn13>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <title>Kappa</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/876637.Kappa</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tuttle Publishing</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1127</ratings_count>
+<authors>
+<author>
+<id>5775185</id>
+<name>Ryūnosuke Akutagawa</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357781951p5/5775185.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357781951p2/5775185.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5775185.Ry_nosuke_Akutagawa]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>12875</ratings_count>
+<text_reviews_count>958</text_reviews_count>
+</author>
+</authors>
+  <published>1927</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:10:01 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:10:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Always remember, Patient No. 23. In a mental ward, in between reality and. . .Kappaland.<br /><br />Society it is, between.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588859390]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588859390]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588858837</id>
+    
+  <user>
+    <id>1296230</id>
+    <name>Susan</name>
+
+    <location>Holloway, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1296230-susan-roitmire]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2716547</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>Cherry Ames, Dude Ranch Nurse</title>
+  <image_url>https://d.gr-assets.com/books/1272919966m/2716547.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1272919966s/2716547.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2716547-cherry-ames-dude-ranch-nurse</link>
+  <num_pages>210</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grosset &amp; Dunlap, INC.</publisher>
+  <publication_day/>
+  <publication_year>1953</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>150</ratings_count>
+<authors>
+<author>
+<id>786265</id>
+<name>Julie Tatham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415550783p5/786265.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415550783p2/786265.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/786265.Julie_Tatham]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>754</ratings_count>
+<text_reviews_count>53</text_reviews_count>
+</author>
+</authors>
+  <published>1953</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:09:21 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:09:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Good&lt;br /&gt;
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588858837]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588858837]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588858462</id>
+    
+  <user>
+    <id>29942487</id>
+    <name>Cheryl</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29942487-cheryl-drake-johnson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1395670825p3/29942487.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1395670825p2/29942487.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29456850</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Hung:</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29456850-hung</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>14</ratings_count>
+<authors>
+<author>
+<id>6533005</id>
+<name>Holly Hart</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6533005.Holly_Hart]]></link>
+<average_rating>3.60</average_rating>
+<ratings_count>104</ratings_count>
+<text_reviews_count>41</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 05 00:00:00 -0800 2016</started_at>
+  <read_at>Mon Mar 07 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 20:08:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:10:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Alicia has been working toward becoming a singer all her life and now she is about begin her first gig she is nervous but hopeful and she begins to sing and play she has the attention of everyone in the room until something happens outside and she realizes that no one is listening to her because...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588858462]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588858462]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857906</id>
+    
+  <user>
+    <id>51979121</id>
+    <name>Denise</name>
+
+    <location>Saint Charles, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51979121-denise-hayes]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26109394</id>
+  <isbn>0525955097</isbn>
+  <isbn13>9780525955092</isbn13>
+  <text_reviews_count type="integer">94</text_reviews_count>
+  <title>Fool Me Once</title>
+  <image_url>https://d.gr-assets.com/books/1443190440m/26109394.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1443190440s/26109394.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26109394-fool-me-once</link>
+  <num_pages>390</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>199</ratings_count>
+<authors>
+<author>
+<id>24689</id>
+<name>Harlan Coben</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1361316023p5/24689.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1361316023p2/24689.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24689.Harlan_Coben]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>598215</ratings_count>
+<text_reviews_count>40125</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:08:11 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:08:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Classic Coben.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857906]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857906]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857896</id>
+    
+  <user>
+    <id>7437938</id>
+    <name>Joanne</name>
+
+    <location>Mississauga, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7437938-joanne-coburn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1326668990p3/7437938.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1326668990p2/7437938.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13330761</id>
+  <isbn>0307959945</isbn>
+  <isbn13>9780307959942</isbn13>
+  <text_reviews_count type="integer">4271</text_reviews_count>
+  <title>The Dog Stars</title>
+  <image_url>https://d.gr-assets.com/books/1388122817m/13330761.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1388122817s/13330761.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13330761-the-dog-stars</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Knopf</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>28823</ratings_count>
+<authors>
+<author>
+<id>134408</id>
+<name>Peter Heller</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342033522p5/134408.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342033522p2/134408.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/134408.Peter_Heller]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>45001</ratings_count>
+<text_reviews_count>6719</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:08:11 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:09:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      3.5
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857896]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857896]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857818</id>
+    
+  <user>
+    <id>5634986</id>
+    <name>Kayla</name>
+
+    <location>Goodlettsville, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5634986-kayla]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373443445p3/5634986.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373443445p2/5634986.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28574949</id>
+  <isbn nil="true"/>
+  <isbn13>9780399547737</isbn13>
+  <text_reviews_count type="integer">57</text_reviews_count>
+  <title>The Moth and the Flame (The Wrath and the Dawn, #0.25)</title>
+  <image_url>https://d.gr-assets.com/books/1454024506m/28574949.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454024506s/28574949.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28574949-the-moth-and-the-flame</link>
+  <num_pages>40</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>G.P. Putnam’s Sons Books for Young Readers</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>115</ratings_count>
+<authors>
+<author>
+<id>4600197</id>
+<name>Renee Ahdieh</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409090589p5/4600197.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409090589p2/4600197.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4600197.Renee_Ahdieh]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>27092</ratings_count>
+<text_reviews_count>6287</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:08:05 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:08:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I haven't read TWATD yet. This is my first glimpse into the world. I have no idea.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857818]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857818]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857775</id>
+    
+  <user>
+    <id>1296230</id>
+    <name>Susan</name>
+
+    <location>Holloway, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1296230-susan-roitmire]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">513151</id>
+  <isbn>097715971X</isbn>
+  <isbn13>9780977159710</isbn13>
+  <text_reviews_count type="integer">34</text_reviews_count>
+  <title>Cherry Ames, Senior Nurse (Cherry Ames, #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/513151.Cherry_Ames_Senior_Nurse</link>
+  <num_pages>217</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Springer Publishing Company</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>839</ratings_count>
+<authors>
+<author>
+<id>159089</id>
+<name>Helen Wells</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405114774p5/159089.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405114774p2/159089.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/159089.Helen_Wells]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>7650</ratings_count>
+<text_reviews_count>369</text_reviews_count>
+</author>
+</authors>
+  <published>1944</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:08:02 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:08:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Nostalgic
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857775]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857775]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857773</id>
+    
+  <user>
+    <id>8761735</id>
+    <name>Kimberly</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8761735-kimberly]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1334336162p3/8761735.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1334336162p2/8761735.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15818107</id>
+  <isbn>0061950726</isbn>
+  <isbn13>9780061950728</isbn13>
+  <text_reviews_count type="integer">18713</text_reviews_count>
+  <title>Orphan Train</title>
+  <image_url>https://d.gr-assets.com/books/1362409483m/15818107.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1362409483s/15818107.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15818107-orphan-train</link>
+  <num_pages>278</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>163270</ratings_count>
+<authors>
+<author>
+<id>157146</id>
+<name>Christina Baker Kline</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364845937p5/157146.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364845937p2/157146.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/157146.Christina_Baker_Kline]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>199845</ratings_count>
+<text_reviews_count>21629</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:08:02 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:09:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Very good. I really like novels based on real history. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857773]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857773]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857730</id>
+    
+  <user>
+    <id>27084362</id>
+    <name>Cindy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27084362-cindy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23123770</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <title>Claimed by Love</title>
+  <image_url>https://d.gr-assets.com/books/1409334451m/23123770.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1409334451s/23123770.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23123770-claimed-by-love</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>67</ratings_count>
+<authors>
+<author>
+<id>3023973</id>
+<name>Melissa Foster</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1251697182p5/3023973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1251697182p2/3023973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3023973.Melissa_Foster]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>46502</ratings_count>
+<text_reviews_count>5896</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:08:00 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:09:36 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Duke Ryder just might be the perfect man. He’s loyal, thoughtful, loving, keeps his promises, and he’s HOT. <br /><br />As the story goes, Duke is part of an investment group interested in purchasing Elpitha Island. The island is just off the coast of South Carolina. Gabriella grew up on the island and loves...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857730]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857730]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857459</id>
+    
+  <user>
+    <id>2159671</id>
+    <name>Elizabeth</name>
+
+    <location>Ottawa, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2159671-elizabeth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1364849724p3/2159671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1364849724p2/2159671.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27311335</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <title>Arrivals (Tremontaine #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27311335-arrivals</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>112</ratings_count>
+<authors>
+<author>
+<id>11889</id>
+<name>Ellen Kushner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243007888p5/11889.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243007888p2/11889.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11889.Ellen_Kushner]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>31149</ratings_count>
+<text_reviews_count>2999</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:07:39 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:08:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A wonderful introduction to Tremontaine. It breaks my heart that I can't currently afford to buy the rest.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857459]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857459]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588857376</id>
+    
+  <user>
+    <id>12199374</id>
+    <name>Tanya</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12199374-tanya]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1388438208p3/12199374.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1388438208p2/12199374.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2482799</id>
+  <isbn>1580891683</isbn>
+  <isbn13>9781580891684</isbn13>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>Winter Trees</title>
+  <image_url>https://d.gr-assets.com/books/1389593882m/2482799.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1389593882s/2482799.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2482799.Winter_Trees</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Charlesbridge</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>61</ratings_count>
+<authors>
+<author>
+<id>73491</id>
+<name>Carole Gerber</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/73491.Carole_Gerber]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>619</ratings_count>
+<text_reviews_count>155</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:07:32 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:09:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Good naturalist book for young ones. Pictures and descriptions show the shapes of various trees without leaves plus a few winter animals. He last couple pages contrast a few evergreens. One star deducted because the word rhyming felt forced being read aloud and detracted from the enjoyment. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588857376]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588857376]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856994</id>
+    
+  <user>
+    <id>8084531</id>
+    <name>Allison</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8084531-allison]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">948708</id>
+  <isbn>0373198671</isbn>
+  <isbn13>9780373198672</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>Fate is Remarkable</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/948708.Fate_is_Remarkable</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information>Best of Betty Neels Collection</edition_information>
+  <publisher>Harlequin Books</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>89</ratings_count>
+<authors>
+<author>
+<id>24376</id>
+<name>Betty Neels</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1267201230p5/24376.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1267201230p2/24376.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24376.Betty_Neels]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>20136</ratings_count>
+<text_reviews_count>1578</text_reviews_count>
+</author>
+</authors>
+  <published>1970</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:07:01 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:08:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A typical Neels book. You know what's going to happen as soon as the heroine says she would only drive to the cottage in the direst circumstances. The one thing I liked though was the hints about what the hero was feeling.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856994]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856994]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856739</id>
+    
+  <user>
+    <id>8232335</id>
+    <name>Becky</name>
+
+    <location>Fair Oaks, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8232335-becky-burciaga]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1433572807p3/8232335.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1433572807p2/8232335.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25852887</id>
+  <isbn>1420138650</isbn>
+  <isbn13>9781420138658</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>Fortune Favors the Wicked</title>
+  <image_url>https://d.gr-assets.com/books/1436485956m/25852887.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1436485956s/25852887.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25852887-fortune-favors-the-wicked</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Zebra</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>25</ratings_count>
+<authors>
+<author>
+<id>4844891</id>
+<name>Theresa Romain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1335476093p5/4844891.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1335476093p2/4844891.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4844891.Theresa_Romain]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>3291</ratings_count>
+<text_reviews_count>862</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:06:40 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:07:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The story of Benedict and Charlotte, and their relationship, grows throughout the entire story. Both are overcoming obstacles, but are on the same treasure hunting mission, which is what has brought them together. There are enough different elements throughout the story to keep the reader engaged...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856739]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856739]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856630</id>
+    
+  <user>
+    <id>30220757</id>
+    <name>Rhonda</name>
+
+    <location>Murrieta, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30220757-rhonda-brant]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26031033</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">100</text_reviews_count>
+  <title>Imperfect Love (4ever #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26031033-imperfect-love</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>139</ratings_count>
+<authors>
+<author>
+<id>14541058</id>
+<name>Isabella  White</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14541058.Isabella_White]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>142</ratings_count>
+<text_reviews_count>103</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:06:32 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:08:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Incredible, absolutely incredible. Okay, so for the first part of this book, I thought it was going to be pretty predictable. Some parts were a little roughly written, but I loved the chemistry between Jake and Holly, their relationship was fun to read, and I was pretty bummed on what happened. T...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856630]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856630]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856493</id>
+    
+  <user>
+    <id>20068431</id>
+    <name>Kisha</name>
+
+    <location>Bronx, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20068431-kisha-jones]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1367776925p3/20068431.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1367776925p2/20068431.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29390925</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>Nikhil (Kaliszians, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29390925-nikhil</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>76</ratings_count>
+<authors>
+<author>
+<id>7259682</id>
+<name>M.K. Eidem</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442946171p5/7259682.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442946171p2/7259682.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7259682.M_K_Eidem]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>14499</ratings_count>
+<text_reviews_count>1058</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:06:21 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:06:21 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:06:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great story as always</strong><br /><br />This story was awesome, I wish there was more to it and I hope the next one comes out soon.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856493]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856493]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856427</id>
+    
+  <user>
+    <id>1296230</id>
+    <name>Susan</name>
+
+    <location>Holloway, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1296230-susan-roitmire]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2752607</id>
+  <isbn>1400074568</isbn>
+  <isbn13>9781400074563</isbn13>
+  <text_reviews_count type="integer">679</text_reviews_count>
+  <title>The Shape of Mercy</title>
+  <image_url>https://d.gr-assets.com/books/1320443627m/2752607.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320443627s/2752607.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2752607-the-shape-of-mercy</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>WaterBrook</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2728</ratings_count>
+<authors>
+<author>
+<id>60390</id>
+<name>Susan Meissner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304623666p5/60390.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304623666p2/60390.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/60390.Susan_Meissner]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>32338</ratings_count>
+<text_reviews_count>5181</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:06:16 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:06:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Good!&lt;br /&gt;
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856427]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856427]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856355</id>
+    
+  <user>
+    <id>23879091</id>
+    <name>Rebecca</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23879091-rebecca-heintz]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1404428445p3/23879091.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1404428445p2/23879091.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">73100</id>
+  <isbn>0380808080</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">598</text_reviews_count>
+  <title>This Heart of Mine (Chicago Stars, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1391625031m/73100.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1391625031s/73100.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/73100.This_Heart_of_Mine</link>
+  <num_pages>432</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>19286</ratings_count>
+<authors>
+<author>
+<id>41313</id>
+<name>Susan Elizabeth Phillips</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351268280p5/41313.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351268280p2/41313.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/41313.Susan_Elizabeth_Phillips]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>346733</ratings_count>
+<text_reviews_count>16855</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:06:13 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:07:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Great fluff. 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856355]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856355]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856341</id>
+    
+  <user>
+    <id>31323829</id>
+    <name>Bff Book</name>
+
+    <location>Seward, NE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31323829-bff-book-blog]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399920095p3/31323829.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399920095p2/31323829.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26124429</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">86</text_reviews_count>
+  <title>Where Lightning Strikes (Bleeding Stars, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1454085337m/26124429.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454085337s/26124429.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26124429-where-lightning-strikes</link>
+  <num_pages>426</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>A.L Jackson Books Inc.</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>118</ratings_count>
+<authors>
+<author>
+<id>5784542</id>
+<name>A.L. Jackson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1381261559p5/5784542.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1381261559p2/5784542.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5784542.A_L_Jackson]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>77857</ratings_count>
+<text_reviews_count>7802</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="5-rated-reviews" exclusive="false" review_shelf_id="1263582214" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 20 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:06:12 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:07:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A.L. Jackson writes books that feel more like poetry or song lyrics. Her newest novel, Where Lightning Strikes is just another example of her exceptional writing. I always have to plan a little extra time when I start a book by A.L. Jackson. I know that her words and phrases are so lovely that I...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856341]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856341]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856287</id>
+    
+  <user>
+    <id>12890026</id>
+    <name>Yvonne</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12890026-yvonne]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1350061495p3/12890026.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1350061495p2/12890026.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18964642</id>
+  <isbn>0062067842</isbn>
+  <isbn13>9780062067845</isbn13>
+  <text_reviews_count type="integer">112</text_reviews_count>
+  <title>The Teenage Brain: A Neuroscientist's Survival Guide to Raising Adolescents and Young Adults</title>
+  <image_url>https://d.gr-assets.com/books/1416177934m/18964642.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1416177934s/18964642.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18964642-the-teenage-brain</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>543</ratings_count>
+<authors>
+<author>
+<id>7409997</id>
+<name>Frances E. Jensen</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7409997.Frances_E_Jensen]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>699</ratings_count>
+<text_reviews_count>139</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="non-fiction-science" exclusive="false" review_shelf_id="1263582687" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:06:08 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:08:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[remarkably accessible for a layman reading neuroscience. fascinating, frightening and functional]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856287]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856287]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588856269</id>
+    
+  <user>
+    <id>5052479</id>
+    <name>Literary</name>
+
+    <location>Asbury Park, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5052479-literary-jewels]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1440380182p3/5052479.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1440380182p2/5052479.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28356009</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>Falling For My Side Nigga</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28356009-falling-for-my-side-nigga</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>52</ratings_count>
+<authors>
+<author>
+<id>6085975</id>
+<name>Racquel Williams</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6085975.Racquel_Williams]]></link>
+<average_rating>4.53</average_rating>
+<ratings_count>892</ratings_count>
+<text_reviews_count>245</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:06:07 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:07:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />Have you ever been in an illustrious relationship while married? Have you ever fallen in love with the side man?<br /><br />Malaya is a successful wife, mother, and lawyer. She has her own practice and to the outside world, things look amazing. She is married to Trent and on the inside of their world, things...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588856269]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588856269]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

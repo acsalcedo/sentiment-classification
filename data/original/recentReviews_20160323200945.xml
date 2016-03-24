@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588734600</id>
+    
+  <user>
+    <id>30323512</id>
+    <name>Corinne Newell</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30323512-corinne-newell]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8502627</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>The Last Illusion (Molly Murphy Mysteries, #9)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8502627-the-last-illusion</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>133</ratings_count>
+<authors>
+<author>
+<id>202867</id>
+<name>Rhys Bowen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1283051168p5/202867.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1283051168p2/202867.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/202867.Rhys_Bowen]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>111573</ratings_count>
+<text_reviews_count>10339</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:39:06 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:39:06 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:39:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>The Last Illusion </strong><br /><br />A wonderful Molly Murphy mystery. Bowen outdid herself on this one. The note at the end of the book reinforced my thoughts as I read that this story was based on some true facts. You will love this book.<br /><br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588734600]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588734600]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588734473</id>
+    
+  <user>
+    <id>4579023</id>
+    <name>PWRL</name>
+
+    <location>Saint Marys, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4579023-pwrl]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1323310</id>
+  <isbn>0590484192</isbn>
+  <isbn13>9780590484190</isbn13>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <title>Clifford The Firehouse Dog</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1323310.Clifford_The_Firehouse_Dog</link>
+  <num_pages>32</num_pages>
+  <format>Library Binding</format>
+  <edition_information/>
+  <publisher>Cartwheel</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>5331</ratings_count>
+<authors>
+<author>
+<id>73337</id>
+<name>Norman Bridwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284862412p5/73337.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284862412p2/73337.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/73337.Norman_Bridwell]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>119606</ratings_count>
+<text_reviews_count>1876</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1263474700" sortable="true" />
+    <shelf name="zzz2016-mar-new" exclusive="false" review_shelf_id="1263474821" sortable="false" />
+    <shelf name="mar-jr-easy" exclusive="false" review_shelf_id="1263474774" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:38:56 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:39:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      E, SM
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588734473]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588734473]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588734442</id>
+    
+  <user>
+    <id>16215626</id>
+    <name>Pam</name>
+
+    <location>Port Orange, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16215626-pam-louis]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1440264160p3/16215626.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1440264160p2/16215626.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28945428</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Dragon Fever: Masters of the Flame 1</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28945428-dragon-fever</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>16</ratings_count>
+<authors>
+<author>
+<id>12651080</id>
+<name>Elsa Jade</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12651080.Elsa_Jade]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>1804</ratings_count>
+<text_reviews_count>469</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for><![CDATA[Any one who is a shifter fan, it's fantastic ]]></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:38:54 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:39:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The keep casino is known to the rich and famous so why is piper here? Because her 2 best friends are here to have a bachelorette party for esme to marry a man piper couldn't stand and since none of them gambled why stay in a casino? What ever her plan was to try and talk esme out of marrying the...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588734442]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588734442]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588734349</id>
+    
+  <user>
+    <id>25633285</id>
+    <name>Deborah</name>
+
+    <location>Lumber City, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25633285-deborah-wood]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1384440421p3/25633285.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1384440421p2/25633285.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25358689</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <title>Naked Greed</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25358689-naked-greed</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>638</ratings_count>
+<authors>
+<author>
+<id>3936</id>
+<name>Stuart Woods</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202427385p5/3936.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202427385p2/3936.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3936.Stuart_Woods]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>216152</ratings_count>
+<text_reviews_count>11919</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:38:46 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:38:46 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:38:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great book</strong><br /><br />I just love his books about Stone Barrington. The characters are wonderful and Dino and Viv are great friends. Thank you for such great books Stuart Woods.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588734349]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588734349]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588733809</id>
+    
+  <user>
+    <id>4579023</id>
+    <name>PWRL</name>
+
+    <location>Saint Marys, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4579023-pwrl]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">615300</id>
+  <isbn>0439696569</isbn>
+  <isbn13>9780439696562</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Clifford Goes To Washington</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/615300.Clifford_Goes_To_Washington</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Cartwheel</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>99</ratings_count>
+<authors>
+<author>
+<id>73337</id>
+<name>Norman Bridwell</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284862412p5/73337.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284862412p2/73337.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/73337.Norman_Bridwell]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>119606</ratings_count>
+<text_reviews_count>1876</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1263474077" sortable="true" />
+    <shelf name="zzz2016-mar-new" exclusive="false" review_shelf_id="1263474209" sortable="false" />
+    <shelf name="mar-jr-easy" exclusive="false" review_shelf_id="1263474149" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:38:06 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:38:33 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      A, SM
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588733809]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588733809]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588733737</id>
+    
+  <user>
+    <id>5912634</id>
+    <name>Fangs for the Fantasy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5912634-fangs-for-the-fantasy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1311980864p3/5912634.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1311980864p2/5912634.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8493612</id>
+  <isbn>1401229654</isbn>
+  <isbn13>9781401229658</isbn13>
+  <text_reviews_count type="integer">498</text_reviews_count>
+  <title>iZombie, Vol. 1: Dead to the World</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8493612-izombie-vol-1</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vertigo</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3649</ratings_count>
+<authors>
+<author>
+<id>162936</id>
+<name>Chris Roberson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1213824380p5/162936.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1213824380p2/162936.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/162936.Chris_Roberson]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>43185</ratings_count>
+<text_reviews_count>2715</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:38:01 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:39:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Gwen Dylan isn't what one would normally think of when zombies come to mind. She holds down a job, sure, it's as a gravedigger but how else is she supposed to get access to brains? The brains taste awful but eating them is a small price to pay once a month to hold onto who she is and to keep her...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588733737]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588733737]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588733578</id>
+    
+  <user>
+    <id>54212445</id>
+    <name>Justin</name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54212445-justin-mccarthy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11870085</id>
+  <isbn>0525478817</isbn>
+  <isbn13>9780525478812</isbn13>
+  <text_reviews_count type="integer">119905</text_reviews_count>
+  <title>The Fault in Our Stars</title>
+  <image_url>https://d.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1790472</ratings_count>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>3740484</ratings_count>
+<text_reviews_count>252314</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:37:49 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:37:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Hazel, in the seventeenth year of her life, is in many ways lucky to be alive. She has cancer which has devastated her lungs to the point in which she needs an oxygen tank to aid her breathing. She spends a lot of her time at home having left school years ago due to her condition. Thinking she ha...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588733578]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588733578]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588733372</id>
+    
+  <user>
+    <id>54212445</id>
+    <name>Justin</name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54212445-justin-mccarthy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10300366</id>
+  <isbn>1840029765</isbn>
+  <isbn13>9781840029765</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>What Fatima Did . . .</title>
+  <image_url>https://d.gr-assets.com/books/1328731230m/10300366.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328731230s/10300366.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10300366-what-fatima-did</link>
+  <num_pages>95</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Oberon Books</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2</ratings_count>
+<authors>
+<author>
+<id>4601569</id>
+<name>Atiha Sen Gupta</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4601569.Atiha_Sen_Gupta]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:37:34 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:37:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[When Fatima, a previously rowdy party-goer, turns up to school wearing a hijab her friends start to wonder what's going on. They aren't supportive and even her own mother is against the idea. From the beginning the only one really on her side is her twin brother Mohammed. With the backdrop of pos...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588733372]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588733372]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732980</id>
+    
+  <user>
+    <id>8232335</id>
+    <name>Becky</name>
+
+    <location>Fair Oaks, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8232335-becky-burciaga]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1433572807p3/8232335.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1433572807p2/8232335.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28956389</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Her Trusted Highlander: The Mackalls of Dunnet Head</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28956389-her-trusted-highlander</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>14</ratings_count>
+<authors>
+<author>
+<id>8634278</id>
+<name>Jennae Vale</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444341232p5/8634278.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444341232p2/8634278.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8634278.Jennae_Vale]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>506</ratings_count>
+<text_reviews_count>54</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:37:08 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:37:33 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This story has it all: time travel, sexy Scottish Lairds and castles, evil Sorcerers, magic treasure, an Elfin Queen, archeological digs, and of course a damsel in distress. There was so much packed into this story that it was a bit difficult to keep all the storylines straight. There is a backst...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732980]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732980]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732804</id>
+    
+  <user>
+    <id>5495809</id>
+    <name>Dana</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5495809-dana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">84022</id>
+  <isbn>044900578X</isbn>
+  <isbn13>9780449005781</isbn13>
+  <text_reviews_count type="integer">758</text_reviews_count>
+  <title>Welcome to the World, Baby Girl! (Elmwood Springs, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/84022.Welcome_to_the_World_Baby_Girl_</link>
+  <num_pages>480</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ballantine Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>16290</ratings_count>
+<authors>
+<author>
+<id>6125</id>
+<name>Fannie Flagg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1328803839p5/6125.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1328803839p2/6125.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6125.Fannie_Flagg]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>289032</ratings_count>
+<text_reviews_count>15443</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:36:55 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:38:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Once I remembered that Fannie Flagg's books are more like a series of connected short stories, I enjoyed this much more. This book is a more cohesive story than some of the others, but some of the chapters seem to have no point other than to be glimpses into a particular character's life. I did e...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732804]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732804]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732795</id>
+    
+  <user>
+    <id>4579023</id>
+    <name>PWRL</name>
+
+    <location>Saint Marys, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4579023-pwrl]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">351229</id>
+  <isbn>059033588X</isbn>
+  <isbn13>9780590335881</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>Clifford at the Circus</title>
+  <image_url>https://d.gr-assets.com/books/1333389832m/351229.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1333389832s/351229.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/351229.Clifford_at_the_Circus</link>
+  <num_pages>30</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1985</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>598</ratings_count>
+<authors>
+<author>
+<id>73337</id>
+<name>Norman Bridwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284862412p5/73337.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284862412p2/73337.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/73337.Norman_Bridwell]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>119606</ratings_count>
+<text_reviews_count>1876</text_reviews_count>
+</author>
+</authors>
+  <published>1977</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1263473122" sortable="true" />
+    <shelf name="zzz2016-mar-new" exclusive="false" review_shelf_id="1263473249" sortable="false" />
+    <shelf name="mar-jr-easy" exclusive="false" review_shelf_id="1263473210" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:36:55 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:37:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      E, SM
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732795]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732795]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732771</id>
+    
+  <user>
+    <id>50297624</id>
+    <name>Cynthia Hernandez</name>
+
+    <location>Puerto Rico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50297624-cynthia-hernandez]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18096424</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">34</text_reviews_count>
+  <title>Uncharted (On the Island, #1.5)</title>
+  <image_url>https://d.gr-assets.com/books/1371582406m/18096424.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1371582406s/18096424.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18096424-uncharted</link>
+  <num_pages>144</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Dutton Adult</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>414</ratings_count>
+<authors>
+<author>
+<id>5193034</id>
+<name>Tracey Garvis-Graves</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364397674p5/5193034.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364397674p2/5193034.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5193034.Tracey_Garvis_Graves]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>75354</ratings_count>
+<text_reviews_count>9968</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:36:53 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:36:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:36:54 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>A Romantic novel</strong><br /><br />This is a very romantic novel. It's really breathtaking. I recommend it to everyone who loves romanticism. Two thumbs up!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732771]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732771]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732758</id>
+    
+  <user>
+    <id>21690774</id>
+    <name>Carol</name>
+
+    <location>Tucson, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21690774-carol]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1372315402p3/21690774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1372315402p2/21690774.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17165237</id>
+  <isbn>0758287917</isbn>
+  <isbn13>9780758287915</isbn13>
+  <text_reviews_count type="integer">210</text_reviews_count>
+  <title>Murder In Thrall (Scotland Yard #1)</title>
+  <image_url>https://d.gr-assets.com/books/1361745847m/17165237.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361745847s/17165237.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17165237-murder-in-thrall</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>683</ratings_count>
+<authors>
+<author>
+<id>6584542</id>
+<name>Anne Cleeland</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362955894p5/6584542.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362955894p2/6584542.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6584542.Anne_Cleeland]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>2026</ratings_count>
+<text_reviews_count>502</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 17:36:52 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:39:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I happened upon this book in my local library and was intrigued by the cover and the title. So I borrowed it.. Went back to the library 3 days later for the other 2 in the series. I love it and want more.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732758]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732758]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732739</id>
+    
+  <user>
+    <id>49872169</id>
+    <name>Gerald Caffee</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49872169-gerald-caffee]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25004687</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <title>Torn Trousers: A True Story of Courage and Adventure: How A Couple Sacrificed Everything To Escape to Paradise</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25004687-torn-trousers</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>691</ratings_count>
+<authors>
+<author>
+<id>6423717</id>
+<name>Gwynn White</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454100657p5/6423717.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454100657p2/6423717.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6423717.Gwynn_White]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>819</ratings_count>
+<text_reviews_count>120</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:36:51 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:36:51 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:36:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Entertaining</strong><br /><br />An entertaining insiders look at African tourist camps. This couple had experiences with staff, wild animals, and the bosses family border on the unbelievable.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732739]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732739]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732730</id>
+    
+  <user>
+    <id>7926263</id>
+    <name>Azuree</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7926263-azuree]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1343330816p3/7926263.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1343330816p2/7926263.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1</id>
+  <isbn>0439785960</isbn>
+  <isbn13>9780439785969</isbn13>
+  <text_reviews_count type="integer">17162</text_reviews_count>
+  <title>Harry Potter and the Half-Blood Prince (Harry Potter, #6)</title>
+  <image_url>https://d.gr-assets.com/books/1361039191m/1.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361039191s/1.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince</link>
+  <num_pages>652</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1435569</ratings_count>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.41</average_rating>
+<ratings_count>14668338</ratings_count>
+<text_reviews_count>306578</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Sep 20 00:00:00 -0700 2005</read_at>
+  <date_added>Wed Mar 23 17:36:50 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:37:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I’m not sure how much I can say about this book without ruining it for everyone. It is not my intention to reveal any spoilers or expose any secrets so bear with me as I try to review it without giving anything away. Harry Potter and friends are back for their sixth year at Hogwarts. All of our f...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732730]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732730]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732689</id>
+    
+  <user>
+    <id>54212445</id>
+    <name>Justin</name>
+
+    <location>Sydney, 02, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54212445-justin-mccarthy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7713486</id>
+  <isbn>0241144973</isbn>
+  <isbn13>9780241144978</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <title>Skippy Dies</title>
+  <image_url>https://d.gr-assets.com/books/1268804626m/7713486.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1268804626s/7713486.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7713486-skippy-dies</link>
+  <num_pages>661</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hamish Hamilton</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>268</ratings_count>
+<authors>
+<author>
+<id>4408937</id>
+<name>Paul Murray</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1308402987p5/4408937.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1308402987p2/4408937.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4408937.Paul_Murray]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>17171</ratings_count>
+<text_reviews_count>2339</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:36:48 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:36:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The title of the book gives away the tragedy that happens in the first chapter, a tragedy that, in most other books, would usually be left until at least some of the characters and back story were known. Then the story moves back in time before the tragic event and then after it with each chapter...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732689]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732689]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732576</id>
+    
+  <user>
+    <id>54017013</id>
+    <name>Lori Holliday</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54017013-lori-holliday]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458264815p3/54017013.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458264815p2/54017013.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26841657</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Mama Rides Shotgun</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26841657-mama-rides-shotgun</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2</ratings_count>
+<authors>
+<author>
+<id>1421440</id>
+<name>Deborah Sharp</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1214793867p5/1421440.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1214793867p2/1421440.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1421440.Deborah_Sharp]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>3113</ratings_count>
+<text_reviews_count>371</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:36:40 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:36:40 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:36:41 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Good read</strong><br /><br />I liked this book as much as Mama Does Time. I am again looking forward to the southern antics of mama the three sisters. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732576]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732576]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732390</id>
+    
+  <user>
+    <id>52701152</id>
+    <name>brenda</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52701152-brenda]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25254278</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Highland Seer (Highland Talents Book 2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25254278-highland-seer</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>32</ratings_count>
+<authors>
+<author>
+<id>6545942</id>
+<name>Willa Blair</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1455207034p5/6545942.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1455207034p2/6545942.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6545942.Willa_Blair]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>1148</ratings_count>
+<text_reviews_count>197</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:36:26 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:36:26 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:36:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great book</strong><br /><br />I just started this series and I can hardly wait to read the rest of the books. Hope everyone else enjoys them as much as l have so far.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732390]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732390]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732274</id>
+    
+  <user>
+    <id>50709546</id>
+    <name>Clory Larson</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50709546-clory-larson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17318924</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>Clean: The Revolutionary Program to Restore the Body's Natural Ability to Heal Itself</title>
+  <image_url>https://d.gr-assets.com/books/1359941961m/17318924.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1359941961s/17318924.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17318924-clean</link>
+  <num_pages>352</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>Second Edition, Expanded</edition_information>
+  <publisher>HarperOne</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>328</ratings_count>
+<authors>
+<author>
+<id>2768297</id>
+<name>Alejandro Junger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1312318854p5/2768297.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1312318854p2/2768297.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2768297.Alejandro_Junger]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>4728</ratings_count>
+<text_reviews_count>508</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:36:18 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:36:18 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:36:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Makes perfect sense!</strong><br /><br />An amazing read I will never look at food the same in the best possible way. I can not wait to adapt to a new lifestyle. Thank you!!<br /><br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732274]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732274]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588732199</id>
+    
+  <user>
+    <id>52219849</id>
+    <name>Jake</name>
+
+    <location>Adelaide, 05, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52219849-jake]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">236537</id>
+  <isbn>1932425721</isbn>
+  <isbn13>9781932425727</isbn13>
+  <text_reviews_count type="integer">57</text_reviews_count>
+  <title>By the River</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/236537.By_the_River</link>
+  <num_pages>240</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Boyds Mills Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>258</ratings_count>
+<authors>
+<author>
+<id>138317</id>
+<name>Steven Herrick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1310010518p5/138317.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1310010518p2/138317.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/138317.Steven_Herrick]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>3348</ratings_count>
+<text_reviews_count>519</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:36:13 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:38:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The book is written in a very interesting style, that I found easy and quick to read. I thought the style was good for a short book, but for a longer novel or rereads it may get annoying.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588732199]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588732199]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

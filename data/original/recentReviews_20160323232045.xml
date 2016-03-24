@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588889353</id>
+    
+  <user>
+    <id>27187922</id>
+    <name>Michele A. Blank</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27187922-michele-a-blank]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23289028</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">250</text_reviews_count>
+  <title>A Love of Vengeance (Wanted Men, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1412071915m/23289028.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1412071915s/23289028.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23289028-a-love-of-vengeance</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Montlake Romance</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2735</ratings_count>
+<authors>
+<author>
+<id>8415664</id>
+<name>Nancy Haviland</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417563340p5/8415664.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417563340p2/8415664.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8415664.Nancy_Haviland]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>5116</ratings_count>
+<text_reviews_count>571</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:50:32 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:50:32 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:50:33 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Much better than expected</strong><br /><br />White following the basic romance formula, this piece is very well written with good characters and plot twists that keep the reader engaged. I look forward to the next installment.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588889353]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588889353]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588889159</id>
+    
+  <user>
+    <id>26998579</id>
+    <name>Matthew Plishker</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26998579-matthew-plishker]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10445007</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">309</text_reviews_count>
+  <title>In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin</title>
+  <image_url>https://d.gr-assets.com/books/1327864285m/10445007.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327864285s/10445007.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10445007-in-the-garden-of-beasts</link>
+  <num_pages>368</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>6187</ratings_count>
+<authors>
+<author>
+<id>5869</id>
+<name>Erik Larson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304371037p5/5869.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304371037p2/5869.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5869.Erik_Larson]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>498048</ratings_count>
+<text_reviews_count>44664</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:50:12 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:50:12 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:50:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great story and interesting sub narratives </strong><br /><br />Great story and interesting sub narrative. Really helps you experience the time and how America allowed for the rise of Hitler.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588889159]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588889159]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588889017</id>
+    
+  <user>
+    <id>47381121</id>
+    <name>Janet Elder</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47381121-janet-elder]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25791260</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>The Sans Pareil Mystery (The Detective Lavender Mysteries Book 2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25791260-the-sans-pareil-mystery</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>357</ratings_count>
+<authors>
+<author>
+<id>5286355</id>
+<name>Karen Charlton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1335192707p5/5286355.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1335192707p2/5286355.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5286355.Karen_Charlton]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>2036</ratings_count>
+<text_reviews_count>201</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:49:59 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:49:59 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:50:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Good read</strong><br /><br />Really enjoyed the book. Can't wait for the next one to be published. Will read her other books for now]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588889017]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588889017]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588888780</id>
+    
+  <user>
+    <id>4994525</id>
+    <name>Jim</name>
+
+    <location>Mandeville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4994525-jim]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28011660</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Atlanta Extreme</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28011660-atlanta-extreme</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>23</ratings_count>
+<authors>
+<author>
+<id>27932</id>
+<name>Randy Wayne White</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272129753p5/27932.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272129753p2/27932.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27932.Randy_Wayne_White]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>39514</ratings_count>
+<text_reviews_count>2956</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:49:35 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:50:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I enjoyed this book. I will recommend this book to everyone.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588888780]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588888780]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588888775</id>
+    
+  <user>
+    <id>4696873</id>
+    <name>Chera</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4696873-chera]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22565303</id>
+  <isbn nil="true"/>
+  <isbn13>9781310415579</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Shadow Whispers</title>
+  <image_url>https://d.gr-assets.com/books/1403501830m/22565303.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1403501830s/22565303.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22565303-shadow-whispers</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6</ratings_count>
+<authors>
+<author>
+<id>1386355</id>
+<name>Lexxie Couper</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385594741p5/1386355.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385594741p2/1386355.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1386355.Lexxie_Couper]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>16732</ratings_count>
+<text_reviews_count>1512</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:49:34 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:49:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I freely admit, I had to read this one with the lights on...in every room in my flat or in broad daylight. Yes, I'm a fraidy cat and there isn't one Stephen King book in my extensive collection because I am a fradiy cat. That being said, I can't pass on any Lexxie Couper book; so the lights were...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588888775]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588888775]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588888755</id>
+    
+  <user>
+    <id>52693610</id>
+    <name>Nancy Lee</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52693610-nancy-lee]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24586875</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Boston Strong: A City's Triumph over Tragedy</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24586875-boston-strong</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>13</ratings_count>
+<authors>
+<author>
+<id>42583</id>
+<name>Casey Sherman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206971046p5/42583.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206971046p2/42583.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/42583.Casey_Sherman]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>1873</ratings_count>
+<text_reviews_count>333</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:49:33 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:49:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Surely inspirational and moving book about people reaching out to help another being without knowing who they are except another Bostonian.Sometimes the greatest tragedy brings the best in people and this book captures the true "Boston Strong"</strong><br /><br />Great book highly recommend it_shows how good people c...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588888755]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588888755]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588888640</id>
+    
+  <user>
+    <id>16677133</id>
+    <name>Emily</name>
+
+    <location>New Britain, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16677133-emily-lemiska]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1358822660p3/16677133.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1358822660p2/16677133.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10847</id>
+  <isbn>0330419129</isbn>
+  <isbn13>9780330419123</isbn13>
+  <text_reviews_count type="integer">6920</text_reviews_count>
+  <title>Under the Banner of Heaven: A Story of Violent Faith</title>
+  <image_url>https://d.gr-assets.com/books/1356441391m/10847.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1356441391s/10847.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10847.Under_the_Banner_of_Heaven</link>
+  <num_pages>399</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pan MacMillan</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>97402</ratings_count>
+<authors>
+<author>
+<id>1235</id>
+<name>Jon Krakauer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1430856379p5/1235.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1430856379p2/1235.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1235.Jon_Krakauer]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>1001594</ratings_count>
+<text_reviews_count>39461</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:49:24 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:49:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Interesting topic, 200 pages too long. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588888640]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588888640]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588888518</id>
+    
+  <user>
+    <id>4078547</id>
+    <name>Stephanie</name>
+
+    <location>Eagle River, AK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4078547-stephanie-thornton]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1342393822p3/4078547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1342393822p2/4078547.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25916945</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">33</text_reviews_count>
+  <title>A Year of Ravens: A Novel of Boudica's Rebellion</title>
+  <image_url>https://d.gr-assets.com/books/1444055275m/25916945.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1444055275s/25916945.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25916945-a-year-of-ravens</link>
+  <num_pages>483</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>72</ratings_count>
+<authors>
+<author>
+<id>2931</id>
+<name>Ruth Downie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234550860p5/2931.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234550860p2/2931.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2931.Ruth_Downie]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>11771</ratings_count>
+<text_reviews_count>1456</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:49:12 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:49:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Year of Ravens is a unique look at Boudica's rebellion against Rome. Seven different authors have told the story through seven different lenses, so you get the grit of battle from the perspective of a Roman warrior, the magic of the isle of Mona as told by a young druid, and the aftermath of the...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588888518]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588888518]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588888115</id>
+    
+  <user>
+    <id>36476496</id>
+    <name>Layla</name>
+
+    <location>Savannah, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36476496-layla]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1414786156p3/36476496.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1414786156p2/36476496.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25435166</id>
+  <isbn>0985188472</isbn>
+  <isbn13>9780985188474</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Simon</title>
+  <image_url>https://d.gr-assets.com/books/1430096299m/25435166.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1430096299s/25435166.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25435166-simon</link>
+  <num_pages>254</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gemiknight Ptress</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>18</ratings_count>
+<authors>
+<author>
+<id>560396</id>
+<name>Michael Mullin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1319736935p5/560396.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1319736935p2/560396.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/560396.Michael_Mullin]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>545</ratings_count>
+<text_reviews_count>215</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:48:33 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:49:05 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I really enjoyed reading “Simon” by Michael Mullin I thought it was excellently written with very clean editing (I notice things like that!) and kept my attention from the dramatic opening to the bittersweet end. I read it relatively quickly and loved the characters and the fresh twist that the a...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588888115]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588888115]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887851</id>
+    
+  <user>
+    <id>54218175</id>
+    <name>Odin</name>
+
+    <location>Huntsville, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54218175-odin-alexander]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28967196</id>
+  <isbn>1634770943</isbn>
+  <isbn13>9781634770941</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>The Lusty Adventures of Theseus</title>
+  <image_url>https://d.gr-assets.com/books/1454998679m/28967196.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454998679s/28967196.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28967196-the-lusty-adventures-of-theseus</link>
+  <num_pages>114</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Dreamspinner Press</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>13</ratings_count>
+<authors>
+<author>
+<id>14959859</id>
+<name>Arthur Griffin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457607820p5/14959859.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457607820p2/14959859.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14959859.Arthur_Griffin]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>16</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:48:08 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:50:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It's a toga dropper!<br />Arthur Griffin’s, “The Lusty Adventures of Theseus”, is exactly what the author promises. This retelling of the Theseus myth casts the ancient Greek bastard prince as a wayward lad in search of himself. Theseus personal growth is aided with the help of lusty, worldly Pirithuou...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887851]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887851]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887653</id>
+    
+  <user>
+    <id>43603114</id>
+    <name>Itsy Bitsy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43603114-itsy-bitsy-book-bits]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457849967p3/43603114.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457849967p2/43603114.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28943693</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">31</text_reviews_count>
+  <title>Desperately Seeking Epic</title>
+  <image_url>https://d.gr-assets.com/books/1454722018m/28943693.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454722018s/28943693.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28943693-desperately-seeking-epic</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>B N Toler</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>40</ratings_count>
+<authors>
+<author>
+<id>7150768</id>
+<name>B.N. Toler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438039071p5/7150768.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438039071p2/7150768.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7150768.B_N_Toler]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>8872</ratings_count>
+<text_reviews_count>1670</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:47:50 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:47:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Desperately Seeking Epic……. I’m desperately seeking another box of tissues and a glass of wine! This isn’t my first book with BN Toler. In fact, Where One Goes is one of my all time favorites so had high expectations going into this and she most definitely didn’t disappoint me. <br /><br />Neena is 12-year-o...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887653]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887653]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887650</id>
+    
+  <user>
+    <id>48055564</id>
+    <name>Terry Gardner</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48055564-terry-gardner]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27231041</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Amish Young Love Box Set: (3-Book Inspirational Romance Boxed Set)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27231041-amish-young-love-box-set</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>18</ratings_count>
+<authors>
+<author>
+<id>13761004</id>
+<name>Rebekah Fisher</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13761004.Rebekah_Fisher]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>518</ratings_count>
+<text_reviews_count>39</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:47:50 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:47:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Amish Young Love</strong><br /><br />I have recently had to read to help relax for bed and to get to sleep these stories are prefect ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887650]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887563</id>
+    
+  <user>
+    <id>36917257</id>
+    <name>Mary MacKay</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36917257-mary-mackay]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17913143</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>Shadowborn (Light &amp; Shadow, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1368452586m/17913143.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1368452586s/17913143.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17913143-shadowborn</link>
+  <num_pages>270</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>527</ratings_count>
+<authors>
+<author>
+<id>6420480</id>
+<name>Moira Katson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1419714259p5/6420480.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1419714259p2/6420480.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6420480.Moira_Katson]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>2716</ratings_count>
+<text_reviews_count>276</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:47:43 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:47:43 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:47:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Interesting</strong><br /><br />Enough but lagged in the end. Too much about the court scenes and not enough real meat to the story. I don't like being left hanging at the end,so will not bother with any more of the series.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887563]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887563]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887341</id>
+    
+  <user>
+    <id>4000868</id>
+    <name>Natalia</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4000868-natalia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1350374773p3/4000868.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1350374773p2/4000868.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8621462</id>
+  <isbn>1406311529</isbn>
+  <isbn13>9781406311525</isbn13>
+  <text_reviews_count type="integer">9772</text_reviews_count>
+  <title>A Monster Calls</title>
+  <image_url>https://d.gr-assets.com/books/1387584864m/8621462.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1387584864s/8621462.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8621462-a-monster-calls</link>
+  <num_pages>216</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Walker Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>59311</ratings_count>
+<authors>
+<author>
+<id>370361</id>
+<name>Patrick Ness</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1244216486p5/370361.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1244216486p2/370361.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/370361.Patrick_Ness]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>301204</ratings_count>
+<text_reviews_count>41151</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:47:24 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:48:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Such an amazing book, I was wanting to reread it a month after i finished it]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887341]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887341]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887282</id>
+    
+  <user>
+    <id>2616819</id>
+    <name>Meredith</name>
+
+    <location>Corona, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2616819-meredith-hall]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1250135925p3/2616819.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1250135925p2/2616819.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19351043</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2695</text_reviews_count>
+  <title>Nimona</title>
+  <image_url>https://d.gr-assets.com/books/1412626919m/19351043.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1412626919s/19351043.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19351043-nimona</link>
+  <num_pages>272</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Harper Collins</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>26141</ratings_count>
+<authors>
+<author>
+<id>6887314</id>
+<name>Noelle Stevenson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407089695p5/6887314.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407089695p2/6887314.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6887314.Noelle_Stevenson]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>65621</ratings_count>
+<text_reviews_count>7451</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:47:18 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:48:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Not a huge fan of graphic novels but this was laugh out loud funny.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887282]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887282]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887278</id>
+    
+  <user>
+    <id>23951178</id>
+    <name>Gowri</name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23951178-gowri-vishnu]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1400721734p3/23951178.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1400721734p2/23951178.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8517235</id>
+  <isbn>0441020186</isbn>
+  <isbn13>9780441020188</isbn13>
+  <text_reviews_count type="integer">95</text_reviews_count>
+  <title>Con &amp; Conjure (Raine Benares #5)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8517235-con-conjure</link>
+  <num_pages>322</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ace</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1936</ratings_count>
+<authors>
+<author>
+<id>336058</id>
+<name>Lisa Shearin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1386014550p5/336058.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1386014550p2/336058.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/336058.Lisa_Shearin]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>27971</ratings_count>
+<text_reviews_count>2247</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:47:18 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:47:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Loved it 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887278]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887278]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588887193</id>
+    
+  <user>
+    <id>43293777</id>
+    <name>Carrie</name>
+
+    <location>Paris, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43293777-carrie-westmoreland-kurtz]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1432229560p3/43293777.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1432229560p2/43293777.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26371082</id>
+  <isbn>0718038444</isbn>
+  <isbn13>9780718038441</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>I Said Yes: My Story of Heartbreak, Redemption, and True Love</title>
+  <image_url>https://d.gr-assets.com/books/1453057782m/26371082.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1453057782s/26371082.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26371082-i-said-yes</link>
+  <num_pages>240</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Thomas Nelson</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>104</ratings_count>
+<authors>
+<author>
+<id>14291675</id>
+<name>Emily Maynard Johnson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14291675.Emily_Maynard_Johnson]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>154</ratings_count>
+<text_reviews_count>19</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:47:11 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:47:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[My Thoughts<br /><br />I watched The Bachelor and The Bachelorette when Emily was on and I remember her being my favorite. I was pulling for her and hoping she would find love both times and was sad when things didn’t work out for her. So, when I saw this book I was so excited to read and review it!<br /><br />I wasn’t...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588887193]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588887193]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588886633</id>
+    
+  <user>
+    <id>1494832</id>
+    <name>Michele</name>
+
+    <location>Port Orchard, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1494832-michele]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1406093258p3/1494832.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1406093258p2/1494832.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25767409</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30</text_reviews_count>
+  <title>The Life We Bury</title>
+  <image_url>https://d.gr-assets.com/books/1434896925m/25767409.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1434896925s/25767409.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25767409-the-life-we-bury</link>
+  <num_pages>9</num_pages>
+  <format>Audible Audio</format>
+  <edition_information>Unabridged</edition_information>
+  <publisher>Tantor Audio</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>85</ratings_count>
+<authors>
+<author>
+<id>7832387</id>
+<name>Allen Eskens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1402189882p5/7832387.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1402189882p2/7832387.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7832387.Allen_Eskens]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>14165</ratings_count>
+<text_reviews_count>1843</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="thriller" exclusive="false" review_shelf_id="1263611383" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="1263611090" sortable="false" />
+    <shelf name="my-personal-library" exclusive="false" review_shelf_id="1263611108" sortable="false" />
+    <shelf name="audiobook" exclusive="false" review_shelf_id="1263611222" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 30 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 20:46:21 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:48:51 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Absolutely fantastic narration elevates this thriller into a good solid 4.5 star listen. The story itself is perhaps your standard thriller fare (decently written but nothing to shout from the rooftops about), but it's worth the listen if you like audiobooks. Really well done.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588886633]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588886633]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588886495</id>
+    
+  <user>
+    <id>37191865</id>
+    <name>John</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37191865-john]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">79193</id>
+  <isbn>0446518654</isbn>
+  <isbn13>9780446518659</isbn13>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>Waylon: An Autobiography</title>
+  <image_url>https://d.gr-assets.com/books/1405217594m/79193.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1405217594s/79193.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/79193.Waylon</link>
+  <num_pages>418</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Warner Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>330</ratings_count>
+<authors>
+<author>
+<id>45002</id>
+<name>Waylon Jennings</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/45002.Waylon_Jennings]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>419</ratings_count>
+<text_reviews_count>27</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 20:46:06 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:48:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Best bio I have read in a while. Loved it! Can't imagine living a life so full. And... It's a great love story.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588886495]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588886495]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588886150</id>
+    
+  <user>
+    <id>18314470</id>
+    <name>Jill</name>
+
+    <location>South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18314470-jill-cameron]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25101535</id>
+  <isbn>B0124TQO1S</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">161</text_reviews_count>
+  <title>The Aftermath (The Hurricane, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1441626397m/25101535.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1441626397s/25101535.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25101535-the-aftermath</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1130</ratings_count>
+<authors>
+<author>
+<id>9114529</id>
+<name>R.J. Prescott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1414410638p5/9114529.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1414410638p2/9114529.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9114529.R_J_Prescott]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>11290</ratings_count>
+<text_reviews_count>1142</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 20:49:23 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:45:36 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:49:23 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Enjoyed this from Con's POV, a little drawn out, but worth the read. The 'family' are wonderful characters, loved the boys.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588886150]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588886150]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

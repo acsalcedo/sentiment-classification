@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588875275</id>
+    
+  <user>
+    <id>39808032</id>
+    <name>Laura</name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39808032-laura-egan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1434875917p3/39808032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1434875917p2/39808032.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5166</id>
+  <isbn>0375706771</isbn>
+  <isbn13>9780375706776</isbn13>
+  <text_reviews_count type="integer">3289</text_reviews_count>
+  <title>Midwives</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5166.Midwives</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>121938</ratings_count>
+<authors>
+<author>
+<id>3509</id>
+<name>Chris Bohjalian</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404866486p5/3509.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404866486p2/3509.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3509.Chris_Bohjalian]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>280081</ratings_count>
+<text_reviews_count>25314</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 20:30:34 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:30:09 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:30:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Compelling 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588875275]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588875275]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588875017</id>
+    
+  <user>
+    <id>54103850</id>
+    <name>Kim Felts</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54103850-kim-felts]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25326094</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>100 Productivity Hacks For The Stay At Home Mom</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25326094-100-productivity-hacks-for-the-stay-at-home-mom</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>13</ratings_count>
+<authors>
+<author>
+<id>13800102</id>
+<name>Juanita Patrick</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13800102.Juanita_Patrick]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>14</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:29:46 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:29:46 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:29:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Known hacks but simplicity helped</strong><br /><br />I knew most of the hacks given and actually use some on a day to day basis but the simplicity that they were written with made the rest of them seem possible. I left the corporate world to be a SAHM and struggle daily. I came across this while looking for somethin...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588875017]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588875017]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588874473</id>
+    
+  <user>
+    <id>5052479</id>
+    <name>Literary</name>
+
+    <location>Asbury Park, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5052479-literary-jewels]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1440380182p3/5052479.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1440380182p2/5052479.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29484747</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>The Watcher</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29484747-the-watcher</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>6</ratings_count>
+<authors>
+<author>
+<id>15076652</id>
+<name>Akil Victor</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15076652.Akil_Victor]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>7</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:29:06 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:30:02 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Can you imagine being stalked? Can you imagine the stalker sending you notes, flowers, and candy? Can you imagine him getting into your home without you knowing? What would you do if you were being stalked? The stalker in question has been dubbed the Valentine stalker by the police. He watches hi...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588874473]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588874473]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588874471</id>
+    
+  <user>
+    <id>5027637</id>
+    <name>Beret</name>
+
+    <location>Parachute, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5027637-beret-brenckman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28801978</id>
+  <isbn nil="true"/>
+  <isbn13>9781622103409</isbn13>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <title>Locked Box</title>
+  <image_url>https://d.gr-assets.com/books/1454100871m/28801978.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454100871s/28801978.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28801978-locked-box</link>
+  <num_pages>144</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Liquid Silver Books</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>34</ratings_count>
+<authors>
+<author>
+<id>14427168</id>
+<name>Eve Dangerfield</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457743273p5/14427168.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457743273p2/14427168.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14427168.Eve_Dangerfield]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>87</ratings_count>
+<text_reviews_count>67</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:29:06 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:29:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I really loved the characters in this book. I liked how they both liked and wanted each other but were separated by realistic problems. I loved that this book mostly took place in a small room...a "locked box" basically. Would definitely read another by this author. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588874471]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588874471]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588874311</id>
+    
+  <user>
+    <id>50972463</id>
+    <name>Molly</name>
+
+    <location>Austin, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50972463-molly-morrow]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">86655</id>
+  <isbn>1400043921</isbn>
+  <isbn13>9781400043927</isbn13>
+  <text_reviews_count type="integer">1181</text_reviews_count>
+  <title>The Keep</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/86655.The_Keep</link>
+  <num_pages>240</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>8265</ratings_count>
+<authors>
+<author>
+<id>49625</id>
+<name>Jennifer Egan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231143470p5/49625.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231143470p2/49625.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49625.Jennifer_Egan]]></link>
+<average_rating>3.61</average_rating>
+<ratings_count>153754</ratings_count>
+<text_reviews_count>17913</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 10 00:00:00 -0800 2016</started_at>
+  <read_at>Sun Mar 13 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 20:28:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:30:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Terrible. Just inconceivably bad. And I love Jennifer Egan. Don't get me wrong. The last 20 pages of this book were lovely, though. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588874311]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588874311]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588873978</id>
+    
+  <user>
+    <id>36881556</id>
+    <name>Alexandra</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36881556-alexandra]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1415835975p3/36881556.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1415835975p2/36881556.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11366397</id>
+  <isbn>1442445807</isbn>
+  <isbn13>9781442445802</isbn13>
+  <text_reviews_count type="integer">3336</text_reviews_count>
+  <title>The Program (The Program, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1344986164m/11366397.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344986164s/11366397.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11366397-the-program</link>
+  <num_pages>405</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon Pulse</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>24206</ratings_count>
+<authors>
+<author>
+<id>164576</id>
+<name>Suzanne Young</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357757103p5/164576.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1357757103p2/164576.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/164576.Suzanne_Young]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>49387</ratings_count>
+<text_reviews_count>7307</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="college" exclusive="false" review_shelf_id="1263599013" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:28:24 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:30:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Heartbreaking.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588873978]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588873978]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588873977</id>
+    
+  <user>
+    <id>8166207</id>
+    <name>Erin</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8166207-erin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1404015625p3/8166207.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1404015625p2/8166207.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24249408</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>How to Hook a Bookworm (How To, #3)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24249408-how-to-hook-a-bookworm</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>69</ratings_count>
+<authors>
+<author>
+<id>7064948</id>
+<name>Cassie Mae</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444444318p5/7064948.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444444318p2/7064948.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7064948.Cassie_Mae]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>17814</ratings_count>
+<text_reviews_count>2942</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:28:24 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:28:24 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:28:24 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>So much love &amp; sincerity </strong><br /><br />This was a great, nerdy, awkward coming-of-age romance. The struggles with money, making choices you don't want to because you think "it's for the best", trying to not ask for help &amp; finally doing it...this book has a lot of heart &amp; feels very genuine. <br /><br />All 3 b...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588873977]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588873977]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588873827</id>
+    
+  <user>
+    <id>45142006</id>
+    <name>Aaron Anderson/Jennifer Ander</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45142006-aaron-anderson-jennifer-ander]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22574457</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">69</text_reviews_count>
+  <title>Launch: An Internet Millionaire's Secret Formula to Sell Almost Anything Online, Build a Business You Love, and Live the Life of Your Dreams</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22574457-launch</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>645</ratings_count>
+<authors>
+<author>
+<id>60293</id>
+<name>Jeff Walker</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/60293.Jeff_Walker]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>1373</ratings_count>
+<text_reviews_count>118</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:28:10 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:28:10 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:28:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great book</strong><br /><br />I've been looking for a book like this without even realizing it. Truly put many things in perspective for me a has given me a plan for going forward. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588873827]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588873827]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588873735</id>
+    
+  <user>
+    <id>43603114</id>
+    <name>Itsy Bitsy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43603114-itsy-bitsy-book-bits]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457849967p3/43603114.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457849967p2/43603114.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28370928</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Lost Without You</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28370928-lost-without-you</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>13921693</id>
+<name>Annalise Blaze</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13921693.Annalise_Blaze]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>13</ratings_count>
+<text_reviews_count>5</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:28:03 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:28:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Wonderful book about love, truth, trust, betrayal and friendship. LOST WITHOUT YOU was written in a unique style. Hope Winters and Raphael Lacroix, known to his friends as Rafe, are the two main characters. The book focuses on their love story and tells the story from each of their perspective. I...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588873735]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588873735]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588873732</id>
+    
+  <user>
+    <id>53259756</id>
+    <name>Heather</name>
+
+    <location>Visalia, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53259756-heather-parker]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">370493</id>
+  <isbn>0060256656</isbn>
+  <isbn13>9780060256654</isbn13>
+  <text_reviews_count type="integer">12315</text_reviews_count>
+  <title>The Giving Tree</title>
+  <image_url>https://d.gr-assets.com/books/1174210942m/370493.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1174210942s/370493.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/370493.The_Giving_Tree</link>
+  <num_pages>64</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1964</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>598750</ratings_count>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>1979470</ratings_count>
+<text_reviews_count>27144</text_reviews_count>
+</author>
+</authors>
+  <published>1964</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:28:03 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:28:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      LOVE!!!!!!!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588873732]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588873732]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588873301</id>
+    
+  <user>
+    <id>16629272</id>
+    <name>Kathie</name>
+
+    <location>Kalamazoo, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16629272-kathie-gibson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1358706296p3/16629272.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1358706296p2/16629272.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">228630</id>
+  <isbn>0060929782</isbn>
+  <isbn13>9780060929787</isbn13>
+  <text_reviews_count type="integer">1003</text_reviews_count>
+  <title>Black Boy</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/228630.Black_Boy</link>
+  <num_pages>419</num_pages>
+  <format>Paperback</format>
+  <edition_information>The Restored Text Established by The Library of America</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day/>
+  <publication_year>1998</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>32453</ratings_count>
+<authors>
+<author>
+<id>9657</id>
+<name>Richard Wright</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209848296p5/9657.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209848296p2/9657.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9657.Richard_Wright]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>105661</ratings_count>
+<text_reviews_count>4405</text_reviews_count>
+</author>
+</authors>
+  <published>1945</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:27:30 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:29:05 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[First read this in college, forty years ago. Was good to read it again. Age gives a different view. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588873301]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588873301]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872865</id>
+    
+  <user>
+    <id>39823905</id>
+    <name>Rob</name>
+
+    <location>West Bend, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39823905-rob-draeger]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458522572p3/39823905.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458522572p2/39823905.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12232938</id>
+  <isbn>0316166685</isbn>
+  <isbn13>9780316166683</isbn13>
+  <text_reviews_count type="integer">28573</text_reviews_count>
+  <title>The Lovely Bones</title>
+  <image_url>https://d.gr-assets.com/books/1457810586m/12232938.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457810586s/12232938.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12232938-the-lovely-bones</link>
+  <num_pages>328</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1411219</ratings_count>
+<authors>
+<author>
+<id>316</id>
+<name>Alice Sebold</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1262477562p5/316.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1262477562p2/316.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/316.Alice_Sebold]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>1569018</ratings_count>
+<text_reviews_count>42517</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:26:55 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:28:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I remember reading this book right before the movie came out. It started off great but the author did very little world building and character progression. such a boring and disturbing read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872865]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872865]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872745</id>
+    
+  <user>
+    <id>27261960</id>
+    <name>Paula Butler</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27261960-paula-butler]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25966389</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <title>Sinner's Creed (Sinner's Creed MC, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1440125527m/25966389.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1440125527s/25966389.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25966389-sinner-s-creed</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>86</ratings_count>
+<authors>
+<author>
+<id>7074841</id>
+<name>Kim Jones</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439266170p5/7074841.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439266170p2/7074841.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7074841.Kim_Jones]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>20325</ratings_count>
+<text_reviews_count>1493</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:26:46 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:26:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>A beautiful, tragic, heart breaking yet utterly gripping story. "It's Perfect"</strong><br /><br />The only thing that works here is this quote by Joanne Harris, "some books you read. some books you enjoy but some books just swallow you up, heart and soul.”<br /><br />I'm not sure I won't feel the need to close my eyes and breat...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872745]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872745]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872734</id>
+    
+  <user>
+    <id>8847510</id>
+    <name>Stacy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8847510-stacy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24951413</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Neither here nor there: Travels in Europe</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24951413-neither-here-nor-there</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>145</ratings_count>
+<authors>
+<author>
+<id>7</id>
+<name>Bill Bryson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1189096502p5/7.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1189096502p2/7.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7.Bill_Bryson]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>828713</ratings_count>
+<text_reviews_count>49905</text_reviews_count>
+</author>
+</authors>
+  <published>1992</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 20:26:45 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:26:45 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:26:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Travels with Bill</strong><br /><br />This is a funny, daydreamy wander of a book, a trip back to 1990 Europe. Bryson retraces a 1970 trip and reflects on the changes in those twenty years. I'd love to read about a redo of this redo--in 2016, are there now Pizza Huts in Sofia?]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872734]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872734]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872639</id>
+    
+  <user>
+    <id>17420362</id>
+    <name>Ali</name>
+
+    <location>Minneapolis, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17420362-ali-cain]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363801049p3/17420362.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363801049p2/17420362.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22009741</id>
+  <isbn nil="true"/>
+  <isbn13>9780718155346</isbn13>
+  <text_reviews_count type="integer">856</text_reviews_count>
+  <title>The Woman Who Stole My Life</title>
+  <image_url>https://d.gr-assets.com/books/1428674566m/22009741.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428674566s/22009741.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22009741-the-woman-who-stole-my-life</link>
+  <num_pages>531</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Michael Joseph</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5906</ratings_count>
+<authors>
+<author>
+<id>6104</id>
+<name>Marian Keyes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239296146p5/6104.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239296146p2/6104.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6104.Marian_Keyes]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>405813</ratings_count>
+<text_reviews_count>13391</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 15 00:00:00 -0700 2016</started_at>
+  <read_at>Sat Mar 19 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:26:39 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:27:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Funny.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872639]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872639]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872631</id>
+    
+  <user>
+    <id>45335513</id>
+    <name>Stephanie Stauffer</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45335513-stephanie-stauffer]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27390227</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Smitten in a Small Town: A First-in-Series Boxed Set</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27390227-smitten-in-a-small-town</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>29</ratings_count>
+<authors>
+<author>
+<id>1259538</id>
+<name>M.J. Fredrick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405641782p5/1259538.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405641782p2/1259538.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1259538.M_J_Fredrick]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>4618</ratings_count>
+<text_reviews_count>660</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:26:39 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:26:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Loved these stories. Sweet quick reads with characters you can relate too</strong><br /><br />Three well developed HEA stories that compliment each other. Will definitely read more from this author! A great set of stories for anyone.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872631]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872631]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872567</id>
+    
+  <user>
+    <id>20993994</id>
+    <name>Suecia</name>
+
+    <location>Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20993994-suecia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1444322832p3/20993994.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1444322832p2/20993994.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6647312</id>
+  <isbn>1416985794</isbn>
+  <isbn13>9781416985792</isbn13>
+  <text_reviews_count type="integer">1311</text_reviews_count>
+  <title>Nothing</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6647312-nothing</link>
+  <num_pages>227</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>7955</ratings_count>
+<authors>
+<author>
+<id>453897</id>
+<name>Janne Teller</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298223766p5/453897.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298223766p2/453897.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/453897.Janne_Teller]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>12736</ratings_count>
+<text_reviews_count>2059</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:26:35 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:28:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[What the fuck? Is good I like it, it's something refreshing so to speak, is not your usual novel, so it's makes you think ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872567]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872567]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872226</id>
+    
+  <user>
+    <id>53259756</id>
+    <name>Heather</name>
+
+    <location>Visalia, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53259756-heather-parker]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">310459</id>
+  <isbn>014034893X</isbn>
+  <isbn13>9780140348934</isbn13>
+  <text_reviews_count type="integer">2918</text_reviews_count>
+  <title>Roll of Thunder, Hear My Cry (Logans, #4)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/310459.Roll_of_Thunder_Hear_My_Cry</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Puffin Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>86240</ratings_count>
+<authors>
+<author>
+<id>26946</id>
+<name>Mildred D. Taylor</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243834242p5/26946.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243834242p2/26946.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/26946.Mildred_D_Taylor]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>103787</ratings_count>
+<text_reviews_count>4150</text_reviews_count>
+</author>
+</authors>
+  <published>1976</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:26:09 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:27:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I really enjoyed this book! I felt like I was part of the story.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872226]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872226]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872171</id>
+    
+  <user>
+    <id>1266814</id>
+    <name>Teresa</name>
+
+    <location>Birmingham, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1266814-teresa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1325035991p3/1266814.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1325035991p2/1266814.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17287069</id>
+  <isbn>1770461299</isbn>
+  <isbn13>9781770461291</isbn13>
+  <text_reviews_count type="integer">592</text_reviews_count>
+  <title>Beautiful Darkness</title>
+  <image_url>https://d.gr-assets.com/books/1364599765m/17287069.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1364599765s/17287069.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17287069-beautiful-darkness</link>
+  <num_pages>94</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Drawn and Quarterly</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2723</ratings_count>
+<authors>
+<author>
+<id>761380</id>
+<name>Fabien Vehlmann</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/761380.Fabien_Vehlmann]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>4981</ratings_count>
+<text_reviews_count>837</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 20:26:05 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:29:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Gorgeous, dark, and creepy - a real fairy tale. No, it's not an "anti-fairy tale" - whoever says that doesn't know what fairy tales are really like. There's plenty of spoilery reviews if you want to learn more. I really enjoyed it.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872171]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872171]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588872166</id>
+    
+  <user>
+    <id>18311312</id>
+    <name>Morgan</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18311312-morgan-scott]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1391797326p3/18311312.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1391797326p2/18311312.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28597587</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">274</text_reviews_count>
+  <title>The Baller: A Down and Dirty Football Novel</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28597587-the-baller</link>
+  <num_pages>285</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2567</ratings_count>
+<authors>
+<author>
+<id>6887119</id>
+<name>Vi Keeland</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1448762580p5/6887119.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1448762580p2/6887119.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6887119.Vi_Keeland]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>79131</ratings_count>
+<text_reviews_count>7866</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 20:26:05 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 20:26:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Beautiful</strong><br /><br />This was truly a beautiful book and I wouldn't complain about it. It made me happy and sad but my heart felt so happy in the end. I got the exact story I wanted and I loved it. I hope everyone who reads this loves it as much as I did. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588872166]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588872166]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588742953</id>
+    
+  <user>
+    <id>38510834</id>
+    <name>Janet Murphy-DeBlois</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38510834-janet-murphy-deblois]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1419887313p3/38510834.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1419887313p2/38510834.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28576585</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>Dragon Mated: Supernatural Prison #3</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28576585-dragon-mated</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>128</ratings_count>
+<authors>
+<author>
+<id>7184104</id>
+<name>Jaymin Eve</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377471965p5/7184104.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377471965p2/7184104.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7184104.Jaymin_Eve]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>18313</ratings_count>
+<text_reviews_count>1427</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:49:40 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:49:40 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:41 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great story.</strong><br /><br />So never a dull moment. Again author Jaymin Eve has spun a fantastic story. Love all the twists and turns, the off color humor and the wonderful characters.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742953]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742953]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742711</id>
+    
+  <user>
+    <id>40533360</id>
+    <name>Vaun Healey</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40533360-vaun-healey]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22311288</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>A Pocket Full of Shells</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22311288-a-pocket-full-of-shells</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>337</ratings_count>
+<authors>
+<author>
+<id>7203073</id>
+<name>Jean Reinhardt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442897599p5/7203073.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442897599p2/7203073.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7203073.Jean_Reinhardt]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>761</ratings_count>
+<text_reviews_count>34</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:49:20 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:49:20 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>A Heart ache</strong><br /><br />As descendants of Ireland, it breaks my heart to read of this tragedy. I also have wondered why the so called potato famine killed off so many. In this green land why didn't other crops take the place of the potato? The country is surrounded by water, why not harness its great resourc...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742711]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742711]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742705</id>
+    
+  <user>
+    <id>6661466</id>
+    <name>Susan</name>
+
+    <location>Tulsa, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6661466-susan-wright]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17333171</id>
+  <isbn>042527067X</isbn>
+  <isbn13>9780425270677</isbn13>
+  <text_reviews_count type="integer">1077</text_reviews_count>
+  <title>Magic Shifts (Kate Daniels, #8)</title>
+  <image_url>https://d.gr-assets.com/books/1414091260m/17333171.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1414091260s/17333171.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17333171-magic-shifts</link>
+  <num_pages>342</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ace</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>10278</ratings_count>
+<authors>
+<author>
+<id>21748</id>
+<name>Ilona Andrews</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1219436898p5/21748.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1219436898p2/21748.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>564125</ratings_count>
+<text_reviews_count>36698</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:49:19 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      3.5
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742705]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742705]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742647</id>
+    
+  <user>
+    <id>39046833</id>
+    <name>Candice</name>
+
+    <location>Dublin, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39046833-candice-east-sheets]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1421008300p3/39046833.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1421008300p2/39046833.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24506421</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <title>The Loner (Daughters of Destiny Book 1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24506421-the-loner</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>284</ratings_count>
+<authors>
+<author>
+<id>12652424</id>
+<name>K.R. Grace</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12652424.K_R_Grace]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>434</ratings_count>
+<text_reviews_count>32</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:49:13 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:49:13 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Wow-just-WOW! Great Shifter read!!</strong><br /><br />Let me first say that I don't give five stars out unless I feel it is a classic OR the book makes me want to read MORE!! This cliffhanger of an ending is leaving me with such a book hangover! I want more! I must continue to the NEXT...like NOW! <br />Every page turned...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742647]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742647]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742554</id>
+    
+  <user>
+    <id>54214294</id>
+    <name>Nicholas</name>
+
+    <location>Adelaide, 05, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54214294-nicholas-hassan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13642710</id>
+  <isbn>0857662937</isbn>
+  <isbn13>9780857662934</isbn13>
+  <text_reviews_count type="integer">881</text_reviews_count>
+  <title>Nexus</title>
+  <image_url>https://d.gr-assets.com/books/1347149654m/13642710.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1347149654s/13642710.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13642710-nexus</link>
+  <num_pages>460</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Angry Robot</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6847</ratings_count>
+<authors>
+<author>
+<id>160069</id>
+<name>Ramez Naam</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1353488211p5/160069.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1353488211p2/160069.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/160069.Ramez_Naam]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>16697</ratings_count>
+<text_reviews_count>1849</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:49:06 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[ From a member of the team that designed Microsoft Internet Explorer and Outlook, Ramez Naam gifts the world with the science fiction near-future book series, “Nexus”, targeting mature audiences. Published in 2012, the first book in the series is titled “Nexus”. It tells the story of Kaden Lane,...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742554]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742554]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742505</id>
+    
+  <user>
+    <id>20953136</id>
+    <name>Rebekah</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20953136-rebekah-corbett]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1370216340p3/20953136.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1370216340p2/20953136.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26113237</id>
+  <isbn>1634096711</isbn>
+  <isbn13>9781634096713</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Small-Town Brides Romance Collection: 9 Romances Develop Under the Watchful Eyes of Neighbors</title>
+  <image_url>https://d.gr-assets.com/books/1441060901m/26113237.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1441060901s/26113237.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26113237-small-town-brides-romance-collection</link>
+  <num_pages>448</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Barbour Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>81859</id>
+<name>Janet Lee Barton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342639054p5/81859.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342639054p2/81859.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/81859.Janet_Lee_Barton]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>858</ratings_count>
+<text_reviews_count>148</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="preview-to-review" exclusive="false" review_shelf_id="1263482127" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:49:01 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Liked this series, but was a little too predictable for me to love it. Characters were kinda simple and the usual plot lines? The Barbour Romance collections are always worth the read for me, but this collection was not one of my favorites? ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742505]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742505]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742401</id>
+    
+  <user>
+    <id>21594206</id>
+    <name>Melanie</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21594206-melanie-ratliff-jay]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1372045891p3/21594206.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1372045891p2/21594206.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23123770</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <title>Claimed by Love</title>
+  <image_url>https://d.gr-assets.com/books/1409334451m/23123770.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1409334451s/23123770.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23123770-claimed-by-love</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>67</ratings_count>
+<authors>
+<author>
+<id>3023973</id>
+<name>Melissa Foster</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1251697182p5/3023973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1251697182p2/3023973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3023973.Melissa_Foster]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>46484</ratings_count>
+<text_reviews_count>5885</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:48:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Oh my goodness! Melissa Foster has done it again! Claimed by Love is absolutely amazing! Duke and Gabriella are such a great swoon worthy couple. I literally laughed out loud then cried real tears! Such a beautiful heartwarming couple, you will fall in love right along with them! I'm so sad that...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742401]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742401]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742400</id>
+    
+  <user>
+    <id>3786366</id>
+    <name>Nicki</name>
+
+    <location>Endicott, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3786366-nicki-conroy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1274897372p3/3786366.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1274897372p2/3786366.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25095700</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">111</text_reviews_count>
+  <title>Fly (Velocity, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1456568129m/25095700.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456568129s/25095700.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25095700-fly</link>
+  <num_pages>162</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>150</ratings_count>
+<authors>
+<author>
+<id>7779196</id>
+<name>Molly McLain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1455474864p5/7779196.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1455474864p2/7779196.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7779196.Molly_McLain]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>5650</ratings_count>
+<text_reviews_count>1183</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:48:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Molly McLain has again caught my attention with this book and left me wanting more, waiting for the next book to come out. Colton is all over the country with his bike but keeps coming home to Taylor. Taylor is in their small home town and cannot wait to get out. Will the two of them, best friend...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742400]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742400]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742326</id>
+    
+  <user>
+    <id>30301930</id>
+    <name>T.</name>
+
+    <location>Marcy, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30301930-t-phelps]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454453414p3/30301930.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454453414p2/30301930.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29429759</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>The Funnyman</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29429759-the-funnyman</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>0</average_rating>
+  <ratings_count>0</ratings_count>
+<authors>
+<author>
+<id>15057772</id>
+<name>Sophia Whittemore</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457280286p5/15057772.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457280286p2/15057772.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15057772.Sophia_Whittemore]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>3</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:48:48 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:48:48 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Far from my normal genre</strong><br /><br />Very impressed with this young author. She's certainly one to watch. Since this is far outside the type of books I usually read, I approached it with an open mind. <br /><br />And I'm glad I did. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742326]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742326]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588742290</id>
+    
+  <user>
+    <id>54214440</id>
+    <name>Maggiemoe</name>
+
+    <location>Raleigh, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54214440-maggiemoe]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18007564</id>
+  <isbn>0804139024</isbn>
+  <isbn13>9780804139021</isbn13>
+  <text_reviews_count type="integer">40658</text_reviews_count>
+  <title>The Martian</title>
+  <image_url>https://d.gr-assets.com/books/1413706054m/18007564.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1413706054s/18007564.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18007564-the-martian</link>
+  <num_pages>369</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>286382</ratings_count>
+<authors>
+<author>
+<id>6540057</id>
+<name>Andy Weir</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1382592903p5/6540057.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1382592903p2/6540057.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6540057.Andy_Weir]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>368498</ratings_count>
+<text_reviews_count>51899</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 31 00:00:00 -0800 2015</started_at>
+  <read_at>Fri Jan 15 00:00:00 -0800 2016</read_at>
+  <date_added>Wed Mar 23 17:48:46 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      It was AWESOME!!!!!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588742290]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588742290]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741987</id>
+    
+  <user>
+    <id>9418656</id>
+    <name>Nourhan</name>
+
+    <location>Cairo, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9418656-nourhan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455125850p3/9418656.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455125850p2/9418656.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9753375</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">561</text_reviews_count>
+  <title>أرض زيكولا</title>
+  <image_url>https://d.gr-assets.com/books/1441287700m/9753375.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1441287700s/9753375.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9753375</link>
+  <num_pages>432</num_pages>
+  <format/>
+  <edition_information/>
+  <publisher>عصير الكتب للنشر والتوزيع</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3054</ratings_count>
+<authors>
+<author>
+<id>4475150</id>
+<name>عمرو عبد الحميد</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454427903p5/4475150.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454427903p2/4475150.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4475150._]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>4990</ratings_count>
+<text_reviews_count>928</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:48:21 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[رواية جديدة من نوعها عجبتني الفكرة]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741987]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741987]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741981</id>
+    
+  <user>
+    <id>3142762</id>
+    <name>Emily</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3142762-emily-heinlen-davis]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1346095071p3/3142762.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1346095071p2/3142762.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27823033</id>
+  <isbn nil="true"/>
+  <isbn13>9781940784502</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>The Tortoise Shell Game</title>
+  <image_url>https://d.gr-assets.com/books/1447453945m/27823033.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1447453945s/27823033.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27823033-the-tortoise-shell-game</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>0</average_rating>
+  <ratings_count>0</ratings_count>
+<authors>
+<author>
+<id>14673656</id>
+<name>V Frank Asaro</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14673656.V_Frank_Asaro]]></link>
+<average_rating>4.75</average_rating>
+<ratings_count>4</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Dec 05 00:00:00 -0800 2015</read_at>
+  <date_added>Wed Mar 23 17:48:21 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The book had interesting characters and I, generally, liked the story. However, I find it highly distracting when words break across lines and pages. In addition, I saw several places that were missing commas, which always takes me out of the story. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741981]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741981]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741953</id>
+    
+  <user>
+    <id>42517754</id>
+    <name>Evan</name>
+
+    <location>Canberra, 01, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42517754-evan-croker]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17727622</id>
+  <isbn>9780987547</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>How I Won The Radio Controlled Model Zeppelin War</title>
+  <image_url>https://d.gr-assets.com/books/1364967644m/17727622.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1364967644s/17727622.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17727622-how-i-won-the-radio-controlled-model-zeppelin-war</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>0</average_rating>
+  <ratings_count>0</ratings_count>
+<authors>
+<author>
+<id>564808</id>
+<name>Justin Ball</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1366104787p5/564808.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1366104787p2/564808.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/564808.Justin_Ball]]></link>
+<average_rating>3.61</average_rating>
+<ratings_count>23</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 17:49:25 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:48:18 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Loved the adventure and humour of this story! Good fun for young and old.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741953]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741953]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741730</id>
+    
+  <user>
+    <id>8447143</id>
+    <name>Tramia</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8447143-tramia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1332959843p3/8447143.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1332959843p2/8447143.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29371117</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <title>Taulan (Dragons of Preor, #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29371117-taulan</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>343</ratings_count>
+<authors>
+<author>
+<id>13547457</id>
+<name>Erin Tate</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13547457.Erin_Tate]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>5965</ratings_count>
+<text_reviews_count>635</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 17:48:01 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:48:01 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Super sweet</strong><br /><br />Super sweet quick read. Some loose ends but still satisfying. I like the Preor males more than the Ujal. Good read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741730]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741730]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741677</id>
+    
+  <user>
+    <id>46885424</id>
+    <name>Jacob</name>
+
+    <location>Manistee, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46885424-jacob-c]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">589816</id>
+  <isbn>0763627054</isbn>
+  <isbn13>9780763627058</isbn13>
+  <text_reviews_count type="integer">49</text_reviews_count>
+  <title>Strays</title>
+  <image_url>https://d.gr-assets.com/books/1320422188m/589816.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320422188s/589816.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/589816.Strays</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>305</ratings_count>
+<authors>
+<author>
+<id>62567</id>
+<name>Ron Koertge</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272913713p5/62567.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272913713p2/62567.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/62567.Ron_Koertge]]></link>
+<average_rating>3.55</average_rating>
+<ratings_count>9544</ratings_count>
+<text_reviews_count>1664</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:47:56 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The book “Strays” by Ron Koertge is about Ted O’Connor who isn’t the usual teen, he has an unique ability and because of this ability he isn’t very popular, social or liked. He grew up in his parents pet shop, he is now in the foster care system after they died in a car crash. His new parents are...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741677]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741677]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741641</id>
+    
+  <user>
+    <id>52219772</id>
+    <name>Gloomlurker</name>
+
+    <location>Adelaide, 05, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52219772-gloomlurker]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25325258</id>
+  <isbn nil="true"/>
+  <isbn13>9781760300371</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>A Town Called Dust</title>
+  <image_url>https://d.gr-assets.com/books/1428551538m/25325258.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428551538s/25325258.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25325258-a-town-called-dust</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Momentum</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>67</ratings_count>
+<authors>
+<author>
+<id>9811063</id>
+<name>Justin Woolley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1414626020p5/9811063.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1414626020p2/9811063.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9811063.Justin_Woolley]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>157</ratings_count>
+<text_reviews_count>59</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:47:54 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:49:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The Territory, A Town Called Dust Review – Peppe<br />A Town Called Dust was written by Justin Woolley and published in 2015, and is the first in The Territory Trilogy. It follows the development of protagonists Squid and Lynn, who live in a dystopian post-apocalyptic future of Australia. This book is...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741641]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741641]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741592</id>
+    
+  <user>
+    <id>11150478</id>
+    <name>Nicole</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11150478-nicole]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1342875823p3/11150478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1342875823p2/11150478.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">49226</id>
+  <isbn>0813342201</isbn>
+  <isbn13>9780813342207</isbn13>
+  <text_reviews_count type="integer">120</text_reviews_count>
+  <title>Blood Diamonds: Tracing the Deadly Path of the World's Most Precious Stones</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/49226.Blood_Diamonds</link>
+  <num_pages>280</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Basic Books</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>849</ratings_count>
+<authors>
+<author>
+<id>27665</id>
+<name>Greg Campbell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1288045678p5/27665.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1288045678p2/27665.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27665.Greg_Campbell]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>2606</ratings_count>
+<text_reviews_count>361</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:47:50 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book changed my opinion on diamonds and I will never support the diamond industry again. An even scarier link - who diamonds are used to fund terrorism around the world.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741592]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741592]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741394</id>
+    
+  <user>
+    <id>4579023</id>
+    <name>PWRL</name>
+
+    <location>Saint Marys, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4579023-pwrl]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18594423</id>
+  <isbn>1619632527</isbn>
+  <isbn13>9781619632523</isbn13>
+  <text_reviews_count type="integer">73</text_reviews_count>
+  <title>Life on Mars</title>
+  <image_url>https://d.gr-assets.com/books/1385503851m/18594423.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1385503851s/18594423.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18594423-life-on-mars</link>
+  <num_pages>240</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Bloomsbury USA Childrens</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>260</ratings_count>
+<authors>
+<author>
+<id>432859</id>
+<name>Jennifer Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1253828305p5/432859.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1253828305p2/432859.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/432859.Jennifer_Brown]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>54535</ratings_count>
+<text_reviews_count>5954</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1263480974" sortable="true" />
+    <shelf name="mar-jr-fiction" exclusive="false" review_shelf_id="1263481066" sortable="false" />
+    <shelf name="zzz2016-mar-new" exclusive="false" review_shelf_id="1263481107" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:47:33 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      A
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741394]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741394]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588741265</id>
+    
+  <user>
+    <id>25982408</id>
+    <name>Sparkymom</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25982408-sparkymom]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27069953</id>
+  <isbn>0778318958</isbn>
+  <isbn13>9780778318958</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <title>Haunted Destiny (Krewe of Hunters, #18)</title>
+  <image_url>https://d.gr-assets.com/books/1458692520m/27069953.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458692520s/27069953.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27069953-haunted-destiny</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mira</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>10</ratings_count>
+<authors>
+<author>
+<id>30819</id>
+<name>Heather Graham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1258112542p5/30819.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1258112542p2/30819.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/30819.Heather_Graham]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>164213</ratings_count>
+<text_reviews_count>11785</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 17:47:24 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:47:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Though I haven't read all the books in this series, I have been totally into the ones I have and plan to read them all. I was very excited to get a copy of this one. This story begins with FBI agent Jude and his temporary boss boarding a cruise ship in pursuit of a suspected murderer. The suspect...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588741265]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588741265]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588740921</id>
+    
+  <user>
+    <id>15005820</id>
+    <name>BookSnuggle</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15005820-booksnuggle]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1443655116p3/15005820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1443655116p2/15005820.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24937912</id>
+  <isbn>1402283725</isbn>
+  <isbn13>9781402283727</isbn13>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <title>How to Wrangle a Cowboy (Cowboys of Decker Ranch, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1440123871m/24937912.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1440123871s/24937912.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24937912-how-to-wrangle-a-cowboy</link>
+  <num_pages>384</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Sourcebooks Casablanca</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>29</ratings_count>
+<authors>
+<author>
+<id>592458</id>
+<name>Joanne Kennedy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315861922p5/592458.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315861922p2/592458.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/592458.Joanne_Kennedy]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>3703</ratings_count>
+<text_reviews_count>403</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="suspense" exclusive="false" review_shelf_id="1263480807" sortable="false" />
+    <shelf name="mature-content" exclusive="false" review_shelf_id="1263480685" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="1263480762" sortable="false" />
+</shelves>
+  <recommended_for>Yes</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 17:47:00 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 17:48:09 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA["How to Wrangle a Cowboy" by Joanne Kennedy is a contemporary western romance. This is book three in the "Decker Ranch" series. It can read as a standalone. This is veterinarian Lindsey Ward and ranch foreman Shane Lockhart 's story.<br /><br />Lindsey has a veterinarian practice in Charleston. She hasn't be...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588740921]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588740921]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

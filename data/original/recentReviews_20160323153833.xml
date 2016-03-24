@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1588505052</id>
+    
+  <user>
+    <id>23133809</id>
+    <name>P.S.</name>
+
+    <location>Kalispell, MT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23133809-p-s-winn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1425419459p3/23133809.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1425419459p2/23133809.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29477271</id>
+  <isbn nil="true"/>
+  <isbn13>9781310469497</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>The Green Pearl Caper. A Damien Dickens Mystery</title>
+  <image_url>https://d.gr-assets.com/books/1457641074m/29477271.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457641074s/29477271.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29477271-the-green-pearl-caper-a-damien-dickens-mystery</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>1750852</id>
+<name>Phyllis Entis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440205844p5/1750852.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440205844p2/1750852.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1750852.Phyllis_Entis]]></link>
+<average_rating>4.60</average_rating>
+<ratings_count>35</ratings_count>
+<text_reviews_count>12</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 13:02:22 -0700 2016</read_at>
+  <date_added>Wed Mar 23 13:02:08 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:02:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Even a private investigator can find himself on the wrong side of the law, or at least this is what appears to be happening to Damien Dickens when a a woman he had taken on as a client ends up dead. Tobacco heiress Celine Southerland is dead and the chief suspect appears to be Damien Dickens. Thi...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588505052]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588505052]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588504965</id>
+    
+  <user>
+    <id>5000734</id>
+    <name>RUSA</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5000734-rusa-codes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1298059939p3/5000734.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1298059939p2/5000734.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22748082</id>
+  <isbn>1781168814</isbn>
+  <isbn13>9781781168813</isbn13>
+  <text_reviews_count type="integer">122</text_reviews_count>
+  <title>The Silence</title>
+  <image_url>https://d.gr-assets.com/books/1416179248m/22748082.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1416179248s/22748082.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22748082-the-silence</link>
+  <num_pages>363</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Titan Books</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>463</ratings_count>
+<authors>
+<author>
+<id>59165</id>
+<name>Tim Lebbon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1422031308p5/59165.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1422031308p2/59165.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/59165.Tim_Lebbon]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>45549</ratings_count>
+<text_reviews_count>3192</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reading-list-2016" exclusive="false" review_shelf_id="1263258268" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 13:02:03 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:02:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This title was a Short List selection for the 2016 Horror category.<br />For a complete list of winners please visit <a target="_blank" href="http://www.ala.org/rusa/awards/readinglist" rel="nofollow">http://www.ala.org/rusa/awards/readin...</a>.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588504965]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588504965]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588504782</id>
+    
+  <user>
+    <id>3914942</id>
+    <name>Matthew</name>
+
+    <location>Meriden, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3914942-matthew-bartlett]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442518101p3/3914942.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442518101p2/3914942.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19156267</id>
+  <isbn>1611211891</isbn>
+  <isbn13>9781611211894</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>The Aftermath of Battle: The Burial of the Civil War Dead</title>
+  <image_url>https://d.gr-assets.com/books/1444882358m/19156267.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1444882358s/19156267.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19156267-the-aftermath-of-battle</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Savas Beatie</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>9</ratings_count>
+<authors>
+<author>
+<id>41551</id>
+<name>Kathleen Thompson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/41551.Kathleen_Thompson]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>235</ratings_count>
+<text_reviews_count>37</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 13:01:50 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:02:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[One of the most cited numbers of the American Civil War is the amount of casualties which occurred in the entirety of the conflict. While the number of casualties throughout the war is important, one of more unanswered questions in people’s minds are “what happened to all of the bodies after the...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588504782]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588504782]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588504327</id>
+    
+  <user>
+    <id>49612765</id>
+    <name>Sara</name>
+
+    <location><![CDATA[Manchester, I2, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49612765-sara-aston]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1449012964p3/49612765.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1449012964p2/49612765.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23123770</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">94</text_reviews_count>
+  <title>Claimed by Love</title>
+  <image_url>https://d.gr-assets.com/books/1409334451m/23123770.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1409334451s/23123770.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23123770-claimed-by-love</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>125</ratings_count>
+<authors>
+<author>
+<id>3023973</id>
+<name>Melissa Foster</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1251697182p5/3023973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1251697182p2/3023973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3023973.Melissa_Foster]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>46449</ratings_count>
+<text_reviews_count>5858</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 13:01:49 -0700 2016</read_at>
+  <date_added>Wed Mar 23 13:01:15 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:01:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Loved it. Duke is looking to to buy Elpitha island to turn into a resort shortly after arriving on the island he meets the owners granddaughter Gabriella who has been instructed to be his tour guide. Can she put Duke off her family's island that she loves. Can Duke persuade his business partners...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588504327]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588504327]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588504300</id>
+    
+  <user>
+    <id>24829812</id>
+    <name>Carter</name>
+
+    <location>San Diego, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24829812-carter]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12609434</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">160</text_reviews_count>
+  <title>The Power Of Habit: Why We Do What We Do In Life And Business</title>
+  <image_url>https://d.gr-assets.com/books/1337444667m/12609434.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1337444667s/12609434.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12609434-the-power-of-habit</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Amazon Digital Services</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>3937</ratings_count>
+<authors>
+<author>
+<id>5201530</id>
+<name>Charles Duhigg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1349273209p5/5201530.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1349273209p2/5201530.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5201530.Charles_Duhigg]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>115981</ratings_count>
+<text_reviews_count>6993</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 13:01:14 -0700 2016</read_at>
+  <date_added>Wed Mar 23 13:01:13 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:01:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Important book with tools to help change your life</strong><br /><br />Habits are the cornerstone to making lasting, effective changes in your life. This book explains the mechanic behind the "why" and outline the "how" to making those changes. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588504300]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588504300]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588504272</id>
+    
+  <user>
+    <id>8106106</id>
+    <name>Madeline</name>
+
+    <location>Stillwater, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8106106-madeline]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455736951p3/8106106.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455736951p2/8106106.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">535761</id>
+  <isbn>0763610526</isbn>
+  <isbn13>9780763610524</isbn13>
+  <text_reviews_count type="integer">199</text_reviews_count>
+  <title>Weslandia</title>
+  <image_url>https://d.gr-assets.com/books/1320517880m/535761.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320517880s/535761.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/535761.Weslandia</link>
+  <num_pages>40</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1854</ratings_count>
+<authors>
+<author>
+<id>67810</id>
+<name>Paul Fleischman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1244148776p5/67810.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1244148776p2/67810.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/67810.Paul_Fleischman]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>31047</ratings_count>
+<text_reviews_count>4884</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="kids" exclusive="false" review_shelf_id="1263257540" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 13:01:11 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:02:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is an excellent children's book! The illustrations are fantastic and the oveall message of belonging is helpful to young readers.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588504272]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588504272]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588504043</id>
+    
+  <user>
+    <id>5000734</id>
+    <name>RUSA</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5000734-rusa-codes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1298059939p3/5000734.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1298059939p2/5000734.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22891406</id>
+  <isbn>1617736066</isbn>
+  <isbn13>9781617736063</isbn13>
+  <text_reviews_count type="integer">162</text_reviews_count>
+  <title>Little Girls</title>
+  <image_url>https://d.gr-assets.com/books/1413756144m/22891406.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1413756144s/22891406.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22891406-little-girls</link>
+  <num_pages>331</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>437</ratings_count>
+<authors>
+<author>
+<id>3512996</id>
+<name>Ronald Malfi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1283295839p5/3512996.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1283295839p2/3512996.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3512996.Ronald_Malfi]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>5428</ratings_count>
+<text_reviews_count>978</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reading-list-2016" exclusive="false" review_shelf_id="1263257436" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 13:00:54 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:01:17 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This title was a Short List selection for the 2016 Horror category.<br />For a complete list of winners please visit <a target="_blank" href="http://www.ala.org/rusa/awards/readinglist" rel="nofollow">http://www.ala.org/rusa/awards/readin...</a>.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588504043]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588504043]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588504025</id>
+    
+  <user>
+    <id>3203610</id>
+    <name>Dot</name>
+
+    <location>Fort Myers, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3203610-dot-salvagin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368813210p3/3203610.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368813210p2/3203610.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18925969</id>
+  <isbn>0345548167</isbn>
+  <isbn13>9780345548160</isbn13>
+  <text_reviews_count type="integer">40</text_reviews_count>
+  <title>A Reckless Desire (Breconridge Brothers, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1412038792m/18925969.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1412038792s/18925969.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18925969-a-reckless-desire</link>
+  <num_pages>384</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Ballantine Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>75</ratings_count>
+<authors>
+<author>
+<id>5337544</id>
+<name>Isabella Bradford</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452781277p5/5337544.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452781277p2/5337544.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5337544.Isabella_Bradford]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>2226</ratings_count>
+<text_reviews_count>482</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 19 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 13:00:53 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:02:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is a retelling of the Pygmalion story or if you are not familiar with that, “My Fair Lady”. It follows so closely to that story line that I almost started to sing “The rain In Spain, stays mainly in the plain”. Lucia is a woman who is scorned by her family for not living up to the family exp...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588504025]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588504025]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503968</id>
+    
+  <user>
+    <id>54206985</id>
+    <name>Emilie</name>
+
+    <location>Montréal, QC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54206985-emilie-sauriol]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25413797</id>
+  <isbn nil="true"/>
+  <isbn13>9782924283837</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>La langue rapaillée, combattre l'insécurité linguistique des Québécois</title>
+  <image_url>https://d.gr-assets.com/books/1429803691m/25413797.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1429803691s/25413797.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25413797-la-langue-rapaill-e-combattre-l-ins-curit-linguistique-des-qu-b-cois</link>
+  <num_pages>120</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Somme toute</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>31</ratings_count>
+<authors>
+<author>
+<id>13850058</id>
+<name>Anne-Marie Beaudoin-Bégin</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13850058.Anne_Marie_Beaudoin_B_gin]]></link>
+<average_rating>4.59</average_rating>
+<ratings_count>32</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 15 00:00:00 -0700 2016</read_at>
+  <date_added>Wed Mar 23 13:00:48 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:01:54 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Bien écrit, on aurait dit qu'on me racontait les raisons pour lesquelles je devrais être fière de ma langue.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503968]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503968]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503847</id>
+    
+  <user>
+    <id>23608635</id>
+    <name>Deni</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23608635-deni]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436867712p3/23608635.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436867712p2/23608635.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29368695</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <title>The Big O</title>
+  <image_url>https://d.gr-assets.com/books/1456781849m/29368695.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456781849s/29368695.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29368695-the-big-o</link>
+  <num_pages>220</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>87</ratings_count>
+<authors>
+<author>
+<id>7079478</id>
+<name>H.J. Bellus</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7079478.H_J_Bellus]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>16087</ratings_count>
+<text_reviews_count>2030</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 13:00:39 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:00:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I suddenly have a whole new love for the letter O!!! The Big O is the perfect mix of humor but also a lesson in learning to love yourself flaws and all. <br /><br />“Let’s be honest, and set the stage of my real life situation. I’m twenty-four, a first grade teacher, have a Yorkie named Pedro, a goldfish nam...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503847]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503847]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503789</id>
+    
+  <user>
+    <id>23457359</id>
+    <name>César</name>
+
+    <location>Portugal</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23457359-c-sar-ramalho]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1443955857p3/23457359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1443955857p2/23457359.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7992363</id>
+  <isbn>2246760011</isbn>
+  <isbn13>9782246760016</isbn13>
+  <text_reviews_count type="integer">729</text_reviews_count>
+  <title>HHhH</title>
+  <image_url>https://d.gr-assets.com/books/1356103456m/7992363.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1356103456s/7992363.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7992363-hhhh</link>
+  <num_pages>442</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grasset</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6123</ratings_count>
+<authors>
+<author>
+<id>3465954</id>
+<name>Laurent Binet</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342709342p5/3465954.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1342709342p2/3465954.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3465954.Laurent_Binet]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>9580</ratings_count>
+<text_reviews_count>1382</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 13:00:35 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:01:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Fantástico. E está tudo dito.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503789]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503789]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503597</id>
+    
+  <user>
+    <id>21854176</id>
+    <name>Hayden</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21854176-hayden]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1400512363p3/21854176.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1400512363p2/21854176.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25852840</id>
+  <isbn>0804187185</isbn>
+  <isbn13>9780804187183</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>Tasting Rome: Fresh Flavors and Forgotten Recipes from an Ancient City</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25852840-tasting-rome</link>
+  <num_pages>256</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Clarkson Potter</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>4</ratings_count>
+<authors>
+<author>
+<id>5999302</id>
+<name>Katie Parla</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5999302.Katie_Parla]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>38</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="non-fiction" exclusive="false" review_shelf_id="1263256938" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 13:00:36 -0700 2016</read_at>
+  <date_added>Wed Mar 23 13:00:22 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:00:36 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A gorgeous hardcover cookbook, Tasting Rome had me within its first few pages. Filled with mouth-watering dishes, beautiful photographs, and write-ups about Rome both past and present, I fell in love with this book at first glance.(just the picture of a gelato stand was making my mouth water.)<br /><br />A c...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503597]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503597]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503589</id>
+    
+  <user>
+    <id>14633772</id>
+    <name>Gretchen</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14633772-gretchen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357251464p3/14633772.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357251464p2/14633772.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22571576</id>
+  <isbn>0142181447</isbn>
+  <isbn13>9780142181447</isbn13>
+  <text_reviews_count type="integer">117</text_reviews_count>
+  <title>Unabrow: Misadventures of a Late Bloomer</title>
+  <image_url>https://d.gr-assets.com/books/1404484698m/22571576.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1404484698s/22571576.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22571576-unabrow</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Plume</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>581</ratings_count>
+<authors>
+<author>
+<id>6561857</id>
+<name>Una LaMarche</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1360355168p5/6561857.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1360355168p2/6561857.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6561857.Una_LaMarche]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>3470</ratings_count>
+<text_reviews_count>689</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="funny" exclusive="false" review_shelf_id="1263257094" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 13:00:59 -0700 2016</read_at>
+  <date_added>Wed Mar 23 13:00:21 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:00:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Super funny and I love all the pictures.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503589]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503589]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503543</id>
+    
+  <user>
+    <id>22116881</id>
+    <name>Yvonne</name>
+
+    <location>Groningen, 04, Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22116881-yvonne]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6066864</id>
+  <isbn>9038827261</isbn>
+  <isbn13>9789038827261</isbn13>
+  <text_reviews_count type="integer">140</text_reviews_count>
+  <title>Tirza</title>
+  <image_url>https://d.gr-assets.com/books/1275378412m/6066864.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1275378412s/6066864.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6066864-tirza</link>
+  <num_pages>430</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Nijgh &amp; Van Ditmar</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4895</ratings_count>
+<authors>
+<author>
+<id>24776</id>
+<name>Arnon Grunberg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264452534p5/24776.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264452534p2/24776.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24776.Arnon_Grunberg]]></link>
+<average_rating>3.37</average_rating>
+<ratings_count>14528</ratings_count>
+<text_reviews_count>611</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 01 00:00:00 -0800 2012</started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2012</read_at>
+  <date_added>Wed Mar 23 13:00:18 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:01:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I'm not a big fan of Arnon Grunbergs' work. I think all his characters are a bit alike and repetitive.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503543]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503543]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503357</id>
+    
+  <user>
+    <id>5000734</id>
+    <name>RUSA</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5000734-rusa-codes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1298059939p3/5000734.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1298059939p2/5000734.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23019294</id>
+  <isbn>0062363239</isbn>
+  <isbn13>9780062363237</isbn13>
+  <text_reviews_count type="integer">1057</text_reviews_count>
+  <title>A Head Full of Ghosts</title>
+  <image_url>https://d.gr-assets.com/books/1415678368m/23019294.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415678368s/23019294.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23019294-a-head-full-of-ghosts</link>
+  <num_pages>286</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5553</ratings_count>
+<authors>
+<author>
+<id>648612</id>
+<name>Paul Tremblay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415058580p5/648612.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415058580p2/648612.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/648612.Paul_Tremblay]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>8537</ratings_count>
+<text_reviews_count>1668</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reading-list-2016" exclusive="false" review_shelf_id="1263256782" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 13:00:03 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:00:36 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This title was a Short List selection for the 2016 Horror category.<br />For a complete list of winners please visit <a target="_blank" href="http://www.ala.org/rusa/awards/readinglist" rel="nofollow">http://www.ala.org/rusa/awards/readin...</a>.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503357]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503357]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503251</id>
+    
+  <user>
+    <id>23133809</id>
+    <name>P.S.</name>
+
+    <location>Kalispell, MT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23133809-p-s-winn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1425419459p3/23133809.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1425419459p2/23133809.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25497366</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>THE GREEN PEARL CAPER: A DAMIEN DICKENS MYSTERY (Damien Dickens Mysteries Book 1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25497366-the-green-pearl-caper</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>22</ratings_count>
+<authors>
+<author>
+<id>1750852</id>
+<name>Phyllis Entis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440205844p5/1750852.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440205844p2/1750852.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1750852.Phyllis_Entis]]></link>
+<average_rating>4.60</average_rating>
+<ratings_count>35</ratings_count>
+<text_reviews_count>12</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 13:00:08 -0700 2016</read_at>
+  <date_added>Wed Mar 23 12:59:54 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:00:08 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Even a private investigator can find himself on the wrong side of the law, or at least this is what appears to be happening to Damien Dickens when a a woman he had taken on as a client ends up dead. Tobacco heiress Celine Southerland is dead and the chief suspect appears to be Damien Dickens. Thi...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503251]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503251]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503218</id>
+    
+  <user>
+    <id>32427882</id>
+    <name>The Bookend</name>
+
+    <location>Gonzales, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32427882-the-bookend-family]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1403280048p3/32427882.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1403280048p2/32427882.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22373913</id>
+  <isbn>1455554073</isbn>
+  <isbn13>9781455554072</isbn13>
+  <text_reviews_count type="integer">215</text_reviews_count>
+  <title>Lacy Eye</title>
+  <image_url>https://d.gr-assets.com/books/1403281310m/22373913.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1403281310s/22373913.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22373913-lacy-eye</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1022</ratings_count>
+<authors>
+<author>
+<id>301069</id>
+<name>Jessica Treadway</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456767163p5/301069.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456767163p2/301069.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/301069.Jessica_Treadway]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>1624</ratings_count>
+<text_reviews_count>312</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 13:00:07 -0700 2016</read_at>
+  <date_added>Wed Mar 23 12:59:51 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:00:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[**** 4 out of 5 Stars<br />Review by: Mark Palm<br /><br />In The Family...<br /><br />If you want to see me bolt like a vampire from a wooden stake, call a novel “Psychological.” I lay the blame for this a a former Literature professor who had an unusual fondness for psychological analyses of books, along with a belief that...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503218]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503218]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588503106</id>
+    
+  <user>
+    <id>17381482</id>
+    <name>Sulie</name>
+
+    <location>Rochester, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17381482-sulie-tyler]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1404127936p3/17381482.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1404127936p2/17381482.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">420180</id>
+  <isbn>0142300276</isbn>
+  <isbn13>9780142300275</isbn13>
+  <text_reviews_count type="integer">542</text_reviews_count>
+  <title>The Little White Horse</title>
+  <image_url>https://d.gr-assets.com/books/1331061299m/420180.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1331061299s/420180.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/420180.The_Little_White_Horse</link>
+  <num_pages>238</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Puffin Books</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6829</ratings_count>
+<authors>
+<author>
+<id>50786</id>
+<name>Elizabeth Goudge</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1413290451p5/50786.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1413290451p2/50786.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/50786.Elizabeth_Goudge]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>17353</ratings_count>
+<text_reviews_count>1756</text_reviews_count>
+</author>
+</authors>
+  <published>1946</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Nov 23 00:00:00 -0800 2011</read_at>
+  <date_added>Wed Mar 23 12:59:42 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:01:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[My notes say that this book had lovely description. It is a children's book. The movie Secret of Moonacre is based on it.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588503106]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588503106]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588502939</id>
+    
+  <user>
+    <id>4390167</id>
+    <name>Terry</name>
+
+    <location>Saint Albans, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4390167-terry]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1294870767p3/4390167.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1294870767p2/4390167.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6280473</id>
+  <isbn>0767930886</isbn>
+  <isbn13>9780767930888</isbn13>
+  <text_reviews_count type="integer">660</text_reviews_count>
+  <title>Something Missing</title>
+  <image_url>https://d.gr-assets.com/books/1320524133m/6280473.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320524133s/6280473.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6280473-something-missing</link>
+  <num_pages>294</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Books</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2578</ratings_count>
+<authors>
+<author>
+<id>2854932</id>
+<name>Matthew Dicks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1338130456p5/2854932.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1338130456p2/2854932.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2854932.Matthew_Dicks]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>24404</ratings_count>
+<text_reviews_count>4585</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 12:59:29 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 13:00:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[LOVED this book. The perfect example of the unreliable narrator takes us through his highly unconventional life as a thief. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588502939]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588502939]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1588502930</id>
+    
+  <user>
+    <id>5000734</id>
+    <name>RUSA</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5000734-rusa-codes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1298059939p3/5000734.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1298059939p2/5000734.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17165595</id>
+  <isbn>0399158553</isbn>
+  <isbn13>9780399158551</isbn13>
+  <text_reviews_count type="integer">239</text_reviews_count>
+  <title>Stoker's Manuscript</title>
+  <image_url>https://d.gr-assets.com/books/1356450021m/17165595.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1356450021s/17165595.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17165595-stoker-s-manuscript</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>G.P. Putnam's Sons</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1103</ratings_count>
+<authors>
+<author>
+<id>6863030</id>
+<name>Royce Prouty</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6863030.Royce_Prouty]]></link>
+<average_rating>3.45</average_rating>
+<ratings_count>1295</ratings_count>
+<text_reviews_count>260</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reading-list-2016" exclusive="false" review_shelf_id="1263256334" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 23 12:59:28 -0700 2016</date_added>
+  <date_updated>Wed Mar 23 12:59:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This title was a Read-alike selection for the 2016 Horror category.<br />For a complete list of winners please visit <a target="_blank" href="http://www.ala.org/rusa/awards/readinglist" rel="nofollow">http://www.ala.org/rusa/awards/readin...</a>.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1588502930]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1588502930]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

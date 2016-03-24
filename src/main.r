@@ -78,7 +78,7 @@ train <- lapply(reviewTDM, getSample)
 
 trainSet <- unlist(train,recursive=FALSE)
 
-# trainingSet <- sample(nrow(tdmStack),ceiling(nrow(tdmStack) * 0.7))
+trainingSet <- sample(nrow(tdmStack),ceiling(nrow(tdmStack) * 0.7))
 testSet <- (1:nrow(tdmStack)) [- trainSet]
 
 

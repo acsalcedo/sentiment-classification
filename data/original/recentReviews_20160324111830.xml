@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589250576</id>
+    
+  <user>
+    <id>54232332</id>
+    <name>Suzanna</name>
+
+    <location>Absecon, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54232332-suzanna]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5287473</id>
+  <isbn>1423121309</isbn>
+  <isbn13>9781423121305</isbn13>
+  <text_reviews_count type="integer">6300</text_reviews_count>
+  <title>Hex Hall (Hex Hall, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1368393885m/5287473.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1368393885s/5287473.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5287473-hex-hall</link>
+  <num_pages>323</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hyperion Book CH</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>99887</ratings_count>
+<authors>
+<author>
+<id>2261547</id>
+<name>Rachel Hawkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442494376p5/2261547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442494376p2/2261547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2261547.Rachel_Hawkins]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>261417</ratings_count>
+<text_reviews_count>22143</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:47:43 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:48:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Awesome i love the series its great a romance/magical novel &lt;3]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589250576]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589250576]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589250384</id>
+    
+  <user>
+    <id>5077240</id>
+    <name>Chatel</name>
+
+    <location>Leon, WV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5077240-chatel-casto]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29438610</id>
+  <isbn nil="true"/>
+  <isbn13>9781941695173</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>Miss Frost Solves A Cold Case :  A Nocturne Falls Mystery (Jayne Frost, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1457368672m/29438610.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457368672s/29438610.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29438610-miss-frost-solves-a-cold-case</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>35</ratings_count>
+<authors>
+<author>
+<id>2060858</id>
+<name>Kristen Painter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1276275863p5/2060858.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1276275863p2/2060858.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2060858.Kristen_Painter]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>23658</ratings_count>
+<text_reviews_count>3299</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:47:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:48:24 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Absolutely amazing start to a series! A fun mystery read set in Nocturne Falls. Cant wait to read the next and see what happens with all the elves and the store.<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589250384]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589250384]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589250283</id>
+    
+  <user>
+    <id>4123838</id>
+    <name>Keith</name>
+
+    <location>Brisbane, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4123838-keith-mcardle]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442607202p3/4123838.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442607202p2/4123838.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24522927</id>
+  <isbn nil="true"/>
+  <isbn13>9780994226013</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <title>Trinity - The Prophecy</title>
+  <image_url>https://d.gr-assets.com/books/1421394770m/24522927.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1421394770s/24522927.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24522927-trinity---the-prophecy</link>
+  <num_pages>254</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Kylie Price</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>46</ratings_count>
+<authors>
+<author>
+<id>6642384</id>
+<name>Kylie Price</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449616909p5/6642384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449616909p2/6642384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6642384.Kylie_Price]]></link>
+<average_rating>4.58</average_rating>
+<ratings_count>312</ratings_count>
+<text_reviews_count>139</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 04 00:00:00 -0800 2016</started_at>
+  <read_at>Mon Mar 14 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:47:19 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:47:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was a refreshing, unique take on the paranormal genre. Trinity is a foster child who is looked after with more compassion by her best friend (and best friend's mother) than she is by her own foster mother (or foster monster as she is often referred to in the novel, much to my glee). Trinity...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589250283]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589250283]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249969</id>
+    
+  <user>
+    <id>54225979</id>
+    <name>Markéta</name>
+
+    <location>Versailles, A8, France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54225979-mark-ta-popkov]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9835731</id>
+  <isbn>0374173958</isbn>
+  <isbn13>9780374173951</isbn13>
+  <text_reviews_count type="integer">1947</text_reviews_count>
+  <title>The Hypnotist (Joona Linna, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9835731-the-hypnotist</link>
+  <num_pages>503</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Sarah Crichton Books</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>19394</ratings_count>
+<authors>
+<author>
+<id>3105995</id>
+<name>Lars Kepler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1311345214p5/3105995.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1311345214p2/3105995.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3105995.Lars_Kepler]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>47598</ratings_count>
+<text_reviews_count>4677</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 01 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 08:46:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:47:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Too brutal
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249969]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249969]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249852</id>
+    
+  <user>
+    <id>321503</id>
+    <name>Nic</name>
+
+    <location>Farmville, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/321503-nic]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25852882</id>
+  <isbn>1401261558</isbn>
+  <isbn13>9781401261559</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Robin: Son of Batman, Vol. 1: Year of Blood</title>
+  <image_url>https://d.gr-assets.com/books/1456091052m/25852882.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456091052s/25852882.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25852882-robin</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>DC Comics</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>49</ratings_count>
+<authors>
+<author>
+<id>241175</id>
+<name>Patrick Gleason</name>
+<role>Writer, Penciller</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1305519229p5/241175.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1305519229p2/241175.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/241175.Patrick_Gleason]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>45258</ratings_count>
+<text_reviews_count>2002</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="arc" exclusive="false" review_shelf_id="1263947750" sortable="false" />
+    <shelf name="nfnt" exclusive="false" review_shelf_id="1263948013" sortable="false" />
+    <shelf name="made-me-cry" exclusive="false" review_shelf_id="1263947789" sortable="false" />
+    <shelf name="graphic-novel" exclusive="false" review_shelf_id="1263947978" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:47:56 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:46:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:47:56 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Hi, my name is Nic, and I'm such an emotional marshmallow that actually cried reading Robin: Son of Batman.<br /><br />I'll link to my No Flying No Tights review once it's up.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249852]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249852]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249819</id>
+    
+  <user>
+    <id>28214774</id>
+    <name>Kelly</name>
+
+    <location>Georgetown, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28214774-kelly-yekel]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436510317p3/28214774.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436510317p2/28214774.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28784557</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>That Man Trilogy (That Man, #1-3)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28784557-that-man-trilogy</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>75</ratings_count>
+<authors>
+<author>
+<id>6884399</id>
+<name>Nelle L&apos;Amour</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1365026909p5/6884399.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1365026909p2/6884399.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6884399.Nelle_L_Amour]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>17269</ratings_count>
+<text_reviews_count>1912</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:46:43 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:46:42 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:46:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Fun and Sexy</strong><br /><br />Love the sarcasm and banter between Blake and Jennifer. However, I could done with less of her dramatics. Blake has shown time and again that he deserved the good benefit of doubt of his love for Jennifer. Because love is a powerful emotion that wins every time. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249819]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249819]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249706</id>
+    
+  <user>
+    <id>5077240</id>
+    <name>Chatel</name>
+
+    <location>Leon, WV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5077240-chatel-casto]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26871054</id>
+  <isbn nil="true"/>
+  <isbn13>9781941695135</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <title>The Vampire’s Fake Fiancée (Nocturne Falls, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1452531175m/26871054.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1452531175s/26871054.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26871054-the-vampire-s-fake-fianc-e</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Sugar Skull Books</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>259</ratings_count>
+<authors>
+<author>
+<id>2060858</id>
+<name>Kristen Painter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1276275863p5/2060858.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1276275863p2/2060858.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2060858.Kristen_Painter]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>23658</ratings_count>
+<text_reviews_count>3299</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:46:34 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:46:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is by far the best book in the series but I've been waiting and hoping for Sebastian's book. It did not disappoint!! Got to learn a lot about his past and the who and whys as to the way he is not going to say much else because that would ruin it. This is a must read!!<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249706]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249706]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249592</id>
+    
+  <user>
+    <id>46410460</id>
+    <name>Kenzie</name>
+
+    <location>Greencastle, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46410460-kenzie-m]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">49750</id>
+  <isbn>0525476881</isbn>
+  <isbn13>9780525476887</isbn13>
+  <text_reviews_count type="integer">13739</text_reviews_count>
+  <title>An Abundance of Katherines</title>
+  <image_url>https://d.gr-assets.com/books/1360206426m/49750.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1360206426s/49750.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/49750.An_Abundance_of_Katherines</link>
+  <num_pages>229</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books for Young Readers</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>255716</ratings_count>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>3741538</ratings_count>
+<text_reviews_count>252317</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:46:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:47:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book is really different than most of John Green's other books. It has a sense of hopelessness that really makes you want to keep reading!!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249592]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249592]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249589</id>
+    
+  <user>
+    <id>6289911</id>
+    <name>World Literature Today</name>
+
+    <location>Norman, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6289911-world-literature-today]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458067018p3/6289911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458067018p2/6289911.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25363142</id>
+  <isbn>1936182882</isbn>
+  <isbn13>9781936182886</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Short Flights: Thirty-Two Modern Writers Share Aphorisms of Insight, Inspiration, and Wit</title>
+  <image_url>https://d.gr-assets.com/books/1435188791m/25363142.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1435188791s/25363142.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25363142-short-flights</link>
+  <num_pages>264</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Schaffner Press, Inc.</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>8</ratings_count>
+<authors>
+<author>
+<id>3182045</id>
+<name>James Lough</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3182045.James_Lough]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>82</ratings_count>
+<text_reviews_count>11</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1263947456" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:46:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:47:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["Short Flights seeks to explicate the form, history, and practice of the aphorism as well as inject contemporary tidbits into the collective literary psyche. Most of us are familiar with the quips of Oscar Wilde and the memorable one-liners from the endless plays of William Shakespeare. So much w...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249589]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249589]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249381</id>
+    
+  <user>
+    <id>2536279</id>
+    <name>Arya</name>
+
+    <location>Alma, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2536279-arya]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1268600689p3/2536279.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1268600689p2/2536279.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1061447</id>
+  <isbn>0764221426</isbn>
+  <isbn13>9780764221422</isbn13>
+  <text_reviews_count type="integer">51</text_reviews_count>
+  <title>A Searching Heart (A Prairie Legacy, #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1061447.A_Searching_Heart</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information>Large Print</edition_information>
+  <publisher>Bethany House Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1654</ratings_count>
+<authors>
+<author>
+<id>4049</id>
+<name>Janette Oke</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208370447p5/4049.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208370447p2/4049.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4049.Janette_Oke]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>187718</ratings_count>
+<text_reviews_count>6720</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:46:08 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:47:41 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A Searching Heart is a gentle, thoughtful novel that perfectly captures the feelings of a young woman stuck between the situation of childhood and the wide-open world of adulthood—when she’s already crossed the threshold of womanhood in both mind and body. As usual, Janette Oke masterfully portra...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249381]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249381]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589249059</id>
+    
+  <user>
+    <id>43902651</id>
+    <name>Alicia</name>
+
+    <location>Cape Town, WP, South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43902651-alicia]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28424118</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Passion (The Billionaire's Seduction Series #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28424118-passion</link>
+  <num_pages>168</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Daeron Press</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>26</ratings_count>
+<authors>
+<author>
+<id>6575045</id>
+<name>Cali MacKay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1352560855p5/6575045.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1352560855p2/6575045.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6575045.Cali_MacKay]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>11100</ratings_count>
+<text_reviews_count>833</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:45:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:46:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Good read full of surprising events]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589249059]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589249059]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589248825</id>
+    
+  <user>
+    <id>54232298</id>
+    <name>Karen</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54232298-karen-nichols]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26396182</id>
+  <isbn>1561458651</isbn>
+  <isbn13>9781561458653</isbn13>
+  <text_reviews_count type="integer">40</text_reviews_count>
+  <title>A Friend for Mole</title>
+  <image_url>https://d.gr-assets.com/books/1444889630m/26396182.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1444889630s/26396182.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26396182-a-friend-for-mole</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Peachtree Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>57</ratings_count>
+<authors>
+<author>
+<id>14298442</id>
+<name>Nancy Armo</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14298442.Nancy_Armo]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>57</ratings_count>
+<text_reviews_count>40</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:45:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:46:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Destined to be a classic tale of friendship and overcoming fears.<br />This wonderfully illustrated book tells a simple but effective story that will encourage children to overcome nighttime fears, especially with the help of others. I hope this unlikely friendship of Mole and Wolf continues to flouris...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589248825]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589248825]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589248461</id>
+    
+  <user>
+    <id>28232277</id>
+    <name>Omema</name>
+
+    <location>Karachi, 05, Pakistan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28232277-omema-rizwan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6186357</id>
+  <isbn>0385737947</isbn>
+  <isbn13>9780385737944</isbn13>
+  <text_reviews_count type="integer">38178</text_reviews_count>
+  <title>The Maze Runner (Maze Runner, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1375596592m/6186357.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1375596592s/6186357.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6186357-the-maze-runner</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Delacorte Press</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>537880</ratings_count>
+<authors>
+<author>
+<id>348878</id>
+<name>James Dashner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204922790p5/348878.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204922790p2/348878.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/348878.James_Dashner]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>1251916</ratings_count>
+<text_reviews_count>96637</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:45:01 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:45:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      An enchanting read!!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589248461]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589248461]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589248455</id>
+    
+  <user>
+    <id>6289911</id>
+    <name>World Literature Today</name>
+
+    <location>Norman, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6289911-world-literature-today]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458067018p3/6289911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458067018p2/6289911.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26807410</id>
+  <isbn nil="true"/>
+  <isbn13>9789384067427</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Summer Requiem</title>
+  <image_url>https://d.gr-assets.com/books/1443079047m/26807410.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1443079047s/26807410.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26807410-summer-requiem</link>
+  <num_pages>72</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Aleph Book Company</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>22</ratings_count>
+<authors>
+<author>
+<id>28345</id>
+<name>Vikram Seth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1293504690p5/28345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1293504690p2/28345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28345.Vikram_Seth]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>47223</ratings_count>
+<text_reviews_count>2677</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1263946495" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:45:00 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:45:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["Summer Requiem, written over the last twenty years, is a quiet and meditative book much like his earlier one, All You Who Sleep Tonight. In this volume, the motif of the incarnadine—including the ruddy summer sunset image on the cover—recurs: “Rose light enflamed the eastern sky” (“One Morning”)...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589248455]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589248455]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589248384</id>
+    
+  <user>
+    <id>21069401</id>
+    <name>Christina</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21069401-christina-platt]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430239277p3/21069401.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430239277p2/21069401.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29603815</id>
+  <isbn>1530681413</isbn>
+  <isbn13>9781530681419</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>Trust</title>
+  <image_url>https://d.gr-assets.com/books/1458729988m/29603815.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458729988s/29603815.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29603815-trust</link>
+  <num_pages>250</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>James Grieve Press</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6</ratings_count>
+<authors>
+<author>
+<id>7146180</id>
+<name>P.J.  Adams</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7146180.P_J_Adams]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>1062</ratings_count>
+<text_reviews_count>296</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:44:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:46:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I received an ARC copy of this book in exchange for an honest review.<br /><br />I enjoyed this book. It is the first book by PJ Adams that I have read and I now want to meet more. Jess Taylor goes for a long over due visit to see her grandparents in an assisted living center. She learns that her grandmother...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589248384]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589248384]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589248071</id>
+    
+  <user>
+    <id>5077240</id>
+    <name>Chatel</name>
+
+    <location>Leon, WV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5077240-chatel-casto]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28945442</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>Cyrus (Black Bear Outlaws, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28945442-cyrus</link>
+  <num_pages/>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>16</ratings_count>
+<authors>
+<author>
+<id>14101625</id>
+<name>Kenzie Cox</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14101625.Kenzie_Cox]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1636</ratings_count>
+<text_reviews_count>266</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:44:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:44:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Absolutely amazing read!! I have read everything by this author and she is a great writer, she creates wonderful characters that you cant help but love or hate as well as an amazing world. This is a fast read with sex scenes so if thats not your thing.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589248071]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589248071]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589248070</id>
+    
+  <user>
+    <id>15024981</id>
+    <name>Linda</name>
+
+    <location>Belen, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15024981-linda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1354211341p3/15024981.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1354211341p2/15024981.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">90360</id>
+  <isbn>0060563494</isbn>
+  <isbn13>9780060563493</isbn13>
+  <text_reviews_count type="integer">803</text_reviews_count>
+  <title>Ireland</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/90360.Ireland</link>
+  <num_pages>651</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5368</ratings_count>
+<authors>
+<author>
+<id>46162</id>
+<name>Frank Delaney</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1261359268p5/46162.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1261359268p2/46162.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/46162.Frank_Delaney]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>12121</ratings_count>
+<text_reviews_count>2080</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:44:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:45:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[four stars for the stories but only 2.5 for the stories' matrix story.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589248070]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589248070]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589248068</id>
+    
+  <user>
+    <id>42476024</id>
+    <name>Anne</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42476024-anne-white]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1433772490p3/42476024.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1433772490p2/42476024.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1750265</id>
+  <isbn>0380011921</isbn>
+  <isbn13>9780380011926</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>The Fog Comes on Little Pig Feet</title>
+  <image_url>https://d.gr-assets.com/books/1386297193m/1750265.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1386297193s/1750265.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1750265.The_Fog_Comes_on_Little_Pig_Feet</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information>Large Print</edition_information>
+  <publisher>Avon Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1973</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>27</ratings_count>
+<authors>
+<author>
+<id>3105</id>
+<name>Rosemary Wells</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1242752943p5/3105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1242752943p2/3105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3105.Rosemary_Wells]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>898901</ratings_count>
+<text_reviews_count>12920</text_reviews_count>
+</author>
+</authors>
+  <published>1972</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:44:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:48:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Read during my boarding school obsession ca. age ten, and forgotten until recently.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589248068]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589248068]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589247818</id>
+    
+  <user>
+    <id>23082057</id>
+    <name>Kris</name>
+
+    <location>Virginia Beach, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23082057-kris]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26058397</id>
+  <isbn>1629115614</isbn>
+  <isbn13>9781629115610</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>I'm Sick Now What?: A Balanced Approach to Medicine and God's Healing</title>
+  <image_url>https://d.gr-assets.com/books/1438972722m/26058397.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438972722s/26058397.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26058397-i-m-sick-now-what</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Whitaker House</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>12</ratings_count>
+<authors>
+<author>
+<id>14205727</id>
+<name>Andrew  Butterworth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439896729p5/14205727.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439896729p2/14205727.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14205727.Andrew_Butterworth]]></link>
+<average_rating>4.83</average_rating>
+<ratings_count>12</ratings_count>
+<text_reviews_count>9</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:44:29 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:44:13 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:44:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[What a powerful, practical book for those sick and those who want to stay healthy! Dr. Butterworth is a pastor and doctor in South Africa and has seen much. In this book he brings together the relationship between unforgiveness and sickness. He gives practical steps to forgiving those in your lif...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589247818]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589247818]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589247766</id>
+    
+  <user>
+    <id>4520733</id>
+    <name>Arlene</name>
+
+    <location>Kaysville, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4520733-arlene-szalay]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1325803607p3/4520733.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1325803607p2/4520733.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">14059024</id>
+  <isbn>142316492X</isbn>
+  <isbn13>9781423164920</isbn13>
+  <text_reviews_count type="integer">698</text_reviews_count>
+  <title>The Whispering Skull (Lockwood &amp; Co., #2)</title>
+  <image_url>https://d.gr-assets.com/books/1401303893m/14059024.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1401303893s/14059024.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14059024-the-whispering-skull</link>
+  <num_pages>435</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney Hyperion</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>4558</ratings_count>
+<authors>
+<author>
+<id>33467</id>
+<name>Jonathan Stroud</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1352280023p5/33467.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1352280023p2/33467.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33467.Jonathan_Stroud]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>268577</ratings_count>
+<text_reviews_count>12684</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="slmta" exclusive="false" review_shelf_id="1263946816" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:44:10 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:45:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A good ghostly mystery. I liked the characters voices. Action and humor.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589247766]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589247766]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

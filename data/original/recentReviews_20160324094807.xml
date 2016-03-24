@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589183270</id>
+    
+  <user>
+    <id>4751366</id>
+    <name>Tara</name>
+
+    <location>Harrison, AR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4751366-tara-evans]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7949011</id>
+  <isbn>0007304498</isbn>
+  <isbn13>9780007304493</isbn13>
+  <text_reviews_count type="integer">127</text_reviews_count>
+  <title>Everything We Ever Wanted</title>
+  <image_url>https://d.gr-assets.com/books/1327928539m/7949011.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327928539s/7949011.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7949011-everything-we-ever-wanted</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTorch</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>2</average_rating>
+  <ratings_count>731</ratings_count>
+<authors>
+<author>
+<id>93970</id>
+<name>Sara Shepard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1229580414p5/93970.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1229580414p2/93970.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/93970.Sara_Shepard]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>648954</ratings_count>
+<text_reviews_count>34051</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:17:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Just ok
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589183270]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589183270]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589183204</id>
+    
+  <user>
+    <id>2864369</id>
+    <name>Liz</name>
+
+    <location>Fort Worth, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2864369-liz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28181808</id>
+  <isbn>1680478974</isbn>
+  <isbn13>9781680478976</isbn13>
+  <text_reviews_count type="integer">38</text_reviews_count>
+  <title>Double Play</title>
+  <image_url>https://d.gr-assets.com/books/1449956848m/28181808.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1449956848s/28181808.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28181808-double-play</link>
+  <num_pages>208</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Covenant Communications</publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>60</ratings_count>
+<authors>
+<author>
+<id>6150973</id>
+<name>Ranee S. Clark</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387414599p5/6150973.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387414599p2/6150973.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6150973.Ranee_S_Clark]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>352</ratings_count>
+<text_reviews_count>128</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 19 00:00:00 -0700 2016</started_at>
+  <read_at>Sat Mar 19 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:17:36 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:18:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was a quick read, left you feeling warm &amp; fuzzy. It is the second in this series (I did not read the first) but it was easily read as a stand alone. <br /><br />ARC provided by the publisher via Netgalley in exchange for an honest review.<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589183204]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589183204]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589182958</id>
+    
+  <user>
+    <id>2487858</id>
+    <name>Amy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2487858-amy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436793039p3/2487858.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436793039p2/2487858.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25489475</id>
+  <isbn>0451469453</isbn>
+  <isbn13>9780451469458</isbn13>
+  <text_reviews_count type="integer">95</text_reviews_count>
+  <title>Snappsy the Alligator (Did Not Ask to Be in This Book)</title>
+  <image_url>https://d.gr-assets.com/books/1434189243m/25489475.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1434189243s/25489475.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25489475-snappsy-the-alligator</link>
+  <num_pages>40</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Viking Books for Young Readers</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>345</ratings_count>
+<authors>
+<author>
+<id>13922414</id>
+<name>Julie Falatko</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1432635676p5/13922414.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1432635676p2/13922414.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13922414.Julie_Falatko]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>340</ratings_count>
+<text_reviews_count>93</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pta-grant" exclusive="false" review_shelf_id="1263885013" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 07:17:46 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:17:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Terrific mentor text for breaking the fourth wall. Gives students options in creative writing. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589182958]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589182958]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589182313</id>
+    
+  <user>
+    <id>34970152</id>
+    <name>Shakti</name>
+
+    <location>Bangalore, 19, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34970152-shakti-krishnaswamy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1415523487p3/34970152.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1415523487p2/34970152.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">3023240</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>A Summer Adventure</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3023240-a-summer-adventure</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2008</publication_year>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>1299203</id>
+<name>Sashi Deshpande</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1299203.Sashi_Deshpande]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>16</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 03 00:00:00 -0800 2016</started_at>
+  <read_at>Tue Mar 08 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:16:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Light...Childish and chill !!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589182313]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589182313]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589182254</id>
+    
+  <user>
+    <id>2786341</id>
+    <name>Liz</name>
+
+    <location>Ann Arbor, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2786341-liz]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453127896p3/2786341.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453127896p2/2786341.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22889766</id>
+  <isbn>0385347138</isbn>
+  <isbn13>9780385347136</isbn13>
+  <text_reviews_count type="integer">665</text_reviews_count>
+  <title>Spinster: Making a Life of One's Own</title>
+  <image_url>https://d.gr-assets.com/books/1438054638m/22889766.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438054638s/22889766.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22889766-spinster</link>
+  <num_pages>308</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3611</ratings_count>
+<authors>
+<author>
+<id>8435477</id>
+<name>Kate Bolick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420003385p5/8435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420003385p2/8435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8435477.Kate_Bolick]]></link>
+<average_rating>3.44</average_rating>
+<ratings_count>3800</ratings_count>
+<text_reviews_count>698</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="currently-reading" exclusive="true" review_shelf_id="1263884242" sortable="false" />
+    <shelf name="audiobook" exclusive="false" review_shelf_id="1263884426" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:16:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:16:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Listening to on Scribd. Narrated by Kate Bolick]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589182254]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589182254]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589182091</id>
+    
+  <user>
+    <id>20111893</id>
+    <name>Andrew</name>
+
+    <location>West Babylon, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20111893-andrew-hess]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455734866p3/20111893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455734866p2/20111893.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25141169</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">42</text_reviews_count>
+  <title>Ultimate Betrayal: Revelations</title>
+  <image_url>https://d.gr-assets.com/books/1456447550m/25141169.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456447550s/25141169.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25141169-ultimate-betrayal</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>64</ratings_count>
+<authors>
+<author>
+<id>13643537</id>
+<name>Catrina Courtenay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454172041p5/13643537.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454172041p2/13643537.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13643537.Catrina_Courtenay]]></link>
+<average_rating>4.41</average_rating>
+<ratings_count>76</ratings_count>
+<text_reviews_count>51</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:16:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:16:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Right from the beginning I was hooked. The description and dialogue trapped me within the pages of the story. Erik Sinclair is a cocky, arrogant jerk, which came through perfectly in the beginning. Throughout the story you see behind the mask of a star and let us see who he really is. Ronnie (the...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589182091]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589182091]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589182083</id>
+    
+  <user>
+    <id>2489334</id>
+    <name>Laura</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2489334-laura]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1390444880p3/2489334.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1390444880p2/2489334.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25205318</id>
+  <isbn>1629720798</isbn>
+  <isbn13>9781629720791</isbn13>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>Sweets &amp; Treats with Six Sisters' Stuff: 100+ Desserts, Gift Ideas, and Traditions for the Whole Family</title>
+  <image_url>https://d.gr-assets.com/books/1430944457m/25205318.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1430944457s/25205318.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25205318-sweets-treats-with-six-sisters-stuff</link>
+  <num_pages>176</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Shadow Mountain</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>57</ratings_count>
+<authors>
+<author>
+<id>7786656</id>
+<name>Six Sisters&apos; Stuff</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7786656.Six_Sisters_Stuff]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>607</ratings_count>
+<text_reviews_count>127</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:17:56 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:16:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[There are so many amazing, easy recipes in here - I think I gained weight just reading the book! These girls really know how to add easy panache to celebrations. The highlights for me were a few of the bar recipes and the banoffee pie.<br /><br />There's no nutritional information (which may be a good thing)...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589182083]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589182083]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181996</id>
+    
+  <user>
+    <id>12406809</id>
+    <name>F</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12406809-f]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24848350</id>
+  <isbn>0385540108</isbn>
+  <isbn13>9780385540100</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>My History: A Memoir of Growing Up</title>
+  <image_url>https://d.gr-assets.com/books/1431105321m/24848350.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1431105321s/24848350.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24848350-my-history</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Nan A. Talese</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>50</ratings_count>
+<authors>
+<author>
+<id>6582</id>
+<name>Antonia Fraser</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1252040064p5/6582.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1252040064p2/6582.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6582.Antonia_Fraser]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>59014</ratings_count>
+<text_reviews_count>2469</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jun 04 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:15:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is not fiction, but her world is so completely different to mine it might as well be fiction. It did not engage me in the way that a good novel would - I am just not interested enough in who she is and what she has done, admirable although her writing achievements undoubtedly are.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181996]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181996]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181776</id>
+    
+  <user>
+    <id>38068510</id>
+    <name>Madelynn</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38068510-madelynn-wimmer]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15997</id>
+  <isbn>0140424393</isbn>
+  <isbn13>9780140424393</isbn13>
+  <text_reviews_count type="integer">1742</text_reviews_count>
+  <title>Paradise Lost</title>
+  <image_url>https://d.gr-assets.com/books/1455618673m/15997.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1455618673s/15997.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15997.Paradise_Lost</link>
+  <num_pages>453</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>86694</ratings_count>
+<authors>
+<author>
+<id>9876</id>
+<name>John Milton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438861655p5/9876.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438861655p2/9876.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9876.John_Milton]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>112178</ratings_count>
+<text_reviews_count>2990</text_reviews_count>
+</author>
+</authors>
+  <published>1667</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Dec 01 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Mar 24 07:15:40 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:08 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      I hated it. 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181776]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181776]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181758</id>
+    
+  <user>
+    <id>47643411</id>
+    <name>beverly.hall68yahoo.com</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47643411-beverly-hall68yahoo-com]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28839285</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>Lyric's Curse (Dragonblood Sagas Book 1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28839285-lyric-s-curse</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>148</ratings_count>
+<authors>
+<author>
+<id>13938013</id>
+<name>Robyn Wideman</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13938013.Robyn_Wideman]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>620</ratings_count>
+<text_reviews_count>26</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:15:40 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:15:39 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:15:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Very good read.</strong><br /><br />Nice book called t wait for the next one to come out the purple and black Dragon shoe be lyrics .<br /><br /><br /><br /><br /><br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181758]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181758]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181609</id>
+    
+  <user>
+    <id>54229943</id>
+    <name>Aaron</name>
+
+    <location>Huntersville, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54229943-aaron-goodman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22571259</id>
+  <isbn nil="true"/>
+  <isbn13>B00LH4YYHS</isbn13>
+  <text_reviews_count type="integer">537</text_reviews_count>
+  <title>The Honest Truth</title>
+  <image_url>https://d.gr-assets.com/books/1403803946m/22571259.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1403803946s/22571259.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22571259-the-honest-truth</link>
+  <num_pages>240</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2266</ratings_count>
+<authors>
+<author>
+<id>7544723</id>
+<name>Dan Gemeinhart</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400132005p5/7544723.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400132005p2/7544723.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7544723.Dan_Gemeinhart]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>2941</ratings_count>
+<text_reviews_count>758</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:15:26 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is by far the best book I have ever read. If you dont cry during this book you need to see a doctor.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181609]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181609]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181482</id>
+    
+  <user>
+    <id>18870566</id>
+    <name>Karen</name>
+
+    <location>Perth, 08, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18870566-karen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25644437</id>
+  <isbn>0525954570</isbn>
+  <isbn13>9780525954576</isbn13>
+  <text_reviews_count type="integer">428</text_reviews_count>
+  <title>Find Her (Detective D.D. Warren, #8)</title>
+  <image_url>https://d.gr-assets.com/books/1444071262m/25644437.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1444071262s/25644437.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25644437-find-her</link>
+  <num_pages>416</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2580</ratings_count>
+<authors>
+<author>
+<id>18282</id>
+<name>Lisa Gardner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1395879573p5/18282.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1395879573p2/18282.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18282.Lisa_Gardner]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>333412</ratings_count>
+<text_reviews_count>19472</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 18 00:00:00 -0700 2016</started_at>
+  <read_at>Sat Mar 19 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:15:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:16:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Great read, could not put it down.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181482]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181482]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181350</id>
+    
+  <user>
+    <id>49814847</id>
+    <name>Barbara Boykin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49814847-barbara-boykin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25800064</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>The Bennett Case (A Markham Sisters Cozy Mystery, #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25800064-the-bennett-case</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>71</ratings_count>
+<authors>
+<author>
+<id>7127212</id>
+<name>Diana Xarissa</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400599465p5/7127212.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400599465p2/7127212.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7127212.Diana_Xarissa]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>2147</ratings_count>
+<text_reviews_count>231</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:15:06 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:15:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:15:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Interesting</strong><br /><br />The storyline was different from any mystery books I've read, I did find it interesting. The characters were a different group from what I have encountered before; sometimes funny.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181350]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181350]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181236</id>
+    
+  <user>
+    <id>183839</id>
+    <name>Winna</name>
+
+    <location>Jakarta, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/183839-winna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442479500p3/183839.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442479500p2/183839.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28671884</id>
+  <isbn nil="true"/>
+  <isbn13>9786023397709</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Extra Girl 02 (Extra Girl #2)</title>
+  <image_url>https://d.gr-assets.com/books/1453447227m/28671884.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1453447227s/28671884.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28671884-extra-girl-02</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>m&amp;c!</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>2</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>661298</id>
+<name>Michiyo Akaishi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284678012p5/661298.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284678012p2/661298.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/661298.Michiyo_Akaishi]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>2014</ratings_count>
+<text_reviews_count>108</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="criminal-mystery-thriller" exclusive="false" review_shelf_id="1263883485" sortable="false" />
+    <shelf name="manga-graphic-novels" exclusive="false" review_shelf_id="1263883494" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 07:16:43 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:14:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:16:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Sebenarnya ceritanya mulai lebih berisi, tapi banyak pengulangan info yang berlebihan, di setiap bab mengulang hal yang sama. Dan editing juga terjemahannya bisa lebih halus. Banyak dialog yang ejaannya salah dan terlalu banyak pakai tanda seru jadi kesannya setiap bicara karakternya sedang berse...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181236]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181236]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181176</id>
+    
+  <user>
+    <id>8210707</id>
+    <name>Sunny</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8210707-sunny]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331836482p3/8210707.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331836482p2/8210707.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28448224</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">24</text_reviews_count>
+  <title>Life in Reverse</title>
+  <image_url>https://d.gr-assets.com/books/1457637538m/28448224.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457637538s/28448224.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28448224-life-in-reverse</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>47</ratings_count>
+<authors>
+<author>
+<id>6915179</id>
+<name>Beth Michele</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1360081551p5/6915179.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1360081551p2/6915179.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6915179.Beth_Michele]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>5941</ratings_count>
+<text_reviews_count>905</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:14:48 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:15:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />I really liked this book. The characters were so normal and relatable. You have Ember, a girl that is going through life and trying to figure out how to live after a tragedy. Then you have Vance, a guy trying to deal with a tragedy and a very uncertain future. I liked that there was not an instal...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181176]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181176]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181130</id>
+    
+  <user>
+    <id>8327154</id>
+    <name>Chris</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8327154-chris]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8152697</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1396</text_reviews_count>
+  <title>Wishin' and Hopin'</title>
+  <image_url>https://d.gr-assets.com/books/1328017040m/8152697.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328017040s/8152697.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8152697-wishin-and-hopin</link>
+  <num_pages>268</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>HarperCollins e-books</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>9605</ratings_count>
+<authors>
+<author>
+<id>3505</id>
+<name>Wally Lamb</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1380325783p5/3505.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1380325783p2/3505.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3505.Wally_Lamb]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>576203</ratings_count>
+<text_reviews_count>28446</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:15:48 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:14:44 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:15:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Great little nostalgic novella. I had a lot of good laughs reading this book, and it brought up many childhood memories. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181130]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181130]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181063</id>
+    
+  <user>
+    <id>34812303</id>
+    <name>Amanda</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34812303-amanda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1425495710p3/34812303.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1425495710p2/34812303.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18630542</id>
+  <isbn>0345529375</isbn>
+  <isbn13>9780345529374</isbn13>
+  <text_reviews_count type="integer">1374</text_reviews_count>
+  <title>Seconds</title>
+  <image_url>https://d.gr-assets.com/books/1399502867m/18630542.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1399502867s/18630542.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18630542-seconds</link>
+  <num_pages>323</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ballantine Books</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>13750</ratings_count>
+<authors>
+<author>
+<id>16807</id>
+<name>Bryan Lee O&apos;Malley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1211297899p5/16807.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1211297899p2/16807.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16807.Bryan_Lee_O_Malley]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>289121</ratings_count>
+<text_reviews_count>10765</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="graphic-novels" exclusive="false" review_shelf_id="1263883327" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:17:38 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:14:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:17:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A graphic novel that interweaves a fairy-cautionary tale about changing what should be with a hopes and aspirations of a determined, take-charge-with-no-apologies, bossy chef. House spirits, posh menus, and uber cute waitstaff included. A super fun, delicious, creative tale. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181063]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181063]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181062</id>
+    
+  <user>
+    <id>6562742</id>
+    <name>Carol</name>
+
+    <location>Allston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6562742-carol]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">375802</id>
+  <isbn>0812550706</isbn>
+  <isbn13>9780812550702</isbn13>
+  <text_reviews_count type="integer">30115</text_reviews_count>
+  <title>Ender's Game (The Ender Quintet, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1408303130m/375802.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1408303130s/375802.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/375802.Ender_s_Game</link>
+  <num_pages>324</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Author's Definitive Edition</edition_information>
+  <publisher>Tor</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>700761</ratings_count>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>1869823</ratings_count>
+<text_reviews_count>82917</text_reviews_count>
+</author>
+</authors>
+  <published>1985</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:14:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:16:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Re-read this childhood favorite, and it's still good. He does an excellent job of portraying precocious children and Ender's moral struggles. The school dynamics are so vivid, as are all the games and simulations. A science fiction classic!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181062]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181062]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589181000</id>
+    
+  <user>
+    <id>7967242</id>
+    <name>Monica</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7967242-monica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452824166p3/7967242.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452824166p2/7967242.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23381007</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">603</text_reviews_count>
+  <title>Bitter of Tongue (Tales from the Shadowhunter Academy, #7)</title>
+  <image_url>https://d.gr-assets.com/books/1439325518m/23381007.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1439325518s/23381007.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23381007-bitter-of-tongue</link>
+  <num_pages>57</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>4802</ratings_count>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p5/150038.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p2/150038.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>4076345</ratings_count>
+<text_reviews_count>223513</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2016" exclusive="false" review_shelf_id="1263883507" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:14:33 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:15:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>4.5</strong><br /><br />my heart. it's breaking. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589181000]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589181000]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589180912</id>
+    
+  <user>
+    <id>54229816</id>
+    <name>Anthony</name>
+
+    <location>Hightstown, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54229816-anthony-torres]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">275612</id>
+  <isbn>1556524277</isbn>
+  <isbn13>9781556524271</isbn13>
+  <text_reviews_count type="integer">419</text_reviews_count>
+  <title>My Bloody Life: The Making of a Latin King</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/275612.My_Bloody_Life</link>
+  <num_pages>299</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Chicago Review Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3138</ratings_count>
+<authors>
+<author>
+<id>160599</id>
+<name>Reymundo Sánchez</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/160599.Reymundo_S_nchez]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>5823</ratings_count>
+<text_reviews_count>706</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Feb 03 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Mar 24 07:14:25 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:15:55 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Reymundo Sanchez is looking to escape child abuse from his mom and step dad, so he turns from baseball and school to sex, alcohol, and drugs by joining one of the most feared gang in Chicago the Latin Kings. Reymundo Sanchez is about 14 years old and he is already smoking, drinking, and having se...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589180912]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589180912]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

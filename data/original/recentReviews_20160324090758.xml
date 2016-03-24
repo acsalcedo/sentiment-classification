@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589155940</id>
+    
+  <user>
+    <id>29576836</id>
+    <name>Cheryl</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29576836-cheryl]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1416099841p3/29576836.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1416099841p2/29576836.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">76475</id>
+  <isbn>1844280012</isbn>
+  <isbn13>9781844280018</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <title>I'll Be Home For Christmas</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/76475.I_ll_Be_Home_For_Christmas</link>
+  <num_pages>32</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>367</ratings_count>
+<authors>
+<author>
+<id>43494</id>
+<name>Holly Hobbie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1448120334p5/43494.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1448120334p2/43494.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/43494.Holly_Hobbie]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>4846</ratings_count>
+<text_reviews_count>626</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 06:37:58 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:36:58 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:37:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It was a good read, finished it in 3 days]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155940]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155940]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589155904</id>
+    
+  <user>
+    <id>2958378</id>
+    <name>Laurie</name>
+
+    <location>Ledyard, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2958378-laurie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1258632604p3/2958378.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1258632604p2/2958378.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16130537</id>
+  <isbn>1476727910</isbn>
+  <isbn13>9781476727912</isbn13>
+  <text_reviews_count type="integer">1721</text_reviews_count>
+  <title>The Humans</title>
+  <image_url>https://d.gr-assets.com/books/1353739654m/16130537.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1353739654s/16130537.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16130537-the-humans</link>
+  <num_pages>285</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>11336</ratings_count>
+<authors>
+<author>
+<id>76360</id>
+<name>Matt Haig</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1296764418p5/76360.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1296764418p2/76360.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/76360.Matt_Haig]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>32384</ratings_count>
+<text_reviews_count>5449</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 06:37:34 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:36:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:37:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It's irreverent, funny and completely genius! <br />Full review here:<br /><a target="_blank" href="http://abookloverswalk.blogspot.com/2016/03/the-humans-by-matt-haig.html" rel="nofollow">http://abookloverswalk.blogspot.com/2...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155904]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155904]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589155765</id>
+    
+  <user>
+    <id>50874942</id>
+    <name>Chris</name>
+
+    <location>Sandy, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50874942-chris-maier]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453425289p3/50874942.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453425289p2/50874942.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7445</id>
+  <isbn>074324754X</isbn>
+  <isbn13>9780743247542</isbn13>
+  <text_reviews_count type="integer">34561</text_reviews_count>
+  <title>The Glass Castle</title>
+  <image_url>https://d.gr-assets.com/books/1400930557m/7445.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1400930557s/7445.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7445.The_Glass_Castle</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Scribner trade paperback edition</edition_information>
+  <publisher>Scribner</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>558772</ratings_count>
+<authors>
+<author>
+<id>3275</id>
+<name>Jeannette Walls</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188356528p5/3275.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188356528p2/3275.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3275.Jeannette_Walls]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>718635</ratings_count>
+<text_reviews_count>51574</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 06:37:39 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:36:42 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:37:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Loved it! 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155765]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155765]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589155569</id>
+    
+  <user>
+    <id>1339227</id>
+    <name>Brandi Rae</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1339227-brandi-rae]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303255640p3/1339227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303255640p2/1339227.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25189315</id>
+  <isbn>0393351904</isbn>
+  <isbn13>9780393351903</isbn13>
+  <text_reviews_count type="integer">434</text_reviews_count>
+  <title>Smoke Gets in Your Eyes: And Other Lessons from the Crematory</title>
+  <image_url>https://d.gr-assets.com/books/1436549658m/25189315.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1436549658s/25189315.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25189315-smoke-gets-in-your-eyes</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3001</ratings_count>
+<authors>
+<author>
+<id>7802044</id>
+<name>Caitlin Doughty</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1393881961p5/7802044.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1393881961p2/7802044.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7802044.Caitlin_Doughty]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>14176</ratings_count>
+<text_reviews_count>1989</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="adult-non-fiction" exclusive="false" review_shelf_id="1263857704" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 06:36:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:37:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[At the same time funny and dark; this was also really informative, both in terms of what actually happens to your body after death, as well as the cultural and historical rituals of death.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155569]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155569]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589155516</id>
+    
+  <user>
+    <id>8227503</id>
+    <name>Nikki</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8227503-nikki]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1380313519p3/8227503.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1380313519p2/8227503.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28535515</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">43</text_reviews_count>
+  <title>Sweet Love</title>
+  <image_url>https://d.gr-assets.com/books/1452716199m/28535515.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1452716199s/28535515.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28535515-sweet-love</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>53</ratings_count>
+<authors>
+<author>
+<id>7759261</id>
+<name>K.C. Lynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452530432p5/7759261.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452530432p2/7759261.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7759261.K_C_Lynn]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>26579</ratings_count>
+<text_reviews_count>2341</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 06:36:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:36:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[K.C. has easily done it again with “Sweet Love”. We get a glimpse into the lives of the Evans family, Sawyer, Grace, Hope, and Parker with this story of sweet, sweet, love. The sexy alpha Sawyer is back ladies and he does not disappoint. Still that sweet, dirty talking, alpha husband that we all...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155516]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155516]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589155423</id>
+    
+  <user>
+    <id>48917163</id>
+    <name>Andrew</name>
+
+    <location><![CDATA[Bolton, BL1 7JP, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48917163-andrew]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447512299p3/48917163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447512299p2/48917163.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">623395</id>
+  <isbn>0140621393</isbn>
+  <isbn13>9780140621396</isbn13>
+  <text_reviews_count type="integer">79</text_reviews_count>
+  <title>Journey to the Centre of the Earth</title>
+  <image_url>https://d.gr-assets.com/books/1326025033m/623395.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1326025033s/623395.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/623395.Journey_to_the_Centre_of_the_Earth</link>
+  <num_pages>254</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>932</ratings_count>
+<authors>
+<author>
+<id>696805</id>
+<name>Jules Verne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322911579p5/696805.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322911579p2/696805.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/696805.Jules_Verne]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>473958</ratings_count>
+<text_reviews_count>14872</text_reviews_count>
+</author>
+</authors>
+  <published>1864</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 06:36:10 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:36:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[An excellent and very easily readable adventure. As most novels from that era it is actually very realistic (to me it is more believable than aliens landing etc.)and left me feeling that if I followed the descriptions of the journey, I could have the same adventure. Almost like a travelog.The lan...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155423]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155423]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589155285</id>
+    
+  <user>
+    <id>1136686</id>
+    <name>Joy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1136686-joy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1358786227p3/1136686.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1358786227p2/1136686.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22557272</id>
+  <isbn>1594633665</isbn>
+  <isbn13>9781594633669</isbn13>
+  <text_reviews_count type="integer">48946</text_reviews_count>
+  <title>The Girl on the Train</title>
+  <image_url>https://d.gr-assets.com/books/1421709869m/22557272.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1421709869s/22557272.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22557272-the-girl-on-the-train</link>
+  <num_pages>325</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Riverhead Books</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>444302</ratings_count>
+<authors>
+<author>
+<id>1063732</id>
+<name>Paula Hawkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449627715p5/1063732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449627715p2/1063732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1063732.Paula_Hawkins]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>549473</ratings_count>
+<text_reviews_count>58032</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 06:37:39 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:35:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:37:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[More sympathetic protagonist than any of the characters in Gone Girl.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155285]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155285]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589155173</id>
+    
+  <user>
+    <id>35862541</id>
+    <name>D. Reed</name>
+
+    <location>Houston, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35862541-d-reed-whittaker]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1413085024p3/35862541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1413085024p2/35862541.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7632329</id>
+  <isbn>0747598681</isbn>
+  <isbn13>9780747598688</isbn13>
+  <text_reviews_count type="integer">718</text_reviews_count>
+  <title>Operation Mincemeat: How a Dead Man and a Bizarre Plan Fooled the Nazis and Assured an Allied Victory</title>
+  <image_url>https://d.gr-assets.com/books/1327448835m/7632329.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327448835s/7632329.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7632329-operation-mincemeat</link>
+  <num_pages>400</num_pages>
+  <format/>
+  <edition_information/>
+  <publisher>Bloomsbury</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>6992</ratings_count>
+<authors>
+<author>
+<id>32137</id>
+<name>Ben Macintyre</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1271482179p5/32137.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1271482179p2/32137.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32137.Ben_Macintyre]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>29203</ratings_count>
+<text_reviews_count>3610</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 06:36:28 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:35:43 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:36:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Interesting story, nicely written.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589155173]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589155173]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589154788</id>
+    
+  <user>
+    <id>50705729</id>
+    <name>Voluptueusement</name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50705729-voluptueusement-votre]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451828646p3/50705729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451828646p2/50705729.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29548761</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Journal d'un gentleman, saison 2, tome 1</title>
+  <image_url>https://d.gr-assets.com/books/1458331062m/29548761.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458331062s/29548761.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29548761-journal-d-un-gentleman-saison-2-tome-1</link>
+  <num_pages>60</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Nisha Editions</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>14747474</id>
+<name>Eva de Kerlan</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14747474.Eva_de_Kerlan]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>30</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:35:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:35:33 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Je m’attendais à retrouver notre Alex au milieu de l’aéroport et reprendre l’histoire telle qu’on l’avait laissé et bien j’ai été très étonnée de la redécouvrir du point de vue d’Oriane. Vous allez me dire mais à quoi bon ? Qu’est-ce que ça nous apporte? Et je vous réponds que grâce à ce tome on...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589154788]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589154788]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589154703</id>
+    
+  <user>
+    <id>6042815</id>
+    <name>Floryie</name>
+
+    <location>India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6042815-floryie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1428414004p3/6042815.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1428414004p2/6042815.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24764676</id>
+  <isbn nil="true"/>
+  <isbn13>9781311748546</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>The Final Straight</title>
+  <image_url>https://d.gr-assets.com/books/1422650340m/24764676.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1422650340s/24764676.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24764676-the-final-straight</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>12</ratings_count>
+<authors>
+<author>
+<id>1439252</id>
+<name>Charlotte Howard</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1439252.Charlotte_Howard]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>50</ratings_count>
+<text_reviews_count>18</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 06:34:53 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:35:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I received a free copy in exchange for an honest review.<br /><br />I will be honest. I picked up this book because it has my favourite best friends to lovers theme. But the book turned out to be more than that.<br /><br />It was quite an enjoyable read. It was a fast read and I literally flew through the pages. Though...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589154703]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589154703]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589154662</id>
+    
+  <user>
+    <id>1412589</id>
+    <name>Remo</name>
+
+    <location>Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1412589-remo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1330850679p3/1412589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1330850679p2/1412589.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23273185</id>
+  <isbn>8431008210</isbn>
+  <isbn13>9788431008215</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Los Hollister en Suiza</title>
+  <image_url>https://d.gr-assets.com/books/1411732833m/23273185.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1411732833s/23273185.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23273185-los-hollister-en-suiza</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ediciones Toray, S.A.</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>5421043</id>
+<name>Jerry  West</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344280367p5/5421043.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344280367p2/5421043.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5421043.Jerry_West]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>5968</ratings_count>
+<text_reviews_count>193</text_reviews_count>
+</author>
+</authors>
+  <published>1963</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="1985" exclusive="false" review_shelf_id="1263856953" sortable="false" />
+    <shelf name="novela" exclusive="false" review_shelf_id="1263856981" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu May 09 00:00:00 -0700 1985</read_at>
+  <date_added>Thu Mar 24 06:34:47 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:35:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Los Hollister es la serie de libros que me inició definitivamente en la lectura. Recuerdo haber leído el primero y, con todo el dinero que había ahorrado por mi primera comunión y en todos los años anteriores, ir a por los 32 restantes, que costaban 600 pelas cada uno. Los compré todos en la feri...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589154662]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589154662]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589154379</id>
+    
+  <user>
+    <id>34799299</id>
+    <name>T.P.</name>
+
+    <location>North Attleboro, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34799299-t-p-keane]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456585853p3/34799299.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456585853p2/34799299.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28029287</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>Healing Ties (Ties Series Book 1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28029287-healing-ties</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>11</ratings_count>
+<authors>
+<author>
+<id>3247272</id>
+<name>Jennifer Roche</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3247272.Jennifer_Roche]]></link>
+<average_rating>4.67</average_rating>
+<ratings_count>9</ratings_count>
+<text_reviews_count>7</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 06:35:23 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:34:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:35:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Healing Ties is a heartwarming, sometimes wrenching, story about two girls whose friendship was torn apart by interfering socialites and money. But it's more that that. It's also about Andrea finding herself and Blythe (the popular socialite) falling from grace. It's a story about forgiveness and...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589154379]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589154379]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589154342</id>
+    
+  <user>
+    <id>1412589</id>
+    <name>Remo</name>
+
+    <location>Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1412589-remo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1330850679p3/1412589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1330850679p2/1412589.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23273155</id>
+  <isbn>8431012129</isbn>
+  <isbn13>9788431012120</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Los Hollister y el reloj de cuco</title>
+  <image_url>https://d.gr-assets.com/books/1411731814m/23273155.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1411731814s/23273155.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23273155-los-hollister-y-el-reloj-de-cuco</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ediciones Toray, S.A.</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>4</ratings_count>
+<authors>
+<author>
+<id>5421043</id>
+<name>Jerry  West</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344280367p5/5421043.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344280367p2/5421043.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5421043.Jerry_West]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>5968</ratings_count>
+<text_reviews_count>193</text_reviews_count>
+</author>
+</authors>
+  <published>1963</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="1985" exclusive="false" review_shelf_id="1263856545" sortable="false" />
+    <shelf name="novela" exclusive="false" review_shelf_id="1263856560" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon May 06 00:00:00 -0700 1985</read_at>
+  <date_added>Thu Mar 24 06:34:12 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:34:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Los Hollister es la serie de libros que me inició definitivamente en la lectura. Recuerdo haber leído el primero y, con todo el dinero que había ahorrado por mi primera comunión y en todos los años anteriores, ir a por los 32 restantes, que costaban 600 pelas cada uno. Los compré todos en la feri...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589154342]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589154342]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589154301</id>
+    
+  <user>
+    <id>4213407</id>
+    <name>Mary</name>
+
+    <location>Florissant, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4213407-mary-gramlich]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1372817854p3/4213407.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1372817854p2/4213407.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26154344</id>
+  <isbn>0778318850</isbn>
+  <isbn13>9780778318859</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <title>What We Find (Sullivan's Crossing, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1446764670m/26154344.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1446764670s/26154344.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26154344-what-we-find</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>MIRA</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>57</ratings_count>
+<authors>
+<author>
+<id>107767</id>
+<name>Robyn Carr</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238297656p5/107767.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238297656p2/107767.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/107767.Robyn_Carr]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>245901</ratings_count>
+<text_reviews_count>15738</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 06:34:10 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:34:24 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Maggie Sullivan has had enough work, personal life issues, and emotional break downs to last a person a life time and she is only in her late 30’s. So when she said it was enough it was time to recharge her battery and spend some quality time at her father Sully’s cross roads camp ground. She had...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589154301]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589154301]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589153796</id>
+    
+  <user>
+    <id>29576836</id>
+    <name>Cheryl</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29576836-cheryl]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1416099841p3/29576836.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1416099841p2/29576836.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24899046</id>
+  <isbn>0451466748</isbn>
+  <isbn13>9780451466747</isbn13>
+  <text_reviews_count type="integer">76</text_reviews_count>
+  <title>Alone In the Dark (Cincinnati, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1433273615m/24899046.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1433273615s/24899046.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24899046-alone-in-the-dark</link>
+  <num_pages>721</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Signet</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>435</ratings_count>
+<authors>
+<author>
+<id>75375</id>
+<name>Karen      Rose</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452535736p5/75375.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452535736p2/75375.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/75375.Karen_Rose]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>79822</ratings_count>
+<text_reviews_count>4679</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 06:33:53 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:33:17 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:33:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      the book was alright.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589153796]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589153796]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589153780</id>
+    
+  <user>
+    <id>1412589</id>
+    <name>Remo</name>
+
+    <location>Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1412589-remo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1330850679p3/1412589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1330850679p2/1412589.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23273196</id>
+  <isbn>8431031433</isbn>
+  <isbn13>9788431031435</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Los Hollister en el castillo de roca</title>
+  <image_url>https://d.gr-assets.com/books/1411733287m/23273196.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1411733287s/23273196.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23273196-los-hollister-en-el-castillo-de-roca</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ediciones Toray, S.A.</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>5421043</id>
+<name>Jerry  West</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344280367p5/5421043.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344280367p2/5421043.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5421043.Jerry_West]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>5968</ratings_count>
+<text_reviews_count>193</text_reviews_count>
+</author>
+</authors>
+  <published>1963</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="1985" exclusive="false" review_shelf_id="1263856099" sortable="false" />
+    <shelf name="novela" exclusive="false" review_shelf_id="1263856121" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri May 03 00:00:00 -0700 1985</read_at>
+  <date_added>Thu Mar 24 06:33:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:33:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Los Hollister es la serie de libros que me inició definitivamente en la lectura. Recuerdo haber leído el primero y, con todo el dinero que había ahorrado por mi primera comunión y en todos los años anteriores, ir a por los 32 restantes, que costaban 600 pelas cada uno. Los compré todos en la feri...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589153780]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589153780]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589153717</id>
+    
+  <user>
+    <id>48917163</id>
+    <name>Andrew</name>
+
+    <location><![CDATA[Bolton, BL1 7JP, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48917163-andrew]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447512299p3/48917163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447512299p2/48917163.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">97333</id>
+  <isbn>156478181X</isbn>
+  <isbn13>9781564781819</isbn13>
+  <text_reviews_count type="integer">436</text_reviews_count>
+  <title>At Swim-Two-Birds</title>
+  <image_url>https://d.gr-assets.com/books/1330416040m/97333.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1330416040s/97333.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/97333.At_Swim_Two_Birds</link>
+  <num_pages>239</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dalkey Archive Press</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>7455</ratings_count>
+<authors>
+<author>
+<id>15248</id>
+<name>Flann O&apos;Brien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1356027168p5/15248.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1356027168p2/15248.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15248.Flann_O_Brien]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>22528</ratings_count>
+<text_reviews_count>1981</text_reviews_count>
+</author>
+</authors>
+  <published>1939</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 06:33:10 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:34:14 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I was very disappointed in this book.<br /><br />It did not live up to the promise that was raised by "the poor mouth" (definitely a 5 star book). This book is highly experimental (other reviewers have likened it to Ulysses - or, worse still, Finnegan's Wake - and their ilk).<br /><br />Clearly the writer is clever, but...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589153717]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589153717]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589153583</id>
+    
+  <user>
+    <id>11409379</id>
+    <name>Stacey</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11409379-stacey]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454617234p3/11409379.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454617234p2/11409379.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">129783</id>
+  <isbn>0385340370</isbn>
+  <isbn13>9780385340373</isbn13>
+  <text_reviews_count type="integer">443</text_reviews_count>
+  <title>The Other Side of the Bridge</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/129783.The_Other_Side_of_the_Bridge</link>
+  <num_pages>296</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>The Dial Press</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3750</ratings_count>
+<authors>
+<author>
+<id>5619</id>
+<name>Mary Lawson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1253559594p5/5619.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1253559594p2/5619.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5619.Mary_Lawson]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>18127</ratings_count>
+<text_reviews_count>2304</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 06:33:58 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:32:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:33:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I did enjoy the stories in this work, but the Jacob/Esau-type brothers were rather too clear cut to be believable.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589153583]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589153583]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589153451</id>
+    
+  <user>
+    <id>23832087</id>
+    <name>Leslie</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23832087-leslie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1378831474p3/23832087.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1378831474p2/23832087.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25361875</id>
+  <isbn>0451470125</isbn>
+  <isbn13>9780451470126</isbn13>
+  <text_reviews_count type="integer">97</text_reviews_count>
+  <title>A Ghoul's Guide to Love and Murder (Ghost Hunter Mystery, #10)</title>
+  <image_url>https://d.gr-assets.com/books/1435793511m/25361875.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1435793511s/25361875.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25361875-a-ghoul-s-guide-to-love-and-murder</link>
+  <num_pages>332</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>423</ratings_count>
+<authors>
+<author>
+<id>74488</id>
+<name>Victoria Laurie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404569463p5/74488.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404569463p2/74488.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/74488.Victoria_Laurie]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>87173</ratings_count>
+<text_reviews_count>6088</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 06:32:42 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:32:42 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:32:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A fun ride as always. At times crazy dark, but MJ, Heath and Gillie make it all worth while. I didn't realize she was ending the series though. That makes me sad.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589153451]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589153451]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589153267</id>
+    
+  <user>
+    <id>1186245</id>
+    <name>Andrew</name>
+
+    <location>Baltimore, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1186245-andrew]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1438348181p3/1186245.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1438348181p2/1186245.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17742014</id>
+  <isbn>1607067498</isbn>
+  <isbn13>9781607067498</isbn13>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <title>Prophet, Volume 2: Brothers</title>
+  <image_url>https://d.gr-assets.com/books/1381312433m/17742014.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1381312433s/17742014.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17742014-prophet-volume-2</link>
+  <num_pages>172</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Image Comics</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>709</ratings_count>
+<authors>
+<author>
+<id>7631424</id>
+<name>Brandon Graham</name>
+<role>Writer</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417883118p5/7631424.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417883118p2/7631424.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7631424.Brandon_Graham]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>6902</ratings_count>
+<text_reviews_count>735</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="comics" exclusive="false" review_shelf_id="1263857289" sortable="false" />
+    <shelf name="image" exclusive="false" review_shelf_id="1263857317" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 06:32:23 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 06:36:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[More conventional than the first volume. This time, Graham and company make room for frivolities like "supporting characters" and "dialog." I miss the alien minimalism of the first volume, but this is still one of the most intriguing of the recent Image books. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589153267]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589153267]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

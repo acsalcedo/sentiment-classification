@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589176604</id>
+    
+  <user>
+    <id>47378022</id>
+    <name>Tamara</name>
+
+    <location>Northridge, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/47378022-tamara-turner]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22332879</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>A Half-Dozen Horrors</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22332879-a-half-dozen-horrors</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>8197111</id>
+<name>C.L. Hernandez</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8197111.C_L_Hernandez]]></link>
+<average_rating>4.51</average_rating>
+<ratings_count>87</ratings_count>
+<text_reviews_count>28</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:08:05 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:08:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:08:05 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Hernandez Does It Again</strong><br /><br />I love the creepiliciousness of Hernandez's mind. This is another spine- tingling collection that you're sure to love. So get your copy and savor these tasty morsels. You won't be disappointed. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589176604]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589176604]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589176348</id>
+    
+  <user>
+    <id>2487858</id>
+    <name>Amy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2487858-amy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436793039p3/2487858.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436793039p2/2487858.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">825377</id>
+  <isbn>0763619612</isbn>
+  <isbn13>9780763619619</isbn13>
+  <text_reviews_count type="integer">950</text_reviews_count>
+  <title>The Dot</title>
+  <image_url>https://d.gr-assets.com/books/1363702319m/825377.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1363702319s/825377.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/825377.The_Dot</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>12275</ratings_count>
+<authors>
+<author>
+<id>198837</id>
+<name>Peter H. Reynolds</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272901481p5/198837.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272901481p2/198837.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/198837.Peter_H_Reynolds]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>86198</ratings_count>
+<text_reviews_count>6381</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 07:08:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:07:40 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:08:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Lesson is a tad heavy-handed. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589176348]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589176348]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589176159</id>
+    
+  <user>
+    <id>29417358</id>
+    <name>Lo</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29417358-lo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452019167p3/29417358.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452019167p2/29417358.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">14759306</id>
+  <isbn>0545415675</isbn>
+  <isbn13>9780545415675</isbn13>
+  <text_reviews_count type="integer">129</text_reviews_count>
+  <title>If the Shoe Fits (Whatever After, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1358266388m/14759306.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1358266388s/14759306.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14759306-if-the-shoe-fits</link>
+  <num_pages>166</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day/>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1860</ratings_count>
+<authors>
+<author>
+<id>771</id>
+<name>Sarah Mlynowski</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209389266p5/771.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209389266p2/771.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/771.Sarah_Mlynowski]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>98511</ratings_count>
+<text_reviews_count>7425</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:07:23 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I liked this book better than the first, I think there was more action and happiness.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589176159]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589176159]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589176137</id>
+    
+  <user>
+    <id>50132696</id>
+    <name>Dennis</name>
+
+    <location>Palmyra, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50132696-dennis-cohick]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450375909p3/50132696.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450375909p2/50132696.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6892613</id>
+  <isbn>0375856706</isbn>
+  <isbn13>9780375856709</isbn13>
+  <text_reviews_count type="integer">84</text_reviews_count>
+  <title>The Sons of Liberty #1</title>
+  <image_url>https://d.gr-assets.com/books/1320478631m/6892613.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320478631s/6892613.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6892613-the-sons-of-liberty-1</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>280</ratings_count>
+<authors>
+<author>
+<id>3085445</id>
+<name>Alexander Lagos</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3085445.Alexander_Lagos]]></link>
+<average_rating>3.45</average_rating>
+<ratings_count>440</ratings_count>
+<text_reviews_count>125</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 11 00:00:00 -0800 2016</started_at>
+  <read_at>Thu Mar 24 07:08:02 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:07:21 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:08:02 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[was awsome wow i think alot about this now]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589176137]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589176137]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589176004</id>
+    
+  <user>
+    <id>28625892</id>
+    <name>Ammy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28625892-ammy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24323739</id>
+  <isbn>006210568X</isbn>
+  <isbn13>9780062105684</isbn13>
+  <text_reviews_count type="integer">322</text_reviews_count>
+  <title>The Opposite of Everyone</title>
+  <image_url>https://d.gr-assets.com/books/1443553895m/24323739.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1443553895s/24323739.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24323739-the-opposite-of-everyone</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1129</ratings_count>
+<authors>
+<author>
+<id>45915</id>
+<name>Joshilyn Jackson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447590446p5/45915.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447590446p2/45915.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/45915.Joshilyn_Jackson]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>65160</ratings_count>
+<text_reviews_count>8365</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:09 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Paula is a 35 year old fiercely independent divorce lawyer. She was raised by a free spirited young storyteller mother, Kai, who reinvented their history as they roamed from place to place. Kai was incarcerated for 22 months and Paula was placed in the foster care system. When Kai was released, t...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589176004]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589176004]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175986</id>
+    
+  <user>
+    <id>54229211</id>
+    <name>Julie</name>
+
+    <location>Lexington, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54229211-julie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">488908</id>
+  <isbn>0671493183</isbn>
+  <isbn13>9780671493189</isbn13>
+  <text_reviews_count type="integer">159</text_reviews_count>
+  <title>Doggies</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/488908.Doggies</link>
+  <num_pages>14</num_pages>
+  <format>Board Book</format>
+  <edition_information/>
+  <publisher>Little Simon</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>1984</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3970</ratings_count>
+<authors>
+<author>
+<id>3161</id>
+<name>Sandra Boynton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272640545p5/3161.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1272640545p2/3161.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3161.Sandra_Boynton]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>137191</ratings_count>
+<text_reviews_count>4349</text_reviews_count>
+</author>
+</authors>
+  <published>1984</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Oh the barking... this one gets tiresome...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175986]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175986]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175970</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9652383</id>
+  <isbn>8876848940</isbn>
+  <isbn13>9788876848940</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>Le città senza tempo</title>
+  <image_url>https://d.gr-assets.com/books/1327668083m/9652383.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327668083s/9652383.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9652383-le-citt-senza-tempo</link>
+  <num_pages>206</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Narrativa</edition_information>
+  <publisher>Frassinelli</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>9</ratings_count>
+<authors>
+<author>
+<id>34589</id>
+<name>Boris Akunin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209706400p5/34589.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209706400p2/34589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/34589.Boris_Akunin]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>44220</ratings_count>
+<text_reviews_count>1931</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["non sono un collezionista di cimiteri o tombe, ma mi interessa, probabilmente, il Mistero del Tempo Passato : dove Ã andato a finire e che cosa succede alle persone che lo popolavano ?".<br /><br /> Con questa premessa l'autore ci porta ad esplorare i cimiteri: non il luogo dolente ma il luogo dove la Stori...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175970]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175970]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175917</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9649427</id>
+  <isbn>8861920233</isbn>
+  <isbn13>9788861920231</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>Il bosco delle storie perdute</title>
+  <image_url>https://d.gr-assets.com/books/1327583457m/9649427.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327583457s/9649427.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9649427-il-bosco-delle-storie-perdute</link>
+  <num_pages>315</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Elliot Edizioni</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>2</average_rating>
+  <ratings_count>31</ratings_count>
+<authors>
+<author>
+<id>858208</id>
+<name>Eileen Favorite</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224198010p5/858208.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224198010p2/858208.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/858208.Eileen_Favorite]]></link>
+<average_rating>2.78</average_rating>
+<ratings_count>933</ratings_count>
+<text_reviews_count>264</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[All'inizio si rimane un poco confusi. Si viene catapultati in canovaccio narrativo complicato dal mix fra cio' che e' reale e la fantasia letteraria che si materializza.<br /> Madre e figlia in un paesino speduto nel Midwest americano (e non la piu' ovvia campagna anglo-irlandese) vivono una vita "movi...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175917]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175917]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175909</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9731974</id>
+  <isbn>8817868647</isbn>
+  <isbn13>9788817868648</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Una canna da pesca per mio nonno</title>
+  <image_url>https://d.gr-assets.com/books/1359295445m/9731974.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1359295445s/9731974.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9731974-una-canna-da-pesca-per-mio-nonno</link>
+  <num_pages>138</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Rizzoli</publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>13</ratings_count>
+<authors>
+<author>
+<id>25708</id>
+<name>Gao Xingjian</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1378878108p5/25708.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1378878108p2/25708.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25708.Gao_Xingjian]]></link>
+<average_rating>3.54</average_rating>
+<ratings_count>4505</ratings_count>
+<text_reviews_count>535</text_reviews_count>
+</author>
+</authors>
+  <published>1989</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[uno sguardo al presente (primi anni 80) cinese. Simpatetico ma da osservatore. Una sintassi che segue il ritmo dei pensieri. A volte interminabili, contorti, estemporanei. Altre volte sintetici e pregni.âUna serie di racconti. Tanti piccoli quadri. Quello che da il titolo al libro e' secondo me i...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175909]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175909]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175825</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10245378</id>
+  <isbn>8804555823</isbn>
+  <isbn13>9788804555827</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>L'impero dei draghi</title>
+  <image_url>https://d.gr-assets.com/books/1364811528m/10245378.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1364811528s/10245378.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10245378-l-impero-dei-draghi</link>
+  <num_pages>450</num_pages>
+  <format>Hardcover</format>
+  <edition_information>I Miti #183</edition_information>
+  <publisher>Mondadori</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>31</ratings_count>
+<authors>
+<author>
+<id>33451</id>
+<name>Valerio Massimo Manfredi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234125056p5/33451.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234125056p2/33451.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33451.Valerio_Massimo_Manfredi]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>27155</ratings_count>
+<text_reviews_count>1110</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:05 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:05 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      un ottimo &quot;mestierante&quot;
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175825]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175825]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175724</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">3646841</id>
+  <isbn>8838481695</isbn>
+  <isbn13>9788838481697</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Il signore del falco</title>
+  <image_url>https://d.gr-assets.com/books/1294832706m/3646841.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1294832706s/3646841.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3646841-il-signore-del-falco</link>
+  <num_pages>476</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Piemme</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>36</ratings_count>
+<authors>
+<author>
+<id>1108203</id>
+<name>Valeria Montaldi</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1108203.Valeria_Montaldi]]></link>
+<average_rating>3.29</average_rating>
+<ratings_count>251</ratings_count>
+<text_reviews_count>18</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[parte di una trilogia che ha saputo coinvolgermi]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175724]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175724]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175722</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9688688</id>
+  <isbn>881702323X</isbn>
+  <isbn13>9788817023238</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>India per signorine</title>
+  <image_url>https://d.gr-assets.com/books/1319792948m/9688688.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1319792948s/9688688.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9688688-india-per-signorine</link>
+  <num_pages>116</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Rizzoli</publisher>
+  <publication_day/>
+  <publication_year>2008</publication_year>
+  <publication_month/>
+  <average_rating>2</average_rating>
+  <ratings_count>6</ratings_count>
+<authors>
+<author>
+<id>383529</id>
+<name>Rosa Matteucci</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/383529.Rosa_Matteucci]]></link>
+<average_rating>3.08</average_rating>
+<ratings_count>48</ratings_count>
+<text_reviews_count>11</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[se sei un viaggiatore vero non potra' che innervosirti.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175722]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175722]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175716</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16031860</id>
+  <isbn>8845918025</isbn>
+  <isbn13>9788845918025</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Fedeli a oltranza. Un viaggio tra i popoli convertiti all'Islam</title>
+  <image_url>https://d.gr-assets.com/books/1347910351m/16031860.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1347910351s/16031860.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16031860-fedeli-a-oltranza-un-viaggio-tra-i-popoli-convertiti-all-islam</link>
+  <num_pages>525</num_pages>
+  <format>Paperback</format>
+  <edition_information>Gli Adelphi</edition_information>
+  <publisher>Adelphi</publisher>
+  <publication_day/>
+  <publication_year>2003</publication_year>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>3989</id>
+<name>V.S. Naipaul</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1193773119p5/3989.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1193773119p2/3989.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3989.V_S_Naipaul]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>44184</ratings_count>
+<text_reviews_count>2939</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Un'analisi scritta in tempi non sospetti e da una persona non sospettabile di avere una "visione crociata" o essere un agente imperialista, a seconda dell'interlocutore di turno. <br /> Uno scrittore che ha saputo vedere molto meglio di tanti una realtÃ fino a poco tempo fa minimizzata dai giornalisti...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175716]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175716]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175713</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11547753</id>
+  <isbn>8860731771</isbn>
+  <isbn13>9788860731777</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Lo rifarei!</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11547753-lo-rifarei</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>4465925</id>
+<name>Camila Raznovich</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4465925.Camila_Raznovich]]></link>
+<average_rating>3.21</average_rating>
+<ratings_count>24</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Non sottovalutate questo libello. Un percorso formativo "suo malgrado"che ben pochi ad i giorni nostri possono solo immaginare.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175713]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175713]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175684</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8761515</id>
+  <isbn>8804503637</isbn>
+  <isbn13>9788804503637</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>L'ultima legione</title>
+  <image_url>https://d.gr-assets.com/books/1295360752m/8761515.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1295360752s/8761515.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8761515-l-ultima-legione</link>
+  <num_pages>448</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Mondadori</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>45</ratings_count>
+<authors>
+<author>
+<id>33451</id>
+<name>Valerio Massimo Manfredi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234125056p5/33451.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234125056p2/33451.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33451.Valerio_Massimo_Manfredi]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>27155</ratings_count>
+<text_reviews_count>1110</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[alla radice del mito di Artu', la fuga (inventata) dell'ultimo imperatore di Roma.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175684]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175684]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175681</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17621400</id>
+  <isbn>8804579188</isbn>
+  <isbn13>9788804579182</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Il violoncellista di Sarajevo</title>
+  <image_url>https://d.gr-assets.com/books/1363783506m/17621400.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1363783506s/17621400.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17621400-il-violoncellista-di-sarajevo</link>
+  <num_pages>201</num_pages>
+  <format>Paperback</format>
+  <edition_information>Strade blu</edition_information>
+  <publisher>Mondadori</publisher>
+  <publication_day/>
+  <publication_year>2008</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>7</ratings_count>
+<authors>
+<author>
+<id>291620</id>
+<name>Steven Galloway</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232244321p5/291620.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232244321p2/291620.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/291620.Steven_Galloway]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>21921</ratings_count>
+<text_reviews_count>3042</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Il nucleo centrale del libro e' la storia del violoncellista Vedran SmajloviÄ‡ che nelle fasi iniziali dell'assedio di Sarajevo si esibi' in mezzo alle rovine della citta'. Non solo per i concittadini assediati ma affinche' l'essere umano in genere riscoprisse in se quello che la guerra cercava c...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175681]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175681]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175674</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9272035</id>
+  <isbn>881703763X</isbn>
+  <isbn13>9788817037631</isbn13>
+  <text_reviews_count type="integer">144</text_reviews_count>
+  <title>Acciaio</title>
+  <image_url>https://d.gr-assets.com/books/1327345883m/9272035.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327345883s/9272035.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9272035-acciaio</link>
+  <num_pages>358</num_pages>
+  <format>Hardcover</format>
+  <edition_information>La scala Rizzoli</edition_information>
+  <publisher>Rizzoli</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1515</ratings_count>
+<authors>
+<author>
+<id>4268413</id>
+<name>Silvia Avallone</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1346989833p5/4268413.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1346989833p2/4268413.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4268413.Silvia_Avallone]]></link>
+<average_rating>3.35</average_rating>
+<ratings_count>2688</ratings_count>
+<text_reviews_count>308</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Sono rimasto piacevolmente colpito dalla fluiditÃ della scrittura della Avallone e della sua capacitÃ nel trasmettermi le sensazioni di calura di una Piombino assolata e affogata dentro i casermoni sul mare. CosÃ vicino all'Elba eppure irrimediabilmente lontana.<br /> La storia di Anna e Francesca Ã un...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175674]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175674]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175650</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9761256</id>
+  <isbn>8889829419</isbn>
+  <isbn13>9788889829417</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Che cos'è l'universo?</title>
+  <image_url>https://d.gr-assets.com/books/1365707206m/9761256.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1365707206s/9761256.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9761256-che-cos-e-l-universo</link>
+  <num_pages>16</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>858957</id>
+<name>Margherita Hack</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264276388p5/858957.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264276388p2/858957.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/858957.Margherita_Hack]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>546</ratings_count>
+<text_reviews_count>57</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[in un ora di seminario M.H. Ã in grado di riassumere senza mai annoiare gli elementi storici e le parti scientifiche essenziali della astronomia moderna.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175650]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175649</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10168609</id>
+  <isbn>8804583584</isbn>
+  <isbn13>9788804583585</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>L'infinito viaggiare</title>
+  <image_url>https://d.gr-assets.com/books/1335795946m/10168609.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1335795946s/10168609.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10168609-l-infinito-viaggiare</link>
+  <num_pages>280</num_pages>
+  <format>Paperback</format>
+  <edition_information>Oscar contemporanea</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>14</ratings_count>
+<authors>
+<author>
+<id>36438</id>
+<name>Claudio Magris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1372654961p5/36438.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1372654961p2/36438.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/36438.Claudio_Magris]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>1699</ratings_count>
+<text_reviews_count>195</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Magris Ã una persona colta ed intelligente, curiosa e cosmopolita. Ha tutti gli elementi per piacere, tuttavia ... ha una prosa spesso circonvoluta, troppo italiana quindi come stile "saggistico". Forse sarebbe meglio dire troppo poco anglosassone. Considerando che molti di questi scritti origina...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175649]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175649]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589175641</id>
+    
+  <user>
+    <id>5663355</id>
+    <name>Niklaus</name>
+
+    <location>milano, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5663355-niklaus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308577009p3/5663355.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308577009p2/5663355.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10543210</id>
+  <isbn>8811674700</isbn>
+  <isbn13>9788811674702</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Elogio dell'imperfezione</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10543210-elogio-dell-imperfezione</link>
+  <num_pages>282</num_pages>
+  <format>Paperback</format>
+  <edition_information>Gli Elefanti Saggi</edition_information>
+  <publisher>Garzanti </publisher>
+  <publication_day/>
+  <publication_year>1990</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>286276</id>
+<name>Rita Levi-Montalcini</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1398177293p5/286276.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1398177293p2/286276.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/286276.Rita_Levi_Montalcini]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>221</ratings_count>
+<text_reviews_count>31</text_reviews_count>
+</author>
+</authors>
+  <published>1987</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:07:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:07:03 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[da 5 stelle la sua avventura scientifica, da tre stelle la capacitÃ narrativa biografica. Per intenderci siamo anni luce da "Zio Tungsteno" di Oliver Sacks.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589175641]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589175641]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

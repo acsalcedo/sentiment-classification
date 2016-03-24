@@ -30,7 +30,10 @@ readFile <- function(path,fileName) {
     dataList <- list()
 
     while(length(currentLine <- readLines(inputFile, n=1, warn=FALSE)) > 0) {
-        dataList <- c(dataList, c=currentLine)
+        
+        #Removes HTML tags.
+        line <- gsub("<.*?>", "", currentLine)
+        dataList <- c(dataList, c=line)
     }
     close(inputFile)
     return (dataList)
@@ -42,14 +45,12 @@ termDocumentMatrix <- function(reviews, path) {
     data <- Corpus(VectorSource(readFile(path,reviews)))
     cleanedData <- processedData(data)
     tdMatrix <- TermDocumentMatrix(cleanedData)
-
-    #TODO - Ver como funciona linea por linea
-    # tdMatrix <- removeSparseTerms(tdMatrix,0.6)
+    # tdMatrix <- removeSparseTerms(tdMatrix,0.8)
     result <- list(name = reviews, tdm = tdMatrix)
 }
 
 tdm <- lapply(reviews,termDocumentMatrix, path = path)
- 
+
 bindTDM <- function(tdm) {
 
     matrix <- t(data.matrix(tdm[["tdm"]]))
@@ -60,39 +61,40 @@ bindTDM <- function(tdm) {
 }
 
 reviewTDM <- lapply(tdm, bindTDM)
-
-
-# #TODO Quizas no es necesario
 tdmStack <- do.call(rbind.fill, reviewTDM)
 tdmStack[is.na (tdmStack)] <- 0
-# reviewTDM[is.na (reviewTDM)] <- 0
 
-
-
-getSample <- function(reviewTDM) {
-    trainingSet <- sample(nrow(reviewTDM),ceiling(nrow(reviewTDM) * 0.8))
-    return (trainingSet)
+getRandomSets <- function(reviewTDM) {
+    trainSet <- sample(nrow(reviewTDM),ceiling(nrow(reviewTDM) * 0.8))
+    testSet <- (1:nrow(reviewTDM)) [-trainSet]
+    return (list(trainSet,testSet))
 }
 
-train <- lapply(reviewTDM, getSample)
+sets <- lapply(reviewTDM, getRandomSets)
 
-trainSet <- unlist(train,recursive=FALSE)
+positiveTrainSet <- sets[[1]][[1]]
+positiveTestSet <- sets[[1]][[2]]
 
-trainingSet <- sample(nrow(tdmStack),ceiling(nrow(tdmStack) * 0.7))
-testSet <- (1:nrow(tdmStack)) [- trainSet]
+sizePositive <- nrow(reviewTDM[[1]]["Target"])
 
-
-# KNN
-
-tdmReview <- tdmStack[,"Target"]
-tdmReviewWithoutTarget <- tdmStack[, !colnames(tdmStack) %in% "Target"]
+negativeTrainSet <- sapply(sets[[2]][[1]],function(x) sum(x,sizePositive))
+negativeTestSet <- sapply(sets[[2]][[2]],function(x) sum(x,sizePositive))
 
 
-classifyKnn <- knn(tdmReviewWithoutTarget[trainingSet, ], tdmReviewWithoutTarget[testSet,], tdmReview[trainingSet])
+trainSet <- c(positiveTrainSet,negativeTrainSet)
+testSet <- c(positiveTestSet,negativeTestSet)
 
-confusionMatrix <- table("Predictions" = classifyKnn, Actual = tdmReview[testSet])
+# # KNN
+
+reviewsClass <- tdmStack[,"Target"]
+reviewsWithoutTarget <- tdmStack[, !colnames(tdmStack) %in% "Target"]
 
 
-(accuracy <- sum(diag(confusionMatrix)) / length(testSet) * 100)
+classifyKnn <- knn(reviewsWithoutTarget[trainSet, ], reviewsWithoutTarget[testSet,], reviewsClass[trainSet])
+confusionMatrix <- table("Predictions" = classifyKnn, Actual = reviewsClass[testSet])
 
 
+accuracy <- (sum(diag(confusionMatrix)) / length(testSet)) * 100
+
+print (accuracy)
+print (confusionMatrix)

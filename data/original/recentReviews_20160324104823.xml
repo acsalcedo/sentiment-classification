@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589225912</id>
+    
+  <user>
+    <id>54150523</id>
+    <name>Alyssa</name>
+
+    <location>North Brunswick, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54150523-alyssa-bree]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458618163p3/54150523.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458618163p2/54150523.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18479354</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Being Henry David</title>
+  <image_url>https://d.gr-assets.com/books/1381257038m/18479354.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1381257038s/18479354.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18479354-being-henry-david</link>
+  <num_pages>317</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Albert Whitman &amp; Company</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>107</ratings_count>
+<authors>
+<author>
+<id>6538688</id>
+<name>Cal Armistead</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1349916074p5/6538688.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1349916074p2/6538688.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6538688.Cal_Armistead]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>2077</ratings_count>
+<text_reviews_count>383</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:17:54 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:54 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Propelling</strong><br /><br />I read this book without putting it down. It was written beautifully, and the plot developed nicely.<br />There were awkward moments though that had me hyper aware of the narrator's voice. It didn't feel artistically intentional, but rather like the author was trying to fill the reader in on...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225912]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225912]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589225848</id>
+    
+  <user>
+    <id>35947902</id>
+    <name>Haley</name>
+
+    <location>Sandy, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35947902-haley]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15881</id>
+  <isbn>0439064864</isbn>
+  <isbn13>9780439064866</isbn13>
+  <text_reviews_count type="integer">19800</text_reviews_count>
+  <title>Harry Potter and the Chamber of Secrets (Harry Potter, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1370043634m/15881.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1370043634s/15881.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets</link>
+  <num_pages>341</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1497810</ratings_count>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.41</average_rating>
+<ratings_count>14671202</ratings_count>
+<text_reviews_count>306613</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:17:49 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Life's not easy for Harry, his family died by an awful man. He lives with his mothers sister and her horrible son. Harry just wants to get out of this place and go back to his favorite school hogwarts. He gets a strange warring from a l Strange created names gobby. Gobby is a very weird creature...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225848]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225848]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589225587</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">18026</text_reviews_count>
+  <title>Angels &amp; Demons  (Robert Langdon, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1303390735m/960.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1303390735s/960.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>713</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1654515</ratings_count>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>4536952</ratings_count>
+<text_reviews_count>126755</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Feb 22 00:00:00 -0800 2014</read_at>
+  <date_added>Thu Mar 24 08:17:28 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I enjoyed this much much more than I thought I would, it's so easy to read- almost like a children's book, yet the content is clearly intended for adults only with the gore that makes it a typical thriller. This had a really captivating storyline and has really made me want to visit The Vatican....]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225587]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225587]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589225514</id>
+    
+  <user>
+    <id>52276527</id>
+    <name>Fred</name>
+
+    <location>Boynton Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52276527-fred-yderf]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13330549</id>
+  <isbn>0553593625</isbn>
+  <isbn13>9780553593624</isbn13>
+  <text_reviews_count type="integer">734</text_reviews_count>
+  <title>Princess Elizabeth's Spy (Maggie Hope, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1336319137m/13330549.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1336319137s/13330549.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13330549-princess-elizabeth-s-spy</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5354</ratings_count>
+<authors>
+<author>
+<id>517286</id>
+<name>Susan Elia MacNeal</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367720131p5/517286.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367720131p2/517286.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/517286.Susan_Elia_MacNeal]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>24523</ratings_count>
+<text_reviews_count>3697</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:17:23 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      VERY GOOD
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225514]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225514]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589225421</id>
+    
+  <user>
+    <id>16154349</id>
+    <name>Christy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16154349-christy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452518822p3/16154349.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452518822p2/16154349.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26109394</id>
+  <isbn>0525955097</isbn>
+  <isbn13>9780525955092</isbn13>
+  <text_reviews_count type="integer">106</text_reviews_count>
+  <title>Fool Me Once</title>
+  <image_url>https://d.gr-assets.com/books/1443190440m/26109394.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1443190440s/26109394.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26109394-fool-me-once</link>
+  <num_pages>390</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>236</ratings_count>
+<authors>
+<author>
+<id>24689</id>
+<name>Harlan Coben</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1361316023p5/24689.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1361316023p2/24689.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24689.Harlan_Coben]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>598348</ratings_count>
+<text_reviews_count>40132</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="netgalley" exclusive="false" review_shelf_id="1263926236" sortable="false" />
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1263926203" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:17:37 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:17:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Harlen Coben is one of my favourite authors so I knew I was in for a treat and wasn't disappointed. Maya Stern is a "retired" helicopter pilot - forced out of the army after an unfortunate incident which has left her troubled, her reputation damaged, and suffering with PTSD. It covers the issues...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225421]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225421]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589225053</id>
+    
+  <user>
+    <id>54231564</id>
+    <name>Aman</name>
+
+    <location>Kolkata, 28, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54231564-aman-deep]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458832608p3/54231564.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458832608p2/54231564.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7011879</id>
+  <isbn>8188575658</isbn>
+  <isbn13>9788188575657</isbn13>
+  <text_reviews_count type="integer">196</text_reviews_count>
+  <title>Of Course I Love You...! Till I Find Someone Better...</title>
+  <image_url>https://d.gr-assets.com/books/1274597947m/7011879.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1274597947s/7011879.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7011879-of-course-i-love-you-till-i-find-someone-better</link>
+  <num_pages>232</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Srishti</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5676</ratings_count>
+<authors>
+<author>
+<id>4071652</id>
+<name>Durjoy Datta</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364639748p5/4071652.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364639748p2/4071652.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4071652.Durjoy_Datta]]></link>
+<average_rating>3.49</average_rating>
+<ratings_count>39057</ratings_count>
+<text_reviews_count>1634</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Jun 14 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:16:49 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      nothing
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225053]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225053]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589225044</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13366259</id>
+  <isbn>0316219363</isbn>
+  <isbn13>9780316219365</isbn13>
+  <text_reviews_count type="integer">2537</text_reviews_count>
+  <title>The Yellow Birds</title>
+  <image_url>https://d.gr-assets.com/books/1346188518m/13366259.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1346188518s/13366259.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13366259-the-yellow-birds</link>
+  <num_pages>226</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>16326</ratings_count>
+<authors>
+<author>
+<id>3140334</id>
+<name>Kevin Powers</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1402585455p5/3140334.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1402585455p2/3140334.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3140334.Kevin_Powers]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>18407</ratings_count>
+<text_reviews_count>2884</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 10 00:00:00 -0700 2014</read_at>
+  <date_added>Thu Mar 24 08:16:48 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A very sad and moving tale about young men struggling through the war in Iraq. This had some very powerful messages in it but is surprisingly easy to read. This will stay with you for a while.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225044]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225044]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589225006</id>
+    
+  <user>
+    <id>16292193</id>
+    <name>Downward</name>
+
+    <location>Wayne, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16292193-downward]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25810398</id>
+  <isbn>0525429638</isbn>
+  <isbn13>9780525429630</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>The Association of Small Bombs</title>
+  <image_url>https://d.gr-assets.com/books/1441308136m/25810398.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1441308136s/25810398.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25810398-the-association-of-small-bombs</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Viking</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>31</ratings_count>
+<authors>
+<author>
+<id>1856113</id>
+<name>Karan Mahajan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438552833p5/1856113.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1438552833p2/1856113.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1856113.Karan_Mahajan]]></link>
+<average_rating>3.19</average_rating>
+<ratings_count>294</ratings_count>
+<text_reviews_count>56</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:17:26 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:16:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[rreview forthcoming on americanmicroreviews.com]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589225006]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589225006]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224957</id>
+    
+  <user>
+    <id>5090385</id>
+    <name>Dee</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5090385-dee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1323711936p3/5090385.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1323711936p2/5090385.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18045891</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1273</text_reviews_count>
+  <title>Sharp Objects</title>
+  <image_url>https://d.gr-assets.com/books/1370630413m/18045891.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1370630413s/18045891.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18045891-sharp-objects</link>
+  <num_pages>254</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Paperbacks</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>27305</ratings_count>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>1865102</ratings_count>
+<text_reviews_count>167306</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 17 00:00:00 -0700 2016</started_at>
+  <read_at>Sat Mar 19 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:16:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:18:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I struggled with Gone Girl - didn't have the desire to finish it. Gave Sharp Objects a try and finished it in just a few days!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224957]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224957]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224779</id>
+    
+  <user>
+    <id>24243279</id>
+    <name>Mandy</name>
+
+    <location>River Falls, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24243279-mandy-cummings]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22098550</id>
+  <isbn>0062377019</isbn>
+  <isbn13>9780062377012</isbn13>
+  <text_reviews_count type="integer">440</text_reviews_count>
+  <title>Pax</title>
+  <image_url>https://d.gr-assets.com/books/1434493048m/22098550.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1434493048s/22098550.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22098550-pax</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Balzer + Bray</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1795</ratings_count>
+<authors>
+<author>
+<id>92198</id>
+<name>Sara Pennypacker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1309165313p5/92198.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1309165313p2/92198.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/92198.Sara_Pennypacker]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>35905</ratings_count>
+<text_reviews_count>3936</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:16:28 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book was beautifully written. Loved the changes in points of view. For the animal lovers, this one will touch your heart.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224779]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224779]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224708</id>
+    
+  <user>
+    <id>5620811</id>
+    <name>Joe</name>
+
+    <location>Mount Sinai, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5620811-joe-labriola]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1370267949p3/5620811.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1370267949p2/5620811.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4799</id>
+  <isbn>014200068X</isbn>
+  <isbn13>9780142000687</isbn13>
+  <text_reviews_count type="integer">2733</text_reviews_count>
+  <title>Cannery Row</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4799.Cannery_Row</link>
+  <num_pages>181</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>69292</ratings_count>
+<authors>
+<author>
+<id>585</id>
+<name>John Steinbeck</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p5/585.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p2/585.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2503301</ratings_count>
+<text_reviews_count>64453</text_reviews_count>
+</author>
+</authors>
+  <published>1945</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:16:22 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:18:03 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[While clear in purpose if not necessarily plot, "Cannery Row" by John Steinbeck is a triumph of literary prose - a poetically told Depression era tale that leaves you feeling as if you just read a song as well as a story.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224708]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224708]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224684</id>
+    
+  <user>
+    <id>31407485</id>
+    <name>Demigod</name>
+
+    <location>New Delhi, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31407485-demigod]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">256683</id>
+  <isbn>1416914285</isbn>
+  <isbn13>9781416914280</isbn13>
+  <text_reviews_count type="integer">37809</text_reviews_count>
+  <title>City of Bones (The Mortal Instruments, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1432730315m/256683.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1432730315s/256683.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/256683.City_of_Bones</link>
+  <num_pages>485</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Margaret K. McElderry Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>960225</ratings_count>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p5/150038.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p2/150038.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>4080430</ratings_count>
+<text_reviews_count>223898</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:16:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:16:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      sexy as hell
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224684]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224684]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224648</id>
+    
+  <user>
+    <id>43703415</id>
+    <name>مصطفى</name>
+
+    <location>Mansoura, Egypt</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43703415]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442652971p3/43703415.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442652971p2/43703415.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16299530</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>إذا مسنا الغيم</title>
+  <image_url>https://d.gr-assets.com/books/1356104645m/16299530.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1356104645s/16299530.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16299530</link>
+  <num_pages>83</num_pages>
+  <format>Paperback</format>
+  <edition_information>2012</edition_information>
+  <publisher>دار كَلِمة للنشر والتوزيع</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>6653537</id>
+<name>مصطفى عبدربه</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1429914753p5/6653537.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1429914753p2/6653537.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6653537._]]></link>
+<average_rating>3.00</average_rating>
+<ratings_count>3</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:16:18 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:16:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[لتحميل الكتاب PDF<br /><br /><a target="_blank" href="http://www.4shared.com/office/KdJ99eVYce/____.html" rel="nofollow">http://www.4shared.com/office/KdJ99eV...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224648]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224648]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224625</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5759</id>
+  <isbn>0393327345</isbn>
+  <isbn13>9780393327342</isbn13>
+  <text_reviews_count type="integer">7821</text_reviews_count>
+  <title>Fight Club</title>
+  <image_url>https://d.gr-assets.com/books/1357128997m/5759.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1357128997s/5759.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5759.Fight_Club</link>
+  <num_pages>218</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W.W. Norton &amp; Company (NYC)</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>319240</ratings_count>
+<authors>
+<author>
+<id>2546</id>
+<name>Chuck Palahniuk</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1391203076p5/2546.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1391203076p2/2546.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2546.Chuck_Palahniuk]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>1069484</ratings_count>
+<text_reviews_count>44853</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 30 00:00:00 -0700 2014</read_at>
+  <date_added>Thu Mar 24 08:16:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:16:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I really enjoyed reading this. I'm glad that I read the book first, because after watching half of the film, the book goes into so much more depth. This was very fast paced, and the author didn't drag it out to make it a longer story than it was.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224625]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224625]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224437</id>
+    
+  <user>
+    <id>15893076</id>
+    <name>Marina</name>
+
+    <location>Aurora, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15893076-marina-kudrow]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1356820486p3/15893076.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1356820486p2/15893076.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4477</id>
+  <isbn>0312421702</isbn>
+  <isbn13>9780312421700</isbn13>
+  <text_reviews_count type="integer">1649</text_reviews_count>
+  <title>Complications: A Surgeon's Notes on an Imperfect Science</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4477.Complications</link>
+  <num_pages>270</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Picador</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>22140</ratings_count>
+<authors>
+<author>
+<id>3078</id>
+<name>Atul Gawande</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409146675p5/3078.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409146675p2/3078.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3078.Atul_Gawande]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>96370</ratings_count>
+<text_reviews_count>10686</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:17:12 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:16:01 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:17:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It's an excellent read told by a powerful storyteller who asks some very good questions. It isn't that much different from a lot of other anecdotal medicine books out there, in my opinion. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224437]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224437]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224350</id>
+    
+  <user>
+    <id>6289911</id>
+    <name>World Literature Today</name>
+
+    <location>Norman, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6289911-world-literature-today]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458067018p3/6289911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458067018p2/6289911.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23604064</id>
+  <isbn>0821421433</isbn>
+  <isbn13>9780821421437</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Mrs. Shaw</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23604064-mrs-shaw</link>
+  <num_pages>200</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ohio University Press</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>565786</id>
+<name>Mukoma wa Ngugi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1350526444p5/565786.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1350526444p2/565786.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/565786.Mukoma_wa_Ngugi]]></link>
+<average_rating>3.20</average_rating>
+<ratings_count>485</ratings_count>
+<text_reviews_count>129</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1263925104" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:15:53 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:16:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["The first chapters introduce Kalumba and his close friends from the movement, Ogum and the less-privileged Sukena. Moreover, they relate the brutal repression—including the murder of Ogum’s father, a preacher—leading to Kalumba’s clandestine escape. Kalumba’s journal, the diary of an exiled acti...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224350]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224350]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224156</id>
+    
+  <user>
+    <id>52276527</id>
+    <name>Fred</name>
+
+    <location>Boynton Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52276527-fred-yderf]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10161216</id>
+  <isbn>0553593617</isbn>
+  <isbn13>9780553593617</isbn13>
+  <text_reviews_count type="integer">1630</text_reviews_count>
+  <title>Mr. Churchill's Secretary (Maggie Hope, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1333578794m/10161216.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1333578794s/10161216.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10161216-mr-churchill-s-secretary</link>
+  <num_pages>354</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>9154</ratings_count>
+<authors>
+<author>
+<id>517286</id>
+<name>Susan Elia MacNeal</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367720131p5/517286.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367720131p2/517286.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/517286.Susan_Elia_MacNeal]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>24523</ratings_count>
+<text_reviews_count>3697</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:15:37 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:15:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      GREAT
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224156]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224156]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589224063</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">768889</id>
+  <isbn>0006479901</isbn>
+  <isbn13>9780006479901</isbn13>
+  <text_reviews_count type="integer">996</text_reviews_count>
+  <title>A Storm of Swords: Steel and Snow (A Song of Ice and Fire #3, Part 1 of 2)</title>
+  <image_url>https://d.gr-assets.com/books/1353235205m/768889.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1353235205s/768889.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/768889.A_Storm_of_Swords</link>
+  <num_pages>663</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperVoyager</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>37070</ratings_count>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>3398664</ratings_count>
+<text_reviews_count>140722</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Apr 15 00:00:00 -0700 2014</read_at>
+  <date_added>Thu Mar 24 08:15:29 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:15:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Finally a Song of Ice and Fire book that is possible to read in a week without feeling overwhelmed! Though admittedly, this is only half of the third book. This has been my favourite in the series so far as there have been some really interesting developments now that I feel I know who all of the...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589224063]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589224063]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589223862</id>
+    
+  <user>
+    <id>21419234</id>
+    <name>Beps</name>
+
+    <location>Milan, 09, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21419234-beps]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439281513p3/21419234.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439281513p2/21419234.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25448907</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>La leggenda dei Drenai</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25448907-la-leggenda-dei-drenai</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>2</ratings_count>
+<authors>
+<author>
+<id>11586</id>
+<name>David Gemmell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202771023p5/11586.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202771023p2/11586.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11586.David_Gemmell]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>155998</ratings_count>
+<text_reviews_count>3230</text_reviews_count>
+</author>
+</authors>
+  <published>1984</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:15:45 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:15:13 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:15:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Epicità, Eroismo, Leggenda<br /><br />La storia è semplice:<br /><br />L’impero Drenai è in declino, Ulric è riuscito a unificare tutte le tribù Nadir del nord e forma così il piu’ grande esercito che un uomo ricordi. Non c’è trattato di pace che tenga, Ulric vuole la terra dei Dreani e per farlo deve passare dal DROSS...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589223862]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589223862]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589223815</id>
+    
+  <user>
+    <id>28984257</id>
+    <name>Emma-jane</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28984257-emma-jane]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1393194181p3/28984257.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1393194181p2/28984257.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27046723</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Kiss and Make Up (Bachelors of Buttermilk Falls, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1444407420m/27046723.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1444407420s/27046723.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27046723-kiss-and-make-up</link>
+  <num_pages>190</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>23</ratings_count>
+<authors>
+<author>
+<id>7068555</id>
+<name>Robyn Neeley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1368386111p5/7068555.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1368386111p2/7068555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7068555.Robyn_Neeley]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>775</ratings_count>
+<text_reviews_count>185</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:15:10 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:15:09 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:15:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Brilliant</strong><br /><br />A sweet, hilarious, easy-reading trio of books! I love all the characters intermingled with each other and that small town feel! Makes me want to find Buttermilk Falls!! ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589223815]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589223815]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589280004</id>
+    
+  <user>
+    <id>29867473</id>
+    <name>Aunt</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29867473-aunt-bee]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29475744</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <title>The Hitman's Second Chance</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29475744-the-hitman-s-second-chance</link>
+  <num_pages>112</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>37</ratings_count>
+<authors>
+<author>
+<id>4241651</id>
+<name>Kimberly Fox</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4241651.Kimberly_Fox]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>249</ratings_count>
+<text_reviews_count>123</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:28:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:28:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[he Hitman's Second Chance: A Standalone Bad Boy Romance Novel (Paperback)<br /><br />Logan and Sam are our main characters. They have history together but, they have not laid eyes on each other for ten years. Sam's father blamed Logan for the death of his son and Logan's best friend, Chris. Sam never heard L...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589280004]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589280004]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589279809</id>
+    
+  <user>
+    <id>12496588</id>
+    <name>Shari Kay</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12496588-shari-kay]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417749522p3/12496588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417749522p2/12496588.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26004966</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">106</text_reviews_count>
+  <title>Gray Back Bad Bear (Gray Back Bears, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26004966-gray-back-bad-bear</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1444</ratings_count>
+<authors>
+<author>
+<id>8345597</id>
+<name>T.S. Joyce</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1406322608p5/8345597.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1406322608p2/8345597.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8345597.T_S_Joyce]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>37527</ratings_count>
+<text_reviews_count>2638</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="skip-it" exclusive="true" review_shelf_id="1263977024" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:28:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:28:33 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[not interested<br /><br /><a target="_blank" href="https://www.goodreads.com/review/show/1349046424?book_show_action=false&amp;ref=ru_lihp_up_rv_23_mclk-up3002206280">https://www.goodreads.com/review/show...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589279809]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589279809]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589279332</id>
+    
+  <user>
+    <id>54232716</id>
+    <name>Liz</name>
+
+    <location>Milwaukee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54232716-liz-munkwitz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22609323</id>
+  <isbn>1476783748</isbn>
+  <isbn13>9781476783741</isbn13>
+  <text_reviews_count type="integer">221</text_reviews_count>
+  <title>Within These Walls</title>
+  <image_url>https://d.gr-assets.com/books/1429742905m/22609323.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1429742905s/22609323.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22609323-within-these-walls</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gallery Books</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>968</ratings_count>
+<authors>
+<author>
+<id>4867939</id>
+<name>Ania Ahlborn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442457541p5/4867939.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442457541p2/4867939.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4867939.Ania_Ahlborn]]></link>
+<average_rating>3.49</average_rating>
+<ratings_count>16724</ratings_count>
+<text_reviews_count>2378</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Nov 01 00:00:00 -0700 2015</started_at>
+  <read_at>Sun Nov 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 09:27:23 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:28:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[View my Review Drawing with the link below!<br /><a target="_blank" href="https://docs.google.com/drawings/d/15-xSn6m7fvKS2_UaDX4TtCB4w0FZfm_bhFDPd_RuC0Y/edit?usp=sharing" rel="nofollow">https://docs.google.com/drawings/d/15...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589279332]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589279332]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589279094</id>
+    
+  <user>
+    <id>32985634</id>
+    <name>Tala</name>
+
+    <location>Lebanon</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/32985634-tala-solh]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">708829</id>
+  <isbn>0380807866</isbn>
+  <isbn13>9780380807864</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <title>The Elusive Flame</title>
+  <image_url>https://d.gr-assets.com/books/1315190858m/708829.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1315190858s/708829.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/708829.The_Elusive_Flame</link>
+  <num_pages>488</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2913</ratings_count>
+<authors>
+<author>
+<id>88445</id>
+<name>Kathleen E. Woodiwiss</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1237691529p5/88445.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1237691529p2/88445.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/88445.Kathleen_E_Woodiwiss]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>73373</ratings_count>
+<text_reviews_count>3099</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:27:01 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:27:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Boring
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589279094]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589279094]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589279071</id>
+    
+  <user>
+    <id>6836590</id>
+    <name>Andreas</name>
+
+    <location>Oslo, 12, Norway</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6836590-andreas-pol-o]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6304389</id>
+  <isbn>1846140390</isbn>
+  <isbn13>9781846140396</isbn13>
+  <text_reviews_count type="integer">234</text_reviews_count>
+  <title>The Spirit Level: Why More Equal Societies Almost Always Do Better</title>
+  <image_url>https://d.gr-assets.com/books/1408314294m/6304389.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1408314294s/6304389.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6304389-the-spirit-level</link>
+  <num_pages>330</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Not Avail</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2140</ratings_count>
+<authors>
+<author>
+<id>118689</id>
+<name>Richard G. Wilkinson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1392805337p5/118689.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1392805337p2/118689.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/118689.Richard_G_Wilkinson]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>3214</ratings_count>
+<text_reviews_count>367</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:26:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:28:17 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Parts 1 and 2: very good, interesting and well argued. Part 3? Not so much. A bit of an awkward exercise to extrapolate their prior findings to explain global warming - unecessary.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589279071]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589279071]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278855</id>
+    
+  <user>
+    <id>9551173</id>
+    <name>Angelica</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9551173-angelica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1422550224p3/9551173.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1422550224p2/9551173.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8489053</id>
+  <isbn>0307591832</isbn>
+  <isbn13>9780307591838</isbn13>
+  <text_reviews_count type="integer">209</text_reviews_count>
+  <title>Drinking at the Movies</title>
+  <image_url>https://d.gr-assets.com/books/1327887159m/8489053.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327887159s/8489053.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8489053-drinking-at-the-movies</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Three Rivers Press</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2430</ratings_count>
+<authors>
+<author>
+<id>939900</id>
+<name>Julia Wertz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456414879p5/939900.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456414879p2/939900.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/939900.Julia_Wertz]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>5247</ratings_count>
+<text_reviews_count>568</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="graphic-novels" exclusive="false" review_shelf_id="1263976161" sortable="false" />
+    <shelf name="memoir" exclusive="false" review_shelf_id="1263976180" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:26:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:27:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[More of a 3.5/3.75. The art is awesome and the humor is on point. I'll probably check out more of Julia's books.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278855]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278855]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278737</id>
+    
+  <user>
+    <id>4262278</id>
+    <name>Daniel</name>
+
+    <location>Minneapolis, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4262278-daniel-butcher]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1375929186p3/4262278.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1375929186p2/4262278.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26067594</id>
+  <isbn>1401259790</isbn>
+  <isbn13>9781401259792</isbn13>
+  <text_reviews_count type="integer">45</text_reviews_count>
+  <title>Prez, Vol. 1: Corndog in Chief</title>
+  <image_url>https://d.gr-assets.com/books/1453057305m/26067594.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1453057305s/26067594.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26067594-prez-vol-1</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>DC Comics</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>161</ratings_count>
+<authors>
+<author>
+<id>7163477</id>
+<name>Mark   Russell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1458054727p5/7163477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1458054727p2/7163477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7163477.Mark_Russell]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>954</ratings_count>
+<text_reviews_count>213</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="dc-comics" exclusive="false" review_shelf_id="1263976848" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:26:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:27:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Surprisingly topical and smart...even if I don't always agree.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278737]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278737]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278699</id>
+    
+  <user>
+    <id>54232716</id>
+    <name>Liz</name>
+
+    <location>Milwaukee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54232716-liz-munkwitz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18293427</id>
+  <isbn>1616203218</isbn>
+  <isbn13>9781616206314</isbn13>
+  <text_reviews_count type="integer">13277</text_reviews_count>
+  <title>The Storied Life of A.J. Fikry</title>
+  <image_url>https://d.gr-assets.com/books/1404582137m/18293427.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1404582137s/18293427.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18293427-the-storied-life-of-a-j-fikry</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Algonquin Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>82416</ratings_count>
+<authors>
+<author>
+<id>40593</id>
+<name>Gabrielle Zevin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208386796p5/40593.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208386796p2/40593.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/40593.Gabrielle_Zevin]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>188512</ratings_count>
+<text_reviews_count>25698</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 01 00:00:00 -0800 2016</started_at>
+  <read_at>Mon Feb 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 09:26:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:26:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[View my Review Drawing with the link below!<br /><a target="_blank" href="https://docs.google.com/drawings/d/1D47MFk9f81ua-BJBsA2TVtzBviGHMoiXeAhTYLmxI18/edit?usp=sharing" rel="nofollow">https://docs.google.com/drawings/d/1D...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278699]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278699]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589278637</id>
+    
+  <user>
+    <id>30130974</id>
+    <name>Lynn</name>
+
+    <location>Stouffville, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30130974-lynn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1398046970p3/30130974.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1398046970p2/30130974.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18652002</id>
+  <isbn>0062331159</isbn>
+  <isbn13>9780062331151</isbn13>
+  <text_reviews_count type="integer">2204</text_reviews_count>
+  <title>The Bees</title>
+  <image_url>https://d.gr-assets.com/books/1384018069m/18652002.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1384018069s/18652002.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18652002-the-bees</link>
+  <num_pages>338</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ecco</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>11081</ratings_count>
+<authors>
+<author>
+<id>7307477</id>
+<name>Laline Paull</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1398389169p5/7307477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1398389169p2/7307477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7307477.Laline_Paull]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>13783</ratings_count>
+<text_reviews_count>2692</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="currently-reading" exclusive="true" review_shelf_id="1263975809" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:26:21 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:27:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      buzzzzzzzzz
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278637]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278637]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278470</id>
+    
+  <user>
+    <id>53137212</id>
+    <name>Autumn</name>
+
+    <location>Gladwin, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53137212-autumn-billiau]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456588705p3/53137212.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456588705p2/53137212.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19974208</id>
+  <isbn nil="true"/>
+  <isbn13>9781311533586</isbn13>
+  <text_reviews_count type="integer">85</text_reviews_count>
+  <title>Perfectly Flawed (Flawed, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1387698307m/19974208.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1387698307s/19974208.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19974208-perfectly-flawed</link>
+  <num_pages>455</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>860</ratings_count>
+<authors>
+<author>
+<id>7428270</id>
+<name>Nessa Morgan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387698806p5/7428270.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387698806p2/7428270.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7428270.Nessa_Morgan]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>1798</ratings_count>
+<text_reviews_count>161</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:26:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:27:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I loved this book, but I was a little disappointed they don't have part 2 out on iBooks for the US yet.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278470]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278470]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278316</id>
+    
+  <user>
+    <id>44379007</id>
+    <name>Ed</name>
+
+    <location>Iraq</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44379007-ed-stark]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436446155p3/44379007.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436446155p2/44379007.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">3371137</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">465</text_reviews_count>
+  <title>الأيام</title>
+  <image_url>https://d.gr-assets.com/books/1260636167m/3371137.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1260636167s/3371137.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3371137</link>
+  <num_pages>520</num_pages>
+  <format/>
+  <edition_information/>
+  <publisher>مركز الأهرام للترجمة والنشر</publisher>
+  <publication_day/>
+  <publication_year>1992</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>6036</ratings_count>
+<authors>
+<author>
+<id>353134</id>
+<name>طه حسين</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1247085790p5/353134.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1247085790p2/353134.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/353134._]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>19528</ratings_count>
+<text_reviews_count>2018</text_reviews_count>
+</author>
+</authors>
+  <published>1981</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="biography" exclusive="false" review_shelf_id="1263975473" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 25 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Mar 24 09:25:57 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:27:03 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />الكتاب الاول كان غاية في الروعة<br />كأني كنت أراه حيا أمامي لشدة جمال وصفه<br />خصوصا تعبيره عن مشاعره التي خالجت صدره<br />تجاه كونه ضريرا<br />وتجاه معاملة اسرته له على هذا الاساس<br /><br />لقد استطاع ان يشعرني بمرارة ان تكون كفيفا<br />واني لاستغرب كيف استطاع ان يجيد هذا الوصف وهو محروم من نعمة البصر<br />حقا انه عبقري من اندر طراز<br /><br /><br />لكن ما...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278316]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278316]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278303</id>
+    
+  <user>
+    <id>3537117</id>
+    <name>John</name>
+
+    <location>Hartland, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3537117-john-clark]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1316752571p3/3537117.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1316752571p2/3537117.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13797010</id>
+  <isbn>0823424022</isbn>
+  <isbn13>9780823424023</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <title>The Case of the Incapacitated Capitals</title>
+  <image_url>https://d.gr-assets.com/books/1344985188m/13797010.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344985188s/13797010.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13797010-the-case-of-the-incapacitated-capitals</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Holiday House</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>69</ratings_count>
+<authors>
+<author>
+<id>52718</id>
+<name>Robin Pulver</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/52718.Robin_Pulver]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>1527</ratings_count>
+<text_reviews_count>411</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:25:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:26:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Colorful illustrations, combined with a decent story and all the capitals in bold and different colors work well to introduce younger readers to the importance and proper usage of capital letters. It's the kind of book that lends itself to repeat reading in order to help kids understand and then...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278303]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278303]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278256</id>
+    
+  <user>
+    <id>1030336</id>
+    <name>Jennifer</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1030336-jennifer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1359521209p3/1030336.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1359521209p2/1030336.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22306757</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">77</text_reviews_count>
+  <title>Teaching from Rest: A Homeschooler's Guide to Unshakable Peace</title>
+  <image_url>https://d.gr-assets.com/books/1415110560m/22306757.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415110560s/22306757.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22306757-teaching-from-rest</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>382</ratings_count>
+<authors>
+<author>
+<id>2415741</id>
+<name>Sarah Mackenzie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434378351p5/2415741.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434378351p2/2415741.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2415741.Sarah_Mackenzie]]></link>
+<average_rating>4.62</average_rating>
+<ratings_count>600</ratings_count>
+<text_reviews_count>110</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="inspirational" exclusive="false" review_shelf_id="1263975629" sortable="false" />
+    <shelf name="education" exclusive="false" review_shelf_id="1263975628" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:25:52 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:26:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I read the updated version. One of the better homeschooling books I have read. Great things to ponder in here on what homeschooling should really be about.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278256]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278256]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278176</id>
+    
+  <user>
+    <id>44541541</id>
+    <name>Asma</name>
+
+    <location>Algeria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44541541-asma-abadlia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436135972p3/44541541.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436135972p2/44541541.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24357777</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">135</text_reviews_count>
+  <title>رحلتى من الشك للشك برضه</title>
+  <image_url>https://d.gr-assets.com/books/1423167186m/24357777.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1423167186s/24357777.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24357777</link>
+  <num_pages>189</num_pages>
+  <format>Paperback</format>
+  <edition_information>الطبعة الثانية</edition_information>
+  <publisher>الرواق للنشر والتوزيع</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>901</ratings_count>
+<authors>
+<author>
+<id>4109482</id>
+<name>مصطفى شهيب</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298070982p5/4109482.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298070982p2/4109482.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4109482._]]></link>
+<average_rating>3.28</average_rating>
+<ratings_count>3484</ratings_count>
+<text_reviews_count>583</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:26:21 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:25:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:26:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      hhhhhhh
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278176]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278176]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589278020</id>
+    
+  <user>
+    <id>2668816</id>
+    <name>missao</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2668816-missao]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1251293340p3/2668816.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1251293340p2/2668816.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">256683</id>
+  <isbn>1416914285</isbn>
+  <isbn13>9781416914280</isbn13>
+  <text_reviews_count type="integer">37810</text_reviews_count>
+  <title>City of Bones (The Mortal Instruments, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1432730315m/256683.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1432730315s/256683.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/256683.City_of_Bones</link>
+  <num_pages>485</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Margaret K. McElderry Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>960250</ratings_count>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p5/150038.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p2/150038.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>4080616</ratings_count>
+<text_reviews_count>223920</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="dropped" exclusive="false" review_shelf_id="1263975174" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 09:26:07 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:25:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:26:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      11% read
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589278020]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589278020]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589277938</id>
+    
+  <user>
+    <id>46642703</id>
+    <name>TDCbookreviews</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46642703-tdcbookreviews]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442284881p3/46642703.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442284881p2/46642703.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18744608</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">339</text_reviews_count>
+  <title>This Regret</title>
+  <image_url>https://d.gr-assets.com/books/1455380370m/18744608.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1455380370s/18744608.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18744608-this-regret</link>
+  <num_pages>343</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Victoria Ashley</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2612</ratings_count>
+<authors>
+<author>
+<id>7232339</id>
+<name>Victoria Ashley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449806483p5/7232339.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1449806483p2/7232339.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7232339.Victoria_Ashley]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>31948</ratings_count>
+<text_reviews_count>3827</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:25:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:28:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />This story is about a girl named Phoenix and she pretty much lives a normal life working at a bar. She has some good friends and a cute guy that she has known since she was child trying to get with her. All was going well until someone from her past shows up and jumbles her whole world. Phoenix m...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589277938]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589277938]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589277893</id>
+    
+  <user>
+    <id>14676932</id>
+    <name>Dejan</name>
+
+    <location>Belgrade, Serbia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14676932-dejan-pr-i]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1429288488p3/14676932.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1429288488p2/14676932.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25397832</id>
+  <isbn>8652118124</isbn>
+  <isbn13>9788652118120</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>O miševima i ljudima</title>
+  <image_url>https://d.gr-assets.com/books/1429578033m/25397832.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1429578033s/25397832.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25397832-o-mi-evima-i-ljudima</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Laguna</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>42</ratings_count>
+<authors>
+<author>
+<id>585</id>
+<name>John Steinbeck</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p5/585.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1182118389p2/585.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2503344</ratings_count>
+<text_reviews_count>64455</text_reviews_count>
+</author>
+</authors>
+  <published>1937</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:25:21 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:26:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[nešto najbolje što sam pročitao u proteklih par meseci]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589277893]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589277893]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589277722</id>
+    
+  <user>
+    <id>4739424</id>
+    <name>Mal</name>
+
+    <location>Berkeley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4739424-mal-warwick]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1294014688p3/4739424.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1294014688p2/4739424.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22609404</id>
+  <isbn>1451696213</isbn>
+  <isbn13>9781451696219</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <title>Hell and Good Company: The Spanish Civil War and the World it Made</title>
+  <image_url>https://d.gr-assets.com/books/1422848594m/22609404.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1422848594s/22609404.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22609404-hell-and-good-company</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>152</ratings_count>
+<authors>
+<author>
+<id>10263</id>
+<name>Richard Rhodes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445446336p5/10263.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445446336p2/10263.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10263.Richard_Rhodes]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>18882</ratings_count>
+<text_reviews_count>1433</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 18 00:00:00 -0700 2016</started_at>
+  <read_at>Sat Mar 19 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:25:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:26:03 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[In the Preface to Hell and Good Company: The Spanish Civil War and the World It Made, Richard Rhodes writes “This book only incidentally concerns Spanish politics. . . I was drawn, rather, to the human stories that had not yet been told or had been told only incompletely. I was drawn as well to t...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589277722]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589277722]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589277664</id>
+    
+  <user>
+    <id>54232716</id>
+    <name>Liz</name>
+
+    <location>Milwaukee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54232716-liz-munkwitz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22628</id>
+  <isbn>0671027344</isbn>
+  <isbn13>9780671027346</isbn13>
+  <text_reviews_count type="integer">35245</text_reviews_count>
+  <title>The Perks of Being a Wallflower</title>
+  <image_url>https://d.gr-assets.com/books/1438668337m/22628.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438668337s/22628.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower</link>
+  <num_pages>213</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>MTV Books and Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>753965</ratings_count>
+<authors>
+<author>
+<id>12898</id>
+<name>Stephen Chbosky</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1199070302p5/12898.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1199070302p2/12898.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12898.Stephen_Chbosky]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>804766</ratings_count>
+<text_reviews_count>41253</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 01 00:00:00 -0800 2015</started_at>
+  <read_at>Tue Dec 01 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Mar 24 09:25:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:25:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[View my Review Drawing with the link below!<br /><a target="_blank" href="https://docs.google.com/drawings/d/1lu0AcNJctdFs6TpU06PEuKZqEcQytIScigtA6Hjwq_0/edit?usp=sharing" rel="nofollow">https://docs.google.com/drawings/d/1l...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589277664]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589277664]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589277660</id>
+    
+  <user>
+    <id>22810113</id>
+    <name>Kelly</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22810113-kelly-russell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1377873725p3/22810113.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1377873725p2/22810113.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">185690</id>
+  <isbn>0767900553</isbn>
+  <isbn13>9780767900553</isbn13>
+  <text_reviews_count type="integer">82</text_reviews_count>
+  <title>Book of Shadows</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/185690.Book_of_Shadows</link>
+  <num_pages>302</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harmony</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1259</ratings_count>
+<authors>
+<author>
+<id>108194</id>
+<name>Phyllis Curott</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/108194.Phyllis_Curott]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>2798</ratings_count>
+<text_reviews_count>139</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:25:32 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:25:02 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:25:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Awesome, well written.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589277660]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589277660]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

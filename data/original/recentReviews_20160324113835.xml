@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589265664</id>
+    
+  <user>
+    <id>6071893</id>
+    <name>Dena</name>
+
+    <location>Port Saint Lucie, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6071893-dena]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1388936434p3/6071893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1388936434p2/6071893.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29236631</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <title>Music Notes</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29236631-music-notes</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>37</ratings_count>
+<authors>
+<author>
+<id>8414783</id>
+<name>Lacey Black</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457043047p5/8414783.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457043047p2/8414783.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8414783.Lacey_Black]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>4932</ratings_count>
+<text_reviews_count>526</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 09:07:45 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:07:44 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Intriguing</strong><br /><br />I liked Layne almost immediately she is strength and calm. Layne and Beau are pretty amazing as the story unfolds. We see things that remained hidden until the end. I liked the emotions pouring from the pages. I'm a little disappointed by the branch off because it seems more detail was...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589265664]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589265664]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589265329</id>
+    
+  <user>
+    <id>4188695</id>
+    <name>Diana</name>
+
+    <location>Sanford, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4188695-diana-pettis]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1293665034p3/4188695.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1293665034p2/4188695.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">767834</id>
+  <isbn>0618238557</isbn>
+  <isbn13>9780618238552</isbn13>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <title>Courage</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/767834.Courage</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>301</ratings_count>
+<authors>
+<author>
+<id>55758</id>
+<name>Bernard Waber</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1305518587p5/55758.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1305518587p2/55758.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/55758.Bernard_Waber]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>28860</ratings_count>
+<text_reviews_count>804</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:07:49 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:07:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:49 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Love this book. Enjoyed it.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589265329]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589265329]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589265012</id>
+    
+  <user>
+    <id>6002920</id>
+    <name>Emily</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6002920-emily]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1313001380p3/6002920.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1313001380p2/6002920.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18774964</id>
+  <isbn>1476738017</isbn>
+  <isbn13>9781476738017</isbn13>
+  <text_reviews_count type="integer">6668</text_reviews_count>
+  <title>A Man Called Ove</title>
+  <image_url>https://d.gr-assets.com/books/1405259930m/18774964.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1405259930s/18774964.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18774964-a-man-called-ove</link>
+  <num_pages>337</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atria Books</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>35406</ratings_count>
+<authors>
+<author>
+<id>6485178</id>
+<name>Fredrik Backman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1379864722p5/6485178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1379864722p2/6485178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6485178.Fredrik_Backman]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>59136</ratings_count>
+<text_reviews_count>10845</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:06:51 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Love, love, loved this book. A refreshing read. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589265012]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589265012]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589264994</id>
+    
+  <user>
+    <id>2367032</id>
+    <name>Britt</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2367032-britt]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357095684p3/2367032.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357095684p2/2367032.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2767793</id>
+  <isbn>0765316897</isbn>
+  <isbn13>9780765316899</isbn13>
+  <text_reviews_count type="integer">4853</text_reviews_count>
+  <title>The Hero of Ages (Mistborn, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1415427803m/2767793.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415427803s/2767793.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2767793-the-hero-of-ages</link>
+  <num_pages>572</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>108961</ratings_count>
+<authors>
+<author>
+<id>38550</id>
+<name>Brandon Sanderson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1394044556p5/38550.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1394044556p2/38550.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38550.Brandon_Sanderson]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>1410003</ratings_count>
+<text_reviews_count>94606</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 09:07:54 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:06:49 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:54 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It's not often that an author can completely surprise me with an ending. Sanderson did. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589264994]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589264994]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589264781</id>
+    
+  <user>
+    <id>4340734</id>
+    <name>Angela</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4340734-angela-readingcave]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27163432</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">70</text_reviews_count>
+  <title>Mercenary Magic  (Dragon Born Serafina, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27163432-mercenary-magic</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1299</ratings_count>
+<authors>
+<author>
+<id>14121046</id>
+<name>Ella Summers</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14121046.Ella_Summers]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>4122</ratings_count>
+<text_reviews_count>212</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Feb 12 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 09:06:29 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Sera Dering and her twin Alexandria have lived in fear of discovery their entire life. They have had to pretend to be humans to hide the type of magic that runs through their veins. They are Dragon Born, the most powerful and feared mages around. So feared that upon discovery the council kills an...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589264781]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589264781]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589264751</id>
+    
+  <user>
+    <id>20930827</id>
+    <name>Ehab</name>
+
+    <location>Jiddah, 14, Saudi Arabia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20930827-ehab-khalifa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1370151934p3/20930827.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1370151934p2/20930827.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29350507</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>أرض الإله</title>
+  <image_url>https://d.gr-assets.com/books/1458770340m/29350507.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458770340s/29350507.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29350507</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>دار الشروق</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>18</ratings_count>
+<authors>
+<author>
+<id>1633682</id>
+<name>أحمد مراد</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1227520027p5/1633682.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1227520027p2/1633682.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1633682._]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>128005</ratings_count>
+<text_reviews_count>13003</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:07:18 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:06:26 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[أرض الاله<br />احمد مراد<br />ضجيج بلاطحن<br />الروايه تدور في عصر البطالمه <br />و انهم اهتموا باليهود اكثر من المصريين<br />روايه تافهه جدا جدا جدا<br />بس هو مؤلف شاطر في الدعايه <br />نزل موسيقي للروايه قبل الروايه <br />الروايه لاتستحق كل هذه الضجه <br />المؤلف استفاد ان رواياته اتعملت مسلسلات و افلام <br />بس في كتاب افضل منه بكثييييير<br />الحبكه غير موج...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589264751]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589264751]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589264632</id>
+    
+  <user>
+    <id>20695375</id>
+    <name>Maria</name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20695375-maria-alejandra]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1383157094p3/20695375.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1383157094p2/20695375.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26162290</id>
+  <isbn nil="true"/>
+  <isbn13>9788494358289</isbn13>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <title>Una chica con estilo (Delicias y secretos en Manhattan, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1440498166m/26162290.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1440498166s/26162290.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26162290-una-chica-con-estilo</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Versatil Ediciones</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>51</ratings_count>
+<authors>
+<author>
+<id>4179747</id>
+<name>Olivia Ardey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1336489896p5/4179747.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1336489896p2/4179747.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4179747.Olivia_Ardey]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>2001</ratings_count>
+<text_reviews_count>338</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:06:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:06:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      3,5
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589264632]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589264632]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589264591</id>
+    
+  <user>
+    <id>42863180</id>
+    <name>Parker</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42863180-parker-avrile]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439650478p3/42863180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439650478p2/42863180.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16071620</id>
+  <isbn>0449819299</isbn>
+  <isbn13>9780449819296</isbn13>
+  <text_reviews_count type="integer">513</text_reviews_count>
+  <title>Six Earlier Days (Every Day #0.5)</title>
+  <image_url>https://d.gr-assets.com/books/1353982317m/16071620.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1353982317s/16071620.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16071620-six-earlier-days</link>
+  <num_pages>47</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Knopf Books for Young Readers</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4345</ratings_count>
+<authors>
+<author>
+<id>11664</id>
+<name>David Levithan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1426529210p5/11664.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1426529210p2/11664.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11664.David_Levithan]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>637717</ratings_count>
+<text_reviews_count>60819</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="gay-romance" exclusive="false" review_shelf_id="1263961659" sortable="false" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1263961618" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 09:07:07 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:06:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A cure fast short for fans of Every Day]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589264591]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589264591]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589264484</id>
+    
+  <user>
+    <id>40814266</id>
+    <name>Fatimaali</name>
+
+    <location>Kuwait, 02, Kuwait</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40814266-fatimaali-alkandiri]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1425312448p3/40814266.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1425312448p2/40814266.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17134589</id>
+  <isbn>0399166505</isbn>
+  <isbn13>9780399166501</isbn13>
+  <text_reviews_count type="integer">757</text_reviews_count>
+  <title>The Conspiracy of Us (The Conspiracy of Us, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1410275946m/17134589.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1410275946s/17134589.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17134589-the-conspiracy-of-us</link>
+  <num_pages>330</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Putnam Juvenile</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3784</ratings_count>
+<authors>
+<author>
+<id>6855918</id>
+<name>Maggie  Hall</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1401454053p5/6855918.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1401454053p2/6855918.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6855918.Maggie_Hall]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>4367</ratings_count>
+<text_reviews_count>932</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 09:06:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A -M-A-Z-I-N-G !! i cant wait until i can read the second book in this series]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589264484]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589264484]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589264324</id>
+    
+  <user>
+    <id>7646504</id>
+    <name>Heather</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7646504-heather]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15839976</id>
+  <isbn>0345539788</isbn>
+  <isbn13>9780345539786</isbn13>
+  <text_reviews_count type="integer">7925</text_reviews_count>
+  <title>Red Rising (Red Rising, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1369153188m/15839976.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1369153188s/15839976.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15839976-red-rising</link>
+  <num_pages>382</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Del Rey (Random House)</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>55134</ratings_count>
+<authors>
+<author>
+<id>6474348</id>
+<name>Pierce Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417558860p5/6474348.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417558860p2/6474348.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6474348.Pierce_Brown]]></link>
+<average_rating>4.35</average_rating>
+<ratings_count>114213</ratings_count>
+<text_reviews_count>16046</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 15 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:05:48 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:07:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is an excellent start to an interesting series. The world in which the main characters live is really interesting. It's a little bit of hunger games, some strategy and some intrigue.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589264324]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589264324]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589263991</id>
+    
+  <user>
+    <id>54232716</id>
+    <name>Liz</name>
+
+    <location>Milwaukee, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54232716-liz-munkwitz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15507958</id>
+  <isbn>0670026603</isbn>
+  <isbn13>9780670026609</isbn13>
+  <text_reviews_count type="integer">29889</text_reviews_count>
+  <title>Me Before You (Me Before You, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1357108762m/15507958.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1357108762s/15507958.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15507958-me-before-you</link>
+  <num_pages>369</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Pamela Dorman Books/Viking</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>253806</ratings_count>
+<authors>
+<author>
+<id>281810</id>
+<name>Jojo Moyes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400624880p5/281810.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400624880p2/281810.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/281810.Jojo_Moyes]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>607006</ratings_count>
+<text_reviews_count>72210</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 01 00:00:00 -0800 2016</started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 09:05:17 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:05:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[View my Review Drawing with the link below!<br /><a target="_blank" href="https://docs.google.com/drawings/d/1puZpf1SP8ggUI95qdML1ShwXiR-i29hvnSrBKaIpM7w/edit?usp=sharing" rel="nofollow">https://docs.google.com/drawings/d/1p...</a>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589263991]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589263991]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589263922</id>
+    
+  <user>
+    <id>42863180</id>
+    <name>Parker</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42863180-parker-avrile]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439650478p3/42863180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439650478p2/42863180.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7079015</id>
+  <isbn>1607374951</isbn>
+  <isbn13>9781607374954</isbn13>
+  <text_reviews_count type="integer">145</text_reviews_count>
+  <title>Family Unit</title>
+  <image_url>https://d.gr-assets.com/books/1259038447m/7079015.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1259038447s/7079015.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7079015-family-unit</link>
+  <num_pages>294</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Loose Id</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1337</ratings_count>
+<authors>
+<author>
+<id>2738500</id>
+<name>Z.A. Maxfield</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1314555801p5/2738500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1314555801p2/2738500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2738500.Z_A_Maxfield]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>37161</ratings_count>
+<text_reviews_count>4293</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="gay-romance" exclusive="false" review_shelf_id="1263961027" sortable="false" />
+    <shelf name="contemporary" exclusive="false" review_shelf_id="1263960959" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:05:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:05:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      supercute
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589263922]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589263922]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589263588</id>
+    
+  <user>
+    <id>75857</id>
+    <name>Emma</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/75857-emma]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1305947403p3/75857.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1305947403p2/75857.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28814844</id>
+  <isbn>0763672335</isbn>
+  <isbn13>9780763672331</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Snow White: A Graphic Novel</title>
+  <image_url>https://d.gr-assets.com/books/1457471933m/28814844.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457471933s/28814844.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28814844-snow-white</link>
+  <num_pages>216</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Candlewick</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4</ratings_count>
+<authors>
+<author>
+<id>387985</id>
+<name>Matt Phelan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377805533p5/387985.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377805533p2/387985.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/387985.Matt_Phelan]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>13584</ratings_count>
+<text_reviews_count>2283</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:05:48 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:04:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:05:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was so charming! It really read like a silent film or a noir film come to life. Love the artwork and the way Phelan worked with the time period and the source material.<br /><br />I'll be interested to see what the finished version looks like as well. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589263588]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589263588]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589263544</id>
+    
+  <user>
+    <id>11989012</id>
+    <name>Nora</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11989012-nora]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1349363581p3/11989012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1349363581p2/11989012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17934416</id>
+  <isbn>1250010098</isbn>
+  <isbn13>9781250010094</isbn13>
+  <text_reviews_count type="integer">1538</text_reviews_count>
+  <title>Keep Quiet</title>
+  <image_url>https://d.gr-assets.com/books/1391355179m/17934416.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1391355179s/17934416.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17934416-keep-quiet</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>10471</ratings_count>
+<authors>
+<author>
+<id>20258</id>
+<name>Lisa Scottoline</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239723882p5/20258.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239723882p2/20258.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/20258.Lisa_Scottoline]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>202975</ratings_count>
+<text_reviews_count>22494</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 01 00:00:00 -0800 2016</started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 09:04:42 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:05:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Kept me on the edge of my seat!!!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589263544]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589263544]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589263447</id>
+    
+  <user>
+    <id>9400328</id>
+    <name>Lisa</name>
+
+    <location>Frederick, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9400328-lisa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1336586856p3/9400328.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1336586856p2/9400328.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29007678</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <title>The Nightingale Rises: An Alpha Billionaire Romantic Suspense (The Nightingale Trilogy Book 2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29007678-the-nightingale-rises</link>
+  <num_pages>280</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>32</ratings_count>
+<authors>
+<author>
+<id>11183145</id>
+<name>Cynthia Dane</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445075583p5/11183145.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445075583p2/11183145.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11183145.Cynthia_Dane]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>1077</ratings_count>
+<text_reviews_count>400</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 08 00:00:00 -0800 2016</started_at>
+  <read_at>Wed Feb 10 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 09:04:32 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:06:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Wow, this story keeps getting better and better. Nala and Vincent have some trust built between themselves now that they've opened up to each other. The danger is increasing though and neither one wants to sacrifice their own justice for the greater good. The stakes are higher and people are gett...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589263447]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589263447]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589263264</id>
+    
+  <user>
+    <id>15027410</id>
+    <name>Bruno</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15027410-bruno]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451659425p3/15027410.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451659425p2/15027410.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19358975</id>
+  <isbn>1607069318</isbn>
+  <isbn13>9781607069317</isbn13>
+  <text_reviews_count type="integer">2399</text_reviews_count>
+  <title>Saga, Volume 3</title>
+  <image_url>https://d.gr-assets.com/books/1428350431m/19358975.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428350431s/19358975.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19358975-saga-volume-3</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information>1st edition</edition_information>
+  <publisher>Image Comics</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>30810</ratings_count>
+<authors>
+<author>
+<id>24514</id>
+<name>Brian K. Vaughan</name>
+<role>Writer</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204664235p5/24514.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204664235p2/24514.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24514.Brian_K_Vaughan]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>696452</ratings_count>
+<text_reviews_count>32590</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:05:10 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:04:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:05:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I am in a terrible reading slump and I picked this up to have a quick, satisfying read. Saga never disappoints.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589263264]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589263264]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589262875</id>
+    
+  <user>
+    <id>11461924</id>
+    <name>Minttu</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11461924-minttu]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1421019743p3/11461924.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1421019743p2/11461924.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8478270</id>
+  <isbn nil="true"/>
+  <isbn13>9789511245971</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <title>Yösyöttö</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8478270-y-sy-tt</link>
+  <num_pages>383</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Otava</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>313</ratings_count>
+<authors>
+<author>
+<id>1315498</id>
+<name>Eve Hietamies</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1315498.Eve_Hietamies]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>642</ratings_count>
+<text_reviews_count>41</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="favorites" exclusive="false" review_shelf_id="1263960782" sortable="false" />
+    <shelf name="humour" exclusive="false" review_shelf_id="1263960856" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 09:08:13 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:03:40 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:08:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Eve Hietamiehestä taisi tulla uusi suosikkikirjailija. Aivan loistava teos, hauska, riipaiseva, todella hyvä tempo. Ainoa mitä pidin epäuskottavana, oli jo liikkuvan lapsen istuttaminen sitterissä. En ole eläissäni kuullut yhdestäkään muksusta joka suostuisi istumaan sitterissä katsomassa vaikkap...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589262875]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589262875]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589262824</id>
+    
+  <user>
+    <id>26936498</id>
+    <name>Skylar</name>
+
+    <location>Madison, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26936498-skylar-l-primm]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1416245884p3/26936498.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1416245884p2/26936498.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25787656</id>
+  <isbn>163215479X</isbn>
+  <isbn13>9781632154798</isbn13>
+  <text_reviews_count type="integer">117</text_reviews_count>
+  <title>Injection, Vol. 1</title>
+  <image_url>https://d.gr-assets.com/books/1443689788m/25787656.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1443689788s/25787656.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25787656-injection-vol-1</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Image Comics</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>747</ratings_count>
+<authors>
+<author>
+<id>12772</id>
+<name>Warren Ellis</name>
+<role>Writer</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447009436p5/12772.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447009436p2/12772.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12772.Warren_Ellis]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>283714</ratings_count>
+<text_reviews_count>10711</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:06:19 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:03:36 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:06:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Science, magic, technology, British folklore, conspiracies, and futurism. In other words, classic Ellis. Add in Shalvey's artwork—which is beautiful and/or horrific as the script demands—and you've got an intriguing start to a new series. I'm looking forward to volume two.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589262824]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589262824]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589262716</id>
+    
+  <user>
+    <id>12145127</id>
+    <name>Panda</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12145127-panda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452948978p3/12145127.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452948978p2/12145127.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25787134</id>
+  <isbn>1421585693</isbn>
+  <isbn13>9781421585697</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>The World's Greatest First Love, Vol. 3: The Case of Ritsu Onodera</title>
+  <image_url>https://d.gr-assets.com/books/1437370012m/25787134.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1437370012s/25787134.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25787134-the-world-s-greatest-first-love-vol-3</link>
+  <num_pages>178</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>SuBLime</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>67</ratings_count>
+<authors>
+<author>
+<id>354455</id>
+<name>Shungiku Nakamura</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1262666342p5/354455.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1262666342p2/354455.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/354455.Shungiku_Nakamura]]></link>
+<average_rating>4.43</average_rating>
+<ratings_count>31422</ratings_count>
+<text_reviews_count>666</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 09:06:21 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:03:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:06:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book just ugh &lt;3 <br />I love Ritsu and Takano, and this book is introducing Kisa and Yukine who I adore. This whole series is amazing :3]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589262716]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589262716]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589262501</id>
+    
+  <user>
+    <id>50242413</id>
+    <name>Mary T Hemsworth</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50242413-mary-t-hemsworth]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12479384</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>Ship of Magic (Liveship Traders, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1449091845m/12479384.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1449091845s/12479384.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12479384-ship-of-magic</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>399</ratings_count>
+<authors>
+<author>
+<id>25307</id>
+<name>Robin Hobb</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1397885202p5/25307.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1397885202p2/25307.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25307.Robin_Hobb]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>667337</ratings_count>
+<text_reviews_count>22380</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 09:03:09 -0700 2016</read_at>
+  <date_added>Thu Mar 24 09:03:08 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 09:03:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Could not put it down!</strong><br /><br />Took me a few chapters to get into the book but then I was hooked. Read it over 24 hours whilst recovering from a virus - great medicine. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589262501]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589262501]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

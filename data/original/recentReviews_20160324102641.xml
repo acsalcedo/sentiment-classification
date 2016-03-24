@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589203861</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">106069</id>
+  <isbn>1563894696</isbn>
+  <isbn13>9781563894695</isbn13>
+  <text_reviews_count type="integer">1079</text_reviews_count>
+  <title>Batman: The Long Halloween</title>
+  <image_url>https://d.gr-assets.com/books/1350137101m/106069.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1350137101s/106069.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/106069.Batman</link>
+  <num_pages>376</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>DC Comics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>47473</ratings_count>
+<authors>
+<author>
+<id>32594</id>
+<name>Jeph Loeb</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1214852516p5/32594.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1214852516p2/32594.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32594.Jeph_Loeb]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>197053</ratings_count>
+<text_reviews_count>6698</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 10 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:47:57 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:48:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book is incredibly dark when compared with Year One- both the story and the artwork. Great story and the length meant that you could relate to and understand the characters a lot more. The shocker of an ending is so unexpected and just leaves you wanting more!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203861]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203861]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589203650</id>
+    
+  <user>
+    <id>22078661</id>
+    <name>Jada</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22078661-jada-ryker]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442891969p3/22078661.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442891969p2/22078661.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25637288</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <title>Things Fall Apart</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25637288-things-fall-apart</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>31</ratings_count>
+<authors>
+<author>
+<id>14424764</id>
+<name>Tracy  Black</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14424764.Tracy_Black]]></link>
+<average_rating>4.76</average_rating>
+<ratings_count>37</ratings_count>
+<text_reviews_count>33</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 01 00:00:00 -0800 2016</started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:47:39 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:48:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Everything Falls Apart<br /><br />Everything starts to fall apart in 1986. Mandy is raising three children on her own, sixteen-year-old twins Mark and Jenny, and eleven-year-old Jakey. She heads down the road to complete denial. She dismisses fighting and behavior changes with “kids will be kids” and “couldn...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203650]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589203586</id>
+    
+  <user>
+    <id>51440655</id>
+    <name>Chocoandbooks</name>
+
+    <location>Catania, 15, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51440655-chocoandbooks]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452614443p3/51440655.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452614443p2/51440655.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28762155</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <title>Mi sei capitata per caso</title>
+  <image_url>https://d.gr-assets.com/books/1453841933m/28762155.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1453841933s/28762155.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28762155-mi-sei-capitata-per-caso</link>
+  <num_pages>219</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>25</ratings_count>
+<authors>
+<author>
+<id>7467564</id>
+<name>Diana Malaspina</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1389090911p5/7467564.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1389090911p2/7467564.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7467564.Diana_Malaspina]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>35</ratings_count>
+<text_reviews_count>15</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:47:32 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Sono stata davvero felice di aver avuto la possibilità di leggere in anteprima questo romanzo e esprimere il mio parere al riguardo. E' stata una lettura davvero piacevole: semplice, leggera, scorrevole, senza troppe pretese, se non quella di divertire il lettore. Perchè io mi sono divertita davv...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203586]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203586]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589203460</id>
+    
+  <user>
+    <id>7435241</id>
+    <name>Wal.li</name>
+
+    <location>B, 06, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7435241-wal-li]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368170921p3/7435241.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368170921p2/7435241.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23664683</id>
+  <isbn>0434021199</isbn>
+  <isbn13>9780434021192</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <title>Speaking in Bones (Temperance Brennan, #18)</title>
+  <image_url>https://d.gr-assets.com/books/1429641712m/23664683.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1429641712s/23664683.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23664683-speaking-in-bones</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Heinemann</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>274</ratings_count>
+<authors>
+<author>
+<id>26372</id>
+<name>Kathy Reichs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407166867p5/26372.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407166867p2/26372.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/26372.Kathy_Reichs]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>472970</ratings_count>
+<text_reviews_count>23081</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:47:39 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:47:21 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Knochenseher<br /><br />Fast jedes Mittel ist Tempe Brennan recht, um der jährlichen Aufgabe der Vorbereitung der Steuererklärung zu entgehen. Und so hört sie sich die Geschichte der Amateurdetektivin Lucky Strike an. Diese meint, sie habe die sterblichen Überreste eines Menschen identifiziert, die im Jahr 2...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203460]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203460]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589203435</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15734715</id>
+  <isbn>0007351739</isbn>
+  <isbn13>9780007351732</isbn13>
+  <text_reviews_count type="integer">240</text_reviews_count>
+  <title>Back Story</title>
+  <image_url>https://d.gr-assets.com/books/1349984887m/15734715.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1349984887s/15734715.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15734715-back-story</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers Ltd</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2600</ratings_count>
+<authors>
+<author>
+<id>3016794</id>
+<name>David        Mitchell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1250140800p5/3016794.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1250140800p2/3016794.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3016794.David_Mitchell]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>5085</ratings_count>
+<text_reviews_count>469</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 22 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:47:18 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[While I understand that the walk around London was an idea of how to link all of the different parts of the book together I don't really think it worked for me. <br />It's clear to see from this book that, to me at least, David Mitchell has lead a very interesting life so far. Also it's lovely to read...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203435]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203435]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589203404</id>
+    
+  <user>
+    <id>1681143</id>
+    <name>Laura</name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1681143-laura]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26367135</id>
+  <isbn>1462117910</isbn>
+  <isbn13>9781462117918</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Catching Lucas Riley</title>
+  <image_url>https://d.gr-assets.com/books/1441997683m/26367135.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1441997683s/26367135.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26367135-catching-lucas-riley</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Cedar Fort Publishing &amp; Media</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>9</ratings_count>
+<authors>
+<author>
+<id>8526854</id>
+<name>Lauren Winder Farnsworth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434563484p5/8526854.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434563484p2/8526854.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8526854.Lauren_Winder_Farnsworth]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>138</ratings_count>
+<text_reviews_count>47</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:47:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Fun characters and good premise. An enjoyable read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203404]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203404]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589203161</id>
+    
+  <user>
+    <id>33539108</id>
+    <name>Ellie</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33539108-ellie-midwood]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442982553p3/33539108.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442982553p2/33539108.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8613165</id>
+  <isbn>1609114507</isbn>
+  <isbn13>9781609114503</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>Lebensborn</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8613165-lebensborn</link>
+  <num_pages>364</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Eloquent Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>25</ratings_count>
+<authors>
+<author>
+<id>272879</id>
+<name>Jo Ann Bender</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/272879.Jo_Ann_Bender]]></link>
+<average_rating>3.29</average_rating>
+<ratings_count>31</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:47:27 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:46:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[If you’re a fan of historical fiction, this book is definitely a must-read! I always find this period of time fascinating myself, I always appreciate well-researched books about WWII, and “Lebensborn” certainly didn’t disappoint. <br />It tells a story of a young French girl in one of the occupied vill...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203161]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203161]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589203089</id>
+    
+  <user>
+    <id>25179230</id>
+    <name>Lana</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25179230-lana]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1384810717p3/25179230.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1384810717p2/25179230.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">38709</id>
+  <isbn>0439244196</isbn>
+  <isbn13>9780439244190</isbn13>
+  <text_reviews_count type="integer">12402</text_reviews_count>
+  <title>Holes (Holes, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1327781893m/38709.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327781893s/38709.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38709.Holes</link>
+  <num_pages>233</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>637155</ratings_count>
+<authors>
+<author>
+<id>6569</id>
+<name>Louis Sachar</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1215290291p5/6569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1215290291p2/6569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6569.Louis_Sachar]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>834520</ratings_count>
+<text_reviews_count>22188</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="books-read-with-ava" exclusive="true" review_shelf_id="1263905262" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jan 05 00:00:00 -0800 2016</started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:46:50 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[My daughter and I loved this book. It was such a joy to read it together with her. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589203089]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589203089]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589202981</id>
+    
+  <user>
+    <id>5778052</id>
+    <name>Judy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5778052-judy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1356962734p3/5778052.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1356962734p2/5778052.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23785283</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">303</text_reviews_count>
+  <title>Annie's Day</title>
+  <image_url>https://d.gr-assets.com/books/1458231270m/23785283.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458231270s/23785283.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23785283-annie-s-day</link>
+  <num_pages>3</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>www.galactanet.com</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>620</ratings_count>
+<authors>
+<author>
+<id>6540057</id>
+<name>Andy Weir</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1382592903p5/6540057.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1382592903p2/6540057.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6540057.Andy_Weir]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>368716</ratings_count>
+<text_reviews_count>51913</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:47:41 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:46:42 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:41 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[So funny! Very short read (5 minutes) - but really made me laugh!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589202981]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589202981]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589202940</id>
+    
+  <user>
+    <id>30508259</id>
+    <name>Jackie</name>
+
+    <location>Torrevieja, Valencia, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30508259-jackie-roche]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457247193p3/30508259.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457247193p2/30508259.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26237327</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">52</text_reviews_count>
+  <title>The Secret Life of Winnie Cox: Slavery, forbidden love and tragedy</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26237327-the-secret-life-of-winnie-cox</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>152</ratings_count>
+<authors>
+<author>
+<id>456016</id>
+<name>Sharon Maas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1393691969p5/456016.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1393691969p2/456016.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/456016.Sharon_Maas]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>1863</ratings_count>
+<text_reviews_count>242</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jan 02 00:00:00 -0800 2016</started_at>
+  <read_at>Thu Jan 07 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:46:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I would like to thank NetGalley and Bookouture for giving me the opportunity to read this in exchange for an honest and open review.<br />What a beautiful but heart wrenching story.<br />Winnie, a privileged white girl, falls in love with George, a black postman. A totally taboo relationship in the early 20t...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589202940]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589202940]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589202646</id>
+    
+  <user>
+    <id>15143641</id>
+    <name>Inga</name>
+
+    <location>Winterville, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15143641-inga-reeder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1354571679p3/15143641.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1354571679p2/15143641.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29213108</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Hypnotic - The Book of Adam (Gems &amp; Gents Series 6)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29213108-hypnotic---the-book-of-adam</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>17</ratings_count>
+<authors>
+<author>
+<id>2389949</id>
+<name>Iris Bolling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453048155p5/2389949.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453048155p2/2389949.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2389949.Iris_Bolling]]></link>
+<average_rating>4.70</average_rating>
+<ratings_count>2786</ratings_count>
+<text_reviews_count>497</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:46:14 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Wow! As always, Iris knocked it out the park with this book! First off, let me say, the Lassiter family is a unique, awesome, remarkable family. Adam is the youngest son of the family but above all he's a genius! This book was well written, full of action, suspense love, family dynamics and an al...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589202646]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589202646]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589202561</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">106076</id>
+  <isbn>1563898683</isbn>
+  <isbn13>9781563898686</isbn13>
+  <text_reviews_count type="integer">444</text_reviews_count>
+  <title>Batman: Dark Victory</title>
+  <image_url>https://d.gr-assets.com/books/1327940341m/106076.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327940341s/106076.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/106076.Batman</link>
+  <num_pages>391</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>DC Comics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>21291</ratings_count>
+<authors>
+<author>
+<id>32594</id>
+<name>Jeph Loeb</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1214852516p5/32594.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1214852516p2/32594.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32594.Jeph_Loeb]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>197053</ratings_count>
+<text_reviews_count>6698</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 24 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:46:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:47:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[My favourite of the three Batman novels I've read so far. This book manages to pack so many twists and turns into the plotline- the origin of Batman's sidekick, some of Catwoman's mysterious history and you are introduced to Mr. Freeze. The artwork in this is incredible and so colourful! Definite...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589202561]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589202561]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589202523</id>
+    
+  <user>
+    <id>51440655</id>
+    <name>Chocoandbooks</name>
+
+    <location>Catania, 15, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51440655-chocoandbooks]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452614443p3/51440655.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452614443p2/51440655.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27231099</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">53</text_reviews_count>
+  <title>L'amore non è mai una cosa semplice</title>
+  <image_url>https://d.gr-assets.com/books/1447922617m/27231099.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1447922617s/27231099.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27231099-l-amore-non-mai-una-cosa-semplice</link>
+  <num_pages>320</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Newton Compton</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>230</ratings_count>
+<authors>
+<author>
+<id>6535345</id>
+<name>Anna Premoli</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367858327p5/6535345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367858327p2/6535345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6535345.Anna_Premoli]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>3051</ratings_count>
+<text_reviews_count>488</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:46:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:46:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[E' la prima volta che leggo un libro di Anna Premoli, di cui ho sentito solo parlare bene e io non posso che confermare. L'autrice è davvero brava a narrare, il suo linguaggio è molto adeguato all'età e alla personalità dei protagonisti rappresentati e lo stile è fluido e scorrevole, tutto questo...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589202523]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589202523]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589201964</id>
+    
+  <user>
+    <id>9633578</id>
+    <name>Nikita</name>
+
+    <location>Ghaziabad, 07, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9633578-nikita-njkinny-s-world-of-books-stuff]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1443170244p3/9633578.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1443170244p2/9633578.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25392793</id>
+  <isbn>1492615838</isbn>
+  <isbn13>9781492615835</isbn13>
+  <text_reviews_count type="integer">85</text_reviews_count>
+  <title>I'll Be There (The Montgomery Brothers, #6)</title>
+  <image_url>https://d.gr-assets.com/books/1438135051m/25392793.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438135051s/25392793.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25392793-i-ll-be-there</link>
+  <num_pages>384</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Sourcebooks Casablanca</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>224</ratings_count>
+<authors>
+<author>
+<id>1250276</id>
+<name>Samantha Chase</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362103294p5/1250276.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362103294p2/1250276.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1250276.Samantha_Chase]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>14984</ratings_count>
+<text_reviews_count>1513</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2016" exclusive="false" review_shelf_id="1263903480" sortable="false" />
+    <shelf name="books-sent-by-publishers" exclusive="false" review_shelf_id="1263903537" sortable="false" />
+    <shelf name="netgalley" exclusive="false" review_shelf_id="1263903655" sortable="false" />
+    <shelf name="contemporary-romances" exclusive="false" review_shelf_id="1263903576" sortable="false" />
+</shelves>
+  <recommended_for>All romance lovers</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 01 00:00:00 -0800 2016</started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:45:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:46:13 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[ I'll Be There by Samantha Chase is the first book in this series that I have read and although the sixth in this series, it can be read as a standalone. <br /><br />Initially it was the cover that attracted me towards this book and had me checking our the blurb which again is very interesting and sure to ca...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589201964]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589201964]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589201933</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11324334</id>
+  <isbn>1408702509</isbn>
+  <isbn13>9781408702505</isbn13>
+  <text_reviews_count type="integer">343</text_reviews_count>
+  <title>Stonemouth</title>
+  <image_url>https://d.gr-assets.com/books/1328115781m/11324334.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328115781s/11324334.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11324334-stonemouth</link>
+  <num_pages>357</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3195</ratings_count>
+<authors>
+<author>
+<id>7628</id>
+<name>Iain Banks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1374456581p5/7628.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1374456581p2/7628.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7628.Iain_Banks]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>115952</ratings_count>
+<text_reviews_count>5804</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 30 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:45:08 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:45:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I've never read any of Iain Banks' books before and I will definitely be reading more now. I genuinely don't understand the three-star reviews I've seen on Shelfari and Amazon. Sometimes you come across a book that really stays with you for a long time, for me this will be one of those books. The...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589201933]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589201933]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589201566</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18594683</id>
+  <isbn>1782761438</isbn>
+  <isbn13>9781782761433</isbn13>
+  <text_reviews_count type="integer">163</text_reviews_count>
+  <title>Snowpiercer: The Escape (Snowpiercer, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1401073125m/18594683.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1401073125s/18594683.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18594683-snowpiercer</link>
+  <num_pages>110</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Titan Comics</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1009</ratings_count>
+<authors>
+<author>
+<id>913362</id>
+<name>Jacques Lob</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/913362.Jacques_Lob]]></link>
+<average_rating>3.37</average_rating>
+<ratings_count>2146</ratings_count>
+<text_reviews_count>319</text_reviews_count>
+</author>
+</authors>
+  <published>1984</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 31 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:44:33 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:44:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[While I did really enjoy the concept of the book, I agree with other reviewers in that the art really let it down. It was hard to work out what was going on at times and a lot of the male characters were indistinguishable from each other. I think it would have been of great benefit to use colour...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589201566]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589201566]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589201425</id>
+    
+  <user>
+    <id>3287020</id>
+    <name>Michelle</name>
+
+    <location>Topeka, KS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3287020-michelle-morris]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1274120426p3/3287020.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1274120426p2/3287020.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18679391</id>
+  <isbn>0062092898</isbn>
+  <isbn13>9780062092892</isbn13>
+  <text_reviews_count type="integer">883</text_reviews_count>
+  <title>Liar, Temptress, Soldier, Spy: Four Women Undercover in the Civil War</title>
+  <image_url>https://d.gr-assets.com/books/1395710606m/18679391.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1395710606s/18679391.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18679391-liar-temptress-soldier-spy</link>
+  <num_pages>513</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4451</ratings_count>
+<authors>
+<author>
+<id>19683</id>
+<name>Karen Abbott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1394845055p5/19683.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1394845055p2/19683.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19683.Karen_Abbott]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>16635</ratings_count>
+<text_reviews_count>2527</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="currently-reading" exclusive="true" review_shelf_id="1263902836" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:44:19 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:46:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      *book club book*
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589201425]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589201425]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589201097</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">96358</id>
+  <isbn>0930289455</isbn>
+  <isbn13>9780930289454</isbn13>
+  <text_reviews_count type="integer">2061</text_reviews_count>
+  <title>Batman: The Killing Joke</title>
+  <image_url>https://d.gr-assets.com/books/1346331835m/96358.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1346331835s/96358.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/96358.Batman</link>
+  <num_pages>48</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>DC Comics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>94475</ratings_count>
+<authors>
+<author>
+<id>3961</id>
+<name>Alan Moore</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304944713p5/3961.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304944713p2/3961.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3961.Alan_Moore]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>888849</ratings_count>
+<text_reviews_count>26181</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Apr 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:43:50 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:44:02 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I was surprised that reading this I began to sympathise with the Joker and how he came to be as crazy as he is. The art-work in this is stunning and I have nothing but praise for it, it's a lot more realistic than in other graphic novels I've read. The plot is quite creepy though and I anticipate...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589201097]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589201097]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589201095</id>
+    
+  <user>
+    <id>13572151</id>
+    <name>Erin</name>
+
+    <location>Colorado Springs, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13572151-erin-wetzel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1220113</id>
+  <isbn>0394861027</isbn>
+  <isbn13>9780394861029</isbn13>
+  <text_reviews_count type="integer">105</text_reviews_count>
+  <title>It's Not Easy Being a Bunny</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1220113.It_s_Not_Easy_Being_a_Bunny</link>
+  <num_pages>48</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1983</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3486</ratings_count>
+<authors>
+<author>
+<id>21489</id>
+<name>Marilyn Sadler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1360083574p5/21489.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1360083574p2/21489.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21489.Marilyn_Sadler]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5381</ratings_count>
+<text_reviews_count>389</text_reviews_count>
+</author>
+</authors>
+  <published>1983</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="edrd-314" exclusive="false" review_shelf_id="1263903447" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:45:14 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:43:50 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:45:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book really emphasizes how people can feel out of place in their family and end up leaving. It takes leaving to figure out what you really had in life, and this book is the perfect way to teach that to to young kids.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589201095]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589201095]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589201056</id>
+    
+  <user>
+    <id>51440655</id>
+    <name>Chocoandbooks</name>
+
+    <location>Catania, 15, Italy</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51440655-chocoandbooks]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452614443p3/51440655.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452614443p2/51440655.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23447037</id>
+  <isbn>8854173134</isbn>
+  <isbn13>9788854173132</isbn13>
+  <text_reviews_count type="integer">51</text_reviews_count>
+  <title>Il mio splendido migliore amico (Splintered, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1414250640m/23447037.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1414250640s/23447037.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23447037-il-mio-splendido-migliore-amico</link>
+  <num_pages>406</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Vertigo #133</edition_information>
+  <publisher>Newton Compton</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>168</ratings_count>
+<authors>
+<author>
+<id>5186274</id>
+<name>A.G. Howard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1325561918p5/5186274.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1325561918p2/5186274.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5186274.A_G_Howard]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>60387</ratings_count>
+<text_reviews_count>10018</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:43:46 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:44:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Leggendo la trama di questo libro mi sono subito sentita attirata e affascinata dal tipo di storia a cui sarei andata incontro con questa lettura e la mia curiosità è stata placata presto, poichè ho acquistato questo libro pochissimo tempo fa e ho deciso di leggerlo. Purtroppo non posso dire che...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589201056]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589201056]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

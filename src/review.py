@@ -86,11 +86,13 @@ def printReviews(reviewsList):
     negative = 0
     neutral = 0
 
+    NUMREVIEWS = 8000
+
     for review in reviewsList:
         
         rating = review.rating
         body = review.body.rstrip()
-        if (rating > 3):
+        if (rating > 3 and positive < NUMREVIEWS):
             positiveReviews.write(body)
             positive += 1
 
@@ -98,7 +100,8 @@ def printReviews(reviewsList):
             neutralReviews.write(body)
             neutral += 1
 
-        elif (rating < 3):
+        elif (rating < 3 and negative < NUMREVIEWS):
+        # elif (rating < 3 and rating > 0 and negative < NUMREVIEWS):
             negativeReviews.write(body)
             negative += 1
 
@@ -115,7 +118,7 @@ def printReviews2(reviewsList):
     neutralReviews = open(dataFolder+'divided/neutral.csv','w')
     allReviews = open(dataFolder+'divided/all.csv','w')
 
-    NUMREVIEWS = 175
+    NUMREVIEWS = 8000
     # f.close() 
 
     fieldnames = ['review', 'class']
@@ -143,6 +146,7 @@ def printReviews2(reviewsList):
             neuWriter.writerow({'review': body, 'class': 'negative'})
             neutral += 1
 
+        # elif (rating < 3 and rating > 0 and negative < NUMREVIEWS):
         elif (rating < 3 and negative < NUMREVIEWS):
             negWriter.writerow({'review': body, 'class': 'negative'})
             negative += 1
@@ -153,6 +157,7 @@ def printReviews2(reviewsList):
 
 getRecentReviews()
 reviewsList = getReviewsList()
+printReviews2(reviewsList)
 printReviews(reviewsList)
 
 

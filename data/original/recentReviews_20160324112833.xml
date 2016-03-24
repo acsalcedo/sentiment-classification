@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589258868</id>
+    
+  <user>
+    <id>53028037</id>
+    <name>Bethany</name>
+
+    <location>Spearfish, SD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53028037-bethany]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456851674p3/53028037.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456851674p2/53028037.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">301023</id>
+  <isbn>0810987880</isbn>
+  <isbn13>9780810987883</isbn13>
+  <text_reviews_count type="integer">1663</text_reviews_count>
+  <title>ttyl (Internet Girls, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1350771009m/301023.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1350771009s/301023.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/301023.ttyl</link>
+  <num_pages>209</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harry N. Abrams</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>13607</ratings_count>
+<authors>
+<author>
+<id>157676</id>
+<name>Lauren Myracle</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224298383p5/157676.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224298383p2/157676.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/157676.Lauren_Myracle]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>172808</ratings_count>
+<text_reviews_count>17802</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:58:09 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:58:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      LOVE IT SO FREAKIN&apos; MUCH!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589258868]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589258868]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589258774</id>
+    
+  <user>
+    <id>49384075</id>
+    <name>Clara</name>
+
+    <location>Walla Walla, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49384075-clara-stuart]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1448434984p3/49384075.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1448434984p2/49384075.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10357575</id>
+  <isbn>0307593312</isbn>
+  <isbn13>9780307593313</isbn13>
+  <text_reviews_count type="integer">10322</text_reviews_count>
+  <title>1Q84 (1Q84, #1-3)</title>
+  <image_url>https://d.gr-assets.com/books/1359439026m/10357575.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1359439026s/10357575.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10357575-1q84</link>
+  <num_pages>925</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>101752</ratings_count>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1350230608p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1350230608p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>1208187</ratings_count>
+<text_reviews_count>86094</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:58:01 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:58:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      My favorite of his thus far
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589258774]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589258774]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589258495</id>
+    
+  <user>
+    <id>23972027</id>
+    <name>Hannah</name>
+
+    <location>Lexington, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23972027-hannah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17261146</id>
+  <isbn>0374350582</isbn>
+  <isbn13>9780374350581</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <title>A Moose That Says Moo</title>
+  <image_url>https://d.gr-assets.com/books/1358751574m/17261146.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1358751574s/17261146.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17261146-a-moose-that-says-moo</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Farrar, Straus and Giroux (BYR)</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>217</ratings_count>
+<authors>
+<author>
+<id>6897315</id>
+<name>Jennifer Hamburg</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6897315.Jennifer_Hamburg]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>379</ratings_count>
+<text_reviews_count>95</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-school-story-time" exclusive="false" review_shelf_id="1263955622" sortable="false" />
+    <shelf name="picture-books" exclusive="false" review_shelf_id="1263955614" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:58:08 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:57:40 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:58:08 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Kids loved it. Rhyming and rhythm were great.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589258495]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589258495]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589258471</id>
+    
+  <user>
+    <id>51177985</id>
+    <name>Kate</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51177985-kate]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">21816542</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">44</text_reviews_count>
+  <title>Biker Faith (The Lost Souls MC #2)</title>
+  <image_url>https://d.gr-assets.com/books/1401298591m/21816542.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1401298591s/21816542.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21816542-biker-faith</link>
+  <num_pages>209</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Ellie R Hunter</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>907</ratings_count>
+<authors>
+<author>
+<id>6937581</id>
+<name>Ellie R. Hunter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1401564244p5/6937581.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1401564244p2/6937581.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6937581.Ellie_R_Hunter]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>4845</ratings_count>
+<text_reviews_count>254</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1263955531" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:57:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:58:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Revolting serial cheater who can never keep it in his pants. While trying to show the h he loves her and wants only her, at THE SAME TIME, he is fucking all the club whores.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589258471]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589258471]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589258448</id>
+    
+  <user>
+    <id>48971319</id>
+    <name>Nayelis</name>
+
+    <location>New Milford, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48971319-nayelis]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1449778334p3/48971319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1449778334p2/48971319.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18812716</id>
+  <isbn>000753826X</isbn>
+  <isbn13>9780007538263</isbn13>
+  <text_reviews_count type="integer">513</text_reviews_count>
+  <title>Sanctum (Asylum, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1392258740m/18812716.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1392258740s/18812716.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18812716-sanctum</link>
+  <num_pages>343</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher> HarperCollins</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4453</ratings_count>
+<authors>
+<author>
+<id>4051426</id>
+<name>Madeleine Roux</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286749016p5/4051426.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286749016p2/4051426.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4051426.Madeleine_Roux]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>36507</ratings_count>
+<text_reviews_count>4549</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:58:06 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:57:36 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:58:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      It was a quick read
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589258448]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589258448]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257882</id>
+    
+  <user>
+    <id>20398570</id>
+    <name>Stephanie</name>
+
+    <location>Port Allen, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20398570-stephanie-villere]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18953252</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Reckless (Wrecked, #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18953252-reckless</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>123</ratings_count>
+<authors>
+<author>
+<id>5423648</id>
+<name>Elle Casey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1427840300p5/5423648.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1427840300p2/5423648.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5423648.Elle_Casey]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>81866</ratings_count>
+<text_reviews_count>7377</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:56:56 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:56:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:56:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Really good book! </strong><br /><br />Although this book is not the usual genre that I prefer, it was a really good book. It was action packed and unpredictable from beginning to end. I couldn't stop with just Wrecked, I HAD to read Reckless too. I became so invested in the story with part one that there was no way...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257882]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257882]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257873</id>
+    
+  <user>
+    <id>41749682</id>
+    <name>Light</name>
+
+    <location>Nigeria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41749682-light]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6692974</id>
+  <isbn>0892765291</isbn>
+  <isbn13>9780892765294</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Greater Glory</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6692974-greater-glory</link>
+  <num_pages>41</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Faith Library Publications</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>9</ratings_count>
+<authors>
+<author>
+<id>102183</id>
+<name>Kenneth E. Hagin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1285798565p5/102183.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1285798565p2/102183.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/102183.Kenneth_E_Hagin]]></link>
+<average_rating>4.52</average_rating>
+<ratings_count>8051</ratings_count>
+<text_reviews_count>440</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:56:54 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Awesome
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257873]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257873]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257866</id>
+    
+  <user>
+    <id>23394263</id>
+    <name>Stephanie</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23394263-stephanie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1377805405p3/23394263.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1377805405p2/23394263.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22473578</id>
+  <isbn>0316380989</isbn>
+  <isbn13>9780316380980</isbn13>
+  <text_reviews_count type="integer">97</text_reviews_count>
+  <title>The Day the Dead Came to Show and Tell (Newsflesh Trilogy, #3.3)</title>
+  <image_url>https://d.gr-assets.com/books/1402866944m/22473578.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1402866944s/22473578.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22473578-the-day-the-dead-came-to-show-and-tell</link>
+  <num_pages>84</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Orbit Books</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>605</ratings_count>
+<authors>
+<author>
+<id>3153776</id>
+<name>Mira Grant</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1380320279p5/3153776.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1380320279p2/3153776.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3153776.Mira_Grant]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>94624</ratings_count>
+<text_reviews_count>11835</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 17 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:56:53 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Too short. Wish there was more, but I LOVE Mira's writing style. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257866]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257866]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257644</id>
+    
+  <user>
+    <id>23972027</id>
+    <name>Hannah</name>
+
+    <location>Lexington, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23972027-hannah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">137045</id>
+  <isbn>0763621803</isbn>
+  <isbn13>9780763621803</isbn13>
+  <text_reviews_count type="integer">228</text_reviews_count>
+  <title>I Will Never Not Ever Eat a Tomato</title>
+  <image_url>https://d.gr-assets.com/books/1320504923m/137045.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320504923s/137045.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/137045.I_Will_Never_Not_Ever_Eat_a_Tomato</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>5479</ratings_count>
+<authors>
+<author>
+<id>42016</id>
+<name>Lauren Child</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224138945p5/42016.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224138945p2/42016.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/42016.Lauren_Child]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>34850</ratings_count>
+<text_reviews_count>3158</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-school-story-time" exclusive="false" review_shelf_id="1263954908" sortable="false" />
+    <shelf name="picture-books" exclusive="false" review_shelf_id="1263954904" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:57:16 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:56:37 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Strong possibility that the caregivers liked this more than the kids, but it kept the kid's attention and offered a lot of opportunities for interaction. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257644]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257644]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257548</id>
+    
+  <user>
+    <id>41400278</id>
+    <name>Murdoch</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41400278-murdoch-maxwell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1426868221p3/41400278.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1426868221p2/41400278.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10975</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3825</text_reviews_count>
+  <title>The Sound and the Fury</title>
+  <image_url>https://d.gr-assets.com/books/1433089995m/10975.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1433089995s/10975.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10975.The_Sound_and_the_Fury</link>
+  <num_pages>326</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day/>
+  <publication_year>1990</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>111906</ratings_count>
+<authors>
+<author>
+<id>3535</id>
+<name>William Faulkner</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1437805575p5/3535.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1437805575p2/3535.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3535.William_Faulkner]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>369497</ratings_count>
+<text_reviews_count>16616</text_reviews_count>
+</author>
+</authors>
+  <published>1929</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 01 00:00:00 -0800 2016</started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:56:28 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Neurotic Quentin is a god!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257548]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257548]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257377</id>
+    
+  <user>
+    <id>2075722</id>
+    <name>Angela</name>
+
+    <location>Hixson, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2075722-angela-wade]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456344382p3/2075722.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456344382p2/2075722.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26244</id>
+  <isbn>1598184717</isbn>
+  <isbn13>9781598184716</isbn13>
+  <text_reviews_count type="integer">187</text_reviews_count>
+  <title>A Confession</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26244.A_Confession</link>
+  <num_pages>108</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Aegypan</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2794</ratings_count>
+<authors>
+<author>
+<id>128382</id>
+<name>Leo Tolstoy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450457558p5/128382.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450457558p2/128382.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/128382.Leo_Tolstoy]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>690781</ratings_count>
+<text_reviews_count>30616</text_reviews_count>
+</author>
+</authors>
+  <published>1882</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="medical" exclusive="false" review_shelf_id="1263954730" sortable="false" />
+    <shelf name="religion" exclusive="false" review_shelf_id="1263954838" sortable="false" />
+    <shelf name="science" exclusive="false" review_shelf_id="1263954947" sortable="false" />
+    <shelf name="parenting" exclusive="false" review_shelf_id="1263954797" sortable="false" />
+    <shelf name="autobiography" exclusive="false" review_shelf_id="1263954594" sortable="false" />
+    <shelf name="childhood" exclusive="false" review_shelf_id="1263954621" sortable="false" />
+    <shelf name="did-not-finish" exclusive="false" review_shelf_id="1263954615" sortable="false" />
+    <shelf name="history" exclusive="false" review_shelf_id="1263954661" sortable="false" />
+    <shelf name="russia" exclusive="false" review_shelf_id="1263954889" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:57:06 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:56:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[He finds his answer in religion.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257377]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257377]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257358</id>
+    
+  <user>
+    <id>54232455</id>
+    <name>Shylo</name>
+
+    <location>Brewer, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54232455-shylo]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18296030</id>
+  <isbn>1423175123</isbn>
+  <isbn13>9781423175124</isbn13>
+  <text_reviews_count type="integer">1237</text_reviews_count>
+  <title>Don't Look Back</title>
+  <image_url>https://d.gr-assets.com/books/1380803444m/18296030.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1380803444s/18296030.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18296030-don-t-look-back</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>7990</ratings_count>
+<authors>
+<author>
+<id>4476934</id>
+<name>Jennifer L. Armentrout</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1290636579p5/4476934.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1290636579p2/4476934.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4476934.Jennifer_L_Armentrout]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>1072288</ratings_count>
+<text_reviews_count>96094</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:56:13 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I read this book overnight, it was so good! It was full of surprises and this author is just the best!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257358]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257358]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257332</id>
+    
+  <user>
+    <id>53028037</id>
+    <name>Bethany</name>
+
+    <location>Spearfish, SD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53028037-bethany]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456851674p3/53028037.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456851674p2/53028037.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">36024</id>
+  <isbn>0786853786</isbn>
+  <isbn13>9780786853786</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <title>Tim Burton's Nightmare Before Christmas: The Film, the Art, the Vision</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36024.Tim_Burton_s_Nightmare_Before_Christmas</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hyperion</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>4101</ratings_count>
+<authors>
+<author>
+<id>54125</id>
+<name>Frank T. Thompson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/54125.Frank_T_Thompson]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>4666</ratings_count>
+<text_reviews_count>96</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:56:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is my favorite book and movie in the entire world! YAY YAY YAY YAY YAY YAY YAY ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257332]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257332]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257251</id>
+    
+  <user>
+    <id>9341934</id>
+    <name>Darlene</name>
+
+    <location><![CDATA[Santo Domingo, 05, Dominican Republic]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9341934-darlene]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1343700420p3/9341934.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1343700420p2/9341934.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25912358</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">728</text_reviews_count>
+  <title>A Thousand Boy Kisses</title>
+  <image_url>https://d.gr-assets.com/books/1453299050m/25912358.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1453299050s/25912358.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25912358-a-thousand-boy-kisses</link>
+  <num_pages>316</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2095</ratings_count>
+<authors>
+<author>
+<id>7074846</id>
+<name>Tillie Cole</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456642741p5/7074846.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1456642741p2/7074846.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7074846.Tillie_Cole]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>113174</ratings_count>
+<text_reviews_count>12671</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:56:27 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:56:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:56:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      So cute.. so sad
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257251]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257251]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257197</id>
+    
+  <user>
+    <id>23325394</id>
+    <name>Elessar</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23325394-elessar]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1438519439p3/23325394.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1438519439p2/23325394.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13591678</id>
+  <isbn>0545165768</isbn>
+  <isbn13>9780545165761</isbn13>
+  <text_reviews_count type="integer">716</text_reviews_count>
+  <title>Endangered (Ape Quartet #1)</title>
+  <image_url>https://d.gr-assets.com/books/1339453693m/13591678.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1339453693s/13591678.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13591678-endangered</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3313</ratings_count>
+<authors>
+<author>
+<id>72896</id>
+<name>Eliot Schrefer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347717832p5/72896.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347717832p2/72896.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/72896.Eliot_Schrefer]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>8601</ratings_count>
+<text_reviews_count>1491</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:55:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:56:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Very boring
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257197]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257197]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257077</id>
+    
+  <user>
+    <id>23972027</id>
+    <name>Hannah</name>
+
+    <location>Lexington, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23972027-hannah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4271837</id>
+  <isbn>0152065334</isbn>
+  <isbn13>9780152065331</isbn13>
+  <text_reviews_count type="integer">145</text_reviews_count>
+  <title>The Doghouse</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4271837-the-doghouse</link>
+  <num_pages>40</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1819</ratings_count>
+<authors>
+<author>
+<id>871172</id>
+<name>Jan Thomas</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/871172.Jan_Thomas]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>16134</ratings_count>
+<text_reviews_count>1639</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-school-story-time" exclusive="false" review_shelf_id="1263954327" sortable="false" />
+    <shelf name="picture-books" exclusive="false" review_shelf_id="1263954317" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:56:15 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:55:49 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:56:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Kids LOVED this book. Kept attention during PreK Story time. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257077]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257077]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589257076</id>
+    
+  <user>
+    <id>984222</id>
+    <name>Jodi</name>
+
+    <location>Grayslake, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/984222-jodi]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26246011</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Anne Boleyn's Letter from the Tower: A New Assessment</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26246011-anne-boleyn-s-letter-from-the-tower</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>58</ratings_count>
+<authors>
+<author>
+<id>8226098</id>
+<name>Sandra Vasoli</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8226098.Sandra_Vasoli]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>89</ratings_count>
+<text_reviews_count>19</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:55:49 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:58:17 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[While covering the topic thoroughly and relaying the information in an accessible manner, Vasoli had to temper her dialogue with caution. There is no solid evidence that the letter was dictated by Anne (it not being in her handwriting is clearly proven) and any reputable historian should acknowle...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589257076]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589257076]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589256645</id>
+    
+  <user>
+    <id>3240858</id>
+    <name>Russell</name>
+
+    <location>Carmel, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3240858-russell-l]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13330370</id>
+  <isbn>1594745765</isbn>
+  <isbn13>9781594745768</isbn13>
+  <text_reviews_count type="integer">1727</text_reviews_count>
+  <title>The Last Policeman (The Last Policeman, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1344370646m/13330370.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344370646s/13330370.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13330370-the-last-policeman</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Quirk Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>11635</ratings_count>
+<authors>
+<author>
+<id>735413</id>
+<name>Ben H. Winters</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1273516874p5/735413.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1273516874p2/735413.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/735413.Ben_H_Winters]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>41748</ratings_count>
+<text_reviews_count>5783</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:55:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:57:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      I liked the book.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589256645]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589256645]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589256635</id>
+    
+  <user>
+    <id>23972027</id>
+    <name>Hannah</name>
+
+    <location>Lexington, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23972027-hannah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">490867</id>
+  <isbn>1844280594</isbn>
+  <isbn13>9781844280599</isbn13>
+  <text_reviews_count type="integer">1437</text_reviews_count>
+  <title>Knuffle Bunny: A Cautionary Tale (Knuffle Bunny, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/490867.Knuffle_Bunny</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Walker &amp; Company</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>34839</ratings_count>
+<authors>
+<author>
+<id>33274</id>
+<name>Mo Willems</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1199684071p5/33274.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1199684071p2/33274.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33274.Mo_Willems]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>318744</ratings_count>
+<text_reviews_count>20403</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-school-story-time" exclusive="false" review_shelf_id="1263953912" sortable="false" />
+    <shelf name="picture-books" exclusive="false" review_shelf_id="1263953902" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:55:39 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:55:14 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:55:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Mo Willems is the child whisperer.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589256635]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589256635]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589256497</id>
+    
+  <user>
+    <id>13010483</id>
+    <name>Diane</name>
+
+    <location>Coalville, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13010483-diane-brown]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13588082</id>
+  <isbn>0399246525</isbn>
+  <isbn13>9780399246524</isbn13>
+  <text_reviews_count type="integer">793</text_reviews_count>
+  <title>Each Kindness</title>
+  <image_url>https://d.gr-assets.com/books/1361368608m/13588082.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361368608s/13588082.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13588082-each-kindness</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Nancy Paulsen Books</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3297</ratings_count>
+<authors>
+<author>
+<id>74640</id>
+<name>Jacqueline Woodson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1327352477p5/74640.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1327352477p2/74640.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/74640.Jacqueline_Woodson]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>76901</ratings_count>
+<text_reviews_count>11049</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:55:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:56:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Another great book that teaches about kindness to others even though they are different from us.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589256497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589256497]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589243363</id>
+    
+  <user>
+    <id>54030530</id>
+    <name>Jackie McNeese</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54030530-jackie-mcneese]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27401883</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>When I'm Gone: A Novel</title>
+  <image_url>https://d.gr-assets.com/books/1454525207m/27401883.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454525207s/27401883.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27401883-when-i-m-gone</link>
+  <num_pages>366</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>305</ratings_count>
+<authors>
+<author>
+<id>8546820</id>
+<name>Emily Bleeker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445957667p5/8546820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445957667p2/8546820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8546820.Emily_Bleeker]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>21123</ratings_count>
+<text_reviews_count>2036</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:38:25 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:38:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:38:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>A moving and compelling story of family and relationships!</strong><br /><br />A story full of the stages of grief when you have to face the loss of a loved one. The plot successfully left you with a feeling of hope.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589243363]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589243363]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589243161</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16160797</id>
+  <isbn>0316206849</isbn>
+  <isbn13>9780316206846</isbn13>
+  <text_reviews_count type="integer">19377</text_reviews_count>
+  <title>The Cuckoo's Calling (Cormoran Strike, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1358716559m/16160797.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1358716559s/16160797.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling</link>
+  <num_pages>455</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Mulholland Books / Little, Brown and Company</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>223573</ratings_count>
+<authors>
+<author>
+<id>383606</id>
+<name>Robert Galbraith</name>
+<role>Pseudonym</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409176860p5/383606.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409176860p2/383606.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/383606.Robert_Galbraith]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>396148</ratings_count>
+<text_reviews_count>39569</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Sep 16 00:00:00 -0700 2013</read_at>
+  <date_added>Thu Mar 24 08:38:05 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:38:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I didn't like the Harry Potter books (that is, the ones I managed to finish) so this book by J. K. Rowling really surprised me. It definitely deserves all the hype, it had me hooked from start to finish and for once I didn't guess the ending in advance. Fantastic characters, fantastic plot...I'll...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589243161]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589243161]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589243031</id>
+    
+  <user>
+    <id>3537117</id>
+    <name>John</name>
+
+    <location>Hartland, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3537117-john-clark]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1316752571p3/3537117.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1316752571p2/3537117.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12909639</id>
+  <isbn>1442408103</isbn>
+  <isbn13>9781442408104</isbn13>
+  <text_reviews_count type="integer">73</text_reviews_count>
+  <title>Me Want Pet!</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12909639-me-want-pet</link>
+  <num_pages>40</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster/Paula Wiseman Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>367</ratings_count>
+<authors>
+<author>
+<id>869257</id>
+<name>Tammi Sauer</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/869257.Tammi_Sauer]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>3443</ratings_count>
+<text_reviews_count>698</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:37:54 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:38:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Line-like drawings and short text entries combine to tell a decent story about a cave boy in prehistoric times. He wants a pet. His first attempt results in bringing home one that's too big, the second, one that makes his dad sneeze. When he brings home one that is small, but not potty trained, a...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589243031]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589243031]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589242856</id>
+    
+  <user>
+    <id>597461</id>
+    <name>Elyse</name>
+
+    <location>San Jose, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/597461-elyse]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1319931381p3/597461.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1319931381p2/597461.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10155571</id>
+  <isbn>1590514378</isbn>
+  <isbn13>9781590514375</isbn13>
+  <text_reviews_count type="integer">193</text_reviews_count>
+  <title>Lamb</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10155571-lamb</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Other Press</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>793</ratings_count>
+<authors>
+<author>
+<id>3487217</id>
+<name>Bonnie Nadzam</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1433439515p5/3487217.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1433439515p2/3487217.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3487217.Bonnie_Nadzam]]></link>
+<average_rating>3.46</average_rating>
+<ratings_count>993</ratings_count>
+<text_reviews_count>248</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:37:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:37:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Bonnie Nadzam is a tremendous writer! Descriptions and details draw you in...<br />her prose is gorgeous. Having read her book, "Lions"....( soon to be released this July), and having absolutely loved it... I couldn't wait to get my hands on another book she wrote.<br /><br />"Lamb"....was Bonnie Nadzam's first bo...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589242856]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589242856]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589242704</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13496</id>
+  <isbn>0553588486</isbn>
+  <isbn13>9780553588484</isbn13>
+  <text_reviews_count type="integer">30995</text_reviews_count>
+  <title>A Game of Thrones (A Song of Ice and Fire, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1436732693m/13496.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1436732693s/13496.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13496.A_Game_of_Thrones</link>
+  <num_pages>835</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1055712</ratings_count>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>3398718</ratings_count>
+<text_reviews_count>140724</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Nov 03 00:00:00 -0700 2013</read_at>
+  <date_added>Thu Mar 24 08:37:30 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:37:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I really liked this but did initially find it hard to keep up with all of the different characters. As you grow to know them more I found this improved but there would often be long gaps without hearing about certain characters. That said, I'm planning on reading the rest of the series. Very inte...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589242704]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589242704]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589241901</id>
+    
+  <user>
+    <id>17619162</id>
+    <name>Tonya</name>
+
+    <location>Fort Valley, GA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17619162-tonya-everett]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29218839</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <title>Love Ain't Never Been Easy</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29218839-love-ain-t-never-been-easy</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>50</ratings_count>
+<authors>
+<author>
+<id>4729002</id>
+<name>R. Michelle</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4729002.R_Michelle]]></link>
+<average_rating>4.69</average_rating>
+<ratings_count>54</ratings_count>
+<text_reviews_count>18</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:36:27 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:36:26 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:36:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Tonya-Review</strong><br /><br />Trey was a dirty dog him and Alana sleeping together. He abuse and rape her daughter Allure. Lied about her son during. Infamous has the right name the doctor was wrong for making the comment while he was in a coma and to his mom. Allure check the doctor right quick. Monroe married Kn...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589241901]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589241901]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589241686</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">119322</id>
+  <isbn>0679879242</isbn>
+  <isbn13>9780679879244</isbn13>
+  <text_reviews_count type="integer">10185</text_reviews_count>
+  <title>The Golden Compass (His Dark Materials, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1451271747m/119322.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1451271747s/119322.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/119322.The_Golden_Compass</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf Books for Young Readers</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>827391</ratings_count>
+<authors>
+<author>
+<id>3618</id>
+<name>Philip Pullman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1396622492p5/3618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1396622492p2/3618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>1515303</ratings_count>
+<text_reviews_count>35496</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Aug 14 00:00:00 -0700 2013</read_at>
+  <date_added>Thu Mar 24 08:36:08 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:36:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Even though I read this when much older than the average reader I still loved it. Much better than the film although some of the dialogue from all characters, not just the children, irritated me after a while. Definitely adding the Dark Materials number two to my reading list.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589241686]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589241686]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589241616</id>
+    
+  <user>
+    <id>6289911</id>
+    <name>World Literature Today</name>
+
+    <location>Norman, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6289911-world-literature-today]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458067018p3/6289911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458067018p2/6289911.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23365263</id>
+  <isbn>0811221490</isbn>
+  <isbn13>9780811221498</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>The Illogic of Kassel</title>
+  <image_url>https://d.gr-assets.com/books/1413749601m/23365263.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1413749601s/23365263.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23365263-the-illogic-of-kassel</link>
+  <num_pages>222</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>New Directions</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>57</ratings_count>
+<authors>
+<author>
+<id>25591</id>
+<name>Enrique Vila-Matas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420293419p5/25591.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420293419p2/25591.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25591.Enrique_Vila_Matas]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>8072</ratings_count>
+<text_reviews_count>744</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1263940348" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:36:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:37:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["This “novel” is published in tandem with A Brief History of Portable Literature, the 1985 prose work that brought Enrique Vila-Matas sustained prominence. Both books epitomize his preference for hybrid genres and contravening conventions, showing a three-decade arc for his prolificacy. Superbly...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589241616]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589241616]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589241308</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6476775</id>
+  <isbn>0307398536</isbn>
+  <isbn13>9780307398536</isbn13>
+  <text_reviews_count type="integer">127</text_reviews_count>
+  <title>Small Wars</title>
+  <image_url>https://d.gr-assets.com/books/1320473652m/6476775.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320473652s/6476775.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6476775-small-wars</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf Canada</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>856</ratings_count>
+<authors>
+<author>
+<id>821338</id>
+<name>Sadie Jones</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1244647638p5/821338.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1244647638p2/821338.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/821338.Sadie_Jones]]></link>
+<average_rating>3.28</average_rating>
+<ratings_count>14149</ratings_count>
+<text_reviews_count>2410</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jul 18 00:00:00 -0700 2013</read_at>
+  <date_added>Thu Mar 24 08:35:39 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A really interesting book and I loved the writing style of the author. However, I did find the book incredibly depressing and was actually hoping for a happy ending. When I finished reading the book I felt that nothing had actually been resolved at the end and that the entire book had essentially...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589241308]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589241308]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240989</id>
+    
+  <user>
+    <id>44526958</id>
+    <name>WarmerSommerregen</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/44526958-warmersommerregen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436094699p3/44526958.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436094699p2/44526958.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29549769</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Deutschland, deine Götter: Eine Reise zu Kirchen, Tempeln, Hexenhäusern</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29549769-deutschland-deine-g-tter</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>10786835</id>
+<name>Gideon Böss</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10786835.Gideon_B_ss]]></link>
+<average_rating>4.50</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:35:24 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:35:12 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:24 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Sehr interessantes Thema, unterhaltsam beschrieben.<br /><br />Religiöse Vielfalt ist in Deutschland zur Zeit sehr groß – und wird sogar noch größer. Wer sich mit dem Thema des Glaubens in Deutschland auseinandersetzten möchte, sieht sich mit zahlreichen verschiedenen Ausrichtungen konfrontiert und ist bald...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240989]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240989]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240985</id>
+    
+  <user>
+    <id>23806655</id>
+    <name>lady_knight</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23806655-lady-knight]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1401996085p3/23806655.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1401996085p2/23806655.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6344766</id>
+  <isbn>1419913611</isbn>
+  <isbn13>9781419913617</isbn13>
+  <text_reviews_count type="integer">49</text_reviews_count>
+  <title>One of the Guys</title>
+  <image_url>https://d.gr-assets.com/books/1355850894m/6344766.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1355850894s/6344766.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6344766-one-of-the-guys</link>
+  <num_pages>111</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Ellora's Cave </publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>395</ratings_count>
+<authors>
+<author>
+<id>96909</id>
+<name>Shiloh Walker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1317604517p5/96909.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1317604517p2/96909.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/96909.Shiloh_Walker]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>53827</ratings_count>
+<text_reviews_count>5302</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:35:12 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[One of the Guys by Shioh Walker is a super steamy story. Lots of sex, but there is also drama, romance, and excitement. For such a short story it sure does pack a lot into it. <br /><br />Jaynie catches her fiancé having a threesome with his best friend and a hot neighbor in their bed. She is humiliated, hur...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240985]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240985]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240875</id>
+    
+  <user>
+    <id>10669594</id>
+    <name>Patrice</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10669594-patrice-j]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1440369515p3/10669594.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1440369515p2/10669594.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22065067</id>
+  <isbn>0062324616</isbn>
+  <isbn13>9780062324610</isbn13>
+  <text_reviews_count type="integer">241</text_reviews_count>
+  <title>Sword and Verse (Sword and Verse, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1435881988m/22065067.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1435881988s/22065067.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22065067-sword-and-verse</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>744</ratings_count>
+<authors>
+<author>
+<id>644355</id>
+<name>Kathy MacMillan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1422588923p5/644355.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1422588923p2/644355.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/644355.Kathy_MacMillan]]></link>
+<average_rating>3.55</average_rating>
+<ratings_count>853</ratings_count>
+<text_reviews_count>277</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:35:42 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:35:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Clever, gripping, romantic, and right.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240875]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240875]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240827</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8908</id>
+  <isbn>0307346609</isbn>
+  <isbn13>9780307346605</isbn13>
+  <text_reviews_count type="integer">17661</text_reviews_count>
+  <title>World War Z: An Oral History of the Zombie War</title>
+  <image_url>https://d.gr-assets.com/books/1386328204m/8908.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1386328204s/8908.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8908.World_War_Z</link>
+  <num_pages>342</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>263736</ratings_count>
+<authors>
+<author>
+<id>5791</id>
+<name>Max Brooks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1334340170p5/5791.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1334340170p2/5791.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5791.Max_Brooks]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>385696</ratings_count>
+<text_reviews_count>25276</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jul 07 00:00:00 -0700 2013</read_at>
+  <date_added>Thu Mar 24 08:35:00 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I bought this on the recommendation of a colleague when away with work but only read it after watching the film. After watching the film I was expecting it to follow one character/ a group of people. When it didn't I was initially intrigued as I thought it seemed a good idea, but I don't think it...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240827]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240827]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240810</id>
+    
+  <user>
+    <id>14913200</id>
+    <name>Ruth</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14913200-ruth-coleman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25817673</id>
+  <isbn>0062424793</isbn>
+  <isbn13>9780062424792</isbn13>
+  <text_reviews_count type="integer">34</text_reviews_count>
+  <title>Girl in the Dark</title>
+  <image_url>https://d.gr-assets.com/books/1442843237m/25817673.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1442843237s/25817673.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25817673-girl-in-the-dark</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>119</ratings_count>
+<authors>
+<author>
+<id>377680</id>
+<name>Marion Pauw</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264451778p5/377680.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1264451778p2/377680.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/377680.Marion_Pauw]]></link>
+<average_rating>3.20</average_rating>
+<ratings_count>2433</ratings_count>
+<text_reviews_count>311</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:36:31 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:34:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:36:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[There are some books that have such a great plot that I'd like to wholeheartedly recommend them, but they also have an abundance of language, sexual references, and other objectionable material. This book was one of those. I would have given it 5 stars if I could cut out a few parts.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240810]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240810]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240723</id>
+    
+  <user>
+    <id>54231835</id>
+    <name>Tracey</name>
+
+    <location>Schererville, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54231835-tracey-miller]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458833207p3/54231835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458833207p2/54231835.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1924322</id>
+  <isbn>1416948066</isbn>
+  <isbn13>9781416948063</isbn13>
+  <text_reviews_count type="integer">969</text_reviews_count>
+  <title>Three Little Words</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1924322.Three_Little_Words</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6545</ratings_count>
+<authors>
+<author>
+<id>875597</id>
+<name>Ashley Rhodes-Courter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417204708p5/875597.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417204708p2/875597.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/875597.Ashley_Rhodes_Courter]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>7314</ratings_count>
+<text_reviews_count>1088</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 15 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:34:52 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:55 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This poor girl and what she had to deal with being in Foster Care. Not right!! ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240723]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240723]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240495</id>
+    
+  <user>
+    <id>6289911</id>
+    <name>World Literature Today</name>
+
+    <location>Norman, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6289911-world-literature-today]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458067018p3/6289911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458067018p2/6289911.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25739169</id>
+  <isbn>0914671200</isbn>
+  <isbn13>9780914671206</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>The Birds</title>
+  <image_url>https://d.gr-assets.com/books/1442998643m/25739169.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1442998643s/25739169.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25739169-the-birds</link>
+  <num_pages>250</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Archipelago Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>79875</id>
+<name>Tarjei Vesaas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1210334788p5/79875.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1210334788p2/79875.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/79875.Tarjei_Vesaas]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>3363</ratings_count>
+<text_reviews_count>383</text_reviews_count>
+</author>
+</authors>
+  <published>1957</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1263939379" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:34:34 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:38 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["Mattis, the protagonist of Norwegian Tarjei Vesaas’s 1957 novel The Birds, surely deserves a place among the cadre of unforgettable characters in modern literature. Mattis’s intellectual disability causes him to perceive his world—the tiny farming community where he has lived all of his thirty-s...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240495]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240495]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240456</id>
+    
+  <user>
+    <id>52208916</id>
+    <name>Kelley</name>
+
+    <location>Boston, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52208916-kelley]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18716722</id>
+  <isbn>0062121332</isbn>
+  <isbn13>9780062121332</isbn13>
+  <text_reviews_count type="integer">124</text_reviews_count>
+  <title>Empire of Shadows (Bhinian Empire, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1391623264m/18716722.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1391623264s/18716722.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18716722-empire-of-shadows</link>
+  <num_pages>496</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper Teen</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>651</ratings_count>
+<authors>
+<author>
+<id>5054179</id>
+<name>Miriam Forster</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1333061992p5/5054179.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1333061992p2/5054179.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5054179.Miriam_Forster]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>4425</ratings_count>
+<text_reviews_count>684</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:34:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[You know from the beginning that this book ends in tragedy, yet you still cannot put this down. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240456]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240456]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240392</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19288043</id>
+  <isbn>0307588378</isbn>
+  <isbn13>9780307588371</isbn13>
+  <text_reviews_count type="integer">14951</text_reviews_count>
+  <title>Gone Girl</title>
+  <image_url>https://d.gr-assets.com/books/1397056917m/19288043.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1397056917s/19288043.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19288043-gone-girl</link>
+  <num_pages>422</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Books</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>258260</ratings_count>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>1865128</ratings_count>
+<text_reviews_count>167307</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jun 23 00:00:00 -0700 2013</read_at>
+  <date_added>Thu Mar 24 08:34:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:34:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I liked the idea of having the major twist in the middle of the book- I thought this worked very well and was quite original. However the ending completely ruined this for me, this couldn't compete with books like Mercy and Before I Go to Sleep. I wasn't expecting a 'happy' ending but I'm a bit d...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240392]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240392]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240280</id>
+    
+  <user>
+    <id>53323674</id>
+    <name>Sara</name>
+
+    <location>Lansing, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53323674-sara-long]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457022853p3/53323674.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457022853p2/53323674.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28673982</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">164</text_reviews_count>
+  <title>Elastic Hearts (Hearts, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1456508333m/28673982.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456508333s/28673982.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28673982-elastic-hearts</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>467</ratings_count>
+<authors>
+<author>
+<id>6655354</id>
+<name>Claire Contreras</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457545244p5/6655354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457545244p2/6655354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6655354.Claire_Contreras]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>54238</ratings_count>
+<text_reviews_count>6575</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 08:38:21 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:34:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:38:21 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Nicole and Reuben are a hot couple and it’s easy to sense their chemistry and physical attraction. The sex scenes are sensual and sizzling, making the reader downright envious of what they have. Nicole is easy to like, but even though Reuben is a hot guy who’s great in bed, you sort of wonder wha...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240280]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240280]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589240208</id>
+    
+  <user>
+    <id>2038993</id>
+    <name>Cristin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2038993-cristin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1934</id>
+  <isbn>0451529308</isbn>
+  <isbn13>9780451529305</isbn13>
+  <text_reviews_count type="integer">11956</text_reviews_count>
+  <title>Little Women (Little Women, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1934.Little_Women</link>
+  <num_pages>449</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet Classics</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1100743</ratings_count>
+<authors>
+<author>
+<id>1315</id>
+<name>Louisa May Alcott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200326665p5/1315.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200326665p2/1315.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1315.Louisa_May_Alcott]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1313013</ratings_count>
+<text_reviews_count>21547</text_reviews_count>
+</author>
+</authors>
+  <published>1868</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:34:14 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:35:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I will forever love this book as I put it in the category of Anne of Green Gables. I recall my mom reading bits of this to me from her own personal copy, and though not outstandingly remarkable, the nostalgia makes it so.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589240208]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589240208]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

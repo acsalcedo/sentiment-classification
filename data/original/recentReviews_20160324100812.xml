@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589196050</id>
+    
+  <user>
+    <id>26158987</id>
+    <name>Nick</name>
+
+    <location>Norwich, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26158987-nick]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1394776682p3/26158987.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1394776682p2/26158987.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9791714</id>
+  <isbn>033053419X</isbn>
+  <isbn13>9780330534192</isbn13>
+  <text_reviews_count type="integer">119</text_reviews_count>
+  <title>The City &amp; the City</title>
+  <image_url>https://d.gr-assets.com/books/1405778981m/9791714.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1405778981s/9791714.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9791714-the-city-the-city</link>
+  <num_pages>373</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pan Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>767</ratings_count>
+<authors>
+<author>
+<id>33918</id>
+<name>China Miéville</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243988363p5/33918.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243988363p2/33918.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33918.China_Mi_ville]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>199468</ratings_count>
+<text_reviews_count>19343</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 07:37:14 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:35:35 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:37:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Disappointing book. Had so much potential, but it was just a chore to read. Great concept, great setting, so many great ideas. But just really dull and laboured. I really wanted to like this book, but I just couldn't. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589196050]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589196050]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589195947</id>
+    
+  <user>
+    <id>4284686</id>
+    <name>Nancy</name>
+
+    <location>Norfolk, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4284686-nancy-reynolds]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19486417</id>
+  <isbn>0451415477</isbn>
+  <isbn13>9780451415479</isbn13>
+  <text_reviews_count type="integer">85</text_reviews_count>
+  <title>Tailing a Tabby (A Bookmobile Cat Mystery, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1405288009m/19486417.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1405288009s/19486417.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19486417-tailing-a-tabby</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>414</ratings_count>
+<authors>
+<author>
+<id>7025913</id>
+<name>Laurie Cass</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7025913.Laurie_Cass]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>1973</ratings_count>
+<text_reviews_count>370</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:35:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:35:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Loved this second book in the series. I find Minnie so sweet and refreshing, and LOVE the way she interacts with Eddie. I won't give the story away, but just love how upbeat and positive Minnie always tries to be. There's a real honesty about these books. Can't wait to read #3!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589195947]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589195947]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589195911</id>
+    
+  <user>
+    <id>11125743</id>
+    <name>Pamela</name>
+
+    <location>Mansfield, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11125743-pamela-ellis]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1371559726p3/11125743.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1371559726p2/11125743.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6035141</id>
+  <isbn>1933633778</isbn>
+  <isbn13>9781933633770</isbn13>
+  <text_reviews_count type="integer">450</text_reviews_count>
+  <title>The Lake</title>
+  <image_url>https://d.gr-assets.com/books/1335952958m/6035141.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1335952958s/6035141.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6035141-the-lake</link>
+  <num_pages>188</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Melville House</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3806</ratings_count>
+<authors>
+<author>
+<id>28229</id>
+<name>Banana Yoshimoto</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1386368930p5/28229.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1386368930p2/28229.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28229.Banana_Yoshimoto]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>62224</ratings_count>
+<text_reviews_count>4464</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:35:50 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:35:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:35:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      2.5
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589195911]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589195911]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589195448</id>
+    
+  <user>
+    <id>11130414</id>
+    <name>Cathy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11130414-cathy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442461833p3/11130414.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442461833p2/11130414.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">21937369</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>Someone You Know: Part One (DS Lucy Black, #2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21937369-someone-you-know</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>USA</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>63</ratings_count>
+<authors>
+<author>
+<id>769732</id>
+<name>Brian McGilloway</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347998753p5/769732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347998753p2/769732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/769732.Brian_McGilloway]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>10939</ratings_count>
+<text_reviews_count>982</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Feb 07 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:34:42 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:35:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Enjoyed this one
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589195448]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589195448]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589195356</id>
+    
+  <user>
+    <id>2060998</id>
+    <name>Marti</name>
+
+    <location>Rome, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2060998-marti]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">965529</id>
+  <isbn>0345388437</isbn>
+  <isbn13>9780345388438</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>The Alpine Fury (Emma Lord Mystery, #6)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/965529.The_Alpine_Fury</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Fawcett</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>380</ratings_count>
+<authors>
+<author>
+<id>2353</id>
+<name>Mary Daheim</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1266450161p5/2353.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1266450161p2/2353.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2353.Mary_Daheim]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>27453</ratings_count>
+<text_reviews_count>1712</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:36:14 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:34:34 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:36:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Life in the Cascade Mountains with a local newspaper editor and her staff. A murder to spice things up]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589195356]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589195356]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589195017</id>
+    
+  <user>
+    <id>33539108</id>
+    <name>Ellie</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33539108-ellie-midwood]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442982553p3/33539108.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442982553p2/33539108.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26122457</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Change of Plans (Crime and Passion Book 2)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26122457-change-of-plans</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>7</ratings_count>
+<authors>
+<author>
+<id>8649076</id>
+<name>LF Gillis</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8649076.LF_Gillis]]></link>
+<average_rating>4.67</average_rating>
+<ratings_count>12</ratings_count>
+<text_reviews_count>8</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:34:59 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:34:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:34:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[“Change of Plans” is an incredibly touching, sad, yet inspiring story of a young woman fighting a terminal illness, and in her selflessness trying to do the last good deed for the sake of her husband and family – find them a new wife and a mother. Genna’s courage in the story was indeed worth adm...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589195017]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589195017]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194975</id>
+    
+  <user>
+    <id>38507580</id>
+    <name>Johanna</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38507580-johanna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1419881011p3/38507580.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1419881011p2/38507580.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">3515091</id>
+  <isbn>0718152832</isbn>
+  <isbn13>9780718152833</isbn13>
+  <text_reviews_count type="integer">95</text_reviews_count>
+  <title>Gypsy</title>
+  <image_url>https://d.gr-assets.com/books/1328435162m/3515091.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328435162s/3515091.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3515091-gypsy</link>
+  <num_pages>515</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1507</ratings_count>
+<authors>
+<author>
+<id>458937</id>
+<name>Lesley Pearse</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1261863858p5/458937.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1261863858p2/458937.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/458937.Lesley_Pearse]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>31918</ratings_count>
+<text_reviews_count>2256</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:34:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:37:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Loved this book! Difficult to put down, sometimes a bit slow and on occasion I wanted to slap some common sence into the main character, written beautifully though. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194975]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194975]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194891</id>
+    
+  <user>
+    <id>36293515</id>
+    <name>Christina</name>
+
+    <location>Ålborg, Denmark</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36293515-christina-ruskj-r]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1414277196p3/36293515.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1414277196p2/36293515.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29238680</id>
+  <isbn>8711513586</isbn>
+  <isbn13>9788711513583</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Lad ulvene komme</title>
+  <image_url>https://d.gr-assets.com/books/1456083737m/29238680.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456083737s/29238680.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29238680-lad-ulvene-komme</link>
+  <num_pages></num_pages>
+  <format>Audiobook</format>
+  <edition_information/>
+  <publisher>Lindhardt &amp; Ringhof</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>5274234</id>
+<name>Carol Rifka Brunt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1334514653p5/5274234.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1334514653p2/5274234.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5274234.Carol_Rifka_Brunt]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>79473</ratings_count>
+<text_reviews_count>9870</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 07:35:43 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:33:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:35:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Virkelig fin og smuk fortælling med en masse fantastisk på hjerte]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194891]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194891]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194869</id>
+    
+  <user>
+    <id>5913088</id>
+    <name>Mary</name>
+
+    <location>Newport, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5913088-mary-petit]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1381353272p3/5913088.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1381353272p2/5913088.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29522648</id>
+  <isbn nil="true"/>
+  <isbn13>9781487406509</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Sealed With Honor (Signed, Sealed, Delivered, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1458077938m/29522648.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458077938s/29522648.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29522648-sealed-with-honor</link>
+  <num_pages>80</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>eXtasy Books</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>5833500</id>
+<name>Caitlin Ricci</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5833500.Caitlin_Ricci]]></link>
+<average_rating>3.42</average_rating>
+<ratings_count>2741</ratings_count>
+<text_reviews_count>697</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="twink-femme" exclusive="false" review_shelf_id="1263896539" sortable="false" />
+    <shelf name="m-m-shifter-love" exclusive="false" review_shelf_id="1263896509" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:33:53 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:35:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Good Start to a story but there is very little conflict and what there is is summed up in like 2 chapters. Really would have liked to seen this drawn out a little more but would read the next in line for sure.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194869]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194869]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194868</id>
+    
+  <user>
+    <id>7699620</id>
+    <name>Laura</name>
+
+    <location>Beacon, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7699620-laura]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360677579p3/7699620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360677579p2/7699620.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1795595</id>
+  <isbn>0439885167</isbn>
+  <isbn13>9780439885164</isbn13>
+  <text_reviews_count type="integer">129</text_reviews_count>
+  <title>Mary Anne Saves the Day (Baby-Sitters Club Graphic Novels #3)</title>
+  <image_url>https://d.gr-assets.com/books/1328866026m/1795595.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328866026s/1795595.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1795595.Mary_Anne_Saves_the_Day</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>GRAPHIX</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2317</ratings_count>
+<authors>
+<author>
+<id>21618</id>
+<name>Raina Telgemeier</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200153437p5/21618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200153437p2/21618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21618.Raina_Telgemeier]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>149749</ratings_count>
+<text_reviews_count>11376</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="graphic-novels" exclusive="false" review_shelf_id="1263896610" sortable="false" />
+    <shelf name="juvenile" exclusive="false" review_shelf_id="1263896569" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:34:09 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:33:52 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:34:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Awwww! Thank you, Raina Telgemeier for bringing the BSC back to life in graphic novel form. Still as good a series as I remembered &lt;3]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194868]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194868]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194704</id>
+    
+  <user>
+    <id>16550352</id>
+    <name>Kirsten</name>
+
+    <location>Fuquay Varina, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16550352-kirsten-simkiss]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453666525p3/16550352.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453666525p2/16550352.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1691409</id>
+  <isbn>0590108417</isbn>
+  <isbn13>9780590108416</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <title>Journey to the Volcano Palace (The Secrets of Droon, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1442858405m/1691409.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1442858405s/1691409.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1691409.Journey_to_the_Volcano_Palace</link>
+  <num_pages>87</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1522</ratings_count>
+<authors>
+<author>
+<id>18111</id>
+<name>Tony Abbott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239486154p5/18111.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239486154p2/18111.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18111.Tony_Abbott]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>36297</ratings_count>
+<text_reviews_count>2809</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="own" exclusive="false" review_shelf_id="1263898266" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 07:33:37 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:36:40 -0700 2016</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[They're simple little books, but they're such a great adventure. I read these when I was growing up and even now, reading it as someone who's almost 25, the world and the ideas floating around in the background are really fantastic. Like seriously, what other book can you name that puts a mermaid...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194704]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194704]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589194488</id>
+    
+  <user>
+    <id>34970152</id>
+    <name>Shakti</name>
+
+    <location>Bangalore, 19, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34970152-shakti-krishnaswamy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458829348p3/34970152.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458829348p2/34970152.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">347612</id>
+  <isbn>0144001012</isbn>
+  <isbn13>9780144001019</isbn13>
+  <text_reviews_count type="integer">92</text_reviews_count>
+  <title>The Old Man and His God: Discovering the Spirit of India</title>
+  <image_url>https://d.gr-assets.com/books/1327991747m/347612.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327991747s/347612.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/347612.The_Old_Man_and_His_God</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1308</ratings_count>
+<authors>
+<author>
+<id>577199</id>
+<name>Sudha Murty</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1333542789p5/577199.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1333542789p2/577199.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/577199.Sudha_Murty]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>18596</ratings_count>
+<text_reviews_count>1172</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Feb 16 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:33:19 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:35:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Mmmm...This lady has written her own perceptions and experiences. Mostly swirling around 'Infosys' and it's organizing activities. Each having their own perception. Not so different !! Once simply can read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194488]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194488]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194461</id>
+    
+  <user>
+    <id>26677955</id>
+    <name>Victoria</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26677955-victoria-colotta]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450741989p3/26677955.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450741989p2/26677955.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23477296</id>
+  <isbn>0751553913</isbn>
+  <isbn13>9780751553918</isbn13>
+  <text_reviews_count type="integer">167</text_reviews_count>
+  <title>Summer at Little Beach Street Bakery (Little Beach Street Bakery, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1414643214m/23477296.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1414643214s/23477296.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23477296-summer-at-little-beach-street-bakery</link>
+  <num_pages>397</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Sphere</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1076</ratings_count>
+<authors>
+<author>
+<id>39272</id>
+<name>Jenny Colgan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1458082074p5/39272.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1458082074p2/39272.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/39272.Jenny_Colgan]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>51667</ratings_count>
+<text_reviews_count>4170</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="literature-fiction" exclusive="false" review_shelf_id="1263896163" sortable="false" />
+    <shelf name="romance" exclusive="false" review_shelf_id="1263896150" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 07:35:10 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:33:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:35:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<img src="http://artbookscoffee.com/images/easyblog_images/858/2016-TopBanner-SummerLittleBeachStreetBakery.jpg" width="375" height="154" alt="Book Review" class="gr-hostedUserImg" /><br /><br /><strong>Delightful. Delectable. Heartwarming. <em>Summer at Little Beach Street Bakery</em> is a wonderful look at one woman’s life on a small island and all the fun, drama, and craziness that comes with it.</strong><br /><br />This is the story of Polly Waterford. She is a baker in a small island off the coast of England. Her work i...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194461]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194461]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194302</id>
+    
+  <user>
+    <id>52991615</id>
+    <name>Amy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52991615-amy-mck]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457829315p3/52991615.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457829315p2/52991615.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22602164</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">108</text_reviews_count>
+  <title>Firefly Hollow (Firefly Hollow, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1404057260m/22602164.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1404057260s/22602164.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22602164-firefly-hollow</link>
+  <num_pages>354</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Streetlight Graphics Publishing</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>784</ratings_count>
+<authors>
+<author>
+<id>3486541</id>
+<name>T.L. Haddix</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1395791196p5/3486541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1395791196p2/3486541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3486541.T_L_Haddix]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>5751</ratings_count>
+<text_reviews_count>739</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:33:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:33:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The book starts slow and keeps a steady pace. We are transported into the 60's in Hazard, Kentucky and follow the budding romance of Owen and Sarah. That's all it is, really. One normal event after another brings them together or apart. The author teases you with shape shifting and that there are...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194302]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194302]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194178</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">107032</id>
+  <isbn>0930289447</isbn>
+  <isbn13>9780930289447</isbn13>
+  <text_reviews_count type="integer">255</text_reviews_count>
+  <title>Batman: A Death in the Family</title>
+  <image_url>https://d.gr-assets.com/books/1327940363m/107032.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327940363s/107032.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/107032.Batman</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>DC Comics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>16724</ratings_count>
+<authors>
+<author>
+<id>18313</id>
+<name>Jim Starlin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1308066732p5/18313.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1308066732p2/18313.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18313.Jim_Starlin]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>34674</ratings_count>
+<text_reviews_count>1666</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jun 27 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:32:52 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:33:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I find the concept of letting the readers decide whether a character lives or dies quite a strange one but in this case I think it actually worked quite well. This graphic novel provides very interesting backgrounds for a couple of the Robins and I enjoyed reading about how not all of the Robins...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194178]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194178]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589194079</id>
+    
+  <user>
+    <id>5880568</id>
+    <name>Jen</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5880568-jen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20176373</id>
+  <isbn>1611801699</isbn>
+  <isbn13>9781611801699</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <title>Home Grown: Adventures in Parenting off the Beaten Path, Unschooling, and Reconnecting with the Natural World</title>
+  <image_url>https://d.gr-assets.com/books/1408308104m/20176373.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1408308104s/20176373.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20176373-home-grown</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Roost Books</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>288</ratings_count>
+<authors>
+<author>
+<id>172014</id>
+<name>Ben Hewitt</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/172014.Ben_Hewitt]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>1932</ratings_count>
+<text_reviews_count>374</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 07:36:07 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:32:43 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:36:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book is excellent. I thoroughly enjoyed reading it. The author's rich descriptions are so wonderful, I had to read them twice. I can relate to his sense of place and identity with the land, it is just terrific that he can capture the feeling so accurately with his chosen words. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589194079]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589194079]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589193822</id>
+    
+  <user>
+    <id>23972027</id>
+    <name>Hannah</name>
+
+    <location>Lexington, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23972027-hannah]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6371698</id>
+  <isbn>1582462437</isbn>
+  <isbn13>9781582462431</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <title>Down by the Station</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6371698-down-by-the-station</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Tricycle Press</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>137</ratings_count>
+<authors>
+<author>
+<id>2888272</id>
+<name>Jennifer Vetter</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2888272.Jennifer_Vetter]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>137</ratings_count>
+<text_reviews_count>27</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="picture-books" exclusive="false" review_shelf_id="1263895547" sortable="false" />
+    <shelf name="toddler-rock-n-read" exclusive="false" review_shelf_id="1263895566" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 07:33:01 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:32:18 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:33:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Love the book, great concept, great song, great at keeping the attention of a room full of toddlers.<br /><br />Cons: About three pages too long.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589193822]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589193822]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589193807</id>
+    
+  <user>
+    <id>54117700</id>
+    <name>BookPriestess</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54117700-bookpriestess]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13597723</id>
+  <isbn>1423168232</isbn>
+  <isbn13>9781423168232</isbn13>
+  <text_reviews_count type="integer">1776</text_reviews_count>
+  <title>The Naturals (The Naturals, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1374862751m/13597723.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1374862751s/13597723.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13597723-the-naturals</link>
+  <num_pages>308</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>11825</ratings_count>
+<authors>
+<author>
+<id>164187</id>
+<name>Jennifer Lynn Barnes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243935916p5/164187.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1243935916p2/164187.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/164187.Jennifer_Lynn_Barnes]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>105312</ratings_count>
+<text_reviews_count>9817</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 07:32:17 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:33:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A book that will have you on the edge of your seat and questioning how pointless your 'Natural' is.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589193807]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589193807]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589193769</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">21555973</id>
+  <isbn>1401248926</isbn>
+  <isbn13>9781401248925</isbn13>
+  <text_reviews_count type="integer">257</text_reviews_count>
+  <title>Harley Quinn, Vol. 1: Hot in the City</title>
+  <image_url>https://d.gr-assets.com/books/1410802925m/21555973.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1410802925s/21555973.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21555973-harley-quinn-vol-1</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>DC Comics</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1732</ratings_count>
+<authors>
+<author>
+<id>54926</id>
+<name>Amanda Conner</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/54926.Amanda_Conner]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>16961</ratings_count>
+<text_reviews_count>1670</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jul 05 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 07:32:13 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:32:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Harley Quinn is my all-time favourite Batman villain so I was very excited to receive this as a present. I enjoyed reading a book where she was the main character and I liked reading about her softer side and friendship with Ivy. Looking forward to reading volume two and I loved the artwork.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589193769]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589193769]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589193686</id>
+    
+  <user>
+    <id>11130414</id>
+    <name>Cathy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11130414-cathy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442461833p3/11130414.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442461833p2/11130414.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18698861</id>
+  <isbn>0062305840</isbn>
+  <isbn13>9780062305848</isbn13>
+  <text_reviews_count type="integer">343</text_reviews_count>
+  <title>Don't Try to Find Me</title>
+  <image_url>https://d.gr-assets.com/books/1389203346m/18698861.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1389203346s/18698861.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18698861-don-t-try-to-find-me</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2440</ratings_count>
+<authors>
+<author>
+<id>7025635</id>
+<name>Holly Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399384568p5/7025635.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399384568p2/7025635.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7025635.Holly_Brown]]></link>
+<average_rating>3.41</average_rating>
+<ratings_count>3530</ratings_count>
+<text_reviews_count>503</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 16 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 07:32:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 07:32:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was a great read really enjoyed it]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589193686]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589193686]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

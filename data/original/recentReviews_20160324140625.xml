@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589375429</id>
+    
+  <user>
+    <id>16324168</id>
+    <name>Shanell</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16324168-shanell-littlejohn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1435114909p3/16324168.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1435114909p2/16324168.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26630062</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Land of Dust and Bones: The Secret Apocalypse Book 7</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26630062-land-of-dust-and-bones</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>15</ratings_count>
+<authors>
+<author>
+<id>4627897</id>
+<name>James Harden</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1320815122p5/4627897.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1320815122p2/4627897.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4627897.James_Harden]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>1305</ratings_count>
+<text_reviews_count>100</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 11:27:16 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:27:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:27:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Must read!!!</strong><br /><br />I love this series but i need closure!!!! When is the next one coming out....?????? I think I'm going to read the private journals]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589375429]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589375429]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589375226</id>
+    
+  <user>
+    <id>7608724</id>
+    <name>Aprils</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7608724-aprils]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1423686130p3/7608724.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1423686130p2/7608724.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">925216</id>
+  <isbn>0395539633</isbn>
+  <isbn13>9780395539637</isbn13>
+  <text_reviews_count type="integer">56</text_reviews_count>
+  <title>Why the Sun and the Moon Live in the Sky</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/925216.Why_the_Sun_and_the_Moon_Live_in_the_Sky</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>426</ratings_count>
+<authors>
+<author>
+<id>472110</id>
+<name>Elphinstone Dayrell</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/472110.Elphinstone_Dayrell]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>457</ratings_count>
+<text_reviews_count>67</text_reviews_count>
+</author>
+</authors>
+  <published>1968</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 11:27:12 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:26:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:27:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Muted illustrations.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589375226]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589375226]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589375196</id>
+    
+  <user>
+    <id>43281575</id>
+    <name>Betty</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43281575-betty-almes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1432192677p3/43281575.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1432192677p2/43281575.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17251444</id>
+  <isbn>0778315703</isbn>
+  <isbn13>9780778315704</isbn13>
+  <text_reviews_count type="integer">1011</text_reviews_count>
+  <title>The Mistress (The Original Sinners, #4)</title>
+  <image_url>https://d.gr-assets.com/books/1358807432m/17251444.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1358807432s/17251444.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17251444-the-mistress</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin MIRA</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6898</ratings_count>
+<authors>
+<author>
+<id>4480131</id>
+<name>Tiffany Reisz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337395840p5/4480131.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337395840p2/4480131.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4480131.Tiffany_Reisz]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>88223</ratings_count>
+<text_reviews_count>12436</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Sep 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 11:26:57 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:27:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Good Book
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589375196]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589375196]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374919</id>
+    
+  <user>
+    <id>36526873</id>
+    <name><![CDATA[Heather / Obsessed With Myshelf]]></name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36526873-heather-obsessed-with-myshelf]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1424495008p3/36526873.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1424495008p2/36526873.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26615962</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">101</text_reviews_count>
+  <title>The Fire Between High &amp; Lo (Elements, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1456332708m/26615962.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456332708s/26615962.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26615962-the-fire-between-high-lo</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>124</ratings_count>
+<authors>
+<author>
+<id>7121791</id>
+<name>Brittainy C. Cherry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1372453435p5/7121791.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1372453435p2/7121791.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7121791.Brittainy_C_Cherry]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>38942</ratings_count>
+<text_reviews_count>5738</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:26:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:27:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Of course I cried. Brittainy has a way with words that scorch your insides and bring out all the feels. This book most definitely does that. It rolls emotions through you - from anger to flat out hatred to love; The Fire Between High &amp; Lo put me into a state of emotional turmoil I was expecti...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374919]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374919]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374808</id>
+    
+  <user>
+    <id>53329170</id>
+    <name>মাহাতাব</name>
+
+    <location>Dhaka, 81, Bangladesh</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53329170]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457033650p3/53329170.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457033650p2/53329170.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28551582</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>নিমিদের শহরে কোলা মিয়া ও রাজকুমারী রাতাতা</title>
+  <image_url>https://d.gr-assets.com/books/1452797100m/28551582.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1452797100s/28551582.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28551582</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>আলেকজান্দ্রিয়া প্রকাশনী</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>7</ratings_count>
+<authors>
+<author>
+<id>7327853</id>
+<name>মাশুদুল হক</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452367868p5/7327853.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452367868p2/7327853.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7327853._]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>325</ratings_count>
+<text_reviews_count>64</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 11:26:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      :3 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374808]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374808]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374785</id>
+    
+  <user>
+    <id>4253940</id>
+    <name>Michelle Book Briefs</name>
+
+    <location>Orlando, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4253940-michelle-book-briefs]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1428021060p3/4253940.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1428021060p2/4253940.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25821834</id>
+  <isbn>149263137X</isbn>
+  <isbn13>9781492631378</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <title>Must Love Cowboys (Cowboy Heaven, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1453059011m/25821834.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1453059011s/25821834.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25821834-must-love-cowboys</link>
+  <num_pages>384</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Sourcebooks Casablanca</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>18</ratings_count>
+<authors>
+<author>
+<id>752898</id>
+<name>Cheryl Brooks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1291675222p5/752898.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1291675222p2/752898.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/752898.Cheryl_Brooks]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>10086</ratings_count>
+<text_reviews_count>873</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 11:26:29 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:26:29 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:29 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[**You can see this full review and more at Book Briefs: <a href="http://bookbriefs.net" target="_blank" rel="nofollow">http://bookbriefs.net</a>**<br /><br />My ThoughtsMust Love Cowboys is the second book in the adult contemporary series, called Cowboy heaven by Cheryl Brooks. Each of the books can be read as standalone, and this is the first title from the series that I h...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374785]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374785]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374767</id>
+    
+  <user>
+    <id>43281575</id>
+    <name>Betty</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43281575-betty-almes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1432192677p3/43281575.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1432192677p2/43281575.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17692940</id>
+  <isbn>1459239091</isbn>
+  <isbn13>9781459239098</isbn13>
+  <text_reviews_count type="integer">243</text_reviews_count>
+  <title>The Mistress Files (The Original Sinners, #3.5)</title>
+  <image_url>https://d.gr-assets.com/books/1364239347m/17692940.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1364239347s/17692940.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17692940-the-mistress-files</link>
+  <num_pages>105</num_pages>
+  <format>ebook</format>
+  <edition_information>1st</edition_information>
+  <publisher>Mira Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1960</ratings_count>
+<authors>
+<author>
+<id>4480131</id>
+<name>Tiffany Reisz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337395840p5/4480131.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337395840p2/4480131.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4480131.Tiffany_Reisz]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>88223</ratings_count>
+<text_reviews_count>12436</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Aug 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 11:26:28 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:27:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Good read. Blushing
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374767]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374767]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374754</id>
+    
+  <user>
+    <id>48427655</id>
+    <name>Deb</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48427655-deb]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22096489</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <title>The Great Test Book</title>
+  <image_url>https://d.gr-assets.com/books/1400197486m/22096489.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1400197486s/22096489.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22096489-the-great-test-book</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>38</ratings_count>
+<authors>
+<author>
+<id>4078527</id>
+<name>Testy McTesterson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444319762p5/4078527.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444319762p2/4078527.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4078527.Testy_McTesterson]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>234</ratings_count>
+<text_reviews_count>126</text_reviews_count>
+</author>
+</authors>
+  <published>1912</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 11:26:26 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Hello test review! 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374754]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374754]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374724</id>
+    
+  <user>
+    <id>37225055</id>
+    <name>Paulette</name>
+
+    <location>Carlsbad, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37225055-paulette]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1432227850p3/37225055.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1432227850p2/37225055.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22744701</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">967</text_reviews_count>
+  <title>My Sister's Grave (Tracy Crosswhite #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22744701-my-sister-s-grave</link>
+  <num_pages>416</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>15125</ratings_count>
+<authors>
+<author>
+<id>63650</id>
+<name>Robert Dugoni</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405264763p5/63650.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405264763p2/63650.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/63650.Robert_Dugoni]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>41938</ratings_count>
+<text_reviews_count>3489</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 11:26:25 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:26:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Pretty good</strong><br /><br />My only complaint is too many characters! So confusing and hard to keep track. Good story line , a little slow in the middle. Overall a good read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374724]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374724]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374506</id>
+    
+  <user>
+    <id>5000734</id>
+    <name>RUSA</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5000734-rusa-codes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1298059939p3/5000734.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1298059939p2/5000734.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">228333</id>
+  <isbn>0312291639</isbn>
+  <isbn13>9780312291631</isbn13>
+  <text_reviews_count type="integer">4455</text_reviews_count>
+  <title>The Nanny Diaries (Nanny, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/228333.The_Nanny_Diaries</link>
+  <num_pages>306</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>303176</ratings_count>
+<authors>
+<author>
+<id>9222</id>
+<name>Emma McLaughlin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315245507p5/9222.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315245507p2/9222.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9222.Emma_McLaughlin]]></link>
+<average_rating>3.35</average_rating>
+<ratings_count>331180</ratings_count>
+<text_reviews_count>8194</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reading-list-2016" exclusive="false" review_shelf_id="1264071791" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 11:26:08 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:41 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This title was a Read-alike selection for the 2016 Women’s Fiction category.<br />For a complete list of winners please visit <a target="_blank" href="http://www.ala.org/rusa/awards/readinglist" rel="nofollow">http://www.ala.org/rusa/awards/readin...</a>.<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374506]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374506]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374350</id>
+    
+  <user>
+    <id>8340348</id>
+    <name>Wisam</name>
+
+    <location><![CDATA[Abu Dhabi, 03, The United Arab Emirates]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8340348-wisam]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457591987p3/8340348.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457591987p2/8340348.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28006244</id>
+  <isbn nil="true"/>
+  <isbn13>9789948226451</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>وردة عيسى</title>
+  <image_url>https://d.gr-assets.com/books/1448769861m/28006244.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1448769861s/28006244.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28006244</link>
+  <num_pages>263</num_pages>
+  <format>Paperback</format>
+  <edition_information>الطبعة الثانية</edition_information>
+  <publisher>مداد للنشر والتوزيع</publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>5307579</id>
+<name>أنور الخطيب</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5307579._]]></link>
+<average_rating>3.57</average_rating>
+<ratings_count>7</ratings_count>
+<text_reviews_count>4</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 11:27:42 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:25:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:27:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />رواية وردة عيسى رواية تجسد مستوى التناحر والدمار الذي ساد عالمنا وكله لسبب الإيدولوجيات والأفكار الدينية والسياسية ، تحكي الرواية قصة فتى مسلم ولد في كنيسة اثناء زيارة لأمه هناك وأطلق عليه اسم عيسى ولكنه سيواجه المثير من المشاكل بسبب هذا الأسم وبسبب ولادته في الكنيسة. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374350]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374350]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374337</id>
+    
+  <user>
+    <id>13070326</id>
+    <name><![CDATA[Heather K (dentist in my spare time)]]></name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13070326-heather-k-dentist-in-my-spare-time]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1365526640p3/13070326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1365526640p2/13070326.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">21955253</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Frat Boy and Toppy (Theta Alpha Gamma, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1398042023m/21955253.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1398042023s/21955253.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21955253-frat-boy-and-toppy</link>
+  <num_pages>186</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Riptide Publishing</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>29</ratings_count>
+<authors>
+<author>
+<id>4831235</id>
+<name>Anne Tenino</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434910505p5/4831235.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434910505p2/4831235.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4831235.Anne_Tenino]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>15876</ratings_count>
+<text_reviews_count>2460</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="currently-reading" exclusive="true" review_shelf_id="1264071513" sortable="false" />
+    <shelf name="audiobook" exclusive="false" review_shelf_id="1264071600" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 11:25:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>*third time re-read, this time in audio format!*</strong>]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374337]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374337]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374333</id>
+    
+  <user>
+    <id>46642703</id>
+    <name>TDCbookreviews</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46642703-tdcbookreviews]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442284881p3/46642703.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442284881p2/46642703.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22673915</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">554</text_reviews_count>
+  <title>Filthy Beautiful Love (Filthy Beautiful Lies, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1457214907m/22673915.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457214907s/22673915.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22673915-filthy-beautiful-love</link>
+  <num_pages>316</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>1st Edition</edition_information>
+  <publisher></publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>9356</ratings_count>
+<authors>
+<author>
+<id>6473923</id>
+<name>Kendall Ryan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1443114349p5/6473923.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1443114349p2/6473923.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6473923.Kendall_Ryan]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>135437</ratings_count>
+<text_reviews_count>9945</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:25:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:27:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />This book finishes the story of Sophie and Colton. <br /><br />Without spoiling the book, I will say there is a fight and a decision is made about their relationship. <br /><br />This book is for mature readers only. I love the different characters in the book and how we are able to see all aspects of it. <br /><br />5 out of 5 sta...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374333]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374333]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374285</id>
+    
+  <user>
+    <id>51689889</id>
+    <name>Hardat Ramdath</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51689889-hardat-ramdath]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453165603p3/51689889.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453165603p2/51689889.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22017326</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>28 SECRETS ABOUT HAIR GROWTH:</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22017326-28-secrets-about-hair-growth</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>2</average_rating>
+  <ratings_count>6</ratings_count>
+<authors>
+<author>
+<id>7862391</id>
+<name>Marcia Savage</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7862391.Marcia_Savage]]></link>
+<average_rating>3.05</average_rating>
+<ratings_count>74</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="currently-reading" exclusive="true" review_shelf_id="1264071657" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 11:26:07 -0700 2016</started_at>
+  <read_at>Thu Mar 24 11:26:07 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:25:52 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Strange ideas</strong><br /><br />I would read the disclaimer in this book before trying any of the remedies. Some of the stuff in this book is good, but other things need to be ignored because I believe it could really make someone unhealthy. Buddhists don't eat onions and therefore should not use onions in their ha...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374285]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374285]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374066</id>
+    
+  <user>
+    <id>11305315</id>
+    <name>Stephanie</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11305315-stephanie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1446317551p3/11305315.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1446317551p2/11305315.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">532854</id>
+  <isbn>0152020985</isbn>
+  <isbn13>9780152020989</isbn13>
+  <text_reviews_count type="integer">158</text_reviews_count>
+  <title>Wilma Unlimited: How Wilma Rudolph Became the World's Fastest Woman</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/532854.Wilma_Unlimited</link>
+  <num_pages>44</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1247</ratings_count>
+<authors>
+<author>
+<id>33371</id>
+<name>Kathleen Krull</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315793017p5/33371.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315793017p2/33371.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33371.Kathleen_Krull]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>8388</ratings_count>
+<text_reviews_count>1930</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="read-in-2015" exclusive="false" review_shelf_id="1264071298" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 11:25:35 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[An amazing book about overcoming life's obstacles and not giving up! My students loved this book and the lesson. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374066]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374066]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589374041</id>
+    
+  <user>
+    <id>43281575</id>
+    <name>Betty</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43281575-betty-almes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1432192677p3/43281575.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1432192677p2/43281575.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15704485</id>
+  <isbn>0778314103</isbn>
+  <isbn13>9780778314103</isbn13>
+  <text_reviews_count type="integer">1046</text_reviews_count>
+  <title>The Prince (The Original Sinners, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1344776840m/15704485.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344776840s/15704485.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15704485-the-prince</link>
+  <num_pages>416</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mira Books</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>8783</ratings_count>
+<authors>
+<author>
+<id>4480131</id>
+<name>Tiffany Reisz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337395840p5/4480131.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337395840p2/4480131.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4480131.Tiffany_Reisz]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>88223</ratings_count>
+<text_reviews_count>12436</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Jul 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 11:25:34 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:25:55 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Good book
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589374041]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589374041]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589373991</id>
+    
+  <user>
+    <id>38612393</id>
+    <name>Jessica</name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38612393-jessica-dubeau]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1428462820p3/38612393.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1428462820p2/38612393.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24686734</id>
+  <isbn>0990480771</isbn>
+  <isbn13>9780990480778</isbn13>
+  <text_reviews_count type="integer">95</text_reviews_count>
+  <title>Hidden Deep (Hidden Saga, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1423459918m/24686734.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1423459918s/24686734.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24686734-hidden-deep</link>
+  <num_pages>319</num_pages>
+  <format>Paperback</format>
+  <edition_information>1</edition_information>
+  <publisher>Oxford South Press</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>410</ratings_count>
+<authors>
+<author>
+<id>3247178</id>
+<name>Amy Patrick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439946108p5/3247178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439946108p2/3247178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3247178.Amy_Patrick]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>1536</ratings_count>
+<text_reviews_count>294</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 11:25:30 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:26:36 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Really great story, nice setting. Cute relationship between the main characters. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589373991]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589373991]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589373930</id>
+    
+  <user>
+    <id>10847840</id>
+    <name>Robin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10847840-robin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1341957508p3/10847840.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1341957508p2/10847840.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8140709</id>
+  <isbn>1616142472</isbn>
+  <isbn13>9781616142476</isbn13>
+  <text_reviews_count type="integer">591</text_reviews_count>
+  <title>The Greyfriar (Vampire Empire, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1281669917m/8140709.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1281669917s/8140709.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8140709-the-greyfriar</link>
+  <num_pages>303</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pyr</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3857</ratings_count>
+<authors>
+<author>
+<id>57858</id>
+<name>Clay Griffith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1290539585p5/57858.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1290539585p2/57858.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57858.Clay_Griffith]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>9096</ratings_count>
+<text_reviews_count>1534</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 11:25:25 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:25:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Princess Adele is the heir to the throne of the Equatorian Empire: the Alexandria, Egypt-based successor to the British Empire, in a near-future alternate-history world in which vampires - bloodsucking monsters who can endure anything except heat, decapitation, or catastrophic vital-organ damage...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589373930]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589373930]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589373903</id>
+    
+  <user>
+    <id>7608724</id>
+    <name>Aprils</name>
+
+    <location>Chicago, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7608724-aprils]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1423686130p3/7608724.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1423686130p2/7608724.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">356060</id>
+  <isbn>0689718756</isbn>
+  <isbn13>9780689718755</isbn13>
+  <text_reviews_count type="integer">114</text_reviews_count>
+  <title>Shadow</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/356060.Shadow</link>
+  <num_pages>40</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Aladdin</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>759</ratings_count>
+<authors>
+<author>
+<id>112477</id>
+<name>Marcia Brown</name>
+<role>Translator, Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344263759p5/112477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1344263759p2/112477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/112477.Marcia_Brown]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>39219</ratings_count>
+<text_reviews_count>1058</text_reviews_count>
+</author>
+</authors>
+  <published>1982</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 11:25:33 -0700 2016</read_at>
+  <date_added>Thu Mar 24 11:25:23 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:25:33 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      A little spooky.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589373903]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589373903]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589373738</id>
+    
+  <user>
+    <id>53964893</id>
+    <name>Bryan</name>
+
+    <location>Peoria, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53964893-bryan-pfahl]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458138140p3/53964893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458138140p2/53964893.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10585</id>
+  <isbn>8497597729</isbn>
+  <isbn13>9788497597722</isbn13>
+  <text_reviews_count type="integer">1307</text_reviews_count>
+  <title>Insomnia</title>
+  <image_url>https://d.gr-assets.com/books/1354355494m/10585.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1354355494s/10585.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10585.Insomnia</link>
+  <num_pages>890</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>88042</ratings_count>
+<authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362814142p5/3389.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362814142p2/3389.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>8625898</ratings_count>
+<text_reviews_count>274118</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 03 00:00:00 -0800 2005</started_at>
+  <read_at>Fri Jan 07 00:00:00 -0800 2005</read_at>
+  <date_added>Thu Mar 24 11:25:12 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 11:25:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Great Book
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589373738]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589373738]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

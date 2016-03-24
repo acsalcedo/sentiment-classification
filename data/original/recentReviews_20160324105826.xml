@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589235537</id>
+    
+  <user>
+    <id>50902109</id>
+    <name>CA Stevenson</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/50902109-ca-stevenson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29390925</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <title>Nikhil (Kaliszians, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29390925-nikhil</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>144</ratings_count>
+<authors>
+<author>
+<id>7259682</id>
+<name>M.K. Eidem</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442946171p5/7259682.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442946171p2/7259682.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7259682.M_K_Eidem]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>14558</ratings_count>
+<text_reviews_count>1063</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:28:10 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:28:09 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:28:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>First book by for me by this author</strong><br /><br />I enjoyed this book. I felt that at times it was too simplistic, juvenile may be? Will I buy the next book? Yes and I look forward to reading it]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589235537]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589235537]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589234896</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">21201985</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>The Quality of Numbers 1-31</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21201985-the-quality-of-numbers-1-31</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>2</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>477973</id>
+<name>Wolfgang Held</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/477973.Wolfgang_Held]]></link>
+<average_rating>3.42</average_rating>
+<ratings_count>31</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Feb 18 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 08:27:17 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:27:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Not really what I was expecting but it was still an alright book. It wasn't particularly long so probably wasn't worth the money and I felt a lot of the examples containing the numbers mentioned were like that out of coincidence, not because they meant anything special- more like the number is co...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589234896]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589234896]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589234713</id>
+    
+  <user>
+    <id>2038993</id>
+    <name>Cristin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2038993-cristin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7613</id>
+  <isbn>0452284244</isbn>
+  <isbn13>9780452284241</isbn13>
+  <text_reviews_count type="integer">20578</text_reviews_count>
+  <title>Animal Farm</title>
+  <image_url>https://d.gr-assets.com/books/1424037542m/7613.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1424037542s/7613.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7613.Animal_Farm</link>
+  <num_pages>102</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1633082</ratings_count>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>3636570</ratings_count>
+<text_reviews_count>71551</text_reviews_count>
+</author>
+</authors>
+  <published>1945</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:27:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:27:28 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Two legs bad. Four legs good.<br />If Donald Trump wins, don't say you weren't warned.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589234713]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589234713]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589234630</id>
+    
+  <user>
+    <id>2987577</id>
+    <name>Patricia</name>
+
+    <location>Farmington, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2987577-patricia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1381353592p3/2987577.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1381353592p2/2987577.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27212117</id>
+  <isbn>1942611501</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>Beautiful Mercy</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27212117-beautiful-mercy</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>48</ratings_count>
+<authors>
+<author>
+<id>7034628</id>
+<name>Pope Francis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1365183437p5/7034628.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1365183437p2/7034628.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7034628.Pope_Francis]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>5518</ratings_count>
+<text_reviews_count>872</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2016" exclusive="false" review_shelf_id="1263934995" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:26:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:28:24 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Great collection of short essays by leading spiritual thinkers on the corporal and spiritual acts of mercy. A helpful meditation tool. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589234630]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589234630]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589234491</id>
+    
+  <user>
+    <id>27595940</id>
+    <name>Michelle</name>
+
+    <location>Littcarr, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27595940-michelle-gross]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456445220p3/27595940.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456445220p2/27595940.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27263454</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">405</text_reviews_count>
+  <title>Sparrow</title>
+  <image_url>https://d.gr-assets.com/books/1454909563m/27263454.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1454909563s/27263454.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27263454-sparrow</link>
+  <num_pages>302</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2106</ratings_count>
+<authors>
+<author>
+<id>13531492</id>
+<name>L.J. Shen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424914331p5/13531492.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424914331p2/13531492.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13531492.L_J_Shen]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>4394</ratings_count>
+<text_reviews_count>715</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:26:44 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:27:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[One word. Troy. And where can I find me one?]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589234491]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589234491]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589234457</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7624</id>
+  <isbn>0140283331</isbn>
+  <isbn13>9780140283334</isbn13>
+  <text_reviews_count type="integer">17716</text_reviews_count>
+  <title>Lord of the Flies</title>
+  <image_url>https://d.gr-assets.com/books/1327869409m/7624.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327869409s/7624.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7624.Lord_of_the_Flies</link>
+  <num_pages>182</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Great Books of the 20th Century</edition_information>
+  <publisher>Penguin Books </publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1388443</ratings_count>
+<authors>
+<author>
+<id>306</id>
+<name>William Golding</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1198342496p5/306.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1198342496p2/306.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>1448759</ratings_count>
+<text_reviews_count>23295</text_reviews_count>
+</author>
+</authors>
+  <published>1954</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Feb 16 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 08:26:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:58 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This wasn't at all what I was expecting but a really good book. The way the author captures the minds of children is amazing and while some parts don't seem particularly realistic I still found myself hooked. This was a nice book to read on a long train journey and isn't long and dragged out like...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589234457]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589234457]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589234335</id>
+    
+  <user>
+    <id>5372425</id>
+    <name>David</name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5372425-david-cross]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442657006p3/5372425.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442657006p2/5372425.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27783939</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Eighteen Classic Albums</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27783939-eighteen-classic-albums</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>90953</id>
+<name>Dave Cross</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/90953.Dave_Cross]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>58</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="wrote" exclusive="false" review_shelf_id="1263934313" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:26:33 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:27:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Slightly biased, of course, as I wrote it. But I do think you'll like it too.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589234335]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589234335]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589233926</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1999499</id>
+  <isbn>0115528148</isbn>
+  <isbn13>9780115528149</isbn13>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <title>The Official Highway Code</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1999499.The_Official_Highway_Code</link>
+  <num_pages>152</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Stationery Office Books</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>222</ratings_count>
+<authors>
+<author>
+<id>908433</id>
+<name>Department for Transport</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/908433.Department_for_Transport]]></link>
+<average_rating>3.45</average_rating>
+<ratings_count>276</ratings_count>
+<text_reviews_count>24</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Feb 14 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 08:26:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Perfect for starting to learn the rules for my driving theory test that is upcoming. The pages of road signs were particularly useful and I'll continue to use this to memorise them up until my theory test. The price of this is also very good considering how much it helps.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233926]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233926]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589233878</id>
+    
+  <user>
+    <id>17435617</id>
+    <name>Alex</name>
+
+    <location>Prague, 52, Czech Republic</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17435617-alex-devero]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1448013647p3/17435617.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1448013647p2/17435617.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15941465</id>
+  <isbn>1118431774</isbn>
+  <isbn13>9781118431771</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Clients First: The Two Word Miracle</title>
+  <image_url>https://d.gr-assets.com/books/1369818448m/15941465.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1369818448s/15941465.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15941465-clients-first</link>
+  <num_pages>240</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Wiley</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>27</ratings_count>
+<authors>
+<author>
+<id>1790246</id>
+<name>Joseph Callaway</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1790246.Joseph_Callaway]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>36</ratings_count>
+<text_reviews_count>7</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="work" exclusive="false" review_shelf_id="1263933157" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:26:16 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:26:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Because clients are people like anyone else, success when working with clients is fundamentally based on putting their interest first. By demonstrating honesty, competence and caring, you can set your company apart from the competition, while creating support networks that will keep you afloat ev...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233878]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233878]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589233864</id>
+    
+  <user>
+    <id>2836020</id>
+    <name>Kacki</name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2836020-kacki]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">21936857</id>
+  <isbn>0062316893</isbn>
+  <isbn13>9780062316899</isbn13>
+  <text_reviews_count type="integer">541</text_reviews_count>
+  <title>A Memory of Violets: A Novel of London's Flower Sellers</title>
+  <image_url>https://d.gr-assets.com/books/1417409700m/21936857.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1417409700s/21936857.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21936857-a-memory-of-violets</link>
+  <num_pages>432</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2814</ratings_count>
+<authors>
+<author>
+<id>5774172</id>
+<name>Hazel Gaynor</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452879698p5/5774172.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452879698p2/5774172.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5774172.Hazel_Gaynor]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>12444</ratings_count>
+<text_reviews_count>1809</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:26:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:49 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      Heartwarming.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233864]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233864]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589233601</id>
+    
+  <user>
+    <id>2038993</id>
+    <name>Cristin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2038993-cristin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5470</id>
+  <isbn>0451524934</isbn>
+  <isbn13>9780451524935</isbn13>
+  <text_reviews_count type="integer">28843</text_reviews_count>
+  <title>1984</title>
+  <image_url>https://d.gr-assets.com/books/1348990566m/5470.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1348990566s/5470.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5470.1984</link>
+  <num_pages>298</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Signet Classics</edition_information>
+  <publisher>New American Library</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1950</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1652866</ratings_count>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>3636570</ratings_count>
+<text_reviews_count>71551</text_reviews_count>
+</author>
+</authors>
+  <published>1949</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:25:48 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Everyone should read this book. Then everyone should write to Congress about giving Snowden amnesty.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233601]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233601]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589233428</id>
+    
+  <user>
+    <id>27316161</id>
+    <name>Daniel</name>
+
+    <location>Kowloon, 00, Hong Kong</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27316161-daniel]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16102782</id>
+  <isbn>1780873115</isbn>
+  <isbn13>9781780873114</isbn13>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <title>100 Places You Will Never Visit</title>
+  <image_url>https://d.gr-assets.com/books/1350936937m/16102782.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1350936937s/16102782.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16102782-100-places-you-will-never-visit</link>
+  <num_pages>255</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Quercus</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>166</ratings_count>
+<authors>
+<author>
+<id>28181</id>
+<name>Daniel Smith</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28181.Daniel_Smith]]></link>
+<average_rating>3.23</average_rating>
+<ratings_count>1139</ratings_count>
+<text_reviews_count>173</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:26:59 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:25:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Unlike the usual kind of books of 100 places you need to visit, this book is interesting to highlight the alternative: those you will never visit. Though some places were probably not that interesting and seemed to make up the 100, it's still worth a read!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233428]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233428]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589233289</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1885</id>
+  <isbn>0679783261</isbn>
+  <isbn13>9780679783268</isbn13>
+  <text_reviews_count type="integer">30766</text_reviews_count>
+  <title>Pride and Prejudice</title>
+  <image_url>https://d.gr-assets.com/books/1320399351m/1885.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320399351s/1885.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1885.Pride_and_Prejudice</link>
+  <num_pages>279</num_pages>
+  <format>Paperback</format>
+  <edition_information>The Modern Library Classics</edition_information>
+  <publisher>Modern Library</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1696689</ratings_count>
+<authors>
+<author>
+<id>1265</id>
+<name>Jane Austen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1380085320p5/1265.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1380085320p2/1265.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>3907120</ratings_count>
+<text_reviews_count>105223</text_reviews_count>
+</author>
+</authors>
+  <published>1813</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Feb 02 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 08:25:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:25:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[For the first half of this book reading was a great effort and I not only found the language difficult to understand (the book is now celebrating it's 200th anniversary) but I found the characters hard to keep up with and found myself needing a who's who list. After that the book got better and I...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233289]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233289]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589233090</id>
+    
+  <user>
+    <id>29063225</id>
+    <name>Pauline</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29063225-pauline]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19547856</id>
+  <isbn>0062348671</isbn>
+  <isbn13>9780062348678</isbn13>
+  <text_reviews_count type="integer">3954</text_reviews_count>
+  <title>Simon vs. the Homo Sapiens Agenda</title>
+  <image_url>https://d.gr-assets.com/books/1402915678m/19547856.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1402915678s/19547856.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19547856-simon-vs-the-homo-sapiens-agenda</link>
+  <num_pages>303</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Balzer + Bray</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>18759</ratings_count>
+<authors>
+<author>
+<id>7579036</id>
+<name>Becky Albertalli</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1392414949p5/7579036.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1392414949p2/7579036.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7579036.Becky_Albertalli]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>20642</ratings_count>
+<text_reviews_count>4578</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:25:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:03 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The voice felt so authentic and relatable!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233090]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233090]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589233079</id>
+    
+  <user>
+    <id>34650604</id>
+    <name>Max</name>
+
+    <location>Memphis, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34650604-max]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20764879</id>
+  <isbn>0765376474</isbn>
+  <isbn13>9780765376473</isbn13>
+  <text_reviews_count type="integer">931</text_reviews_count>
+  <title>A Gathering of Shadows (Shades of Magic, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1429627728m/20764879.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1429627728s/20764879.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20764879-a-gathering-of-shadows</link>
+  <num_pages>512</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>3074</ratings_count>
+<authors>
+<author>
+<id>7168230</id>
+<name>V.E. Schwab</name>
+<role>Pseudonym</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7168230.V_E_Schwab]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>44370</ratings_count>
+<text_reviews_count>9613</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="good-but-not-great" exclusive="false" review_shelf_id="1263932626" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:25:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:26:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Would be five stars but the ending left me so disappointed. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589233079]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589233079]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589232982</id>
+    
+  <user>
+    <id>6289911</id>
+    <name>World Literature Today</name>
+
+    <location>Norman, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6289911-world-literature-today]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458067018p3/6289911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458067018p2/6289911.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25743494</id>
+  <isbn nil="true"/>
+  <isbn13>9781850772781</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>The Confines of the Shadow</title>
+  <image_url>https://d.gr-assets.com/books/1434543656m/25743494.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1434543656s/25743494.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25743494-the-confines-of-the-shadow</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Darf Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4</ratings_count>
+<authors>
+<author>
+<id>1392005</id>
+<name>Alessandro Spina</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1392005.Alessandro_Spina]]></link>
+<average_rating>3.40</average_rating>
+<ratings_count>5</ratings_count>
+<text_reviews_count>5</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="reviewed" exclusive="false" review_shelf_id="1263932357" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 08:25:14 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:27:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA["Few non-Western cities have penetrated our consciousness like Benghazi, Libya, following the 2012 attack on the American mission there, yet most of us know little about that city’s recent past. The English-language publication of Alessandro Spina’s grand, historical novel about twentieth-century...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589232982]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589232982]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589232653</id>
+    
+  <user>
+    <id>7475086</id>
+    <name>Carol</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7475086-carol-tietsworth]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29397112</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Baby I'm In (Honky Tonk Angels Book 3)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29397112-baby-i-m-in</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>7</ratings_count>
+<authors>
+<author>
+<id>1270670</id>
+<name>Ciana Stone</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1306729201p5/1270670.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1306729201p2/1270670.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1270670.Ciana_Stone]]></link>
+<average_rating>3.56</average_rating>
+<ratings_count>4290</ratings_count>
+<text_reviews_count>563</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 08:24:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:25:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />This is a sweet story about Liz, a women trying to prove something to her father and trying to make her own way. Her father is rich and not remorseful and actually willing to hurt or kill people to get his own way, but Liz doesn't know the half of it. Yet.<br />Liz gets a job as a jockey, to ride a hor...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589232653]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589232653]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589232641</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15772973</id>
+  <isbn>1250033667</isbn>
+  <isbn13>9781250033666</isbn13>
+  <text_reviews_count type="integer">119</text_reviews_count>
+  <title>Fifty Sheds of Grey</title>
+  <image_url>https://d.gr-assets.com/books/1343401784m/15772973.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1343401784s/15772973.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15772973-fifty-sheds-of-grey</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin </publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>477</ratings_count>
+<authors>
+<author>
+<id>6450707</id>
+<name>C.T. Grey</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6450707.C_T_Grey]]></link>
+<average_rating>3.50</average_rating>
+<ratings_count>956</ratings_count>
+<text_reviews_count>168</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 28 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 08:24:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:25:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was a hilarious fast read for only 20p. I don't think it's worth it if you're paying full price because it really is very short. But there are a lot of funny passages and I'm sure the photos look a lot better when in colour and not on Kindle!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589232641]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589232641]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589232412</id>
+    
+  <user>
+    <id>4730389</id>
+    <name>Stefanie</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4730389-stefanie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1304272667p3/4730389.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1304272667p2/4730389.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6493208</id>
+  <isbn>1400052173</isbn>
+  <isbn13>9781400052172</isbn13>
+  <text_reviews_count type="integer">22250</text_reviews_count>
+  <title>The Immortal Life of Henrietta Lacks</title>
+  <image_url>https://d.gr-assets.com/books/1327878144m/6493208.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327878144s/6493208.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks</link>
+  <num_pages>370</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Publishing Group</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>298182</ratings_count>
+<authors>
+<author>
+<id>2940640</id>
+<name>Rebecca Skloot</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1291156030p5/2940640.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1291156030p2/2940640.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2940640.Rebecca_Skloot]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>318362</ratings_count>
+<text_reviews_count>25122</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 08:25:22 -0700 2016</read_at>
+  <date_added>Thu Mar 24 08:24:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:25:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[One of the saddest things I've ever read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589232412]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589232412]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589231973</id>
+    
+  <user>
+    <id>52134065</id>
+    <name>Devon</name>
+
+    <location><![CDATA[Norwich, I9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52134065-devon-harper]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1297275</id>
+  <isbn>0297847821</isbn>
+  <isbn13>9780297847823</isbn13>
+  <text_reviews_count type="integer">67</text_reviews_count>
+  <title>The Intimate Adventures Of A London Call Girl</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1297275.The_Intimate_Adventures_Of_A_London_Call_Girl</link>
+  <num_pages>294</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Weidenfeld &amp; Nicolson</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>540</ratings_count>
+<authors>
+<author>
+<id>474413</id>
+<name>Belle de Jour</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444208611p5/474413.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444208611p2/474413.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/474413.Belle_de_Jour]]></link>
+<average_rating>3.34</average_rating>
+<ratings_count>8038</ratings_count>
+<text_reviews_count>779</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 26 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 08:24:17 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 08:24:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Really funny book to read and I think I prefer reading it now the identity of the author is known as it makes it feel a lot more real. Probably one of my favourite diary-style books that I've read in recent years and it's such a different book as well. Not many books are on this subject matter!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589231973]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589231973]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

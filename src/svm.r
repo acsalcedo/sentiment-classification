@@ -2,9 +2,9 @@ library(e1071)
 library(rpart)
 
 # Reads the data positive and negative reviews.
-dataPath = "home/andrea/Documents/usb/inteligencia/sentiment-classification/data/divided/"
-positivePath <- paste(path, "positive.csv", sep="")
-negativePath <- paste(path, "negative.csv", sep="")
+dataPath = "/home/andrea/Documents/usb/inteligencia/sentiment-classification/data/divided/"
+positivePath <- paste(dataPath, "positive.csv", sep="")
+negativePath <- paste(dataPath, "negative.csv", sep="")
 positiveData <- read.table(positivePath, header=TRUE,sep=",")
 negativeData <- read.table(negativePath, header=TRUE,sep=",")
 

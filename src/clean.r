@@ -9,8 +9,6 @@ options(stringAsFactors = FALSE)
 reviews <- c("positive.data", "negative.data")
 path = "../data/divided/"
 
-
-
 processedData <- function(dataSet) {
 
     data <- tm_map(dataSet, removePunctuation)

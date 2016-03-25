@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589588338</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17142228</id>
+  <isbn>1934648264</isbn>
+  <isbn13>9781934648261</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>A Posse of Princesses</title>
+  <image_url>https://d.gr-assets.com/books/1361750529m/17142228.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361750529s/17142228.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17142228-a-posse-of-princesses</link>
+  <num_pages>299</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>YA Angst</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>18</ratings_count>
+<authors>
+<author>
+<id>12350</id>
+<name>Sherwood Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409757657p5/12350.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409757657p2/12350.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12350.Sherwood_Smith]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>59845</ratings_count>
+<text_reviews_count>3864</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:33:57 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:33:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Rhis is sixteen and the youngest daughter itching for "adventure." When Rhis and her younger cousin set off to Vesarja where they encounter several princesses all competing to be the bride of Prince Lios. The plot has a Shakespearian quality to it with gender rolls being reversed and concealed id...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589588338]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589588338]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589588008</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2903736</id>
+  <isbn>0441016383</isbn>
+  <isbn13>9780441016389</isbn13>
+  <text_reviews_count type="integer">574</text_reviews_count>
+  <title>Princeps' Fury (Codex Alera, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1315082776m/2903736.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1315082776s/2903736.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2903736-princeps-fury</link>
+  <num_pages>386</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ace</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>36695</ratings_count>
+<authors>
+<author>
+<id>10746</id>
+<name>Jim Butcher</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400640324p5/10746.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400640324p2/10746.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10746.Jim_Butcher]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>1599126</ratings_count>
+<text_reviews_count>65279</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:33:37 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:33:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[When the city falls to the vord, it is up to Tavi and his unusual allies to sail to the rescue.<br />The main action of the plot is very similar to: "The Two Towers."]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589588008]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589588008]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589587691</id>
+    
+  <user>
+    <id>34247318</id>
+    <name>Shannon</name>
+
+    <location>Painesville, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34247318-shannon-mcfarland]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1408839449p3/34247318.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1408839449p2/34247318.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22065293</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <title>To the Depths of Hell</title>
+  <image_url>https://d.gr-assets.com/books/1399763802m/22065293.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1399763802s/22065293.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22065293-to-the-depths-of-hell</link>
+  <num_pages>270</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>ERALDE PUBLISHING</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>122</ratings_count>
+<authors>
+<author>
+<id>7162002</id>
+<name>Scott Hildreth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p5/7162002.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p2/7162002.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7162002.Scott_Hildreth]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>17280</ratings_count>
+<text_reviews_count>3434</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:33:13 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:33:31 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[WTF did I just read? I picked this book up based on a recommendation and I am glad I did. But, holy cow, it was insanely and weirdly twisted. Ryan is one majorly messed up guy. Abused by his father, emotionally and psychologically, he has tried everything to be accepted by him. No such luck dude....]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589587691]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589587691]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589587412</id>
+    
+  <user>
+    <id>38417581</id>
+    <name>Linda Sarik</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38417581-linda-sarik]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29487695</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">37</text_reviews_count>
+  <title>Double Dealing: A Menage Romance</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29487695-double-dealing</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>96</ratings_count>
+<authors>
+<author>
+<id>12591285</id>
+<name>Lauren Landish</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12591285.Lauren_Landish]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>5317</ratings_count>
+<text_reviews_count>601</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:32:55 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:32:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great read!</strong><br /><br />This was one of the better menage stories that I have read. I laughed, cried and was shocked! This was a very different story than the usual ones out there! Please take the time to read this one as I know that you will not be disappointed...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589587412]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589587412]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586860</id>
+    
+  <user>
+    <id>28896260</id>
+    <name>andrea williams</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28896260-andrea-williams]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1392945359p3/28896260.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1392945359p2/28896260.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29516636</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>In Love With A Rude Boy, A Top Shotta's Love Story</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29516636-in-love-with-a-rude-boy-a-top-shotta-s-love-story</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>24</ratings_count>
+<authors>
+<author>
+<id>4874887</id>
+<name>Nika Michelle</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4874887.Nika_Michelle]]></link>
+<average_rating>4.52</average_rating>
+<ratings_count>2535</ratings_count>
+<text_reviews_count>368</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 15:32:16 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:32:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:32:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Excellent</strong><br /><br />This book was good from the beginning to the end. I really enjoyed this book. I would recommend this book. I can't wait until part 2 comes out.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586860]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586860]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586712</id>
+    
+  <user>
+    <id>34247318</id>
+    <name>Shannon</name>
+
+    <location>Painesville, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34247318-shannon-mcfarland]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1408839449p3/34247318.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1408839449p2/34247318.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23388784</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <title>Unstoppable (Fighter Erotic Romance, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1413569944m/23388784.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1413569944s/23388784.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23388784-unstoppable</link>
+  <num_pages>256</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>ERALDE PUBLISHING</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>309</ratings_count>
+<authors>
+<author>
+<id>7162002</id>
+<name>Scott Hildreth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p5/7162002.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p2/7162002.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7162002.Scott_Hildreth]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>17280</ratings_count>
+<text_reviews_count>3434</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:32:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:32:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Scott Hildreth never fails to deliver a good story. However, his books are more than just a story. They also teach. Unstoppable is no exception. Mike Ripp Ripton is a bad dude. He is a tough alpha male that loves to fight, ride, and have sex. He didn't care if it was for the benefit of the woman,...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586712]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586712]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586684</id>
+    
+  <user>
+    <id>7206658</id>
+    <name>Suzy</name>
+
+    <location>Ottawa, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7206658-suzy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24871110</id>
+  <isbn>0062328344</isbn>
+  <isbn13>9780062328342</isbn13>
+  <text_reviews_count type="integer">146</text_reviews_count>
+  <title>Perfect Touch</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24871110-perfect-touch</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>820</ratings_count>
+<authors>
+<author>
+<id>19051</id>
+<name>Elizabeth Lowell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1285987020p5/19051.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1285987020p2/19051.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19051.Elizabeth_Lowell]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>95098</ratings_count>
+<text_reviews_count>3789</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:32:02 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:32:53 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Who doesn't love a cowboy love story?]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586684]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586684]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586672</id>
+    
+  <user>
+    <id>11115825</id>
+    <name>Max</name>
+
+    <location>Middleton, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11115825-max-mindock]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">262359</id>
+  <isbn>014002591X</isbn>
+  <isbn13>9780140025910</isbn13>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <title>The Wind from Nowhere</title>
+  <image_url>https://d.gr-assets.com/books/1330051830m/262359.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1330051830s/262359.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/262359.The_Wind_from_Nowhere</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>1976</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>465</ratings_count>
+<authors>
+<author>
+<id>7010931</id>
+<name>J.G. Ballard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424797887p5/7010931.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424797887p2/7010931.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7010931.J_G_Ballard]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>85920</ratings_count>
+<text_reviews_count>5564</text_reviews_count>
+</author>
+</authors>
+  <published>1962</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:32:02 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:32:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Shows how society faces the wind. Very good. Kept my attention. Short. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586672]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586672]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586481</id>
+    
+  <user>
+    <id>52207337</id>
+    <name>Michele</name>
+
+    <location>Rochester, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52207337-michele-agostinelli]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20907642</id>
+  <isbn>1939688507</isbn>
+  <isbn13>9781939688507</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Worst Seat in the House: Henry Rathbone's Front Row View of the Lincoln Assassination</title>
+  <image_url>https://d.gr-assets.com/books/1395620661m/20907642.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1395620661s/20907642.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20907642-worst-seat-in-the-house</link>
+  <num_pages>202</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Willow Manor Publishing</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>22</ratings_count>
+<authors>
+<author>
+<id>7885851</id>
+<name>Caleb Jenner Stephens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442967598p5/7885851.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442967598p2/7885851.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7885851.Caleb_Jenner_Stephens]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>37</ratings_count>
+<text_reviews_count>15</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:31:49 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:33:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Couldn't even finish it. I think the first chapter or so would have been enough to explain who he was, what happened to him after the assassination. Just not interesting enough to finish and I love historical fiction/non-fiction.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586481]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586481]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586256</id>
+    
+  <user>
+    <id>34247318</id>
+    <name>Shannon</name>
+
+    <location>Painesville, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34247318-shannon-mcfarland]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1408839449p3/34247318.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1408839449p2/34247318.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23388792</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>Unleashed (Fighter Erotic Romance, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1413570071m/23388792.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1413570071s/23388792.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23388792-unleashed</link>
+  <num_pages>238</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>ERALDE PUBLISHING</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>245</ratings_count>
+<authors>
+<author>
+<id>7162002</id>
+<name>Scott Hildreth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p5/7162002.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p2/7162002.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7162002.Scott_Hildreth]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>17280</ratings_count>
+<text_reviews_count>3434</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:31:33 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I got something in my eye reading Unleashed. Scott Hildreth took me on quite the ride with this book. I don't think I have ever had so many feels reading a book before. I watched Michael "Ripp" Ripton's character transform in this book. It was beautiful, poignant, and heartbreaking all at the sam...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586256]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586256]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586243</id>
+    
+  <user>
+    <id>37994521</id>
+    <name>Roxy</name>
+
+    <location>Mexico</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37994521-roxy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1443328650p3/37994521.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1443328650p2/37994521.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23843108</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <title>TRAILER, un triple definitivo (Colección SportBooks nº 1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23843108-trailer-un-triple-definitivo</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>27</ratings_count>
+<authors>
+<author>
+<id>10802576</id>
+<name>Alma Gulop</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10802576.Alma_Gulop]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>49</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 15:31:32 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:31:32 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>El triple perfecto!</strong><br /><br />Quién dice que las segundas oportunidades son malas?<br />Esta historia es muy bonita y demuestra que en la vida las segundas oportunidades valen la pena, todos cometemos errores pero se pueden resarcir.<br />Adán y Naiara cometen errores en su relación tomando decisiones poco asertivas, p...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586243]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586243]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589586020</id>
+    
+  <user>
+    <id>53174103</id>
+    <name>courtneycaleb2</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53174103-courtneycaleb2]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">545433</id>
+  <isbn>0439114942</isbn>
+  <isbn13>9780439114943</isbn13>
+  <text_reviews_count type="integer">168</text_reviews_count>
+  <title>The Dinosaurs of Waterhouse Hawkins</title>
+  <image_url>https://d.gr-assets.com/books/1360058041m/545433.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1360058041s/545433.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/545433.The_Dinosaurs_of_Waterhouse_Hawkins</link>
+  <num_pages>48</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1422</ratings_count>
+<authors>
+<author>
+<id>25386</id>
+<name>Barbara Kerley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385481341p5/25386.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385481341p2/25386.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25386.Barbara_Kerley]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>5602</ratings_count>
+<text_reviews_count>1163</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 15:33:04 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:31:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:33:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Me and my brothers like the facts.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589586020]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589586020]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585949</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13422727</id>
+  <isbn>0553801473</isbn>
+  <isbn13>9780553801477</isbn13>
+  <text_reviews_count type="integer">787</text_reviews_count>
+  <title>A Dance with Dragons (A Song of Ice and Fire, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1329188207m/13422727.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1329188207s/13422727.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13422727-a-dance-with-dragons</link>
+  <num_pages>1016</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Bantam</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>7899</ratings_count>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>3399266</ratings_count>
+<text_reviews_count>140742</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:31:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Martin seems to barrow from Tolkien especially the second book in the series that deals with a siege war. The other influence seems to be the television series: "The Walking Dead."<br />So far this plot has the most pessimistic outlook so far.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585949]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585949]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585948</id>
+    
+  <user>
+    <id>7206658</id>
+    <name>Suzy</name>
+
+    <location>Ottawa, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7206658-suzy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22477307</id>
+  <isbn>0062374346</isbn>
+  <isbn13>9780062374349</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <title>This Idea Must Die: Scientific Theories That Are Blocking Progress</title>
+  <image_url>https://d.gr-assets.com/books/1418771663m/22477307.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1418771663s/22477307.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22477307-this-idea-must-die</link>
+  <num_pages>568</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>372</ratings_count>
+<authors>
+<author>
+<id>63348</id>
+<name>John Brockman</name>
+<role>Editor</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231083393p5/63348.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231083393p2/63348.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/63348.John_Brockman]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>12588</ratings_count>
+<text_reviews_count>1106</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:31:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:46 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Lots of essays about science. Great fun]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585948]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585948]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585885</id>
+    
+  <user>
+    <id>46544123</id>
+    <name>Nicole</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46544123-nicole]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22125249</id>
+  <isbn>0804139709</isbn>
+  <isbn13>9780804139700</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>How to Weep in Public: Feeble Offerings on Depression from One Who Knows</title>
+  <image_url>https://d.gr-assets.com/books/1451935958m/22125249.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1451935958s/22125249.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22125249-how-to-weep-in-public</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Three Rivers Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>28</ratings_count>
+<authors>
+<author>
+<id>8211505</id>
+<name>Jacqueline Novak</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452923780p5/8211505.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452923780p2/8211505.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8211505.Jacqueline_Novak]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>31</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 15:33:15 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:31:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:33:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Where to start? On pg 2 Novak is already telling us,<br /><br /><blockquote>“I definitely won’t try to cure you… No false promises of a life free of depression here …”</blockquote><br /><br />Isn’t that refreshing?<br /><br />This <s>memoir?</s> guide is so sarcastically witty that it’s difficult to put down. Be warned, there are plenty of sexual references as we...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585885]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585885]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585860</id>
+    
+  <user>
+    <id>11154648</id>
+    <name>Maggie</name>
+
+    <location>Amsterdam, Netherlands</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11154648-maggie-hesseling]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357497829p3/11154648.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357497829p2/11154648.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19503570</id>
+  <isbn>0615892574</isbn>
+  <isbn13>9780615892573</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <title>A Heartless Design (Secrets of the Zodiac #1)</title>
+  <image_url>https://d.gr-assets.com/books/1413752505m/19503570.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1413752505s/19503570.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19503570-a-heartless-design</link>
+  <num_pages>396</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Skyspark Books</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>264</ratings_count>
+<authors>
+<author>
+<id>6589798</id>
+<name>Elizabeth  Cole</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1358726649p5/6589798.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1358726649p2/6589798.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6589798.Elizabeth_Cole]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>2408</ratings_count>
+<text_reviews_count>395</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="romance" exclusive="false" review_shelf_id="1264270683" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:31:05 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Cordelia is determined not to marry. Strikingly beautiful and much smarter than the people she meets regularly, she hides her intelligence and brilliance in engineering, but when Sebastien is called in by the crown to search for documents which have gone missing from her home she has no choice bu...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585860]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585860]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585825</id>
+    
+  <user>
+    <id>51201297</id>
+    <name>Anna</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51201297-anna-rae]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452207623p3/51201297.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452207623p2/51201297.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18798983</id>
+  <isbn>0399171614</isbn>
+  <isbn13>9780399171611</isbn13>
+  <text_reviews_count type="integer">5103</text_reviews_count>
+  <title>The Wrath and the Dawn (The Wrath and the Dawn, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1417956963m/18798983.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1417956963s/18798983.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18798983-the-wrath-and-the-dawn</link>
+  <num_pages>395</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>G.P. Putnam's Sons Books for Young Readers</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>24155</ratings_count>
+<authors>
+<author>
+<id>4600197</id>
+<name>Renee Ahdieh</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409090589p5/4600197.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409090589p2/4600197.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4600197.Renee_Ahdieh]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>27186</ratings_count>
+<text_reviews_count>6307</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 15:32:47 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:31:02 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:32:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Before I jump into the critique, I just want to say that if I could rate this 8 million stars, I would. Yes, it was that good. I loved this so much it almost hurt at times, and I will do nothing but sleep until the sequel comes out. <br /><br />Alright, here we go...<br /><br />The Wrath and The Dawn, a newly released n...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585825]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585825]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585606</id>
+    
+  <user>
+    <id>34247318</id>
+    <name>Shannon</name>
+
+    <location>Painesville, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34247318-shannon-mcfarland]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1408839449p3/34247318.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1408839449p2/34247318.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23290924</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">74</text_reviews_count>
+  <title>Unbroken (Fighter Erotic Romance, #4)</title>
+  <image_url>https://d.gr-assets.com/books/1412108205m/23290924.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1412108205s/23290924.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23290924-unbroken</link>
+  <num_pages>267</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>1</edition_information>
+  <publisher>ERALDE PUBLISHING </publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>418</ratings_count>
+<authors>
+<author>
+<id>7162002</id>
+<name>Scott Hildreth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p5/7162002.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454337465p2/7162002.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7162002.Scott_Hildreth]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>17280</ratings_count>
+<text_reviews_count>3434</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:30:48 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Loved Unbroken. Following Shane and Kace's story from the beginning, I feel like we have come full circle. This was a great story about Shane realizing his aspirations and dreams. Letting go of the things he thought he needed when he figured out that he had those things all along. I loved seeing...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585606]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585606]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585571</id>
+    
+  <user>
+    <id>40304968</id>
+    <name>Debbie</name>
+
+    <location>Hamilton, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40304968-debbie-thomson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20758175</id>
+  <isbn>1616149981</isbn>
+  <isbn13>9781616149987</isbn13>
+  <text_reviews_count type="integer">1494</text_reviews_count>
+  <title>The Life We Bury</title>
+  <image_url>https://d.gr-assets.com/books/1437077793m/20758175.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1437077793s/20758175.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20758175-the-life-we-bury</link>
+  <num_pages>303</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Seventh Street Books</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>9847</ratings_count>
+<authors>
+<author>
+<id>7832387</id>
+<name>Allen Eskens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1402189882p5/7832387.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1402189882p2/7832387.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7832387.Allen_Eskens]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>14202</ratings_count>
+<text_reviews_count>1848</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 01 00:00:00 -0800 2016</started_at>
+  <read_at>Wed Mar 09 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 15:30:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Loved this book - will definitely read more of this author's books]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585571]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585571]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589585417</id>
+    
+  <user>
+    <id>10804446</id>
+    <name>Laura</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10804446-laura]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1341835180p3/10804446.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1341835180p2/10804446.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29073732</id>
+  <isbn>0692621725</isbn>
+  <isbn13>9780692621721</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Coming Home (An LA Lovers Book)</title>
+  <image_url>https://d.gr-assets.com/books/1455219507m/29073732.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1455219507s/29073732.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29073732-coming-home</link>
+  <num_pages>339</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Jourdyn Kelly</publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>7</ratings_count>
+<authors>
+<author>
+<id>2980644</id>
+<name>Jourdyn Kelly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453406208p5/2980644.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1453406208p2/2980644.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2980644.Jourdyn_Kelly]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>138</ratings_count>
+<text_reviews_count>55</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="arc-copies" exclusive="false" review_shelf_id="1264270527" sortable="false" />
+    <shelf name="netgalley" exclusive="false" review_shelf_id="1264270548" sortable="false" />
+    <shelf name="contemporary" exclusive="false" review_shelf_id="1264270600" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 15:31:08 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:30:36 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:31:08 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[***ARC Provided by the author and NetGalley***<br /><br />I wanted to like this. The cover and storyline in the blurb appealed to me. I liked that Greyson was 39, as the heroes in books seem to always be 28-32. I liked that Blaise was a florist. But, I did not like it. When I give a really low rating/review,...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589585417]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589585417]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

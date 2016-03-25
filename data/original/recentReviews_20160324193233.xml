@@ -1,0 +1,1632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589654029</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23197511</id>
+  <isbn>1423163400</isbn>
+  <isbn13>9781423163404</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Dark Metropolis (Dark Metropolis, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1424447056m/23197511.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1424447056s/23197511.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23197511-dark-metropolis</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>15</ratings_count>
+<authors>
+<author>
+<id>3009541</id>
+<name>Jaclyn Dolamore</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1397277640p5/3009541.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1397277640p2/3009541.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3009541.Jaclyn_Dolamore]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>9322</ratings_count>
+<text_reviews_count>1674</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:55:05 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:55:05 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[In the acknowledgements, Dolamore credits Fritz Lang's: "Metropolis," as the main source of inspiration for the story.<br />Set in an alternate world, shortly after a violet magical war has ended, Thea Holder is a young waitress working in a night club.<br />Dolamore's plot deals with class division and the...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589654029]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589654029]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653948</id>
+    
+  <user>
+    <id>6345187</id>
+    <name>Halley</name>
+
+    <location>Ann Arbor, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6345187-halley-todd]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458157563p3/6345187.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458157563p2/6345187.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26025705</id>
+  <isbn>1942993439</isbn>
+  <isbn13>9781942993438</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>FukuFuku: Kitten Tales</title>
+  <image_url>https://d.gr-assets.com/books/1453061052m/26025705.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1453061052s/26025705.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26025705-fukufuku</link>
+  <num_pages>155</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vertical Comics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>30</ratings_count>
+<authors>
+<author>
+<id>4999130</id>
+<name>Kanata Konami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1413407053p5/4999130.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1413407053p2/4999130.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4999130.Kanata_Konami]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>11445</ratings_count>
+<text_reviews_count>954</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 16:54:59 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:54:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Just charming and delightful.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653948]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653948]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653912</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24885935</id>
+  <isbn>1442430435</isbn>
+  <isbn13>9781442430433</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>Jack Frost</title>
+  <image_url>https://d.gr-assets.com/books/1445822883m/24885935.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1445822883s/24885935.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24885935-jack-frost</link>
+  <num_pages>44</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>50</ratings_count>
+<authors>
+<author>
+<id>137553</id>
+<name>William Joyce</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407870851p5/137553.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1407870851p2/137553.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/137553.William_Joyce]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>27042</ratings_count>
+<text_reviews_count>4103</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:54:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Much better than the animated film. The book is lushly illustrated and the story follows the novel series.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653912]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653912]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589653641</id>
+    
+  <user>
+    <id>1035187</id>
+    <name>Apzmarshl</name>
+
+    <location>Helper, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1035187-apzmarshl]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1231626860p3/1035187.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1231626860p2/1035187.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28388135</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">120</text_reviews_count>
+  <title>While You Were Mine</title>
+  <image_url>https://d.gr-assets.com/books/1455564210m/28388135.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1455564210s/28388135.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28388135-while-you-were-mine</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1317</ratings_count>
+<authors>
+<author>
+<id>117184</id>
+<name>Ann Howard Creel</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/117184.Ann_Howard_Creel]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>7231</ratings_count>
+<text_reviews_count>1138</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:54:41 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:54:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:41 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[My heart hurt for this nurse, raising an abandoned baby in the turmoil of post WWII.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653641]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653641]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653587</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25309274</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <title>Sweetest Scoundrel (Maiden Lane, #9)</title>
+  <image_url>https://d.gr-assets.com/books/1433904993m/25309274.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1433904993s/25309274.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25309274-sweetest-scoundrel</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>150</ratings_count>
+<authors>
+<author>
+<id>16202</id>
+<name>Elizabeth Hoyt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232234340p5/16202.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232234340p2/16202.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16202.Elizabeth_Hoyt]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>100770</ratings_count>
+<text_reviews_count>7985</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:54:37 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The story is set in 1741 London and the neighborhood around Harte's Folly.<br />Hoyt's plot has some darker elements, however, it is still a very sexy romance.<br />The accompanying fairytale is not as detailed, but suites the tone of the story.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653587]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653587]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589653500</id>
+    
+  <user>
+    <id>46341682</id>
+    <name>Sarah</name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46341682-sarah]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442329627p3/46341682.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442329627p2/46341682.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25809985</id>
+  <isbn>014752623X</isbn>
+  <isbn13>9780147526236</isbn13>
+  <text_reviews_count type="integer">31</text_reviews_count>
+  <title>Soar</title>
+  <image_url>https://d.gr-assets.com/books/1436885583m/25809985.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1436885583s/25809985.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25809985-soar</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Listening Library (Audio)</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>98</ratings_count>
+<authors>
+<author>
+<id>190441</id>
+<name>Joan Bauer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208885950p5/190441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1208885950p2/190441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/190441.Joan_Bauer]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>42684</ratings_count>
+<text_reviews_count>4804</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 01 00:00:00 -0800 2016</started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 16:54:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Jeramiah finding a way
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653500]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653500]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653467</id>
+    
+  <user>
+    <id>2221764</id>
+    <name>Ann</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2221764-ann]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1286496260p3/2221764.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1286496260p2/2221764.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8520610</id>
+  <isbn>0307352145</isbn>
+  <isbn13>9780307352149</isbn13>
+  <text_reviews_count type="integer">12925</text_reviews_count>
+  <title>Quiet: The Power of Introverts in a World That Can't Stop Talking</title>
+  <image_url>https://d.gr-assets.com/books/1328562861m/8520610.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1328562861s/8520610.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8520610-quiet</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Crown</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>162025</ratings_count>
+<authors>
+<author>
+<id>4101935</id>
+<name>Susan Cain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315319296p5/4101935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315319296p2/4101935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4101935.Susan_Cain]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>175455</ratings_count>
+<text_reviews_count>14459</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Dec 01 00:00:00 -0800 2013</read_at>
+  <date_added>Thu Mar 24 16:54:29 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book was huge for me. Full of useful insights. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653467]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653467]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653396</id>
+    
+  <user>
+    <id>53448499</id>
+    <name>Eleanor Sicluna</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53448499-eleanor-sicluna]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17673307</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2111</text_reviews_count>
+  <title>Neanderthal Seeks Human (Knitting in the City, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1364347894m/17673307.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1364347894s/17673307.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17673307-neanderthal-seeks-human</link>
+  <num_pages>394</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Caped Publishing</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>20196</ratings_count>
+<authors>
+<author>
+<id>5997227</id>
+<name>Penny Reid</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364344858p5/5997227.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1364344858p2/5997227.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5997227.Penny_Reid]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>97118</ratings_count>
+<text_reviews_count>11135</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:54:25 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:54:24 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>As fun to read as Evanovitch. </strong><br /><br />Good story, characters, and dialogue. Actually laughed out loud. Looking forward to the next book, and others in the series.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653396]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653396]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653380</id>
+    
+  <user>
+    <id>6047166</id>
+    <name>Anne</name>
+
+    <location>Brighton, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6047166-anne-rightler]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29580147</id>
+  <isbn>1530243378</isbn>
+  <isbn13>9781530243372</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Rocket-Bye</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29580147-rocket-bye</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Createspace Independent Publishing Platform</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>2</ratings_count>
+<authors>
+<author>
+<id>15102630</id>
+<name>Carole P Roman</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15102630.Carole_P_Roman]]></link>
+<average_rating>5.00</average_rating>
+<ratings_count>3</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 16:54:37 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:54:23 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:37 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Rocket-Bye, by award-winning author Carol P Roman, is a delightful bedtime poem sure to bring sweet dreams to young children. Illustrator Mateya Arkova beautifully portrays the story with muted colors and charming pictures. Youngsters will climb on a rocket ship and become pirates of the sky as t...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653380]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653380]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653336</id>
+    
+  <user>
+    <id>46006447</id>
+    <name>Sharon Munson</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/46006447-sharon-munson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28213472</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Eating The Cheshire Cat: A Novel</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28213472-eating-the-cheshire-cat</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>15</ratings_count>
+<authors>
+<author>
+<id>183538</id>
+<name>Helen Ellis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1309262438p5/183538.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1309262438p2/183538.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/183538.Helen_Ellis]]></link>
+<average_rating>3.54</average_rating>
+<ratings_count>3574</ratings_count>
+<text_reviews_count>719</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:54:21 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:54:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>My goodness!</strong><br /><br />Couldn't put it down! What depressing set of circumstances! Is it great to be the queen? For that I will save my opinion,because some may say, " YES..]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653336]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653336]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653236</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23507677</id>
+  <isbn>1423194616</isbn>
+  <isbn13>9781423194613</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Midnight Thief (Midnight Thief, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1433112306m/23507677.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1433112306s/23507677.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23507677-midnight-thief</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>89</ratings_count>
+<authors>
+<author>
+<id>4519247</id>
+<name>Livia Blackburne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377286415p5/4519247.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377286415p2/4519247.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4519247.Livia_Blackburne]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>7698</ratings_count>
+<text_reviews_count>1061</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:54:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Kyra is a young thief. When a mysterious man named James makes her a risky offer, Kyra reluctantly accepts.<br />A fantasy adventure with a very interesting heroine.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653236]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653236]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653189</id>
+    
+  <user>
+    <id>21738204</id>
+    <name>Bernadette</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21738204-bernadette-mcgoldrick]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1372455572p3/21738204.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1372455572p2/21738204.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19309662</id>
+  <isbn nil="true"/>
+  <isbn13>9781477867570</isbn13>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <title>Taunting the Dead</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19309662-taunting-the-dead</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>371</ratings_count>
+<authors>
+<author>
+<id>5376849</id>
+<name>Mel Sherratt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399970269p5/5376849.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399970269p2/5376849.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5376849.Mel_Sherratt]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>3576</ratings_count>
+<text_reviews_count>545</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:54:10 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:54:09 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great</strong><br /><br />Great writing, great story and leaves you wanting to read more. Luckily it's only the first in the trilogy, and I have the other two! ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653189]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653189]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653151</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24331517</id>
+  <isbn>0062398245</isbn>
+  <isbn13>9780062398246</isbn13>
+  <text_reviews_count type="integer">119</text_reviews_count>
+  <title>The Sleeper and the Spindle</title>
+  <image_url>https://d.gr-assets.com/books/1428121715m/24331517.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428121715s/24331517.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24331517-the-sleeper-and-the-spindle</link>
+  <num_pages>69</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>520</ratings_count>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>3465907</ratings_count>
+<text_reviews_count>191285</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:54:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Chris Riddell's dark illustrations suit Gaiman's mash-up of Snow White and Sleeping Beauty. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653151]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653151]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653067</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23019010</id>
+  <isbn>0007591357</isbn>
+  <isbn13>9780007591350</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>When Marnie Was There</title>
+  <image_url>https://d.gr-assets.com/books/1439961543m/23019010.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1439961543s/23019010.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23019010-when-marnie-was-there</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollinsChildren’sBooks</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>34</ratings_count>
+<authors>
+<author>
+<id>389829</id>
+<name>Joan G. Robinson</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/389829.Joan_G_Robinson]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>1006</ratings_count>
+<text_reviews_count>130</text_reviews_count>
+</author>
+</authors>
+  <published>1967</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:53:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:53:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Anna is a foster child who gets the opportunity to spend the summer in a Norfolk village.<br />Robinson's plot has themes of friendship mixed with a little ghostly mystery.<br />A good read for Halloween.<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653067]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653067]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589653005</id>
+    
+  <user>
+    <id>29738191</id>
+    <name>Diane</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29738191-diane-haines]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1395094101p3/29738191.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1395094101p2/29738191.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29341844</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>Promises Part 2</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29341844-promises-part-2</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>71</ratings_count>
+<authors>
+<author>
+<id>7354860</id>
+<name>A.E. Via</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1392500556p5/7354860.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1392500556p2/7354860.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7354860.A_E_Via]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>11751</ratings_count>
+<text_reviews_count>1787</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:53:56 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:53:54 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:53:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Promises part 2</strong><br /><br />Loved this book. It is a lengthy tale..which is unusual in today's market. IMO, it points out that in today's world we need to be careful..also not judge people by appearances. Money does not make someone "law abiding". And if you seek you will find that perfect person...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653005]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653005]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589653003</id>
+    
+  <user>
+    <id>37229725</id>
+    <name>Nicola</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37229725-nicola-brickley]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1416720683p3/37229725.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1416720683p2/37229725.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23638955</id>
+  <isbn>0778317706</isbn>
+  <isbn13>9780778317708</isbn13>
+  <text_reviews_count type="integer">1601</text_reviews_count>
+  <title>Pretty Baby</title>
+  <image_url>https://d.gr-assets.com/books/1438274437m/23638955.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438274437s/23638955.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23638955-pretty-baby</link>
+  <num_pages>380</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>MIRA</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>12704</ratings_count>
+<authors>
+<author>
+<id>7392948</id>
+<name>Mary Kubica</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447464986p5/7392948.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447464986p2/7392948.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7392948.Mary_Kubica]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>81292</ratings_count>
+<text_reviews_count>8953</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:53:54 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[awesome psychological thriller..loved it!<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589653003]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589653003]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589652898</id>
+    
+  <user>
+    <id>3906911</id>
+    <name>Kristie</name>
+
+    <location>Ashland, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3906911-kristie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1313672154p3/3906911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1313672154p2/3906911.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20721945</id>
+  <isbn>0062204548</isbn>
+  <isbn13>9780062204547</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Snowfall: A Days of Redemption Christmas Novella</title>
+  <image_url>https://d.gr-assets.com/books/1394407306m/20721945.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1394407306s/20721945.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20721945-snowfall</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon Inspire</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>35</ratings_count>
+<authors>
+<author>
+<id>1271571</id>
+<name>Shelley Shepard Gray</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1302806142p5/1271571.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1302806142p2/1271571.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1271571.Shelley_Shepard_Gray]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>16244</ratings_count>
+<text_reviews_count>2034</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:53:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:53:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[What a wonderful Christmas story. Widower Martin Rhodes needs help with his six children. Ruth was just laid off from her job and is an answer to Martin's fervent prayer. A relationship develops as Ruth cares for the children. It was also nice to revisit characters from Shelley's "Days of Redempt...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589652898]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589652898]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589652847</id>
+    
+  <user>
+    <id>2846752</id>
+    <name>Amanda</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2846752-amanda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1361903629p3/2846752.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1361903629p2/2846752.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18895887</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>The Shadow and the Rose (The Ash Grove Chronicles Book 1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18895887-the-shadow-and-the-rose</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>217</ratings_count>
+<authors>
+<author>
+<id>5783151</id>
+<name>Amanda DeWees</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415911233p5/5783151.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415911233p2/5783151.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5783151.Amanda_DeWees]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>1522</ratings_count>
+<text_reviews_count>350</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:54:54 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:53:40 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:54:54 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great story!</strong><br /><br />I really enjoyed this book. It had an original storyline with easy to lobe characters. Can't wait to start book 2.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589652847]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589652847]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589652524</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23349448</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">66</text_reviews_count>
+  <title>Miss Amelia Lands a Duke (The Caversham Chronicles Book 0)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23349448-miss-amelia-lands-a-duke</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>707</ratings_count>
+<authors>
+<author>
+<id>6644477</id>
+<name>Sandy Raven</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405051570p5/6644477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405051570p2/6644477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6644477.Sandy_Raven]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>2952</ratings_count>
+<text_reviews_count>315</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:53:15 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:53:15 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is basically a romance between an older man and a younger woman, the norm for this time period.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589652524]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589652524]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589652419</id>
+    
+  <user>
+    <id>54103187</id>
+    <name>Billie Jo Galloup</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54103187-billie-jo-galloup]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458503371p3/54103187.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458503371p2/54103187.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12334378</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">89</text_reviews_count>
+  <title>Beautiful Chaos (Caster Chronicles, #3)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12334378-beautiful-chaos</link>
+  <num_pages>523</num_pages>
+  <format></format>
+  <edition_information>1st Edition</edition_information>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4210</ratings_count>
+<authors>
+<author>
+<id>2895706</id>
+<name>Kami Garcia</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452664536p5/2895706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452664536p2/2895706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2895706.Kami_Garcia]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>690523</ratings_count>
+<text_reviews_count>40847</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:53:09 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:53:08 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:53:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Excellent</strong><br /><br />I was kept on my toes through this whole book. Couldn't put it down, didn't know what was gonna happen next! Awesome ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589652419]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589652419]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

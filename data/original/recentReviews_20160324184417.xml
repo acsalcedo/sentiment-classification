@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589621723</id>
+    
+  <user>
+    <id>1892441</id>
+    <name>Angel</name>
+
+    <location>Reynoldsburg, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1892441-angel-hatfield]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25303997</id>
+  <isbn>1420137670</isbn>
+  <isbn13>9781420137675</isbn13>
+  <text_reviews_count type="integer">42</text_reviews_count>
+  <title>The Highlander Who Loved Me</title>
+  <image_url>https://d.gr-assets.com/books/1428357716m/25303997.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428357716s/25303997.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25303997-the-highlander-who-loved-me</link>
+  <num_pages>352</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Zebra</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>60</ratings_count>
+<authors>
+<author>
+<id>322781</id>
+<name>Adrienne Basso</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/322781.Adrienne_Basso]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>3687</ratings_count>
+<text_reviews_count>330</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:13:54 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:14:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[As the second son, James has to figure out a way to prove himself. He’s sent on an adventure by his father, where he meets Davina. They fall in love and plan to marry until tragedy happens. Five years later, they are both still hung up on the past. They end up seeing each other again but aren’t s...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621723]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621723]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589621572</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11480839</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">67</text_reviews_count>
+  <title>Unlocked (Turner, #1.5)</title>
+  <image_url>https://d.gr-assets.com/books/1306685595m/11480839.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1306685595s/11480839.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11480839-unlocked</link>
+  <num_pages>111</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Courtney Milan</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>806</ratings_count>
+<authors>
+<author>
+<id>2906892</id>
+<name>Courtney Milan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245255772p5/2906892.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245255772p2/2906892.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2906892.Courtney_Milan]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>75407</ratings_count>
+<text_reviews_count>9063</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:13:43 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The story takes place in 1840. Milan takes the concept of how a young man expresses his first stirring of sexual attraction: tormenting or teasing the object of affection and turns it into a story with the theme of forgiveness and change.<br />The story has a good lesson about bullying and how both tor...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621572]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621572]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589621521</id>
+    
+  <user>
+    <id>6082311</id>
+    <name>Rachel</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6082311-rachel-m]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1375287027p3/6082311.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1375287027p2/6082311.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18594459</id>
+  <isbn>0802736521</isbn>
+  <isbn13>9780802736529</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Even Aliens Need Snacks</title>
+  <image_url>https://d.gr-assets.com/books/1387593868m/18594459.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1387593868s/18594459.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18594459-even-aliens-need-snacks</link>
+  <num_pages>40</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Walker Childrens</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>625355</id>
+<name>Matthew McElligott</name>
+<role>Illustrations</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231919742p5/625355.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231919742p2/625355.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/625355.Matthew_McElligott]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>2438</ratings_count>
+<text_reviews_count>533</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 16:13:50 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:13:41 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Cute!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621521]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621521]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589621497</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17347634</id>
+  <isbn>0143124544</isbn>
+  <isbn13>9780143124542</isbn13>
+  <text_reviews_count type="integer">968</text_reviews_count>
+  <title>Me Before You</title>
+  <image_url>https://d.gr-assets.com/books/1387003413m/17347634.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1387003413s/17347634.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17347634-me-before-you</link>
+  <num_pages>369</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>4524</ratings_count>
+<authors>
+<author>
+<id>281810</id>
+<name>Jojo Moyes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400624880p5/281810.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1400624880p2/281810.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/281810.Jojo_Moyes]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>607449</ratings_count>
+<text_reviews_count>72257</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:13:39 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:39 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book was okay. I guessed by page 50 that she would assist him with what he wanted. I didn't care for the mother at the end (but to give the author credit she kept the character consistent). I don't see what everyone is making such a big to do about this book. It was okay. A cheesy romance no...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621497]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589621294</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18471767</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <title>Duke of Midnight (Maiden Lane, #6)</title>
+  <image_url>https://d.gr-assets.com/books/1378765835m/18471767.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1378765835s/18471767.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18471767-duke-of-midnight</link>
+  <num_pages>400</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>319</ratings_count>
+<authors>
+<author>
+<id>16202</id>
+<name>Elizabeth Hoyt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232234340p5/16202.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1232234340p2/16202.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16202.Elizabeth_Hoyt]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>100765</ratings_count>
+<text_reviews_count>7983</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:13:25 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I love her books. Once I start them, I can't finish them. I am almost sad that I am finished since her next Maiden Lane book won't be out for another year! What a great story. I love the heroine Artemis (great name). I have enjoyed seeing all of these characters in her previous books. I wonder if...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621294]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621294]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589621210</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16173084</id>
+  <isbn>1250001390</isbn>
+  <isbn13>9781250001399</isbn13>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <title>Twilight with the Infamous Earl (Lords of Vice, #7)</title>
+  <image_url>https://d.gr-assets.com/books/1366854761m/16173084.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1366854761s/16173084.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16173084-twilight-with-the-infamous-earl</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Paperbacks</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>629</ratings_count>
+<authors>
+<author>
+<id>3026532</id>
+<name>Alexandra Hawkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1250871409p5/3026532.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1250871409p2/3026532.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3026532.Alexandra_Hawkins]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>10452</ratings_count>
+<text_reviews_count>922</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:13:19 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I liked it. Easy read. Not as good as the first book in this series. I thought "Frost" would have a more compelling story. I almost feel like the author lost her "oomph" for telling the stories of the last two friends in this series. Maybe there should have only been 4 or 5 friends instead of 7....]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621210]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621210]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589621085</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17331408</id>
+  <isbn>0062245074</isbn>
+  <isbn13>9780062245076</isbn13>
+  <text_reviews_count type="integer">92</text_reviews_count>
+  <title>The Trouble With Being a Duke (At the Kingsborough Ball, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1377377761m/17331408.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1377377761s/17331408.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17331408-the-trouble-with-being-a-duke</link>
+  <num_pages>371</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>607</ratings_count>
+<authors>
+<author>
+<id>5400052</id>
+<name>Sophie Barnes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442244441p5/5400052.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442244441p2/5400052.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5400052.Sophie_Barnes]]></link>
+<average_rating>3.48</average_rating>
+<ratings_count>3019</ratings_count>
+<text_reviews_count>503</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:13:09 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Good, not the best.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621085]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621085]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589621000</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17331373</id>
+  <isbn>0062229818</isbn>
+  <isbn13>9780062229816</isbn13>
+  <text_reviews_count type="integer">119</text_reviews_count>
+  <title>I Married the Duke (The Prince Catchers, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1361857948m/17331373.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361857948s/17331373.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17331373-i-married-the-duke</link>
+  <num_pages>365</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1055</ratings_count>
+<authors>
+<author>
+<id>3145688</id>
+<name>Katharine Ashe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286013820p5/3145688.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286013820p2/3145688.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3145688.Katharine_Ashe]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>9634</ratings_count>
+<text_reviews_count>1436</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:13:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It started out promising. There were too many twists near the end for me to entirely enjoy it.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589621000]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589621000]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620911</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17331380</id>
+  <isbn>0062231316</isbn>
+  <isbn13>9780062231314</isbn13>
+  <text_reviews_count type="integer">120</text_reviews_count>
+  <title>Summer Is for Lovers (Second Sons, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1363872325m/17331380.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1363872325s/17331380.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17331380-summer-is-for-lovers</link>
+  <num_pages>349</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>604</ratings_count>
+<authors>
+<author>
+<id>6163186</id>
+<name>Jennifer McQuiston</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1443000026p5/6163186.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1443000026p2/6163186.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6163186.Jennifer_McQuiston]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>4963</ratings_count>
+<text_reviews_count>917</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:12:57 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:57 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I am really enjoying books by this author. For the 2nd book in this series, I think it was a stronger story than the first. I thought the heroine was completely believable. I liked how the father asked all three of them to take care of each other and that that was revealed towards the end of the...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620911]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620911]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620848</id>
+    
+  <user>
+    <id>35963710</id>
+    <name>Rita Carlson</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35963710-rita-carlson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1415478113p3/35963710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1415478113p2/35963710.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15737052</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <title>The Perfect Hope (Inn Boonsboro, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1351396620m/15737052.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1351396620s/15737052.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15737052-the-perfect-hope</link>
+  <num_pages>337</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Berkeley</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>2889</ratings_count>
+<authors>
+<author>
+<id>625</id>
+<name>Nora Roberts</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440685355p5/625.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440685355p2/625.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/625.Nora_Roberts]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>2493879</ratings_count>
+<text_reviews_count>83533</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:12:54 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:12:53 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:54 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Fairytale Ghost</strong><br /><br />Great romance! Ms . Roberts never fails to entertain with her stories of love. Adding a ghost looking for HER lost love just added more romance to it all!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620848]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620848]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620816</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17333196</id>
+  <isbn>0062089099</isbn>
+  <isbn13>9780062089090</isbn13>
+  <text_reviews_count type="integer">130</text_reviews_count>
+  <title>If Wishes Were Earls (Rhymes With Love, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1373586256m/17333196.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1373586256s/17333196.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17333196-if-wishes-were-earls</link>
+  <num_pages>384</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1022</ratings_count>
+<authors>
+<author>
+<id>19842</id>
+<name>Elizabeth Boyle</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1280682463p5/19842.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1280682463p2/19842.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19842.Elizabeth_Boyle]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>26335</ratings_count>
+<text_reviews_count>1986</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:12:51 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:51 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[What a fun read! I liked all of the characters. Not sure why she had Oriel/Opheliia as split personality. But I liked that it wasn't a typical romance. Will read more in this series.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620816]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620816]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620815</id>
+    
+  <user>
+    <id>6809917</id>
+    <name>Tessa</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6809917-tessa-eger]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456252008p3/6809917.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456252008p2/6809917.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">41899</id>
+  <isbn>0439321603</isbn>
+  <isbn13>9780439321600</isbn13>
+  <text_reviews_count type="integer">2373</text_reviews_count>
+  <title>Fantastic Beasts and Where to Find Them</title>
+  <image_url>https://d.gr-assets.com/books/1303738520m/41899.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1303738520s/41899.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them</link>
+  <num_pages>64</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Arthur A. Levine</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>158296</ratings_count>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415945171p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415945171p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.41</average_rating>
+<ratings_count>14673625</ratings_count>
+<text_reviews_count>306678</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="urban-fantasy" exclusive="false" review_shelf_id="1264303644" sortable="true" />
+    <shelf name="juvenile" exclusive="false" review_shelf_id="1264303455" sortable="true" />
+    <shelf name="fantasy" exclusive="false" review_shelf_id="1264303377" sortable="true" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2010</read_at>
+  <date_added>Thu Mar 24 16:12:51 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:14:08 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Just ok.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620815]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620815]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620676</id>
+    
+  <user>
+    <id>38200936</id>
+    <name>Noni</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38200936-noni]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28076682</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <title>Love Me Always (The Invisibles #5.5)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28076682-love-me-always</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>37</ratings_count>
+<authors>
+<author>
+<id>7065829</id>
+<name>Michelle  Lynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1408736288p5/7065829.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1408736288p2/7065829.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7065829.Michelle_Lynn]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>15045</ratings_count>
+<text_reviews_count>1689</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 16:12:43 -0700 2016</read_at>
+  <date_added>Thu Mar 24 16:12:42 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Great end to a great series</strong><br /><br />So many times a series ends with so many things left hanging. This was a nice ending that wrapped it all up. The closure on everyone you meet along the way helps a little in avoiding the inevitable withdrawal when it's all over.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620676]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620676]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620557</id>
+    
+  <user>
+    <id>11395767</id>
+    <name>Kathryn</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11395767-kathryn-miller]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1344898221p3/11395767.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1344898221p2/11395767.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">10766509</id>
+  <isbn>0446547654</isbn>
+  <isbn13>9780446547659</isbn13>
+  <text_reviews_count type="integer">7738</text_reviews_count>
+  <title>The Best of Me</title>
+  <image_url>https://d.gr-assets.com/books/1301685366m/10766509.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1301685366s/10766509.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10766509-the-best-of-me</link>
+  <num_pages>292</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>87306</ratings_count>
+<authors>
+<author>
+<id>2345</id>
+<name>Nicholas Sparks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p5/2345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p2/2345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2345.Nicholas_Sparks]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>3987443</ratings_count>
+<text_reviews_count>120900</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:12:33 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:42 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      loved it
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620557]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620557]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620462</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17165634</id>
+  <isbn>1420133640</isbn>
+  <isbn13>9781420133646</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>To Wed a Highlander</title>
+  <image_url>https://d.gr-assets.com/books/1367221655m/17165634.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1367221655s/17165634.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17165634-to-wed-a-highlander</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Zebra</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3</ratings_count>
+<authors>
+<author>
+<id>491441</id>
+<name>Michele Sinclair</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1358482536p5/491441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1358482536p2/491441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/491441.Michele_Sinclair]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>10771</ratings_count>
+<text_reviews_count>529</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:12:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:27 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I liked how Makenna and Colin's story unraveled. I felt a bit weird at the beginning knowing he had been married to her sister. Not sure of that part, but it worked out in the end. I will probably read more in this series.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620462]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620462]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620250</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16160776</id>
+  <isbn>1250023831</isbn>
+  <isbn13>9781250023834</isbn13>
+  <text_reviews_count type="integer">94</text_reviews_count>
+  <title>Why Dukes Say I Do (Wicked Widows, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1369237011m/16160776.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1369237011s/16160776.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16160776-why-dukes-say-i-do</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Paperbacks</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>488</ratings_count>
+<authors>
+<author>
+<id>4889328</id>
+<name>Manda Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1306780140p5/4889328.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1306780140p2/4889328.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4889328.Manda_Collins]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>5747</ratings_count>
+<text_reviews_count>975</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:12:12 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I have found this new author and I like her stories. I enjoyed this book and I hope to read the next book in the series. I did like that the maid was the one threatening Isabella and that she (the maid) happened to be her first husband's mistress. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620250]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620250]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620232</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11080744</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>The Prince With No Heart</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11080744-the-prince-with-no-heart</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>55</ratings_count>
+<authors>
+<author>
+<id>4708</id>
+<name>Emma Holly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1299033305p5/4708.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1299033305p2/4708.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4708.Emma_Holly]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>52784</ratings_count>
+<text_reviews_count>2503</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:12:10 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The story reminded me of Hans Christian Andersen's : "Swineherd," only Holly's story has a happier ending for her couple.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620232]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620232]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589620156</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17183647</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <title>Dancing with the Duke (Landing a Lord, #0.5)</title>
+  <image_url>https://d.gr-assets.com/books/1356558638m/17183647.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1356558638s/17183647.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17183647-dancing-with-the-duke</link>
+  <num_pages>60</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Suzanna Medeiros</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1304</ratings_count>
+<authors>
+<author>
+<id>6452308</id>
+<name>Suzanna Medeiros</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1343668351p5/6452308.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1343668351p2/6452308.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6452308.Suzanna_Medeiros]]></link>
+<average_rating>3.49</average_rating>
+<ratings_count>4150</ratings_count>
+<text_reviews_count>401</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:12:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:12:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Very short story, but a good afternoon read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620156]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620156]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620040</id>
+    
+  <user>
+    <id>3163766</id>
+    <name>Agaughan68</name>
+
+    <location>Homewood, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3163766-agaughan68]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16171312</id>
+  <isbn>1420126512</isbn>
+  <isbn13>9781420126518</isbn13>
+  <text_reviews_count type="integer">33</text_reviews_count>
+  <title>Seducing the Highlander (The McTiernays, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1356135811m/16171312.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1356135811s/16171312.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16171312-seducing-the-highlander</link>
+  <num_pages>373</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Zebra</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>425</ratings_count>
+<authors>
+<author>
+<id>491441</id>
+<name>Michele Sinclair</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1358482536p5/491441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1358482536p2/491441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/491441.Michele_Sinclair]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>10771</ratings_count>
+<text_reviews_count>529</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 16:11:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:11:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I liked this one better than the other twin's story. I was a little surprised that the wedding was not the end of the story. I did like her epilogue for the story I know there are two more brother's, but I don't think this author has written their stories yet.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620040]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620040]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589620034</id>
+    
+  <user>
+    <id>2221764</id>
+    <name>Ann</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2221764-ann]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1286496260p3/2221764.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1286496260p2/2221764.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23116508</id>
+  <isbn>1631529684</isbn>
+  <isbn13>9781631529689</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Renewable: One Woman's Search for Simplicity, Faithfulness, and Hope</title>
+  <image_url>https://d.gr-assets.com/books/1422215384m/23116508.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1422215384s/23116508.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23116508-renewable</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>She Writes PR</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>19</ratings_count>
+<authors>
+<author>
+<id>270443</id>
+<name>Eileen Flanagan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1428963213p5/270443.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1428963213p2/270443.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/270443.Eileen_Flanagan]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>109</ratings_count>
+<text_reviews_count>24</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jun 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 16:11:56 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 16:13:45 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Eileen's story will inspire you to get out of the house and take action--whether it's to combat climate change (her cause) or the cause that most moves you. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589620034]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589620034]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

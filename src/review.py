@@ -7,6 +7,7 @@ import csv
 key = 'HGmnXC4msdSA8LNb7ejQ'
 secret = '8oSbMVVrHxKDZblIpjR7xwqsPcbdyRO3zS8FRfBiRQ'
 dataFolder = "../data/"
+NUMREVIEWS = 5000
 
 class Review:
 
@@ -51,6 +52,7 @@ def getReviewsList():
 
         f = open(os.path.join(dataFolder+folder, fileName), "r")
         
+        # print fileName
         xml = f.read()
         root = ET.fromstring(xml)
 
@@ -86,8 +88,6 @@ def printReviews(reviewsList):
     negative = 0
     neutral = 0
 
-    NUMREVIEWS = 8000
-
     for review in reviewsList:
         
         rating = review.rating
@@ -118,7 +118,7 @@ def printReviews2(reviewsList):
     neutralReviews = open(dataFolder+'divided/neutral.csv','w')
     allReviews = open(dataFolder+'divided/all.csv','w')
 
-    NUMREVIEWS = 8000
+
     # f.close() 
 
     fieldnames = ['review', 'class']
@@ -155,7 +155,7 @@ def printReviews2(reviewsList):
 
     print "Total: %s, Positive: %s, Negative: %s, Neutral: %s" %(total,positive,negative,neutral)
 
-getRecentReviews()
+# getRecentReviews()
 reviewsList = getReviewsList()
 printReviews2(reviewsList)
 printReviews(reviewsList)

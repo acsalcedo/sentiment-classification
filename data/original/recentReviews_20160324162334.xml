@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589502486</id>
+    
+  <user>
+    <id>27219348</id>
+    <name>And_it_spoke</name>
+
+    <location>Delaware, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27219348-and-it-spoke]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454630762p3/27219348.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454630762p2/27219348.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8491236</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Deep Meditation - Pathway to Personal Freedom (AYP Enlightenment Series)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8491236-deep-meditation---pathway-to-personal-freedom</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>89</ratings_count>
+<authors>
+<author>
+<id>79562</id>
+<name>Yogani</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415206633p5/79562.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415206633p2/79562.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/79562.Yogani]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>611</ratings_count>
+<text_reviews_count>38</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:52:50 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A very concise and straightforward guide to meditation. At time it even seems overly simple - but it is an excellent reminder of how not to overdo it when trying to meditate.<br /><br />Its use of mantra meditation helps keep things simple and straightforward. It gets a touch new-agey towards the end, but ov...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502486]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502486]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589502458</id>
+    
+  <user>
+    <id>6094462</id>
+    <name>RJ</name>
+
+    <location>Henderson, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6094462-rj]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1313968119p3/6094462.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1313968119p2/6094462.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26645414</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <title>Moments In Maplesville Bundle Edition: A Perfect Holiday Fling &amp; A Little Bit Naughty</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26645414-moments-in-maplesville-bundle-edition</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>190</ratings_count>
+<authors>
+<author>
+<id>236656</id>
+<name>Farrah Rochon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286576839p5/236656.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1286576839p2/236656.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/236656.Farrah_Rochon]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>7149</ratings_count>
+<text_reviews_count>806</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 13:52:48 -0700 2016</read_at>
+  <date_added>Thu Mar 24 13:52:48 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Two novellas about a Louisiana town that have the same characters and their romances. Each story is the same old fashion pattern of hurt girl meets boy that has issues and they find love. The characters are likable.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502458]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502458]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589502302</id>
+    
+  <user>
+    <id>18781693</id>
+    <name>Huda</name>
+
+    <location>Libya</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18781693-huda-omar]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1441400641p3/18781693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1441400641p2/18781693.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7700756</id>
+  <isbn>9953367280</isbn>
+  <isbn13>9789953367286</isbn13>
+  <text_reviews_count type="integer">265</text_reviews_count>
+  <title>مزرعة الحيوان</title>
+  <image_url>https://d.gr-assets.com/books/1285968682m/7700756.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1285968682s/7700756.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7700756</link>
+  <num_pages>186</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>المؤسسة العربية للدراسات والنشر</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1129</ratings_count>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>3636950</ratings_count>
+<text_reviews_count>71558</text_reviews_count>
+</author>
+</authors>
+  <published>1945</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:52:36 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:54 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Amazing one&lt;br /&gt;
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502302]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502302]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589502263</id>
+    
+  <user>
+    <id>4087578</id>
+    <name>Kristal</name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4087578-kristal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1280550754p3/4087578.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1280550754p2/4087578.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24057</id>
+  <isbn>0590442082</isbn>
+  <isbn13>9780590442084</isbn13>
+  <text_reviews_count type="integer">37</text_reviews_count>
+  <title>No Coins, Please</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24057.No_Coins_Please</link>
+  <num_pages>192</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>767</ratings_count>
+<authors>
+<author>
+<id>2130</id>
+<name>Gordon Korman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1199721579p5/2130.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1199721579p2/2130.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2130.Gordon_Korman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>267396</ratings_count>
+<text_reviews_count>15760</text_reviews_count>
+</author>
+</authors>
+  <published>1984</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Jan 01 00:00:00 -0800 1986</read_at>
+  <date_added>Thu Mar 24 13:52:33 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I DARE you to read this book and not laugh out loud. Artie is my hero and a great role model for people, young and old.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502263]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502263]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589502202</id>
+    
+  <user>
+    <id>5026133</id>
+    <name>Krissy</name>
+
+    <location>Greenville, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5026133-krissy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458653688p3/5026133.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458653688p2/5026133.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18079491</id>
+  <isbn>0451414667</isbn>
+  <isbn13>9780451414663</isbn13>
+  <text_reviews_count type="integer">34</text_reviews_count>
+  <title>Once In a Blue Moon (Hawk and Fisher, #8)</title>
+  <image_url>https://d.gr-assets.com/books/1372040094m/18079491.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1372040094s/18079491.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18079491-once-in-a-blue-moon</link>
+  <num_pages>549</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Roc</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>350</ratings_count>
+<authors>
+<author>
+<id>41942</id>
+<name>Simon R. Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224555729p5/41942.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1224555729p2/41942.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/41942.Simon_R_Green]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>209675</ratings_count>
+<text_reviews_count>8692</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:52:29 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      exceptional book
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502202]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502202]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589502112</id>
+    
+  <user>
+    <id>29050367</id>
+    <name>Vitalijus</name>
+
+    <location>Vilnius, 65, Lithuania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/29050367-vitalijus-sostak]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1393359671p3/29050367.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1393359671p2/29050367.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13344951</id>
+  <isbn>0983988536</isbn>
+  <isbn13>9780983988533</isbn13>
+  <text_reviews_count type="integer">144</text_reviews_count>
+  <title>How to Win at the Sport of Business: If I Can Do It, You Can Do It</title>
+  <image_url>https://d.gr-assets.com/books/1441897247m/13344951.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1441897247s/13344951.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13344951-how-to-win-at-the-sport-of-business</link>
+  <num_pages>67</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Diversion Books</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>1499</ratings_count>
+<authors>
+<author>
+<id>2070271</id>
+<name>Mark Cuban</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1422937576p5/2070271.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1422937576p2/2070271.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2070271.Mark_Cuban]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>2530</ratings_count>
+<text_reviews_count>201</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 13:53:21 -0700 2016</read_at>
+  <date_added>Thu Mar 24 13:52:23 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:53:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      No balls, no babies.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502112]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502112]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589502065</id>
+    
+  <user>
+    <id>53033567</id>
+    <name>Bonnie</name>
+
+    <location>Stillwater, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53033567-bonnie-weeks]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456365782p3/53033567.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456365782p2/53033567.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7243142</id>
+  <isbn>1606412388</isbn>
+  <isbn13>9781606412381</isbn13>
+  <text_reviews_count type="integer">2685</text_reviews_count>
+  <title>Keys to the Demon Prison (Fablehaven, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1298081448m/7243142.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1298081448s/7243142.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7243142-keys-to-the-demon-prison</link>
+  <num_pages>593</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Shadow Mountain</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>51337</ratings_count>
+<authors>
+<author>
+<id>25052</id>
+<name>Brandon Mull</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202163082p5/25052.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202163082p2/25052.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25052.Brandon_Mull]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>424117</ratings_count>
+<text_reviews_count>28134</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:52:19 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:53:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I enjoyed this whole series thoroughly! I highly recommend this book to other readers. It's a great read! ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502065]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502065]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589502014</id>
+    
+  <user>
+    <id>52232770</id>
+    <name>Doug</name>
+
+    <location>Petaluma, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52232770-doug-bradley]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11297</id>
+  <isbn>0375704027</isbn>
+  <isbn13>9780375704024</isbn13>
+  <text_reviews_count type="integer">7164</text_reviews_count>
+  <title>Norwegian Wood</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11297.Norwegian_Wood</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage Books</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>149159</ratings_count>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1350230608p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1350230608p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>1208370</ratings_count>
+<text_reviews_count>86103</text_reviews_count>
+</author>
+</authors>
+  <published>1987</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Sep 15 00:00:00 -0700 2015</started_at>
+  <read_at>Mon Oct 05 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 13:52:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:53:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Strange tale of mental illness and relationships.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589502014]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589502014]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501643</id>
+    
+  <user>
+    <id>18781693</id>
+    <name>Huda</name>
+
+    <location>Libya</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18781693-huda-omar]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1441400641p3/18781693.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1441400641p2/18781693.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17374635</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>أصول السنة</title>
+  <image_url>https://d.gr-assets.com/books/1360879237m/17374635.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1360879237s/17374635.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17374635</link>
+  <num_pages>9</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>54</ratings_count>
+<authors>
+<author>
+<id>1708734</id>
+<name>أحمد بن حنبل</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1389292467p5/1708734.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1389292467p2/1708734.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1708734._]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>146</ratings_count>
+<text_reviews_count>18</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:51:53 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      جميل 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501643]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501643]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501524</id>
+    
+  <user>
+    <id>19464932</id>
+    <name>Mr.</name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19464932-mr-jones]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1202</id>
+  <isbn>0061234001</isbn>
+  <isbn13>9780061234002</isbn13>
+  <text_reviews_count type="integer">10295</text_reviews_count>
+  <title>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1327909092m/1202.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327909092s/1202.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1202.Freakonomics</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Revised and Expanded Edition</edition_information>
+  <publisher>William Morrow</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>467866</ratings_count>
+<authors>
+<author>
+<id>798</id>
+<name>Steven D. Levitt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1215370905p5/798.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1215370905p2/798.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/798.Steven_D_Levitt]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>592645</ratings_count>
+<text_reviews_count>18527</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Feb 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 13:51:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:41 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It's just okay. Long on the wit, short on the economics.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501524]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501524]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501514</id>
+    
+  <user>
+    <id>12372414</id>
+    <name>Erin</name>
+
+    <location>Sumner, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12372414-erin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458852343p3/12372414.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458852343p2/12372414.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">3410425</id>
+  <isbn>0446195502</isbn>
+  <isbn13>9780446195508</isbn13>
+  <text_reviews_count type="integer">1012</text_reviews_count>
+  <title>Divine Justice (Camel Club, #4)</title>
+  <image_url>https://d.gr-assets.com/books/1336266873m/3410425.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1336266873s/3410425.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3410425-divine-justice</link>
+  <num_pages>387</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>28976</ratings_count>
+<authors>
+<author>
+<id>9291</id>
+<name>David Baldacci</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383944009p5/9291.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1383944009p2/9291.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9291.David_Baldacci]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>823764</ratings_count>
+<text_reviews_count>47541</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 02 00:00:00 -0800 2016</started_at>
+  <read_at>Sat Mar 05 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 13:51:43 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:53:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Not as good, or at least different, type of plot than the first 3 books. And a totally different style too, but still interesting and great Baldacci writing.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501514]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501514]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501437</id>
+    
+  <user>
+    <id>41127452</id>
+    <name>Steven </name>
+
+    <location>Florence, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41127452-steven-wetter]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1446231595p3/41127452.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1446231595p2/41127452.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27858849</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">51</text_reviews_count>
+  <title>Catalyst (Breakthrough, #3)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27858849-catalyst</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>549</ratings_count>
+<authors>
+<author>
+<id>7141003</id>
+<name>Michael C. Grumley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377571506p5/7141003.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377571506p2/7141003.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7141003.Michael_C_Grumley]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>8634</ratings_count>
+<text_reviews_count>792</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 13:51:40 -0700 2016</read_at>
+  <date_added>Thu Mar 24 13:51:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:51:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Catalyst...</strong><br /><br />As with the previous 2 books, this is an exciting espionage series. The author obviously tales the time to research the more technical descriptions of things giving you a real sense of understanding as to what is happening and it's importance to the story. Can't wait for the next book....]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501437]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501437]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501332</id>
+    
+  <user>
+    <id>51361757</id>
+    <name>Laura</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/51361757-laura]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18378002</id>
+  <isbn>0393348784</isbn>
+  <isbn13>9780393348781</isbn13>
+  <text_reviews_count type="integer">57</text_reviews_count>
+  <title>Intuition Pumps And Other Tools for Thinking</title>
+  <image_url>https://d.gr-assets.com/books/1381288490m/18378002.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1381288490s/18378002.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking</link>
+  <num_pages>496</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>896</ratings_count>
+<authors>
+<author>
+<id>6952980</id>
+<name>Daniel C. Dennett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447369488p5/6952980.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447369488p2/6952980.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6952980.Daniel_C_Dennett]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>55364</ratings_count>
+<text_reviews_count>1988</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Feb 18 00:00:00 -0800 2016</started_at>
+  <read_at>Fri Mar 18 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 13:51:31 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Some really good ideas and thoughts, but way too much name checking (of himself) and other self-referential tricks ...<br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501332]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501332]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501262</id>
+    
+  <user>
+    <id>33840091</id>
+    <name>Adam</name>
+
+    <location>Lawrence, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33840091-adam]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1407719962p3/33840091.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1407719962p2/33840091.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25241477</id>
+  <isbn>0345545966</isbn>
+  <isbn13>9780345545961</isbn13>
+  <text_reviews_count type="integer">866</text_reviews_count>
+  <title>Ashley Bell</title>
+  <image_url>https://d.gr-assets.com/books/1428081712m/25241477.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428081712s/25241477.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25241477-ashley-bell</link>
+  <num_pages>560</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3926</ratings_count>
+<authors>
+<author>
+<id>9355</id>
+<name>Dean Koontz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1341717803p5/9355.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1341717803p2/9355.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9355.Dean_Koontz]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>1780031</ratings_count>
+<text_reviews_count>65595</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:51:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I have read many books by Dean Koontz , some of them were excellent and some were not very good. “Ashely Bell” is in the latter category. It started very strong, Bibi Blair a young inspiring writer is stricken with a nasty cancer, she is determine to beat it ( against all odds), her family and fr...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501262]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501262]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501230</id>
+    
+  <user>
+    <id>48420734</id>
+    <name>Adnan</name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/48420734-adnan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6148028</id>
+  <isbn>0439023491</isbn>
+  <isbn13>9780439023498</isbn13>
+  <text_reviews_count type="integer">76760</text_reviews_count>
+  <title>Catching Fire (The Hunger Games, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1358273780m/6148028.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1358273780s/6148028.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6148028-catching-fire</link>
+  <num_pages>391</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1669643</ratings_count>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1394819770p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1394819770p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>7882052</ratings_count>
+<text_reviews_count>340456</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:51:25 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:51:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The hunger Game is series is just awesome. Probably one of the best series ever. When reading this book the reader might feel as this has happened to them before. The tension in this book is real, Katniss and Gale are thinking about running away. However it then turns in an argument, so Gale leav...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501230]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501230]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501224</id>
+    
+  <user>
+    <id>54223473</id>
+    <name>Jacky</name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54223473-jacky-faber]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1103</id>
+  <isbn>0812968069</isbn>
+  <isbn13>9780812968064</isbn13>
+  <text_reviews_count type="integer">13637</text_reviews_count>
+  <title>Snow Flower and the Secret Fan</title>
+  <image_url>https://d.gr-assets.com/books/1327880508m/1103.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327880508s/1103.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1103.Snow_Flower_and_the_Secret_Fan</link>
+  <num_pages>288</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Random House </publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>252462</ratings_count>
+<authors>
+<author>
+<id>713</id>
+<name>Lisa See</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209949634p5/713.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209949634p2/713.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/713.Lisa_See]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>473342</ratings_count>
+<text_reviews_count>34653</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="v" exclusive="false" review_shelf_id="1264191429" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Feb 13 00:00:00 -0800 2016</read_at>
+  <date_added>Fri Feb 19 00:00:00 -0800 2016</date_added>
+  <date_updated>Thu Mar 24 13:51:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      $v
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501224]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501224]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501144</id>
+    
+  <user>
+    <id>54195575</id>
+    <name>Jenna</name>
+
+    <location>Shediac, NB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54195575-jenna-mclean]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458825218p3/54195575.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458825218p2/54195575.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23299513</id>
+  <isbn>0062360248</isbn>
+  <isbn13>9780062360243</isbn13>
+  <text_reviews_count type="integer">375</text_reviews_count>
+  <title>The Shadow Queen (Ravenspire, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1435161817m/23299513.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1435161817s/23299513.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23299513-the-shadow-queen</link>
+  <num_pages>387</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Balzer + Bray </publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1381</ratings_count>
+<authors>
+<author>
+<id>4864634</id>
+<name>C.J. Redwine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322069849p5/4864634.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1322069849p2/4864634.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4864634.C_J_Redwine]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>31802</ratings_count>
+<text_reviews_count>3451</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Feb 23 00:00:00 -0800 2016</started_at>
+  <read_at>Fri Feb 26 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 13:51:19 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:52:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Fantastic read! Can not wait for book #2!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501144]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501144]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589501015</id>
+    
+  <user>
+    <id>43881622</id>
+    <name>Linda</name>
+
+    <location>Houston, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/43881622-linda]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26154416</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">37</text_reviews_count>
+  <title>Dark Beyond the Stars</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26154416-dark-beyond-the-stars</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>182</ratings_count>
+<authors>
+<author>
+<id>11184970</id>
+<name>Blair C. Babylon</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11184970.Blair_C_Babylon]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>204</ratings_count>
+<text_reviews_count>42</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 13:51:10 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:51:34 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Of the 11 short stories in this collection, there were only two that I considered good and did not regret Protocol A235 and 2092. The rest were not worth the read. Glad I didn’t pay anything for this. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589501015]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589501015]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589500859</id>
+    
+  <user>
+    <id>4176715</id>
+    <name>Mckinley</name>
+
+    <location>Colorado Springs, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4176715-mckinley]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1286834830p3/4176715.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1286834830p2/4176715.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">47936</id>
+  <isbn>0802788831</isbn>
+  <isbn13>9780802788832</isbn13>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>Four Seasons Make a Year</title>
+  <image_url>https://d.gr-assets.com/books/1316130704m/47936.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1316130704s/47936.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/47936.Four_Seasons_Make_a_Year</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Walker Childrens</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>56</ratings_count>
+<authors>
+<author>
+<id>3473990</id>
+<name>Anne F. Rockwell</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3473990.Anne_F_Rockwell]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>4487</ratings_count>
+<text_reviews_count>942</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="picture" exclusive="false" review_shelf_id="1264191647" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2004</read_at>
+  <date_added>Thu Mar 24 13:51:00 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:51:56 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Very wordy.
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589500859]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589500859]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589500844</id>
+    
+  <user>
+    <id>7322485</id>
+    <name>Zara</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7322485-zara]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1370532979p3/7322485.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1370532979p2/7322485.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22875097</id>
+  <isbn>0316334316</isbn>
+  <isbn13>9780316334310</isbn13>
+  <text_reviews_count type="integer">565</text_reviews_count>
+  <title>Born with Teeth</title>
+  <image_url>https://d.gr-assets.com/books/1418768551m/22875097.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1418768551s/22875097.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22875097-born-with-teeth</link>
+  <num_pages>302</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>2637</ratings_count>
+<authors>
+<author>
+<id>3118607</id>
+<name>Kate Mulgrew</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1428503103p5/3118607.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1428503103p2/3118607.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3118607.Kate_Mulgrew]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>4582</ratings_count>
+<text_reviews_count>1002</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 17 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 13:50:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 13:53:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I listened to the audiobook, which is the best thing about this book. Hearing Kate Mulgrew speak is magical. But content didn't seem "deep" enough, despite some pretty huge life changes. Then, it just ended. Not bad, not great...but definitely a pleasure to hear Mulgrew's own voice tell her tale....]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589500844]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589500844]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

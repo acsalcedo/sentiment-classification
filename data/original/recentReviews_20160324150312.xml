@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589430353</id>
+    
+  <user>
+    <id>1445248</id>
+    <name>Stacey</name>
+
+    <location>Plymouth, ME</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1445248-stacey]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1365001783p3/1445248.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1365001783p2/1445248.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29429427</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>House Sitter in Paradise</title>
+  <image_url>https://d.gr-assets.com/books/1457273397m/29429427.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457273397s/29429427.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29429427-house-sitter-in-paradise</link>
+  <num_pages>113</num_pages>
+  <format>ebook</format>
+  <edition_information>1st</edition_information>
+  <publisher>Salty Gurl Books</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>15061138</id>
+<name>Tabby Moray</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457365903p5/15061138.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1457365903p2/15061138.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15061138.Tabby_Moray]]></link>
+<average_rating>3.00</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 12:33:07 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:33:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:33:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Cute</strong><br /><br />This book was really cute, I enjoyed it very much. It flowed nicely and ended quick. An easy, quick cute read. Glad I read it.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589430353]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589430353]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589429323</id>
+    
+  <user>
+    <id>7076662</id>
+    <name>Sarah</name>
+
+    <location>Kennewick, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7076662-sarah-johnson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1394036774p3/7076662.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1394036774p2/7076662.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23602562</id>
+  <isbn>1101875895</isbn>
+  <isbn13>9781101875896</isbn13>
+  <text_reviews_count type="integer">2717</text_reviews_count>
+  <title>Our Souls at Night</title>
+  <image_url>https://d.gr-assets.com/books/1418766517m/23602562.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1418766517s/23602562.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23602562-our-souls-at-night</link>
+  <num_pages>179</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>12707</ratings_count>
+<authors>
+<author>
+<id>16266</id>
+<name>Kent Haruf</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1309205400p5/16266.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1309205400p2/16266.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16266.Kent_Haruf]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>81360</ratings_count>
+<text_reviews_count>9349</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 12:32:22 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:33:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I loved this story. I wanted to come through the book and have words with the son, but I loved the couple. Highly recommend. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589429323]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589429323]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589429098</id>
+    
+  <user>
+    <id>54236165</id>
+    <name>Sebastian</name>
+
+    <location>Berazategui, 01, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54236165-sebastian]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458846030p3/54236165.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458846030p2/54236165.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">129521</id>
+  <isbn>0140441700</isbn>
+  <isbn13>9780140441703</isbn13>
+  <text_reviews_count type="integer">106</text_reviews_count>
+  <title>The History of the Kings of Britain</title>
+  <image_url>https://d.gr-assets.com/books/1456245951m/129521.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456245951s/129521.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/129521.The_History_of_the_Kings_of_Britain</link>
+  <num_pages>373</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>1977</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>3822</ratings_count>
+<authors>
+<author>
+<id>74480</id>
+<name>Geoffrey of Monmouth</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/74480.Geoffrey_of_Monmouth]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>4164</ratings_count>
+<text_reviews_count>142</text_reviews_count>
+</author>
+</authors>
+  <published>1138</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Dec 18 00:00:00 -0800 2015</read_at>
+  <date_added>Thu Mar 24 12:32:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:32:59 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Una de las primeras apariciones en del rey Arturo en la historia. Totalmente sin desperdicio.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589429098]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589429098]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589428997</id>
+    
+  <user>
+    <id>27477699</id>
+    <name>Lamar</name>
+
+    <location>Detroit, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27477699-lamar-jackson]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">770614</id>
+  <isbn>0671747827</isbn>
+  <isbn13>9780671747824</isbn13>
+  <text_reviews_count type="integer">277</text_reviews_count>
+  <title>Jeremy Thatcher, Dragon Hatcher (Magic Shop, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1178208656m/770614.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1178208656s/770614.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/770614.Jeremy_Thatcher_Dragon_Hatcher</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Aladdin/Minstrel Book</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>5547</ratings_count>
+<authors>
+<author>
+<id>10087</id>
+<name>Bruce Coville</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1207181643p5/10087.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1207181643p2/10087.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10087.Bruce_Coville]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>85801</ratings_count>
+<text_reviews_count>4049</text_reviews_count>
+</author>
+</authors>
+  <published>1991</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 12:32:19 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:31:57 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:32:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Very fun and enjoyable book and I was very pleased!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589428997]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589428997]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589428880</id>
+    
+  <user>
+    <id>4709584</id>
+    <name>Rachel</name>
+
+    <location>Newington, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4709584-rachel-rouleau]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1340639867p3/4709584.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1340639867p2/4709584.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1329735</id>
+  <isbn>0060781785</isbn>
+  <isbn13>9780060781781</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>Farm-Fresh Cats</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1329735.Farm_Fresh_Cats</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>71</ratings_count>
+<authors>
+<author>
+<id>294743</id>
+<name>Scott Santoro</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/294743.Scott_Santoro]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>166</ratings_count>
+<text_reviews_count>37</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="lyla-1000-books-before-kindergarten" exclusive="false" review_shelf_id="1264125420" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 12:32:20 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:31:49 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:32:20 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I thought this one was really fun and creative. My 3.5 year old loved it.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589428880]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589428880]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589428633</id>
+    
+  <user>
+    <id>54229958</id>
+    <name>Afsana</name>
+
+    <location>San Mateo, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54229958-afsana-chowdhury]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458828892p3/54229958.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458828892p2/54229958.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">84119</id>
+  <isbn>0439861365</isbn>
+  <isbn13>9780439861366</isbn13>
+  <text_reviews_count type="integer">2892</text_reviews_count>
+  <title>The Horse and His Boy (Chronicles of Narnia, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1388210968m/84119.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1388210968s/84119.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day/>
+  <publication_year>1995</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>164051</ratings_count>
+<authors>
+<author>
+<id>1069006</id>
+<name>C.S. Lewis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367519078p5/1069006.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1367519078p2/1069006.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>3728557</ratings_count>
+<text_reviews_count>79040</text_reviews_count>
+</author>
+</authors>
+  <published>1954</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:31:28 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:31:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      narnia *_*
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589428633]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589428633]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589428313</id>
+    
+  <user>
+    <id>11037860</id>
+    <name>David</name>
+
+    <location>Girona, 56, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11037860-david-g-mez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1448305085p3/11037860.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1448305085p2/11037860.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29565222</id>
+  <isbn>8494374982</isbn>
+  <isbn13>9788494374982</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>Quaderns</title>
+  <image_url>https://d.gr-assets.com/books/1458552354m/29565222.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458552354s/29565222.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29565222-quaderns</link>
+  <num_pages>246</num_pages>
+  <format>Paperback</format>
+  <edition_information>1</edition_information>
+  <publisher>Llibres del Delicte</publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>0</average_rating>
+  <ratings_count>0</ratings_count>
+<authors>
+<author>
+<id>15099521</id>
+<name>Ramona Solé</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15099521.Ramona_Sol_]]></link>
+<average_rating>0.0</average_rating>
+<ratings_count>0</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 22 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:31:01 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:32:25 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<a href="http://crucesdecaminos.blogspot.com.es/2016/03/ressenya-quaderns-ramona-sole-llibres.html" rel="nofollow">La meva ressenya</a> a Cruce de Caminos]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589428313]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589428313]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427887</id>
+    
+  <user>
+    <id>35490874</id>
+    <name>Kristine</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/35490874-kristine-cluney]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1415307415p3/35490874.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1415307415p2/35490874.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28232192</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <title>The Reckless Secret, Complete Series (The Reckless Secret, #1-3)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28232192-the-reckless-secret-complete-series</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>132</ratings_count>
+<authors>
+<author>
+<id>14010091</id>
+<name>Alexa Wilder</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1435873428p5/14010091.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1435873428p2/14010091.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14010091.Alexa_Wilder]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>4428</ratings_count>
+<text_reviews_count>582</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:30:28 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:30:30 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Fabulous story</strong><br /><br />This was a great story and I loved the characters and their involvement with each other. I like how the story involved love danger betrayal and forgiveness]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427887]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427887]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427604</id>
+    
+  <user>
+    <id>33970054</id>
+    <name>Ashleyjo</name>
+
+    <location>Foxworth, MS</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33970054-ashleyjo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451846234p3/33970054.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451846234p2/33970054.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23525067</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Seduced: Book One</title>
+  <image_url>https://d.gr-assets.com/books/1415653957m/23525067.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415653957s/23525067.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23525067-seduced</link>
+  <num_pages>152</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>115</ratings_count>
+<authors>
+<author>
+<id>7759522</id>
+<name>P.A.   Jones</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1391176763p5/7759522.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1391176763p2/7759522.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7759522.P_A_Jones]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>1920</ratings_count>
+<text_reviews_count>391</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:30:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:30:34 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Oh, me, oh, my was this bad. Goes in my top ten of shit -for- books. <br /><br /><strong>Revoke His Man Card ASAP! </strong> <br /><br /><img src="https://s-media-cache-ak0.pinimg.com/236x/1d/df/d6/1ddfd6668e1bcf1bb7a69eb7d39f7bd5.jpg" width="250" height="300" alt="description" class="gr-hostedUserImg" /><br /><br />The MMC is supposed to be a ripped up badass... He beats <em> The Hulk </em> down and stares down a gun, saying, "shoot." <br /><br />Yet... <br /><br />His sweetly clean mouth says "heck" <strong>a lot. </strong> <br /><br />He drives a Honda Civic. <br /><br />He owns a bo...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427604]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427604]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427599</id>
+    
+  <user>
+    <id>41118059</id>
+    <name>Kim</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41118059-kim]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1426090448p3/41118059.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1426090448p2/41118059.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">28378407</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>One Last Promise (Bedford Falls, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1451355158m/28378407.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1451355158s/28378407.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28378407-one-last-promise</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>13482639</id>
+<name>Sydney Bristow</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13482639.Sydney_Bristow]]></link>
+<average_rating>3.42</average_rating>
+<ratings_count>69</ratings_count>
+<text_reviews_count>44</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:30:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:30:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I received a copy of this book in exchange for my honest review. I really enjoyed reading about Damon and Kelsey. They are very strong characters and a great story line. They both have had things in their past to happen for them to guard their hearts close. Will they be able to open up enough to...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427599]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427599]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427341</id>
+    
+  <user>
+    <id>4087578</id>
+    <name>Kristal</name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4087578-kristal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1280550754p3/4087578.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1280550754p2/4087578.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4134071</id>
+  <isbn>031237982X</isbn>
+  <isbn13>9780312379827</isbn13>
+  <text_reviews_count type="integer">2629</text_reviews_count>
+  <title>Hunted (House of Night, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1438042897m/4134071.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438042897s/4134071.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4134071-hunted</link>
+  <num_pages>323</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>127748</ratings_count>
+<authors>
+<author>
+<id>17015</id>
+<name>P.C. Cast</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p5/17015.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p2/17015.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17015.P_C_Cast]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>1661869</ratings_count>
+<text_reviews_count>49447</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Oct 01 00:00:00 -0700 2009</read_at>
+  <date_added>Thu Mar 24 12:29:45 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:30:04 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Way too much of the snore-worthy love triangle stuff - I can't stand Eric or Heath so I really could care less who Zoey chooses, Stark is marginally more interesting - but the last few chapters are thrilling and set up the next book brilliantly.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427341]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427341]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427250</id>
+    
+  <user>
+    <id>7427536</id>
+    <name>Jane</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7427536-jane]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1348317980p3/7427536.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1348317980p2/7427536.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27790593</id>
+  <isbn>1520003323</isbn>
+  <isbn13>9781520003320</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <title>How Performance Management Is Killing Performance and What to Do about It</title>
+  <image_url>https://d.gr-assets.com/books/1456691700m/27790593.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456691700s/27790593.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27790593-how-performance-management-is-killing-performance-and-what-to-do-about-i</link>
+  <num_pages></num_pages>
+  <format>Audio CD</format>
+  <edition_information/>
+  <publisher>Berrett-Koehler on Dreamscape Audio</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1</ratings_count>
+<authors>
+<author>
+<id>14473201</id>
+<name>M Tamra Chandler</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14473201.M_Tamra_Chandler]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 14 00:00:00 -0700 2016</started_at>
+  <read_at>Sun Mar 20 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:29:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:30:19 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is not a textbook, but it is packed with so much knowledge and so many experiences pulled from real life organizations, you will learn as much about performance management as if you had attended class. Part way into the book, there was a short paragraph captioned New Thought, Thoughtfully Ap...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427250]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427250]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427249</id>
+    
+  <user>
+    <id>6302009</id>
+    <name>Judith</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6302009-judith-barrow]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453494889p3/6302009.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453494889p2/6302009.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29512408</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <title>Best Seller</title>
+  <image_url>https://d.gr-assets.com/books/1458038359m/29512408.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1458038359s/29512408.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29512408-best-seller</link>
+  <num_pages>155</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>5</average_rating>
+  <ratings_count>12</ratings_count>
+<authors>
+<author>
+<id>5821157</id>
+<name>Terry Tyler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445690226p5/5821157.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1445690226p2/5821157.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5821157.Terry_Tyler]]></link>
+<average_rating>4.48</average_rating>
+<ratings_count>691</ratings_count>
+<text_reviews_count>415</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 12:31:12 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:29:38 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:31:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[One of the most outstanding features of any of Terry Tyler’s books is her ability to create rounded characters that come alive the first time they open their mouths. <br />Best Seller, a Tale of Three Writers, is no exception. And the reader is also allowed to observe the inner dialogue, the immediate...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427249]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427249]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427220</id>
+    
+  <user>
+    <id>31346134</id>
+    <name>Lynette</name>
+
+    <location>Littleton, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31346134-lynette]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26093614</id>
+  <isbn>1401686117</isbn>
+  <isbn13>9781401686116</isbn13>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <title>The Five Times I Met Myself</title>
+  <image_url>https://d.gr-assets.com/books/1439560059m/26093614.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1439560059s/26093614.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26093614-the-five-times-i-met-myself</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information>First</edition_information>
+  <publisher>Thomas Nelson</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>144</ratings_count>
+<authors>
+<author>
+<id>3051260</id>
+<name>James L. Rubart</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1446768279p5/3051260.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1446768279p2/3051260.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3051260.James_L_Rubart]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>6082</ratings_count>
+<text_reviews_count>1083</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 12:33:12 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:29:36 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:33:12 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Some very interesting ideas in this book. I picked it up because the title was compelling. We've all thought about what we'd say to our younger self, if we had the chance. What would change in our lives if we could do that? I've also wondered what my dreams meant. This story brings the 2 together...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427220]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427220]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589427197</id>
+    
+  <user>
+    <id>54238193</id>
+    <name>Елена</name>
+
+    <location><![CDATA[Negotino, 69, Macedonia, the Former Yugoslav Republic of]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54238193]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458847772p3/54238193.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458847772p2/54238193.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11428153</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>PARADOKSOT NA DIOGEN</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11428153-paradoksot-na-diogen</link>
+  <num_pages></num_pages>
+  <format/>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4</average_rating>
+  <ratings_count>37</ratings_count>
+<authors>
+<author>
+<id>6449285</id>
+<name>Томе Арсовски</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6449285._]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>55</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:29:34 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:31:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      I want to read
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589427197]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589427197]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589426891</id>
+    
+  <user>
+    <id>21629607</id>
+    <name>Arfina</name>
+
+    <location>Serang, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21629607-arfina-tiara]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24937809</id>
+  <isbn nil="true"/>
+  <isbn13>9786022910893</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <title>Gloomy Gift</title>
+  <image_url>https://d.gr-assets.com/books/1423973065m/24937809.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1423973065s/24937809.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24937809-gloomy-gift</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bentang Pustaka</publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>165</ratings_count>
+<authors>
+<author>
+<id>1140324</id>
+<name>Rhein Fathia</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1386073802p5/1140324.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1386073802p2/1140324.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1140324.Rhein_Fathia]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>1195</ratings_count>
+<text_reviews_count>268</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 12:30:18 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:29:11 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:30:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Ngalir, keren, menegngkan dan karakternya bikin saya keki]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589426891]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589426891]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589426830</id>
+    
+  <user>
+    <id>2841314</id>
+    <name>Ann</name>
+
+    <location>O Fallon, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2841314-ann]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18090004</id>
+  <isbn>0062120085</isbn>
+  <isbn13>9780062120083</isbn13>
+  <text_reviews_count type="integer">77</text_reviews_count>
+  <title>Codename Zero (The Codename Conspiracy #1)</title>
+  <image_url>https://d.gr-assets.com/books/1373662305m/18090004.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1373662305s/18090004.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18090004-codename-zero</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Walden Pond Press</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>344</ratings_count>
+<authors>
+<author>
+<id>2699745</id>
+<name>Chris Rylander</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231529096p5/2699745.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1231529096p2/2699745.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2699745.Chris_Rylander]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>5031</ratings_count>
+<text_reviews_count>860</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1264123316" sortable="false" />
+    <shelf name="truman-2017" exclusive="false" review_shelf_id="1264123455" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:29:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:29:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[2016-2017 Truman Final Nominee]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589426830]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589426830]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589426733</id>
+    
+  <user>
+    <id>4023744</id>
+    <name>Yvonne (bookishpanda)</name>
+
+    <location>Vienna, Austria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4023744-yvonne-bookishpanda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454500294p3/4023744.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454500294p2/4023744.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15704307</id>
+  <isbn>1607066017</isbn>
+  <isbn13>9781607066019</isbn13>
+  <text_reviews_count type="integer">5828</text_reviews_count>
+  <title>Saga, Volume 1</title>
+  <image_url>https://d.gr-assets.com/books/1428350405m/15704307.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1428350405s/15704307.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15704307-saga-volume-1</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Image Comics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>79533</ratings_count>
+<authors>
+<author>
+<id>24514</id>
+<name>Brian K. Vaughan</name>
+<role>Writer</role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204664235p5/24514.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204664235p2/24514.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/24514.Brian_K_Vaughan]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>696538</ratings_count>
+<text_reviews_count>32595</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="4-stars-books" exclusive="false" review_shelf_id="1264123292" sortable="false" />
+    <shelf name="graphic-novel" exclusive="false" review_shelf_id="1264123358" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 12:31:48 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:28:59 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:31:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I'm super unsure about my rating ... mostly because I had absolutely no expectations for this book and not even an idea what it really is about. However, I enjoyed it a lot!<br /><br />I mean, it's pretty graphic, a little weird but also extremely cool! More than excited for the next volume! :D]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589426733]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589426733]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589426707</id>
+    
+  <user>
+    <id>4087578</id>
+    <name>Kristal</name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4087578-kristal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1280550754p3/4087578.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1280550754p2/4087578.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">30183</id>
+  <isbn>0312360266</isbn>
+  <isbn13>9780312360269</isbn13>
+  <text_reviews_count type="integer">11205</text_reviews_count>
+  <title>Marked (House of Night #1)</title>
+  <image_url>https://d.gr-assets.com/books/1317067002m/30183.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1317067002s/30183.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30183.Marked</link>
+  <num_pages>306</num_pages>
+  <format>Paperback</format>
+  <edition_information>1st edition</edition_information>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>323574</ratings_count>
+<authors>
+<author>
+<id>17015</id>
+<name>P.C. Cast</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p5/17015.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p2/17015.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17015.P_C_Cast]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>1661869</ratings_count>
+<text_reviews_count>49447</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Oct 01 00:00:00 -0700 2008</read_at>
+  <date_added>Thu Mar 24 12:28:57 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:29:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A quick, surprisingly enjoyable read. It's an imaginative take on the world of vampires with a heroine who is realistic and a good role models for girls.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589426707]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589426707]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589426640</id>
+    
+  <user>
+    <id>15146663</id>
+    <name>Ryan</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15146663-ryan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1444843579p3/15146663.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1444843579p2/15146663.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4671</id>
+  <isbn>0743273567</isbn>
+  <isbn13>9780743273565</isbn13>
+  <text_reviews_count type="integer">38028</text_reviews_count>
+  <title>The Great Gatsby</title>
+  <image_url>https://d.gr-assets.com/books/1438728255m/4671.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438728255s/4671.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4671.The_Great_Gatsby</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>2313527</ratings_count>
+<authors>
+<author>
+<id>3190</id>
+<name>F. Scott Fitzgerald</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1427040571p5/3190.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1427040571p2/3190.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>2622685</ratings_count>
+<text_reviews_count>58947</text_reviews_count>
+</author>
+</authors>
+  <published>1925</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 12:29:41 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:28:53 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:29:41 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I recently reread this for school and I am glad to say it was even better the second time around. (03/24/26)]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589426640]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589426640]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

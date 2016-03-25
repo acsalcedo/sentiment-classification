@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589421643</id>
+    
+  <user>
+    <id>54237946</id>
+    <name>Keaundra</name>
+
+    <location>Houston, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54237946-keaundra-redman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">26848366</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <title>In Love with Ezra (Love Unaccounted, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1446841620m/26848366.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1446841620s/26848366.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26848366-in-love-with-ezra</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>133</ratings_count>
+<authors>
+<author>
+<id>7087192</id>
+<name>Love Belvin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1390318971p5/7087192.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1390318971p2/7087192.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7087192.Love_Belvin]]></link>
+<average_rating>4.61</average_rating>
+<ratings_count>2949</ratings_count>
+<text_reviews_count>525</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:23:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:23:03 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Phenomenal!!!! You are The woman with the insane pen game!!!.....K.Redman]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589421643]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589421643]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589421195</id>
+    
+  <user>
+    <id>2841314</id>
+    <name>Ann</name>
+
+    <location>O Fallon, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2841314-ann]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17934426</id>
+  <isbn>0374327718</isbn>
+  <isbn13>9780374327712</isbn13>
+  <text_reviews_count type="integer">93</text_reviews_count>
+  <title>Grandmaster</title>
+  <image_url>https://d.gr-assets.com/books/1375932005m/17934426.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1375932005s/17934426.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17934426-grandmaster</link>
+  <num_pages>240</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Farrar, Straus and Giroux</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>365</ratings_count>
+<authors>
+<author>
+<id>18738</id>
+<name>David Klass</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18738.David_Klass]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>12158</ratings_count>
+<text_reviews_count>1370</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1264117976" sortable="false" />
+    <shelf name="truman-2017" exclusive="false" review_shelf_id="1264118103" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:22:30 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:55 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      2016-2017 Final Nominee
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589421195]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589421195]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420854</id>
+    
+  <user>
+    <id>38656520</id>
+    <name>Rebecca</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/38656520-rebecca]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22745853</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">244</text_reviews_count>
+  <title>The Boston Girl</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22745853-the-boston-girl</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>4875</ratings_count>
+<authors>
+<author>
+<id>626222</id>
+<name>Anita Diamant</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405136091p5/626222.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1405136091p2/626222.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/626222.Anita_Diamant]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>477106</ratings_count>
+<text_reviews_count>24579</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:22:06 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Interesting tale of a woman's life with historical context</strong><br /><br />I really enjoyed this story of a woman and her journey through childhood poverty and family struggle, her friendships, romantic relationships, and education and careers. All set in context of WW1 and 2, women's suffrage movement, and Jewis...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420854]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420854]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420614</id>
+    
+  <user>
+    <id>41916162</id>
+    <name>Matt</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41916162-matt-hinderman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15622</id>
+  <isbn>006083756X</isbn>
+  <isbn13>9780060837563</isbn13>
+  <text_reviews_count type="integer">2201</text_reviews_count>
+  <title>Native Son</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15622.Native_Son</link>
+  <num_pages>520</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>59060</ratings_count>
+<authors>
+<author>
+<id>9657</id>
+<name>Richard Wright</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209848296p5/9657.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209848296p2/9657.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9657.Richard_Wright]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>105687</ratings_count>
+<text_reviews_count>4406</text_reviews_count>
+</author>
+</authors>
+  <published>1940</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:47 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Gripping and suspenseful. Is it too late for me to get my review on the cover? It is? Oh well.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420614]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420614]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420561</id>
+    
+  <user>
+    <id>21072259</id>
+    <name>Letty </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21072259-letty-cover-to-cover-book-blog-reviewer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430949660p3/21072259.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430949660p2/21072259.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24929029</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">106</text_reviews_count>
+  <title>Can't Shake You (River Bend, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1423870379m/24929029.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1423870379s/24929029.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24929029-can-t-shake-you</link>
+  <num_pages>326</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1278</ratings_count>
+<authors>
+<author>
+<id>7779196</id>
+<name>Molly McLain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1455474864p5/7779196.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1455474864p2/7779196.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7779196.Molly_McLain]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>5660</ratings_count>
+<text_reviews_count>1189</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="march-madness" exclusive="false" review_shelf_id="1264117423" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 12:21:44 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A nice, fast read with a steady plot. <br /><br />Josh and Carissa had met some time ago before he was deployed. When he returns, she’s now been with his friend. They all have a code, No One goes with a friend’s ex. So ensues the drama.<br /><br />I like second chance romance, but I’m not sure I see why they felt they h...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420561]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420561]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420513</id>
+    
+  <user>
+    <id>2841314</id>
+    <name>Ann</name>
+
+    <location>O Fallon, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2841314-ann]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18667753</id>
+  <isbn>0525426817</isbn>
+  <isbn13>9780525426813</isbn13>
+  <text_reviews_count type="integer">1383</text_reviews_count>
+  <title>Popular: Vintage Wisdom for a Modern Geek</title>
+  <image_url>https://d.gr-assets.com/books/1383335610m/18667753.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1383335610s/18667753.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18667753-popular</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books for Young Readers</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>6615</ratings_count>
+<authors>
+<author>
+<id>7341039</id>
+<name>Maya Van Wagenen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404508273p5/7341039.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404508273p2/7341039.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7341039.Maya_Van_Wagenen]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>7255</ratings_count>
+<text_reviews_count>1541</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="to-read" exclusive="true" review_shelf_id="1264117271" sortable="false" />
+    <shelf name="truman-2017" exclusive="false" review_shelf_id="1264117625" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:40 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:18 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      2016-2017 Final Nominee
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420513]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420513]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420462</id>
+    
+  <user>
+    <id>54229958</id>
+    <name>Afsana</name>
+
+    <location>San Mateo, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/54229958-afsana-chowdhury]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458828892p3/54229958.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458828892p2/54229958.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">183660</id>
+  <isbn>0060734086</isbn>
+  <isbn13>9780060734084</isbn13>
+  <text_reviews_count type="integer">3364</text_reviews_count>
+  <title>Fairest</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/183660.Fairest</link>
+  <num_pages>326</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>46457</ratings_count>
+<authors>
+<author>
+<id>13677</id>
+<name>Gail Carson Levine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1432495575p5/13677.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1432495575p2/13677.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13677.Gail_Carson_Levine]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>505142</ratings_count>
+<text_reviews_count>18970</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:36 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      beautiful book!!!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420462]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420462]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420325</id>
+    
+  <user>
+    <id>7392350</id>
+    <name>Diane</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7392350-diane]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16120723</id>
+  <isbn>1579623131</isbn>
+  <isbn13>9781579623135</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <title>Resolve</title>
+  <image_url>https://d.gr-assets.com/books/1452707737m/16120723.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1452707737s/16120723.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16120723-resolve</link>
+  <num_pages>248</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>The Permanent Press</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>168</ratings_count>
+<authors>
+<author>
+<id>6568981</id>
+<name>J.J. Hensley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399996556p5/6568981.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399996556p2/6568981.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6568981.J_J_Hensley]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>270</ratings_count>
+<text_reviews_count>80</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 12:22:26 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:21:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Pretty good, and a must read for Pittsburghers because knowing all the landmarks makes it more fun to read.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420325]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420325]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420317</id>
+    
+  <user>
+    <id>27118313</id>
+    <name>Carly</name>
+
+    <location>Cork, 04, Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27118313-carly-odonoghue]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1388360169p3/27118313.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1388360169p2/27118313.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29370934</id>
+  <isbn nil="true"/>
+  <isbn13>9781310256059</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Wicked Weapon (Dark Hearts, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1457544462m/29370934.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1457544462s/29370934.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29370934-wicked-weapon</link>
+  <num_pages>224</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>5</ratings_count>
+<authors>
+<author>
+<id>4912047</id>
+<name>Cari Silverwood</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454927379p5/4912047.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1454927379p2/4912047.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4912047.Cari_Silverwood]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>7298</ratings_count>
+<text_reviews_count>1462</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:25 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:11 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Wicked Weapon is the next highly anticipated book in the Dark Hearts Series by Cari Silverwood.If you thought Wicked Ways was dark you haven't read anything yet!<br />I don't want to say much in this review in case I spoil it but you can guarantee that this book will leave you in a book funk for days a...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420317]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420317]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420269</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24692927</id>
+  <isbn>1476731918</isbn>
+  <isbn13>9781476731919</isbn13>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <title>The Short and Tragic Life of Robert Peace: A Brilliant Young Man Who Left Newark for the Ivy League</title>
+  <image_url>https://d.gr-assets.com/books/1437959553m/24692927.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1437959553s/24692927.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24692927-the-short-and-tragic-life-of-robert-peace</link>
+  <num_pages>432</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>126</ratings_count>
+<authors>
+<author>
+<id>257295</id>
+<name>Jeff Hobbs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409863816p5/257295.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1409863816p2/257295.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/257295.Jeff_Hobbs]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>11905</ratings_count>
+<text_reviews_count>1673</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:22 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I finished this book over a month ago and I cannot stop thinking about Robert Peace.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420269]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420269]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589420262</id>
+    
+  <user>
+    <id>41916162</id>
+    <name>Matt</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41916162-matt-hinderman]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7624</id>
+  <isbn>0140283331</isbn>
+  <isbn13>9780140283334</isbn13>
+  <text_reviews_count type="integer">17721</text_reviews_count>
+  <title>Lord of the Flies</title>
+  <image_url>https://d.gr-assets.com/books/1327869409m/7624.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327869409s/7624.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7624.Lord_of_the_Flies</link>
+  <num_pages>182</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Great Books of the 20th Century</edition_information>
+  <publisher>Penguin Books </publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1388529</ratings_count>
+<authors>
+<author>
+<id>306</id>
+<name>William Golding</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1198342496p5/306.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1198342496p2/306.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>1448850</ratings_count>
+<text_reviews_count>23300</text_reviews_count>
+</author>
+</authors>
+  <published>1954</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:21 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:40 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Meh, wasn't the worst read in high school.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420262]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420262]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420248</id>
+    
+  <user>
+    <id>7853405</id>
+    <name>Sassy </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7853405-sassy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456073034p3/7853405.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456073034p2/7853405.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29089623</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Coveted (A Dark Romance Novel)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29089623-coveted</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>2</average_rating>
+  <ratings_count>24</ratings_count>
+<authors>
+<author>
+<id>14984396</id>
+<name>Ryleigh Stone</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14984396.Ryleigh_Stone]]></link>
+<average_rating>2.35</average_rating>
+<ratings_count>26</ratings_count>
+<text_reviews_count>7</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:20 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[WARNING: This is NOT a Dark Romance<br /><br />2 1/2 Stars rounded to 3<br /><br />I am quite upset after reading the authors blurb saying this was a Dark Romance, to find it is NOT!!!!<br /><br />I struggled trying to read this book as I found it quite boring and it was all over the place.<br />.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420248]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420248]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420193</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">22551730</id>
+  <isbn>0307408868</isbn>
+  <isbn13>9780307408860</isbn13>
+  <text_reviews_count type="integer">5298</text_reviews_count>
+  <title>Dead Wake: The Last Crossing of the Lusitania</title>
+  <image_url>https://d.gr-assets.com/books/1408923747m/22551730.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1408923747s/22551730.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22551730-dead-wake</link>
+  <num_pages>430</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>37418</ratings_count>
+<authors>
+<author>
+<id>5869</id>
+<name>Erik Larson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304371037p5/5869.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1304371037p2/5869.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5869.Erik_Larson]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>498149</ratings_count>
+<text_reviews_count>44678</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:16 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:16 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Just a few chapters in and I am already pulled in by the excellent storytelling...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420193]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420193]]></link>
+    <owned>1</owned>
+</review>
+<review>
+  <id>1589420168</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20821376</id>
+  <isbn>0525423052</isbn>
+  <isbn13>9780525423058</isbn13>
+  <text_reviews_count type="integer">1720</text_reviews_count>
+  <title>Belzhar</title>
+  <image_url>https://d.gr-assets.com/books/1395326170m/20821376.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1395326170s/20821376.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20821376-belzhar</link>
+  <num_pages>264</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books for Young Readers</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>8712</ratings_count>
+<authors>
+<author>
+<id>113936</id>
+<name>Meg Wolitzer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238054194p5/113936.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238054194p2/113936.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/113936.Meg_Wolitzer]]></link>
+<average_rating>3.44</average_rating>
+<ratings_count>104889</ratings_count>
+<text_reviews_count>14232</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:14 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:14 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Great teen voice; fast read. 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420168]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420168]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420140</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18774015</id>
+  <isbn>0316225878</isbn>
+  <isbn13>9780316225878</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <title>The Irresistible Blueberry Bakeshop &amp; Cafe</title>
+  <image_url>https://d.gr-assets.com/books/1400881746m/18774015.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1400881746s/18774015.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18774015-the-irresistible-blueberry-bakeshop-cafe</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>92</ratings_count>
+<authors>
+<author>
+<id>6572775</id>
+<name>Mary Simses</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420147464p5/6572775.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420147464p2/6572775.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6572775.Mary_Simses]]></link>
+<average_rating>3.40</average_rating>
+<ratings_count>4636</ratings_count>
+<text_reviews_count>884</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:13 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Okay, so I was lured by the delicious-looking blueberries on the cover. This was light and sweet, and, yes, a bit unrealistic but I did enjoy the story of a successful NYC attorney who visits her grandmother's hometown in Maine only to (literally) fall for the local guy. What is she doing? She ha...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420140]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420140]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420106</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">19101249</id>
+  <isbn>0345806972</isbn>
+  <isbn13>9780345806970</isbn13>
+  <text_reviews_count type="integer">90</text_reviews_count>
+  <title>Longbourn</title>
+  <image_url>https://d.gr-assets.com/books/1392027392m/19101249.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1392027392s/19101249.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19101249-longbourn</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>366</ratings_count>
+<authors>
+<author>
+<id>965819</id>
+<name>Jo Baker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245007916p5/965819.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245007916p2/965819.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/965819.Jo_Baker]]></link>
+<average_rating>3.60</average_rating>
+<ratings_count>31503</ratings_count>
+<text_reviews_count>5472</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:10 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:10 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[As Pride &amp; Prejudice is one of my favorite books, I love anything to do with that story and have read many not as enjoyable "continuing" stories of the Bennett sisters. This one however was very enjoyable and tells the story of the "downstairs" help that keep the Bennett manor running smoothl...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420106]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420106]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420088</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18339662</id>
+  <isbn>038574126X</isbn>
+  <isbn13>9780385741262</isbn13>
+  <text_reviews_count type="integer">2166</text_reviews_count>
+  <title>We Were Liars</title>
+  <image_url>https://d.gr-assets.com/books/1402749432m/18339662.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1402749432s/18339662.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18339662-we-were-liars</link>
+  <num_pages>227</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Press</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>7773</ratings_count>
+<authors>
+<author>
+<id>173491</id>
+<name>E. Lockhart</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399077200p5/173491.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399077200p2/173491.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/173491.E_Lockhart]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>288265</ratings_count>
+<text_reviews_count>36584</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:09 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:09 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Seventeen-year-old Cadence is visiting her family's private island where her accident happened two summers ago. She suffers from debilitating migraines as she tries to remember the events before she woke up on that beach half-naked. What she does remember is her close friendship with her cousins...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420088]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420088]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420068</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18667902</id>
+  <isbn>0143125478</isbn>
+  <isbn13>9780143125471</isbn13>
+  <text_reviews_count type="integer">281</text_reviews_count>
+  <title>The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics</title>
+  <image_url>https://d.gr-assets.com/books/1405286839m/18667902.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1405286839s/18667902.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18667902-the-boys-in-the-boat</link>
+  <num_pages>416</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>1840</ratings_count>
+<authors>
+<author>
+<id>486329</id>
+<name>Daniel James Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238622541p5/486329.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238622541p2/486329.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/486329.Daniel_James_Brown]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>92302</ratings_count>
+<text_reviews_count>12183</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:07 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Highly compelling narrative nonfiction. The author weaves a beautiful tapestry with the compelling stories of unique individuals coming together physically and emotionally as a team that, despite overwhelming odds, beat the German home team in eight-man crew at the Nazi Olympics in 1936. The best...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420068]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420068]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420045</id>
+    
+  <user>
+    <id>42842318</id>
+    <name>Teddy</name>
+
+    <location>Minnetonka, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42842318-teddy]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">20256554</id>
+  <isbn>0547669194</isbn>
+  <isbn13>9780547669199</isbn13>
+  <text_reviews_count type="integer">78</text_reviews_count>
+  <title>The Nazis Next Door: How America Became a Safe Haven for Hitler's Men</title>
+  <image_url>https://d.gr-assets.com/books/1391614798m/20256554.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1391614798s/20256554.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20256554-the-nazis-next-door</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>401</ratings_count>
+<authors>
+<author>
+<id>1329080</id>
+<name>Eric Lichtblau</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1329080.Eric_Lichtblau]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>521</ratings_count>
+<text_reviews_count>93</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 25 00:00:00 -0800 2016</started_at>
+  <read_at>Thu Mar 24 12:22:44 -0700 2016</read_at>
+  <date_added>Thu Mar 24 12:21:05 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:22:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Interesting information. I knew that many Nazi's had come to America after World War II, however I thought it was only those who had been minor officials or desk workers, cogs, not high level slaughteres. I'm glad I know the truth.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420045]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420045]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589420017</id>
+    
+  <user>
+    <id>3981590</id>
+    <name>Rosemary</name>
+
+    <location>West Orange, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3981590-rosemary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17978165</id>
+  <isbn>1250040078</isbn>
+  <isbn13>9781250040077</isbn13>
+  <text_reviews_count type="integer">124</text_reviews_count>
+  <title>Midwinterblood</title>
+  <image_url>https://d.gr-assets.com/books/1391835989m/17978165.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1391835989s/17978165.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17978165-midwinterblood</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Square Fish</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>430</ratings_count>
+<authors>
+<author>
+<id>110234</id>
+<name>Marcus Sedgwick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298204345p5/110234.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298204345p2/110234.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/110234.Marcus_Sedgwick]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>30728</ratings_count>
+<text_reviews_count>5638</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 12:21:03 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 12:21:03 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Loved this blend of fantasy and folklore.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589420017]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589420017]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_recent_reviews]]></method>
+  </Request>
+  <reviews>
+  <review>
+  <id>1589597260</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7933021</id>
+  <isbn>0747587426</isbn>
+  <isbn13>9780747587422</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <title>Calamity Jack</title>
+  <image_url>https://d.gr-assets.com/books/1286507383m/7933021.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1286507383s/7933021.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7933021-calamity-jack</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury UK</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>47</ratings_count>
+<authors>
+<author>
+<id>49177</id>
+<name>Shannon Hale</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1299093233p5/49177.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1299093233p2/49177.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/49177.Shannon_Hale]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>438430</ratings_count>
+<text_reviews_count>53466</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:44:08 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:44:08 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A steam punk version of Jack and the beanstalk. After helping out Rapunzel, Jack heads back to the city of Shyport to rescue his mother.<br />The wonderful illustrations show a diversity of characters and the action is suited to the Steam Punk look.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589597260]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589597260]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589596957</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6233723</id>
+  <isbn>1596062282</isbn>
+  <isbn13>9781596062283</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <title>The Ebb Tide (The Narbondo Series, #4)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6233723-the-ebb-tide</link>
+  <num_pages>132</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Subterranean Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>79</ratings_count>
+<authors>
+<author>
+<id>86475</id>
+<name>James P. Blaylock</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1359942705p5/86475.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1359942705p2/86475.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/86475.James_P_Blaylock]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>13713</ratings_count>
+<text_reviews_count>1066</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:43:47 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:43:47 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Blaylock's plot pays homage to Vern and Poe, while at the same time, he also has a great deal of fun.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589596957]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589596957]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589596473</id>
+    
+  <user>
+    <id>17286324</id>
+    <name>Carol</name>
+
+    <location>Birmingham, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17286324-carol-lee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360384309p3/17286324.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360384309p2/17286324.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25795257</id>
+  <isbn>0800726715</isbn>
+  <isbn13>9780800726713</isbn13>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <title>A Fool and His Monet (Serena Jones Mystery, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1435631862m/25795257.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1435631862s/25795257.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25795257-a-fool-and-his-monet</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Revell</publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>36</ratings_count>
+<authors>
+<author>
+<id>4911650</id>
+<name>Sandra Orchard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1412876725p5/4911650.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1412876725p2/4911650.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4911650.Sandra_Orchard]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>1927</ratings_count>
+<text_reviews_count>463</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 24 15:43:14 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:43:23 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[ A little different book than I am accustomed to from this author, but a good read nonetheless. A Fool and his Monet bell the story of Serena Jones and adventures with recovering artwork that has been lost or stolen. She gets a call about a Monet that is missing and goes to work<br /> Serena is not you...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589596473]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589596473]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589596288</id>
+    
+  <user>
+    <id>28332384</id>
+    <name>Clare</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28332384-clare-holman-hobbs]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456659856p3/28332384.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456659856p2/28332384.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">382803</id>
+  <isbn>0394173260</isbn>
+  <isbn13>9780394173269</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>What the Butler Saw</title>
+  <image_url>https://d.gr-assets.com/books/1327658224m/382803.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327658224s/382803.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/382803.What_the_Butler_Saw</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Samuel French</publisher>
+  <publication_day/>
+  <publication_year>1969</publication_year>
+  <publication_month/>
+  <average_rating>3</average_rating>
+  <ratings_count>350</ratings_count>
+<authors>
+<author>
+<id>133713</id>
+<name>Joe Orton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1346595695p5/133713.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1346595695p2/133713.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/133713.Joe_Orton]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>2330</ratings_count>
+<text_reviews_count>165</text_reviews_count>
+</author>
+</authors>
+  <published>1969</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="plays" exclusive="false" review_shelf_id="1264280713" sortable="false" />
+    <shelf name="dnf" exclusive="false" review_shelf_id="1264280733" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 01 00:00:00 -0700 2015</started_at>
+  <read_at>Thu Oct 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 15:43:01 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:43:26 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Just, no. 
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589596288]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589596288]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589595699</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6277981</id>
+  <isbn>0375855645</isbn>
+  <isbn13>9780375855641</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <title>The Nine Pound Hammer (The Clockwork Dark, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6277981-the-nine-pound-hammer</link>
+  <num_pages>357</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>25</ratings_count>
+<authors>
+<author>
+<id>2739770</id>
+<name>John Claude Bemis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1303418092p5/2739770.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1303418092p2/2739770.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2739770.John_Claude_Bemis]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>1128</ratings_count>
+<text_reviews_count>240</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:42:22 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:42:22 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[While at times elements of "Harry Potter" shadow some of the action, Bemis's plot is original as a blend of Steampunk and American folklore.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589595699]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589595699]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589595466</id>
+    
+  <user>
+    <id>52618598</id>
+    <name>Lilly Dalzell</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52618598-lilly-dalzell]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">27911707</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <title>Dead Lake</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27911707-dead-lake</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>116</ratings_count>
+<authors>
+<author>
+<id>7734837</id>
+<name>Darcy Coates</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1451788363p5/7734837.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1451788363p2/7734837.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7734837.Darcy_Coates]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>2075</ratings_count>
+<text_reviews_count>372</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 15:42:06 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:42:04 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:42:06 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>Amazing</strong><br /><br />I believe that only few people can write this well and that is why we only know few authors .]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589595466]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589595466]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589595188</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5341595</id>
+  <isbn>0763640832</isbn>
+  <isbn13>9780763640835</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>Bloodline</title>
+  <image_url>https://d.gr-assets.com/books/1349490434m/5341595.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1349490434s/5341595.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5341595-bloodline</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Candlewick Press</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>31</ratings_count>
+<authors>
+<author>
+<id>1252977</id>
+<name>Katy Moran</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1273606834p5/1252977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1273606834p2/1252977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1252977.Katy_Moran]]></link>
+<average_rating>3.56</average_rating>
+<ratings_count>661</ratings_count>
+<text_reviews_count>152</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:41:43 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:41:43 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The plot is set in Middle Anglia, Eastern Britain, 631 AD. Essa and his father, Cai have the unique position of being slightly outside the clan while still having social connections.<br />Moran blends historical detail with fantasy to create a fascinating story. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589595188]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589595188]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589595044</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6054405</id>
+  <isbn>0765323206</isbn>
+  <isbn13>9780765323200</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <title>The Affinity Bridge (Newbury and Hobbes, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6054405-the-affinity-bridge</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>224</ratings_count>
+<authors>
+<author>
+<id>54989</id>
+<name>George Mann</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294929283p5/54989.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294929283p2/54989.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/54989.George_Mann]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>14009</ratings_count>
+<text_reviews_count>1845</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:41:32 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:41:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Mann's plot is primarily a murder mystery, although it does have the prerequisite trappings associated with Steampunk. The murders featured in the story are similar to the Jack the Ripper case.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589595044]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589595044]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594988</id>
+    
+  <user>
+    <id>1032428</id>
+    <name>Abby</name>
+
+    <location>Madison, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1032428-abby]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1369597279p3/1032428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1369597279p2/1032428.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23735609</id>
+  <isbn>0385386176</isbn>
+  <isbn13>9780385386173</isbn13>
+  <text_reviews_count type="integer">137</text_reviews_count>
+  <title>HiLo: The Boy Who Crashed to Earth</title>
+  <image_url>https://d.gr-assets.com/books/1419180089m/23735609.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1419180089s/23735609.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23735609-hilo</link>
+  <num_pages>193</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>487</ratings_count>
+<authors>
+<author>
+<id>4822</id>
+<name>Judd Winick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239070250p5/4822.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1239070250p2/4822.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4822.Judd_Winick]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>57932</ratings_count>
+<text_reviews_count>2333</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 20 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 15:42:52 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:41:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:42:52 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Loved it!
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594988]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594988]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594972</id>
+    
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">16080171</id>
+  <isbn>1466832517</isbn>
+  <isbn13>9781466832510</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <title>Too Fond</title>
+  <image_url>https://d.gr-assets.com/books/1351388008m/16080171.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1351388008s/16080171.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16080171-too-fond</link>
+  <num_pages>32</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>47</ratings_count>
+<authors>
+<author>
+<id>1651952</id>
+<name>Leanna Renee Hieber</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385948546p5/1651952.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1385948546p2/1651952.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1651952.Leanna_Renee_Hieber]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>9174</ratings_count>
+<text_reviews_count>1729</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="review-pending" exclusive="false" review_shelf_id="1264280562" sortable="false" />
+    <shelf name="free-tor-shorts" exclusive="false" review_shelf_id="1264280691" sortable="false" />
+    <shelf name="death-is-not-the-end" exclusive="false" review_shelf_id="1264280720" sortable="false" />
+    <shelf name="hey-shorty" exclusive="false" review_shelf_id="1264280662" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 15:43:48 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:41:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:43:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<img src="http://i0.wp.com/www.tor.com/wp-content/uploads/2014/12/full_toofond.jpg?fit=1100%2C%209999&amp;crop=0%2C0%2C100%2C9999px" class="gr-hostedUserImg" /><br /><br /><em>She hoped that the parents of the dead little girl whose black hair she braided and formed into the figure of a bird didn’t mind if there were a few tears mixed in among the locks.</em><br /><br />review to come.<br /><br />read it for yourself here:<br /><br /><a target="_blank" href="http://www.tor.com/2012/10/23/too-fond/" rel="nofollow">http://www.tor.com/2012/10/23/too-fond/</a><br /><br />]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594972]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594972]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594785</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6330421</id>
+  <isbn>0765320436</isbn>
+  <isbn13>9780765320438</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <title>The Kingdom Beyond the Waves (Jackelian, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1312034652m/6330421.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1312034652s/6330421.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6330421-the-kingdom-beyond-the-waves</link>
+  <num_pages>560</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Tor Books</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>43</ratings_count>
+<authors>
+<author>
+<id>435114</id>
+<name>Stephen Hunt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1326156862p5/435114.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1326156862p2/435114.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435114.Stephen_Hunt]]></link>
+<average_rating>3.58</average_rating>
+<ratings_count>7617</ratings_count>
+<text_reviews_count>980</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:41:13 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:41:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Hunt really knows Science fiction. Within his plot there is refernce to Ray Bradbury, and Huxley. Professor Amelia Hunt is a female version of Indiana Jones, with action and adventure included. ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594785]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594785]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594698</id>
+    
+  <user>
+    <id>49757724</id>
+    <name>hollowholminum</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/49757724-hollowholminum]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456755223p3/49757724.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456755223p2/49757724.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">499150</id>
+  <isbn>0440226724</isbn>
+  <isbn13>9780440226727</isbn13>
+  <text_reviews_count type="integer">255</text_reviews_count>
+  <title>Swallowing Stones</title>
+  <image_url>https://d.gr-assets.com/books/1320392052m/499150.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320392052s/499150.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/499150.Swallowing_Stones</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Laurel Leaf</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1573</ratings_count>
+<authors>
+<author>
+<id>35824</id>
+<name>Joyce McDonald</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209043562p5/35824.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1209043562p2/35824.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/35824.Joyce_McDonald]]></link>
+<average_rating>3.57</average_rating>
+<ratings_count>2283</ratings_count>
+<text_reviews_count>334</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:41:07 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:42:48 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Oh my. I read this book in the 8th grade: I can say it was one of the only time my whole class were so engaged in a activity. Always talking about what we thought was going to happen next. Truly good memories come to mind when I think of this book.! Recommend it to anyone! ]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594698]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594698]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594663</id>
+    
+  <user>
+    <id>28332384</id>
+    <name>Clare</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28332384-clare-holman-hobbs]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456659856p3/28332384.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456659856p2/28332384.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">404970</id>
+  <isbn>0573014418</isbn>
+  <isbn13>9780573014413</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <title>And Then There Were None: Play</title>
+  <image_url>https://d.gr-assets.com/books/1408923822m/404970.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1408923822s/404970.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/404970.And_Then_There_Were_None</link>
+  <num_pages>102</num_pages>
+  <format>Paperback</format>
+  <edition_information>Acting Edition</edition_information>
+  <publisher>Samuel French Ltd</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>16</ratings_count>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>1930778</ratings_count>
+<text_reviews_count>77318</text_reviews_count>
+</author>
+</authors>
+  <published>1943</published>
+</book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="plays" exclusive="false" review_shelf_id="1264279344" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 01 00:00:00 -0700 2015</started_at>
+  <read_at>Wed Jul 01 00:00:00 -0700 2015</read_at>
+  <date_added>Thu Mar 24 15:41:05 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:42:21 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I loved the version and having read the book after I would say it's a very faithful adaptation. It's what got me into the mystery genre!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594663]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594663]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594559</id>
+    
+  <user>
+    <id>1166663</id>
+    <name>Carol</name>
+
+    <location>Columbia, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1166663-carol]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1277905205p3/1166663.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1277905205p2/1166663.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">409918</id>
+  <isbn>0446699543</isbn>
+  <isbn13>9780446699549</isbn13>
+  <text_reviews_count type="integer">778</text_reviews_count>
+  <title>The Narrows (Harry Bosch, #10)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/409918.The_Narrows</link>
+  <num_pages>436</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>22569</ratings_count>
+<authors>
+<author>
+<id>12470</id>
+<name>Michael Connelly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1406128068p5/12470.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1406128068p2/12470.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12470.Michael_Connelly]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>985907</ratings_count>
+<text_reviews_count>45896</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="1264279400" sortable="false" />
+    <shelf name="series" exclusive="false" review_shelf_id="1264279504" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 15:43:13 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:40:58 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:43:13 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Solid addition to a satisfying series<br /><strong>The Hook</strong> Personal goal to work my way through this series.<br /><br /><strong>The Line</strong> <em>“The woman had long journeys in her voice and I liked that.”</em><br /><br /><strong>The Sinker</strong> – The character of Harry Bosch captivates me. I believe this is due to his blend of a hard-core, rough-edged cop who can t...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594559]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594559]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594511</id>
+    
+  <user>
+    <id>27339600</id>
+    <name>Samar</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27339600-samar]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451597713p3/27339600.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451597713p2/27339600.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25131077</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <title>The Walking Dead, Issue #143</title>
+  <image_url>https://d.gr-assets.com/books/1426206273m/25131077.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1426206273s/25131077.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25131077-the-walking-dead-issue-143</link>
+  <num_pages>32</num_pages>
+  <format>The Walking Dead - Single Issues #143</format>
+  <edition_information/>
+  <publisher>Image Comics</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>217</ratings_count>
+<authors>
+<author>
+<id>12425</id>
+<name>Robert Kirkman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238103316p5/12425.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1238103316p2/12425.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12425.Robert_Kirkman]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>714585</ratings_count>
+<text_reviews_count>28565</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2016-books" exclusive="false" review_shelf_id="1264279102" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
+  <read_at>Fri Mar 25 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:40:54 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:42:55 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Mehhhhhhhh a herd we have seen them before .........]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594511]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594511]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594480</id>
+    
+  <user>
+    <id>11256864</id>
+    <name>Robin</name>
+
+    <location>West Palm Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11256864-robin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12081791</id>
+  <isbn nil="true"/>
+  <isbn13>9780983831815</isbn13>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <title>Central (Daughters Of Saraqael, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1396911234m/12081791.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1396911234s/12081791.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12081791-central</link>
+  <num_pages>357</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Iambe Books</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>927</ratings_count>
+<authors>
+<author>
+<id>5053436</id>
+<name>Raine Thomas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1324408137p5/5053436.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1324408137p2/5053436.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5053436.Raine_Thomas]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>9800</ratings_count>
+<text_reviews_count>940</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 21 00:00:00 -0700 2016</started_at>
+  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:40:52 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:41:32 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Not really wanting to read the next book, except am curious of the new addition. With this book I skimmed it a lot it's has lost my interest.]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594480]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594480]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594439</id>
+    
+  <user>
+    <id>31211792</id>
+    <name>Sandy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/31211792-sandy-schmidt]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399571314p3/31211792.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399571314p2/31211792.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">18049084</id>
+  <isbn>1442458747</isbn>
+  <isbn13>9781442458741</isbn13>
+  <text_reviews_count type="integer">1112</text_reviews_count>
+  <title>Noggin</title>
+  <image_url>https://d.gr-assets.com/books/1405097394m/18049084.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1405097394s/18049084.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18049084-noggin</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atheneum Books for Young Readers</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>6209</ratings_count>
+<authors>
+<author>
+<id>4113638</id>
+<name>John Corey Whaley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1303709143p5/4113638.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1303709143p2/4113638.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4113638.John_Corey_Whaley]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>22282</ratings_count>
+<text_reviews_count>3857</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Mar 24 15:44:00 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:40:50 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:44:00 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A 16 year old boy, whose body is riddled with disease, accepts the opportunity to have his head cryogenically preserved on the off chance that some year in the far future he may be reattached to a body and brought back to life. Five years later, the unbelievable has happened. This is a funny, tou...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594439]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594439]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594357</id>
+    
+  <user>
+    <id>16371012</id>
+    <name>Cecilia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16371012-cecilia-rodriguez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455727761p3/16371012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455727761p2/16371012.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6335118</id>
+  <isbn>0061449008</isbn>
+  <isbn13>9780061449000</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <title>Ottoline Goes to School</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6335118-ottoline-goes-to-school</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4</average_rating>
+  <ratings_count>32</ratings_count>
+<authors>
+<author>
+<id>59749</id>
+<name>Chris Riddell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1276920548p5/59749.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1276920548p2/59749.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/59749.Chris_Riddell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>78759</ratings_count>
+<text_reviews_count>6572</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 24 15:40:44 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:40:44 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[While out on an excursion, Ottoline meets Cecily Forbes and her pony. The two girls become friends and when Cecily goes off to Alice B. Smith School for the differently gifted, Ottoline decides she wants to go along.<br />Riddle's illustrations have a quality very similar to Dr. Seuss, in that they are...]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594357]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594357]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594176</id>
+    
+  <user>
+    <id>4663319</id>
+    <name>Aisha</name>
+
+    <location>New Haven, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4663319-aisha-oaktree]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331581821p3/4663319.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331581821p2/4663319.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25937647</id>
+  <isbn nil="true"/>
+  <isbn13>9780399177903</isbn13>
+  <text_reviews_count type="integer">179</text_reviews_count>
+  <title>Bad Romance</title>
+  <image_url>https://d.gr-assets.com/books/1439410047m/25937647.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1439410047s/25937647.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25937647-bad-romance</link>
+  <num_pages>268</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Loveswept</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>372</ratings_count>
+<authors>
+<author>
+<id>6921962</id>
+<name>Jen McLaughlin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439508839p5/6921962.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1439508839p2/6921962.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6921962.Jen_McLaughlin]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>17305</ratings_count>
+<text_reviews_count>1559</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
+  <read_at>Thu Mar 24 15:41:01 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:40:27 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:41:01 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Review pending
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594176]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594176]]></link>
+    <owned>0</owned>
+</review>
+<review>
+  <id>1589594008</id>
+    
+  <user>
+    <id>1180752</id>
+    <name>Bonnie</name>
+
+    <location>Saratoga, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1180752-bonnie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1222283913p3/1180752.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1222283913p2/1180752.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">876843</id>
+  <isbn>0140187707</isbn>
+  <isbn13>9780140187700</isbn13>
+  <text_reviews_count type="integer">94</text_reviews_count>
+  <title>The Octopus: A Story of California</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/876843.The_Octopus</link>
+  <num_pages>688</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3</average_rating>
+  <ratings_count>1029</ratings_count>
+<authors>
+<author>
+<id>82926</id>
+<name>Frank Norris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206549634p5/82926.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206549634p2/82926.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/82926.Frank_Norris]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>6051</ratings_count>
+<text_reviews_count>602</text_reviews_count>
+</author>
+</authors>
+  <published>1901</published>
+</book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 02 00:00:00 -0800 2016</started_at>
+  <read_at>Thu Mar 24 15:42:35 -0700 2016</read_at>
+  <date_added>Thu Mar 24 15:40:14 -0700 2016</date_added>
+  <date_updated>Thu Mar 24 15:42:35 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Excellent saga of the railroads vs the wheat farmers in Central California in the 1880's. The book depicts the author's fictionalized account of the Mussel Slough tragedy. This is a slow read, written in 1901, in the style of older writers. Nevertheless, I loved it!]]>
+  </body>
+  <comments_count></comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1589594008]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1589594008]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

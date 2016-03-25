@@ -163,7 +163,7 @@
   <date_updated>Wed Mar 23 17:39:23 -0700 2016</date_updated>
   <read_count></read_count>
   <body>
-      E, SM
+      Very bad book.
   </body>
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588734473]]></url>
@@ -408,7 +408,7 @@
   <date_updated>Wed Mar 23 17:38:33 -0700 2016</date_updated>
   <read_count></read_count>
   <body>
-      A, SM
+      Just a very bad novel.
   </body>
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588733809]]></url>
@@ -494,168 +494,6 @@
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588733737]]></url>
   <link><![CDATA[https://www.goodreads.com/review/show/1588733737]]></link>
-    <owned>0</owned>
-</review>
-<review>
-  <id>1588733578</id>
-    
-  <user>
-    <id>54212445</id>
-    <name>Justin</name>
-
-    <location>Sydney, 02, Australia</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/54212445-justin-mccarthy]]></link>
-
-    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
-    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">11870085</id>
-  <isbn>0525478817</isbn>
-  <isbn13>9780525478812</isbn13>
-  <text_reviews_count type="integer">119905</text_reviews_count>
-  <title>The Fault in Our Stars</title>
-  <image_url>https://d.gr-assets.com/books/1360206420m/11870085.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1360206420s/11870085.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
-  <num_pages>313</num_pages>
-  <format>Hardcover</format>
-  <edition_information/>
-  <publisher>Dutton Books</publisher>
-  <publication_day>10</publication_day>
-  <publication_year>2012</publication_year>
-  <publication_month>1</publication_month>
-  <average_rating>4</average_rating>
-  <ratings_count>1790472</ratings_count>
-<authors>
-<author>
-<id>1406384</id>
-<name>John Green</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
-<average_rating>4.14</average_rating>
-<ratings_count>3740484</ratings_count>
-<text_reviews_count>252314</text_reviews_count>
-</author>
-</authors>
-  <published>2012</published>
-</book>
-
-
-  <rating>5</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at></read_at>
-  <date_added>Wed Mar 23 17:37:49 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 17:37:49 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      <![CDATA[Hazel, in the seventeenth year of her life, is in many ways lucky to be alive. She has cancer which has devastated her lungs to the point in which she needs an oxygen tank to aid her breathing. She spends a lot of her time at home having left school years ago due to her condition. Thinking she ha...]]>
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588733578]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588733578]]></link>
-    <owned>0</owned>
-</review>
-<review>
-  <id>1588733372</id>
-    
-  <user>
-    <id>54212445</id>
-    <name>Justin</name>
-
-    <location>Sydney, 02, Australia</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/54212445-justin-mccarthy]]></link>
-
-    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
-    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">10300366</id>
-  <isbn>1840029765</isbn>
-  <isbn13>9781840029765</isbn13>
-  <text_reviews_count type="integer">0</text_reviews_count>
-  <title>What Fatima Did . . .</title>
-  <image_url>https://d.gr-assets.com/books/1328731230m/10300366.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1328731230s/10300366.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/10300366-what-fatima-did</link>
-  <num_pages>95</num_pages>
-  <format>Paperback</format>
-  <edition_information/>
-  <publisher>Oberon Books</publisher>
-  <publication_day>7</publication_day>
-  <publication_year>2010</publication_year>
-  <publication_month>9</publication_month>
-  <average_rating>4</average_rating>
-  <ratings_count>2</ratings_count>
-<authors>
-<author>
-<id>4601569</id>
-<name>Atiha Sen Gupta</name>
-<role></role>
-<image_url nophoto='true'>
-<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
-</image_url>
-<small_image_url nophoto='true'>
-<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/4601569.Atiha_Sen_Gupta]]></link>
-<average_rating>4.00</average_rating>
-<ratings_count>3</ratings_count>
-<text_reviews_count>1</text_reviews_count>
-</author>
-</authors>
-  <published>2009</published>
-</book>
-
-
-  <rating>4</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at></read_at>
-  <date_added>Wed Mar 23 17:37:34 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 17:37:34 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      <![CDATA[When Fatima, a previously rowdy party-goer, turns up to school wearing a hijab her friends start to wonder what's going on. They aren't supportive and even her own mother is against the idea. From the beginning the only one really on her side is her twin brother Mohammed. With the backdrop of pos...]]>
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588733372]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588733372]]></link>
     <owned>0</owned>
 </review>
 <review>
@@ -821,89 +659,6 @@
     <owned>0</owned>
 </review>
 <review>
-  <id>1588732795</id>
-    
-  <user>
-    <id>4579023</id>
-    <name>PWRL</name>
-
-    <location>Saint Marys, KS</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/4579023-pwrl]]></link>
-
-    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
-    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">351229</id>
-  <isbn>059033588X</isbn>
-  <isbn13>9780590335881</isbn13>
-  <text_reviews_count type="integer">19</text_reviews_count>
-  <title>Clifford at the Circus</title>
-  <image_url>https://d.gr-assets.com/books/1333389832m/351229.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1333389832s/351229.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/351229.Clifford_at_the_Circus</link>
-  <num_pages>30</num_pages>
-  <format>Paperback</format>
-  <edition_information/>
-  <publisher>Scholastic</publisher>
-  <publication_day>1</publication_day>
-  <publication_year>1985</publication_year>
-  <publication_month>4</publication_month>
-  <average_rating>3</average_rating>
-  <ratings_count>598</ratings_count>
-<authors>
-<author>
-<id>73337</id>
-<name>Norman Bridwell</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1284862412p5/73337.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1284862412p2/73337.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/73337.Norman_Bridwell]]></link>
-<average_rating>4.07</average_rating>
-<ratings_count>119606</ratings_count>
-<text_reviews_count>1876</text_reviews_count>
-</author>
-</authors>
-  <published>1977</published>
-</book>
-
-
-  <rating>0</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-
-    <shelf name="to-read" exclusive="true" review_shelf_id="1263473122" sortable="true" />
-    <shelf name="zzz2016-mar-new" exclusive="false" review_shelf_id="1263473249" sortable="false" />
-    <shelf name="mar-jr-easy" exclusive="false" review_shelf_id="1263473210" sortable="false" />
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at></read_at>
-  <date_added>Wed Mar 23 17:36:55 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 17:37:19 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      E, SM
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588732795]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588732795]]></link>
-    <owned>0</owned>
-</review>
-<review>
   <id>1588732771</id>
     
   <user>
@@ -982,87 +737,6 @@
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588732771]]></url>
   <link><![CDATA[https://www.goodreads.com/review/show/1588732771]]></link>
-    <owned>0</owned>
-</review>
-<review>
-  <id>1588732758</id>
-    
-  <user>
-    <id>21690774</id>
-    <name>Carol</name>
-
-    <location>Tucson, AZ</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/21690774-carol]]></link>
-
-    <image_url><![CDATA[https://d.gr-assets.com/users/1372315402p3/21690774.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d.gr-assets.com/users/1372315402p2/21690774.jpg]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">17165237</id>
-  <isbn>0758287917</isbn>
-  <isbn13>9780758287915</isbn13>
-  <text_reviews_count type="integer">210</text_reviews_count>
-  <title>Murder In Thrall (Scotland Yard #1)</title>
-  <image_url>https://d.gr-assets.com/books/1361745847m/17165237.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1361745847s/17165237.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/17165237-murder-in-thrall</link>
-  <num_pages>288</num_pages>
-  <format>Hardcover</format>
-  <edition_information/>
-  <publisher>Kensington</publisher>
-  <publication_day>30</publication_day>
-  <publication_year>2013</publication_year>
-  <publication_month>7</publication_month>
-  <average_rating>3</average_rating>
-  <ratings_count>683</ratings_count>
-<authors>
-<author>
-<id>6584542</id>
-<name>Anne Cleeland</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1362955894p5/6584542.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1362955894p2/6584542.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/6584542.Anne_Cleeland]]></link>
-<average_rating>3.70</average_rating>
-<ratings_count>2026</ratings_count>
-<text_reviews_count>502</text_reviews_count>
-</author>
-</authors>
-  <published>2013</published>
-</book>
-
-
-  <rating>0</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
-  <date_added>Wed Mar 23 17:36:52 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 17:39:09 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      <![CDATA[I happened upon this book in my local library and was intrigued by the cover and the title. So I borrowed it.. Went back to the library 3 days later for the other 2 in the series. I love it and want more.]]>
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588732758]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588732758]]></link>
     <owned>0</owned>
 </review>
 <review>

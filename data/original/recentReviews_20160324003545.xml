@@ -6,87 +6,6 @@
     <method><![CDATA[review_recent_reviews]]></method>
   </Request>
   <reviews>
-  <review>
-  <id>1588935407</id>
-    
-  <user>
-    <id>46506638</id>
-    <name>Nihal</name>
-
-    <location>Sandy, UT</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/46506638-nihal-kariparduc]]></link>
-
-    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
-    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">48855</id>
-  <isbn>0553296981</isbn>
-  <isbn13>9780553296983</isbn13>
-  <text_reviews_count type="integer">14715</text_reviews_count>
-  <title>The Diary of a Young Girl</title>
-  <image_url>https://d.gr-assets.com/books/1358276407m/48855.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1358276407s/48855.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl</link>
-  <num_pages>283</num_pages>
-  <format>Mass Market Paperback</format>
-  <edition_information/>
-  <publisher>Bantam</publisher>
-  <publication_day/>
-  <publication_year>1993</publication_year>
-  <publication_month>7</publication_month>
-  <average_rating>4</average_rating>
-  <ratings_count>1687860</ratings_count>
-<authors>
-<author>
-<id>3720</id>
-<name>Anne Frank</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1343271406p5/3720.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1343271406p2/3720.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/3720.Anne_Frank]]></link>
-<average_rating>4.08</average_rating>
-<ratings_count>1756352</ratings_count>
-<text_reviews_count>17633</text_reviews_count>
-</author>
-</authors>
-  <published>1947</published>
-</book>
-
-
-  <rating>0</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
-  <date_added>Wed Mar 23 22:05:39 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 22:05:39 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      <![CDATA[Diary of a Young Girl by Anne Frank was an interesting book. It was interesting seeing a 14 year old girl perspective and saying about what she was going through. At parts this book was scary to read like the part when she was talking about how kids were left without parents, people were being ta...]]>
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588935407]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588935407]]></link>
-    <owned>0</owned>
-</review>
 <review>
   <id>1588934850</id>
     
@@ -323,7 +242,7 @@
   <date_updated>Wed Mar 23 22:05:28 -0700 2016</date_updated>
   <read_count></read_count>
   <body>
-      m
+     Absolutely horrible.
   </body>
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588933810]]></url>
@@ -409,87 +328,6 @@
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588933599]]></url>
   <link><![CDATA[https://www.goodreads.com/review/show/1588933599]]></link>
-    <owned>0</owned>
-</review>
-<review>
-  <id>1588933456</id>
-    
-  <user>
-    <id>32714395</id>
-    <name>Zane</name>
-
-    <location>The United States</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/32714395-zane-kage]]></link>
-
-    <image_url><![CDATA[https://d.gr-assets.com/users/1404410038p3/32714395.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d.gr-assets.com/users/1404410038p2/32714395.jpg]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">27797842</id>
-  <isbn nil="true"/>
-  <isbn13 nil="true"/>
-  <text_reviews_count type="integer">479</text_reviews_count>
-  <title>Us (Him #2)</title>
-  <image_url>https://d.gr-assets.com/books/1454072715m/27797842.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1454072715s/27797842.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/27797842-us</link>
-  <num_pages>328</num_pages>
-  <format>Paperback</format>
-  <edition_information/>
-  <publisher>Rennie Road Books</publisher>
-  <publication_day>8</publication_day>
-  <publication_year>2016</publication_year>
-  <publication_month>3</publication_month>
-  <average_rating>4</average_rating>
-  <ratings_count>1763</ratings_count>
-<authors>
-<author>
-<id>7737308</id>
-<name>Sarina Bowen</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1402702789p5/7737308.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1402702789p2/7737308.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/7737308.Sarina_Bowen]]></link>
-<average_rating>4.13</average_rating>
-<ratings_count>38704</ratings_count>
-<text_reviews_count>5306</text_reviews_count>
-</author>
-</authors>
-  <published>2016</published>
-</book>
-
-
-  <rating>5</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-
-    <shelf name="4-5" exclusive="true" review_shelf_id="1263654230" sortable="true" />
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at>Thu Mar 24 22:02:15 -0700 2016</read_at>
-  <date_added>Wed Mar 23 22:01:53 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 22:02:15 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      4.5 stars
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588933456]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588933456]]></link>
     <owned>0</owned>
 </review>
 <review>
@@ -656,88 +494,6 @@
     <owned>0</owned>
 </review>
 <review>
-  <id>1588933113</id>
-    
-  <user>
-    <id>7897100</id>
-    <name>Katherine</name>
-
-    <location>San Francisco, CA</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/7897100-katherine]]></link>
-
-    <image_url><![CDATA[https://d.gr-assets.com/users/1330051527p3/7897100.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d.gr-assets.com/users/1330051527p2/7897100.jpg]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">49322</id>
-  <isbn>0761123695</isbn>
-  <isbn13>9780761123699</isbn13>
-  <text_reviews_count type="integer">625</text_reviews_count>
-  <title>The Introvert Advantage: How Quiet People Can Thrive in an Extrovert World</title>
-  <image_url>https://d.gr-assets.com/books/1404579585m/49322.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1404579585s/49322.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/49322.The_Introvert_Advantage</link>
-  <num_pages>330</num_pages>
-  <format>Paperback</format>
-  <edition_information/>
-  <publisher>Workman Publishing Company</publisher>
-  <publication_day>1</publication_day>
-  <publication_year>2002</publication_year>
-  <publication_month>2</publication_month>
-  <average_rating>3</average_rating>
-  <ratings_count>11252</ratings_count>
-<authors>
-<author>
-<id>27740</id>
-<name>Marti Olsen Laney</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1304370943p5/27740.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1304370943p2/27740.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/27740.Marti_Olsen_Laney]]></link>
-<average_rating>3.87</average_rating>
-<ratings_count>11983</ratings_count>
-<text_reviews_count>710</text_reviews_count>
-</author>
-</authors>
-  <published>2002</published>
-</book>
-
-
-  <rating>3</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-    <shelf name="popsugar-reading-challenge-2016" exclusive="false" review_shelf_id="1263654160" sortable="false" />
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
-  <date_added>Wed Mar 23 22:01:12 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 22:03:56 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      <![CDATA[3.5 stars<br /><br />Counting toward PopSugar Reading Challenge - A self-improvement book]]>
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588933113]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588933113]]></link>
-    <owned>0</owned>
-</review>
-<review>
   <id>1588932970</id>
     
   <user>
@@ -811,7 +567,7 @@
   <date_updated>Wed Mar 23 22:01:18 -0700 2016</date_updated>
   <read_count></read_count>
   <body>
-      <![CDATA[my review can be found here <a target="_blank" href="https://www.instagram.com/p/BDO0R1IQfqJ/?taken-by=lightand_shade" rel="nofollow">https://www.instagram.com/p/BDO0R1IQf...</a>]]>
+      <![CDATA[The story of a young boy with autism, and his experiences and views of the world, this book is for children but does include strong themes and language, which young readers and their guardians should be aware of. Many have loved this novel, and it has even made it to stage. Unfortunately, I found this book to be offensive and insensitive particularly in relation to people who struggle with both physical and mental disabilities. For this reason, I felt upset and uncomfortable reading it, and must give my first negative review.]]>
   </body>
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588932970]]></url>
@@ -1305,87 +1061,6 @@
     <owned>0</owned>
 </review>
 <review>
-  <id>1588932442</id>
-    
-  <user>
-    <id>51684722</id>
-    <name>Shade</name>
-
-    <location>Melbourne, 07, Australia</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/51684722-shade]]></link>
-
-    <image_url><![CDATA[https://d.gr-assets.com/users/1454646916p3/51684722.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454646916p2/51684722.jpg]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">29245727</id>
-  <isbn nil="true"/>
-  <isbn13 nil="true"/>
-  <text_reviews_count type="integer">1</text_reviews_count>
-  <title>Broken Sky: The Broken Trilogy (Book 1)</title>
-  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/29245727-broken-sky</link>
-  <num_pages></num_pages>
-  <format></format>
-  <edition_information/>
-  <publisher></publisher>
-  <publication_day></publication_day>
-  <publication_year></publication_year>
-  <publication_month></publication_month>
-  <average_rating>4</average_rating>
-  <ratings_count>2</ratings_count>
-<authors>
-<author>
-<id>3465557</id>
-<name>L.A. Weatherly</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1371565685p5/3465557.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1371565685p2/3465557.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/3465557.L_A_Weatherly]]></link>
-<average_rating>3.98</average_rating>
-<ratings_count>44097</ratings_count>
-<text_reviews_count>3290</text_reviews_count>
-</author>
-</authors>
-  <published>2016</published>
-</book>
-
-
-  <rating>4</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at></read_at>
-  <date_added>Wed Mar 23 21:59:55 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 22:00:14 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      <![CDATA[my review can be found here <a target="_blank" href="https://www.instagram.com/p/BDUVoErQfln/?taken-by=lightand_shade" rel="nofollow">https://www.instagram.com/p/BDUVoErQf...</a>]]>
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588932442]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588932442]]></link>
-    <owned>0</owned>
-</review>
-<review>
   <id>1588932421</id>
     
   <user>
@@ -1545,87 +1220,6 @@
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1588932302]]></url>
   <link><![CDATA[https://www.goodreads.com/review/show/1588932302]]></link>
-    <owned>0</owned>
-</review>
-<review>
-  <id>1588932292</id>
-    
-  <user>
-    <id>11915546</id>
-    <name>Stephanie</name>
-
-    <location>Tucson, AZ</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/11915546-stephanie-bensel]]></link>
-
-    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
-    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">17786870</id>
-  <isbn nil="true"/>
-  <isbn13 nil="true"/>
-  <text_reviews_count type="integer">114</text_reviews_count>
-  <title>Always Forever (Sometimes Never, #4)</title>
-  <image_url>https://d.gr-assets.com/books/1405192177m/17786870.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1405192177s/17786870.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/17786870-always-forever</link>
-  <num_pages></num_pages>
-  <format>Kindle Edition</format>
-  <edition_information/>
-  <publisher></publisher>
-  <publication_day>22</publication_day>
-  <publication_year>2014</publication_year>
-  <publication_month>7</publication_month>
-  <average_rating>4</average_rating>
-  <ratings_count>1555</ratings_count>
-<authors>
-<author>
-<id>6431156</id>
-<name>Cheryl McIntyre</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1450303740p5/6431156.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1450303740p2/6431156.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/6431156.Cheryl_McIntyre]]></link>
-<average_rating>4.06</average_rating>
-<ratings_count>53571</ratings_count>
-<text_reviews_count>3810</text_reviews_count>
-</author>
-</authors>
-  <published>2014</published>
-</book>
-
-
-  <rating>4</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at>Tue Mar 22 00:00:00 -0700 2016</started_at>
-  <read_at>Wed Mar 23 00:00:00 -0700 2016</read_at>
-  <date_added>Wed Mar 23 21:59:38 -0700 2016</date_added>
-  <date_updated>Wed Mar 23 22:00:08 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      3.5 Stars
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1588932292]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1588932292]]></link>
     <owned>0</owned>
 </review>
 

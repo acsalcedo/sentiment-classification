@@ -171,87 +171,6 @@
     <owned>0</owned>
 </review>
 <review>
-  <id>1589225053</id>
-    
-  <user>
-    <id>54231564</id>
-    <name>Aman</name>
-
-    <location>Kolkata, 28, India</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/54231564-aman-deep]]></link>
-
-    <image_url><![CDATA[https://d.gr-assets.com/users/1458832608p3/54231564.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458832608p2/54231564.jpg]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">7011879</id>
-  <isbn>8188575658</isbn>
-  <isbn13>9788188575657</isbn13>
-  <text_reviews_count type="integer">196</text_reviews_count>
-  <title>Of Course I Love You...! Till I Find Someone Better...</title>
-  <image_url>https://d.gr-assets.com/books/1274597947m/7011879.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1274597947s/7011879.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/7011879-of-course-i-love-you-till-i-find-someone-better</link>
-  <num_pages>232</num_pages>
-  <format>Paperback</format>
-  <edition_information/>
-  <publisher>Srishti</publisher>
-  <publication_day>1</publication_day>
-  <publication_year>2009</publication_year>
-  <publication_month>1</publication_month>
-  <average_rating>3</average_rating>
-  <ratings_count>5676</ratings_count>
-<authors>
-<author>
-<id>4071652</id>
-<name>Durjoy Datta</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1364639748p5/4071652.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1364639748p2/4071652.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/4071652.Durjoy_Datta]]></link>
-<average_rating>3.49</average_rating>
-<ratings_count>39057</ratings_count>
-<text_reviews_count>1634</text_reviews_count>
-</author>
-</authors>
-  <published>2008</published>
-</book>
-
-
-  <rating>0</rating>
-  <votes>0</votes>
-  <spoiler_flag>true</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at>Thu Mar 24 00:00:00 -0700 2016</started_at>
-  <read_at>Tue Jun 14 00:00:00 -0700 2016</read_at>
-  <date_added>Thu Mar 24 08:16:49 -0700 2016</date_added>
-  <date_updated>Thu Mar 24 08:17:52 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      nothing
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1589225053]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1589225053]]></link>
-    <owned>0</owned>
-</review>
-<review>
   <id>1589225044</id>
     
   <user>
@@ -899,7 +818,6 @@
   <link><![CDATA[https://www.goodreads.com/review/show/1589223815]]></link>
     <owned>0</owned>
 </review>
-
 </reviews>
 
 </GoodreadsResponse>

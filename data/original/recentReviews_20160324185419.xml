@@ -412,87 +412,6 @@
     <owned>0</owned>
 </review>
 <review>
-  <id>1589629521</id>
-    
-  <user>
-    <id>33081151</id>
-    <name>Jessica</name>
-
-    <location>Scarborough, ME</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/33081151-jessica]]></link>
-
-    <image_url><![CDATA[https://d.gr-assets.com/users/1408129168p3/33081151.jpg]]></image_url>
-    <small_image_url><![CDATA[https://d.gr-assets.com/users/1408129168p2/33081151.jpg]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">28535515</id>
-  <isbn nil="true"/>
-  <isbn13 nil="true"/>
-  <text_reviews_count type="integer">50</text_reviews_count>
-  <title>Sweet Love</title>
-  <image_url>https://d.gr-assets.com/books/1452716199m/28535515.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1452716199s/28535515.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/28535515-sweet-love</link>
-  <num_pages></num_pages>
-  <format></format>
-  <edition_information/>
-  <publisher></publisher>
-  <publication_day/>
-  <publication_year>2016</publication_year>
-  <publication_month/>
-  <average_rating>4</average_rating>
-  <ratings_count>85</ratings_count>
-<authors>
-<author>
-<id>7759261</id>
-<name>K.C. Lynn</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1452530432p5/7759261.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1452530432p2/7759261.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/7759261.K_C_Lynn]]></link>
-<average_rating>4.38</average_rating>
-<ratings_count>26732</ratings_count>
-<text_reviews_count>2390</text_reviews_count>
-</author>
-</authors>
-  <published>2016</published>
-</book>
-
-
-  <rating>5</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at></started_at>
-  <read_at>Tue Mar 01 00:00:00 -0800 2016</read_at>
-  <date_added>Thu Mar 24 16:23:00 -0700 2016</date_added>
-  <date_updated>Thu Mar 24 16:23:19 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      <![CDATA[4.5 Stars<br />Sweet Love is the first book in the Sweet Series, which is a continuation from Men of Honor series - just fast forwarded a few years. Fans of the series are going to love it! It is basically the emotional continuation of an unfinished chapter in Sawyer and Grace’s incredible fairytale ro...]]>
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1589629521]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1589629521]]></link>
-    <owned>0</owned>
-</review>
-<review>
   <id>1589629343</id>
     
   <user>
@@ -652,87 +571,6 @@
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1589629312]]></url>
   <link><![CDATA[https://www.goodreads.com/review/show/1589629312]]></link>
-    <owned>0</owned>
-</review>
-<review>
-  <id>1589629308</id>
-    
-  <user>
-    <id>50387227</id>
-    <name>Bella</name>
-
-    <location>Mountain View, CA</location>
-
-    <link><![CDATA[https://www.goodreads.com/user/show/50387227-bella-sheldon]]></link>
-
-    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
-    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
-
-  </user>
-
-    <book>
-  <id type="integer">19504964</id>
-  <isbn>1943772320</isbn>
-  <isbn13>9781943772322</isbn13>
-  <text_reviews_count type="integer">557</text_reviews_count>
-  <title>Sweep in Peace (Innkeeper Chronicles, #2)</title>
-  <image_url>https://d.gr-assets.com/books/1428084310m/19504964.jpg</image_url>
-  <small_image_url>https://d.gr-assets.com/books/1428084310s/19504964.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/19504964-sweep-in-peace</link>
-  <num_pages>237</num_pages>
-  <format>ebook</format>
-  <edition_information/>
-  <publisher></publisher>
-  <publication_day>13</publication_day>
-  <publication_year>2015</publication_year>
-  <publication_month>11</publication_month>
-  <average_rating>4</average_rating>
-  <ratings_count>4497</ratings_count>
-<authors>
-<author>
-<id>21748</id>
-<name>Ilona Andrews</name>
-<role></role>
-<image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1219436898p5/21748.jpg]]>
-</image_url>
-<small_image_url nophoto='false'>
-<![CDATA[https://d.gr-assets.com/authors/1219436898p2/21748.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/21748.Ilona_Andrews]]></link>
-<average_rating>4.26</average_rating>
-<ratings_count>564412</ratings_count>
-<text_reviews_count>36700</text_reviews_count>
-</author>
-</authors>
-  <published>2015</published>
-</book>
-
-
-  <rating>0</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-  <shelf name="read" exclusive="true" />
-
-</shelves>
-  <recommended_for></recommended_for>
-  <recommended_by></recommended_by>
-  <started_at>Wed Mar 23 00:00:00 -0700 2016</started_at>
-  <read_at>Thu Mar 24 16:23:45 -0700 2016</read_at>
-  <date_added>Thu Mar 24 16:22:46 -0700 2016</date_added>
-  <date_updated>Thu Mar 24 16:23:45 -0700 2016</date_updated>
-  <read_count></read_count>
-  <body>
-      Entertaining
-  </body>
-  <comments_count></comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1589629308]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1589629308]]></link>
     <owned>0</owned>
 </review>
 <review>
@@ -971,7 +809,7 @@
   <date_updated>Thu Mar 24 16:22:13 -0700 2016</date_updated>
   <read_count></read_count>
   <body>
-      <![CDATA[MY MOST FAVOURITE NOVEL.<br />Ini novel keren banget sumpah. Cinta. pertemanan, drama, sekolah, konflik semuanya campur jadi satu. 4 thumbs for Elizabeth Eulberg ]]>
+      <![CDATA[MY MOST FAVOURITE NOVEL.<br />4 thumbs for Elizabeth Eulberg ]]>
   </body>
   <comments_count></comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/1589628686]]></url>

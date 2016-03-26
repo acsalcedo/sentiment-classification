@@ -1,16 +1,10 @@
-require("tm")
-require("plyr")
-require("class")
-
-
-#Option so R doesn't convert string to factors.
+library("tm")
 options(stringAsFactors = FALSE)
 
 reviews <- c("positive.data", "negative.data")
 path = "../data/divided/"
 
-processedData <- function(dataSet) {
-
+preProcessData <- function(dataSet) {
     data <- tm_map(dataSet, removePunctuation)
     data <- tm_map(data, removeNumbers)
     data <- tm_map(data, stemDocument)
@@ -20,60 +14,47 @@ processedData <- function(dataSet) {
     return (data)
 }
 
-
-
 readFile <- function(path,fileName) {
-
     inputFile <- file(paste(path,fileName,sep=""), open="r")
-    numReviews <- 87
-    dataList <- list()
 
+    dataList <- list()
     while(length(currentLine <- readLines(inputFile, n=1, warn=FALSE)) > 0) {
         dataList <- c(dataList, c=currentLine)
-        numReviews <- numReviews - 1
     }
     close(inputFile)
     return (dataList)
 }
 
-
-
-getCleanedData <- function(reviews, path) {
-    data <- Corpus(VectorSource(readFile(path,reviews)))
-    cleanedData <- processedData(data)
+getPreProcessedData <- function(reviews, path) {
+    data        <- Corpus(VectorSource(readFile(path,reviews)))
+    cleanedData <- preProcessData(data)
     return(cleanedData)
 }
 
-cleanedData <- lapply(reviews,getCleanedData, path = path)
- 
+cleanedData = lapply(reviews,getPreProcessedData, path = path)
+files = c("outputPositive.csv","outputNegative.csv","all.csv")
 
+addHeader <- function(fileName) {
+    cat(c("review","class"),file = paste(path,fileName,sep=""), fill=TRUE, sep=",")
+}
 
-columnNames <- c("review","class")
+lapply(files,addHeader)
 
-posLst <- cleanedData[[1]]$content
-positiveFile = "../data/divided/outputPositive.csv"
-negativeFile = "../data/divided/outputNegative.csv"
-allFile = "../data/divided/all.csv"
-cat(c("review","class"),file = positiveFile, fill=TRUE, sep=",")
-cat(c("review","class"),file = negativeFile, fill=TRUE, sep=",")
-cat(c("review","class"),file = allFile, fill=TRUE, sep=",")
-for (review in posLst) {
-    elem <- gsub("<.*?>", "", review)
-    content <- paste((gsub("[\r\n\t]", "", elem)),"positive",sep=",")
-    if (nchar(review$content) > 1) { 
-        cat(content, file=positiveFile,fill=TRUE, append=TRUE, sep=",") 
-        cat(content, file=allFile,fill=TRUE, append=TRUE, sep=",") 
+addContent <- function(fileName,contentList,classify) {
 
+    for (review in contentList) {
+        elem    <- gsub("<.*?>", "", review)
+        content <- paste((gsub("[\r\n\t]", "", elem)),classify,sep=",")
+        if (nchar(review$content) > 1) { 
+            cat(content, file=fileName,fill=TRUE, append=TRUE, sep=",")
+        }
     }
 }
 
-negLst <- cleanedData[[2]]$content
-processedNeg <- list()
-for (review in negLst) {
-     elem <- gsub("<.*?>", "", review)
-    content <- paste((gsub("[\r\n\t]", "", elem)),"negative",sep=",")
-    if (nchar(review$content) > 1) {  
-        cat(content, file=negativeFile, fill=TRUE, append=TRUE, sep=",") 
-        cat(content, file=allFile,fill=TRUE, append=TRUE, sep=",") 
-    }
-}
+posList <- cleanedData[[1]]$content
+negList <- cleanedData[[2]]$content
+
+addContent(paste(path,files[1],sep=""),posList,"positive")
+addContent(paste(path,files[2],sep=""),negList,"negative")
+addContent(paste(path,files[3],sep=""),posList,"positive")
+addContent(paste(path,files[3],sep=""),negList,"negative")

@@ -5,8 +5,8 @@ data <- read.csv(file="../data/divided/all.csv")
 
 # Sorts data in random order so not all 
 # positive and negative reviews are together.
-sortedData <-  data[sample(nrow(data)),]
-dataSize <- nrow(sortedData)
+sortedData <- data[sample(nrow(data)),]
+dataSize   <- nrow(sortedData)
 
 corpus <- Corpus(VectorSource(sortedData$review[1:dataSize]))
 matrix <- DocumentTermMatrix(corpus)
@@ -14,8 +14,8 @@ matrix <- DocumentTermMatrix(corpus)
 sparse <- as.compressed.matrix(matrix)
 
 # Training set which contains 70% of the data.
-trainIndex <- ceiling(0.7*dataSize)
-trainSet <- sparse[1:trainIndex,]
+trainIndex    <- ceiling(0.7*dataSize)
+trainSet      <- sparse[1:trainIndex,]
 trainSetClass <- sortedData$class[1:trainIndex]
 
 # Test set which has the leftover 30%.
@@ -54,20 +54,23 @@ getConfusionMatrix <- function(results) {
         i <- i + 1
     }
     result <- matrix(c(posAsPos,posAsNeg,negAsPos,negAsNeg),ncol=2,byrow=TRUE)
+    
     colnames(result) <- c("positive","negative")
     rownames(result) <- c("positive","negative")
+    
     result <- as.table(result)
     return (result)
 }
 
 confusionMatrix <- getConfusionMatrix(classifedTestSet)
-truePositive <- confusionMatrix[1]
+
+truePositive  <- confusionMatrix[1]
 falsePositive <- confusionMatrix[2]
-trueNegative <- confusionMatrix[4]
+trueNegative  <- confusionMatrix[4]
 falseNegative <- confusionMatrix[3]
 
-accuracy <- (sum(diag(confusionMatrix)) / nrow(testSet)) * 100
-precision <- (truePositive / (truePositive + falsePositive))
+accuracy    <- (sum(diag(confusionMatrix)) / nrow(testSet)) * 100
+precision   <- (truePositive / (truePositive + falsePositive))
 sensitivity <- (truePositive / (truePositive + falseNegative))
 
 cat("\nConfusion Matrix\n")

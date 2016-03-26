@@ -5,8 +5,8 @@ library(rpart)
 dataPath = "../data/divided/"
 positivePath <- paste(dataPath, "outputPositive.csv", sep="")
 negativePath <- paste(dataPath, "outputNegative.csv", sep="")
-positiveData <- read.table(positivePath, header=TRUE,sep=",")
-negativeData <- read.table(negativePath, header=TRUE,sep=",")
+positiveData <- read.table(positivePath, header=TRUE, sep=",")
+negativeData <- read.table(negativePath, header=TRUE, sep=",")
 
 # Determines the training and testing sets for the positive reviews.
 posIndex     <- 1:nrow(positiveData)

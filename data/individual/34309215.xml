@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>34309215</id>
+    
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">347143</id>
+  <isbn>0307356361</isbn>
+  <isbn13>9780307356369</isbn13>
+  <text_reviews_count type="integer">1908</text_reviews_count>
+  <title>The Abstinence Teacher</title>
+  <image_url>https://d.gr-assets.com/books/1320459201m/347143.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320459201s/347143.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/347143.The_Abstinence_Teacher</link>
+  <num_pages>368</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House Canada</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.23</average_rating>
+  <ratings_count>14160</ratings_count>
+  <description>Stonewood Heights is the perfect place to raise kids. It's got the proverbial good schools, solid values and a healthy real estate market. It's the kind of place where parents are involved in their children's lives, where no opportunity for enrichment goes unexplored.&lt;br&gt;&lt;br&gt;Ruth Ramsey is the human sexuality teacher at the local high school. She believes that "pleasure is good, shame is bad, and knowledge is power." Ruth's younger daughter's soccer coach is Tim Mason, a former stoner and rocker whose response to hitting rock bottom was to reach out and be saved. Tim belongs to The Tabernacle, an evangelical Christian church that doesn't approve of Ruth's style of teaching. And Ruth in turn doesn't applaud The Tabernacle's mission to take its message outside its doors. Adversaries in a small-town culture war, Ruth and Tim instinctively mistrust each other. But when a controversy on the soccer field pushes the two of them to actually talk to each other, they are forced to take each other at something other than face value.&lt;br&gt;&lt;br&gt;The Abstinence Teacher exposes the powerful emotions that run beneath the surface of modern American family life and explores the complex spiritual and sexual lives of ordinary people. Elegantly written, it is characterized by the distinctive mix of satire and compassion that have animated Perrotta's previous novels.</description>
+<authors>
+<author>
+<id>15907</id>
+<name>Tom Perrotta</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204163131p5/15907.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1204163131p2/15907.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15907.Tom_Perrotta]]></link>
+<average_rating>3.47</average_rating>
+<ratings_count>89827</ratings_count>
+<text_reviews_count>10509</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="dof-didnotfinish" exclusive="true" review_shelf_id="23187892" sortable="false" />
+    <shelf name="total-crap" exclusive="false" review_shelf_id="23187895" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 01 14:26:57 -0700 2008</date_added>
+  <date_updated>Sat Dec 05 08:46:52 -0800 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Absolute rot. Even though I agree with the heavy-handed theme I couldn't finish it.]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>55908034</id>
+  <body><![CDATA[Someone gave me this book. Thanks for the warning.]]></body>
+  
+  <user>
+    <id>4027738</id>
+    <name>Joanne</name>
+
+    <location>Claremont, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4027738-joanne]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1279561333p3/4027738.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1279561333p2/4027738.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Aug 09 20:21:49 -0700 2012</created_at>
+  <updated_at>Thu Aug 09 20:21:49 -0700 2012</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/34309215]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/34309215]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

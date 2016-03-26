@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>64059313</id>
+    
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2403804</id>
+  <isbn>1597801305</isbn>
+  <isbn13>9781597801300</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <title>After the Downfall</title>
+  <image_url>https://d.gr-assets.com/books/1391343322m/2403804.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1391343322s/2403804.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2403804.After_the_Downfall</link>
+  <num_pages>324</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Night Shade Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.30</average_rating>
+  <ratings_count>198</ratings_count>
+  <description>From Harry Turtledove, the master of alternate history, comes After the Downfall, a novel of magic, epic warfare, and desperate choices.&lt;br&gt;1945: Russian troops have entered Berlin, and are engaged in a violent orgy of robbery, rape, and revenge. Wehrmacht officer Hasso Pemsel, a career soldier on the losing end of the greatest war in history, flees from a sniper's bullet, finding himself hurled into a mysterious, fantastic world of wizards, dragons, and unicorns. There he allies himself with the blond-haired, blue-eyed Lenelli, and Velona, their goddess in human form, offering them his knowledge of warfare and weaponry in their genocidal struggle against a race of diminutive, swarthy barbarians known as Grenye. But soon, the savagery of the Lenelli begins to eat at Hasso Pemsel's soul, causing him to question everything he has long believed about race and Reich, right and wrong, Ubermenschen and Untermenschen. Hasso Pemsel will learn the difference between following orders... and following his conscience.&lt;br&gt;&lt;br&gt;Skyhorse Publishing, under our Night Shade and Talos imprints, is proud to publish a broad range of titles for readers interested in science fiction (space opera, time travel, hard SF, alien invasion, near-future dystopia), fantasy (grimdark, sword and sorcery, contemporary urban fantasy, steampunk, alternative history), and horror (zombies, vampires, and the occult and supernatural), and much more. While not every title we publish becomes a &lt;em&gt;New York Times&lt;/em&gt; bestseller, a national bestseller, or a Hugo or Nebula award-winner, we are committed to publishing quality books from a diverse group of authors.</description>
+<authors>
+<author>
+<id>29479</id>
+<name>Harry Turtledove</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1333453762p5/29479.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1333453762p2/29479.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29479.Harry_Turtledove]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>107159</ratings_count>
+<text_reviews_count>5042</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">1176599</id>
+          <page type="integer">255</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Aug 17 19:22:38 -0700 2009</created_at>
+          <updated_at type="datetime">Sat Sep 07 16:37:52 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">2410943</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d592c625ee653d78cc62419537661db4</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[This might be the worst book I've ever read, only three hundred more pages to go....]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">1169042</id>
+          <page type="integer">210</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Aug 16 10:42:51 -0700 2009</created_at>
+          <updated_at type="datetime">Sat Sep 07 16:30:44 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">2410943</work_id>
+          <note_uri>kca://note/amzn1.grok.note.99fe685be5cc2a2f3a4880c03d9f3df4</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[one would think a book showing a nazi riding a unicorn on the cover would be good.]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>1</rating>
+  <votes>38</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="sf-fantasy-and-other-dorky-shit" exclusive="false" review_shelf_id="56202722" sortable="false" />
+    <shelf name="crap" exclusive="false" review_shelf_id="56202713" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed May 05 00:00:00 -0700 2010</read_at>
+  <date_added>Sat Jul 18 23:09:31 -0700 2009</date_added>
+  <date_updated>Wed May 05 19:03:20 -0700 2010</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[1. I intentionally read some real crap. This book is worse than those books. This might be the worst book I have ever read. <br /><br />2. On the cover is a Nazi riding a Unicorn. A motherfucking Nazi is riding a fucking UNICORN!! That is fucking badass. That is the kind of shit that should just write itself...]]>
+  </body>
+  <comments_count>67</comments_count>
+    <comments start="1" end="50" total="67">
+        <comment>
+  <id>7584832</id>
+  <body><![CDATA[I don't know how I missed this one, first in hardcover and then in for two weeks sitting on the shelf faced out right there in the open. In case the picture here doesn't do this justice, that is a Nazi SS guy riding a unicorn. If I hadn't already made my book purchases for the week I'd have this shit already, instead I'll be waiting till next week. <br><br>The rating for the book is a 2.2, which seems really low. I'm not sure how to explain that low rating. How can a book with Nazi's on unicorns be bad? ]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 18 23:12:45 -0700 2009</created_at>
+  <updated_at>Sat Jul 18 23:12:45 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7585652</id>
+  <body><![CDATA[maybe it was inspired by the tattoo]]></body>
+  
+  <created_at>Sun Jul 19 01:45:32 -0700 2009</created_at>
+  <updated_at>Sun Jul 19 01:45:32 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7586489</id>
+  <body><![CDATA[that nazi must be a virgin.]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jul 19 05:41:56 -0700 2009</created_at>
+  <updated_at>Sun Jul 19 05:41:56 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7587187</id>
+  <body><![CDATA[Oh, Harry. I don't think so this time around. *yawns*]]></body>
+  
+  <user>
+    <id>1144499</id>
+    <name>Félix</name>
+
+    <location>Omaha, NE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1144499-f-lix]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454122245p3/1144499.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454122245p2/1144499.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jul 19 07:19:27 -0700 2009</created_at>
+  <updated_at>Sun Jul 19 07:19:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8554956</id>
+  <body><![CDATA[Why is one hand gloved and not the other?]]></body>
+  
+  <user>
+    <id>1719442</id>
+    <name>Jen</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1719442-jen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451874923p3/1719442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451874923p2/1719442.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 19 08:52:49 -0700 2009</created_at>
+  <updated_at>Wed Aug 19 08:52:49 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8572946</id>
+  <body><![CDATA[all the better to stroke his horn, my pretty...]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 19 18:52:17 -0700 2009</created_at>
+  <updated_at>Wed Aug 19 18:52:17 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8575276</id>
+  <body><![CDATA[I haven't gotten to that part yet. Maybe he is actually Michael Jackson. The guy on the cover is not the guy in the book, at least by the uniform he seems to be wearing, that looks like an officer or SA, and the guy in the book is just a common solider. <br><br>This is still possibly the worst book i've ever read. ]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 19 20:14:18 -0700 2009</created_at>
+  <updated_at>Wed Aug 19 20:14:18 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8576282</id>
+  <body><![CDATA[Cover image + "How can a book with Nazi's on unicorns be bad?" = hilarious!]]></body>
+  
+  <user>
+    <id>1447864</id>
+    <name>Joshua Nomen-Mutatio</name>
+
+    <location><![CDATA[Seoul, South Korea, Korea, Republic of]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1447864-joshua-nomen-mutatio]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363779897p3/1447864.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363779897p2/1447864.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 19 21:02:14 -0700 2009</created_at>
+  <updated_at>Wed Aug 19 21:02:14 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8576449</id>
+  <body><![CDATA[<em>Greg wrote: "I haven't gotten to that part yet. Maybe he is actually Michael Jackson. The guy on the cover is not the guy in the book, at least by the uniform he seems to be wearing, that looks like an office..."</em><br><br>But Greg, how can you know until you try that bomb I suggested- The Appearing?<br><br>And karen knows best. I will go with the horn stroking. Yikes.]]></body>
+  
+  <user>
+    <id>1719442</id>
+    <name>Jen</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1719442-jen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451874923p3/1719442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451874923p2/1719442.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 19 21:12:18 -0700 2009</created_at>
+  <updated_at>Wed Aug 19 21:12:18 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8576786</id>
+  <body><![CDATA[You are right Jen, I still need to read that one. <br><br>Karen, do you think cover might be a Smiths reference? ]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 19 21:29:42 -0700 2009</created_at>
+  <updated_at>Wed Aug 19 21:29:42 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8577481</id>
+  <body><![CDATA[are you guys smiths fans?<br><br>oh boy. we really do have a lot to talk about. <br>i flew to nyc earlier this year to see the mozzer at the bowery ballroom. <br>no shit.<br><br>for this i won't shit on the floor of the b &amp; n bathrooms. ]]></body>
+  
+  <user>
+    <id>193310</id>
+    <name>brian</name>
+
+    <location>Los Angeles, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/193310-brian]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1353195524p3/193310.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1353195524p2/193310.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 19 22:24:55 -0700 2009</created_at>
+  <updated_at>Wed Aug 19 22:24:55 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8578725</id>
+  <body><![CDATA[dont we both have multiple shelves named after smiths lines?? brian, im going to think you dont spend hours examining my books and where i place them. they have actually been playing morrissey at the store lately. and i have been dance-shelving. around your poop.]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Aug 20 03:31:51 -0700 2009</created_at>
+  <updated_at>Thu Aug 20 03:31:51 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9724743</id>
+  <body><![CDATA[Looking forward to your review.]]></body>
+  
+  <user>
+    <id>52631</id>
+    <name>Rose</name>
+
+    <location><![CDATA[Nottingham, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/52631-rose]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1252923543p3/52631.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1252923543p2/52631.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 30 15:51:41 -0700 2009</created_at>
+  <updated_at>Wed Sep 30 15:51:41 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9810519</id>
+  <body><![CDATA[One day I'm going to return to this book, and I will finish it. For now though it's on the back-burner.]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 03 21:57:27 -0700 2009</created_at>
+  <updated_at>Sat Oct 03 21:57:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>16344408</id>
+  <body><![CDATA[boff hooray!!<br><br>my mac and cheese looks awesome but i have like an extra gallon of cheese sauce]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 05 19:12:10 -0700 2010</created_at>
+  <updated_at>Wed May 05 19:12:10 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16344599</id>
+  <body><![CDATA[you could pour it over this book and then eat it! I think covered with cheese it would taste better than it read as a book.]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 05 19:16:08 -0700 2010</created_at>
+  <updated_at>Wed May 05 19:16:08 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16346391</id>
+  <body><![CDATA[this book is cheesy enough, i think.<br><br>how does this review not have a million votes yet??<br><br>no one is paying attention to either of us today.<br>snif.]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 05 20:01:09 -0700 2010</created_at>
+  <updated_at>Wed May 05 20:01:09 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16349115</id>
+  <body><![CDATA[I voted. I love that Greg reads shit.]]></body>
+  
+  <user>
+    <id>2251009</id>
+    <name>Esteban</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2251009-esteban-del-mal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1432140681p3/2251009.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1432140681p2/2251009.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 05 22:33:49 -0700 2010</created_at>
+  <updated_at>Wed May 05 22:33:49 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16356110</id>
+  <body><![CDATA[UNICORN RIPOFF???? Appalling.]]></body>
+  
+  <user>
+    <id>61519</id>
+    <name>Aerin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/61519-aerin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1379988230p3/61519.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1379988230p2/61519.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 08:42:48 -0700 2010</created_at>
+  <updated_at>Thu May 06 08:42:48 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16358713</id>
+  <body><![CDATA[This is the best book review anyone has ever written.]]></body>
+  
+  <user>
+    <id>3144945</id>
+    <name>Alex</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3144945-alex]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303883046p3/3144945.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303883046p2/3144945.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 10:46:27 -0700 2010</created_at>
+  <updated_at>Thu May 06 10:46:27 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16359923</id>
+  <body><![CDATA[I read this the other day but didn't have the chance to give it the response it so richly deserves.<br><br>You are a good reviewer, Gregory Stahl, but a book like this is pretty much review-proof. Merely discovering a book cover with a Nazi riding a unicorn written by a man whose last name is Turtledove would pretty much ensure my purchase if I came across it perusing the books at, say, the B&amp;N flagship store in Union Square. Or anywhere else. <br><br>The cover design <em>is</em> the book. Who requires anything more really? Once someone has gone to all this trouble of putting together a book about Nazis, unicorns, and whoopee-making, it's just over. The deal's done. Here's my credit card, Harry Turtledove. Charge me whatever you think is fair. This is the Valhalla of crappy fantasy revisionist-WWII literature, and I can not even pretend to fight it. I submit to you! Uncle!<br><br>Turtledove's one mistake? Making this sumbitch six hundred pages. Those of us who might be elated at the thought (finally!!!) of a Nazi-unicorn novel don't have the attention span for such longwindedness, even in the service of describing hot wet fascist lovemaking. My attention span is so short that I've forgotten what I am talking about now and where I even am, so I'll just hit 'post' and call it a day.]]></body>
+  
+  <user>
+    <id>3073544</id>
+    <name>David</name>
+
+    <location>South Bend, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3073544-david]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1374509066p3/3073544.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1374509066p2/3073544.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 11:39:10 -0700 2010</created_at>
+  <updated_at>Thu May 06 11:39:10 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16360297</id>
+  <body><![CDATA[I disagree, David; I think making it 600 pages is a stroke of genius. Starting from your premise that you either automatically buy a book featuring a Nazi riding a unicorn or you don't - and if you don't, what the hell is wrong with you? - the only problem Turtledove has is that he can't actually write, right? So what's the best way to make sure that people who buy books featuring Nazis riding unicorns aren't disappointed by what's inside? Make it 600 pages, and no one will ever read it.<br><br>Except Greg, because he's a sucker.]]></body>
+  
+  <user>
+    <id>3144945</id>
+    <name>Alex</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3144945-alex]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303883046p3/3144945.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303883046p2/3144945.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 11:53:41 -0700 2010</created_at>
+  <updated_at>Thu May 06 11:53:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16360325</id>
+  <body><![CDATA[I will say though, now that I've thought about it for 30 seconds, I do think I could personally write a pretty decent book about Nazis riding unicorns. And it would only be like ten pages, which is way less.]]></body>
+  
+  <user>
+    <id>3144945</id>
+    <name>Alex</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3144945-alex]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303883046p3/3144945.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303883046p2/3144945.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 11:54:44 -0700 2010</created_at>
+  <updated_at>Thu May 06 11:54:44 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16360510</id>
+  <body><![CDATA[Good point, Alex, but I would have gone with a thousand pages. Six hundred pages precariously sidles up to the range of attempted readability.]]></body>
+  
+  <user>
+    <id>3073544</id>
+    <name>David</name>
+
+    <location>South Bend, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3073544-david]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1374509066p3/3073544.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1374509066p2/3073544.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 12:02:51 -0700 2010</created_at>
+  <updated_at>Thu May 06 12:02:51 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16360585</id>
+  <body><![CDATA[At least, it does for Greg.]]></body>
+  
+  <user>
+    <id>3144945</id>
+    <name>Alex</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3144945-alex]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303883046p3/3144945.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303883046p2/3144945.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 12:06:19 -0700 2010</created_at>
+  <updated_at>Thu May 06 12:06:19 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16366298</id>
+  <body><![CDATA[i don't want to read this, but i will read alex's ten page version.<br><br>and i really love unicorns.]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 14:56:40 -0700 2010</created_at>
+  <updated_at>Thu May 06 14:56:40 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16367297</id>
+  <body><![CDATA[Alex, you must write your ten page version and post it for us to see. Quickly.]]></body>
+  
+  <user>
+    <id>1020084</id>
+    <name>JSou</name>
+
+    <location>Wickenburg, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1020084-jsou]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357661877p3/1020084.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357661877p2/1020084.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 15:16:45 -0700 2010</created_at>
+  <updated_at>Thu May 06 15:16:45 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16367942</id>
+  <body><![CDATA[Alex can write his ten-page version, and I'll write my thousand-page version. <br><br>You guys can decide which one you prefer. (I will also be writing an eight-hundred-page reader's guide to the thousand-page text, along with an expanded unabridged version and a deluxe three-hundred page Making of the Nazi Unicorn book. Yes, start getting excited now so it won't all hit you at once.)]]></body>
+  
+  <user>
+    <id>3073544</id>
+    <name>David</name>
+
+    <location>South Bend, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3073544-david]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1374509066p3/3073544.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1374509066p2/3073544.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 15:31:52 -0700 2010</created_at>
+  <updated_at>Thu May 06 15:31:52 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16378031</id>
+  <body><![CDATA[can i draw the cover, or is that part of the fun for you?]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 19:08:31 -0700 2010</created_at>
+  <updated_at>Thu May 06 19:08:31 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16378455</id>
+  <body><![CDATA[I read these comments at work, and was thinking I could write a better Nazi/Unicorn book too. I don't want to give away too many of my own improvements I'd make, but I think more Nazis, more Unicorns, and hotter German/Fascist sex scenes involving shit would earn me a Hugo award.]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 19:18:24 -0700 2010</created_at>
+  <updated_at>Thu May 06 19:18:24 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16380227</id>
+  <body><![CDATA[Writing contest: nigh. I don't want to give my secret weapons away either, though. *coughSpaceVikings*.]]></body>
+  
+  <user>
+    <id>3144945</id>
+    <name>Alex</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3144945-alex]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303883046p3/3144945.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303883046p2/3144945.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 20:16:05 -0700 2010</created_at>
+  <updated_at>Thu May 06 20:16:05 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16380443</id>
+  <body><![CDATA[I was remembering that this book apparently had a unicorn horn dildo in it:<br><a target="_blank" href="https://www.goodreads.com/book/show/6396168-orcs">http://www.goodreads.com/book/show/63...</a><br><br>A quick google image search though uncovers this gem:<br><br><img src="https://i.gr-assets.com/images/S/photo.goodreads.com/hostedimages/1379741521i/74269.jpg" class="gr-hostedUserImg"><br><br>Obama, Nazis &amp; Unicorns!]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 20:26:03 -0700 2010</created_at>
+  <updated_at>Thu May 06 20:26:03 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16380479</id>
+  <body><![CDATA[<img src="https://i.gr-assets.com/images/S/photo.goodreads.com/hostedimages/1379741522i/74270.jpg" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 20:27:23 -0700 2010</created_at>
+  <updated_at>Thu May 06 20:27:23 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16380639</id>
+  <body><![CDATA[That is Obama, right? I have no idea what that means. Is he...sodomizing a unicorn?<br><br>I mean, not that I wouldn't.]]></body>
+  
+  <user>
+    <id>3144945</id>
+    <name>Alex</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3144945-alex]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303883046p3/3144945.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303883046p2/3144945.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 20:36:04 -0700 2010</created_at>
+  <updated_at>Thu May 06 20:36:04 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16380805</id>
+  <body><![CDATA[I'm not sure what he is doing to the unicorn. At first I thought he was wearing the unicorn's head as a bad ass codpiece. In the second picture it's pretty clear that naked Obama and the unicorn are saving the economy. This could have happened before the first picture though, and the first picture could actually be Obama's victory march.]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 20:44:20 -0700 2010</created_at>
+  <updated_at>Thu May 06 20:44:20 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16380923</id>
+  <body><![CDATA[are these tattoos??<br>honk.]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 20:49:27 -0700 2010</created_at>
+  <updated_at>Thu May 06 20:49:27 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16381001</id>
+  <body><![CDATA[These are paintings. Ahhrrrt!]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 20:52:22 -0700 2010</created_at>
+  <updated_at>Thu May 06 20:52:22 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16381306</id>
+  <body><![CDATA[But the horn changes! The first horn is representative of...oh. But then, in the second, the horse becomes a unicorn thanks to Obama's helpful gesture, and now the horn is silver, polished, sharp and able to inflict pain on bear's nostrils.]]></body>
+  
+  <user>
+    <id>1719442</id>
+    <name>Jen</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1719442-jen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451874923p3/1719442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451874923p2/1719442.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 21:06:20 -0700 2010</created_at>
+  <updated_at>Thu May 06 21:06:20 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16381445</id>
+  <body><![CDATA[Good observation, Jen! I hadn't noticed the difference in the horns. Maybe they are different unicorns? Does Obama have to be naked in order to ride one?]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 06 21:13:20 -0700 2010</created_at>
+  <updated_at>Thu May 06 21:13:20 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16388757</id>
+  <body><![CDATA[You should always be naked while riding a unicorn.<br><br>You guys have to write at least a chapter of the revised Nazi-Unicorn book. A paragraph, even.<br><br>Pretty please?]]></body>
+  
+  <user>
+    <id>1020084</id>
+    <name>JSou</name>
+
+    <location>Wickenburg, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1020084-jsou]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357661877p3/1020084.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357661877p2/1020084.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri May 07 09:00:52 -0700 2010</created_at>
+  <updated_at>Fri May 07 09:00:52 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16421247</id>
+  <body><![CDATA[People at the vanguard of any new artistic movement are always subject to sneering criticism from provincial simpletons like Greg.]]></body>
+  
+  <user>
+    <id>3538533</id>
+    <name>Erzsebet</name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3538533-erzsebet]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1312143019p3/3538533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1312143019p2/3538533.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 08 09:08:47 -0700 2010</created_at>
+  <updated_at>Sat May 08 09:08:47 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16421314</id>
+  <body><![CDATA[Are you referring to the book or the paintings?]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 08 09:11:13 -0700 2010</created_at>
+  <updated_at>Sat May 08 09:11:13 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16425462</id>
+  <body><![CDATA["Book" is a woefully inadequate term for what Turtledove has produced, but that was what i was referring to. I apologize for the confusion.]]></body>
+  
+  <user>
+    <id>3538533</id>
+    <name>Erzsebet</name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3538533-erzsebet]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1312143019p3/3538533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1312143019p2/3538533.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 08 11:35:20 -0700 2010</created_at>
+  <updated_at>Sat May 08 11:35:20 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16426272</id>
+  <body><![CDATA[If only I hadn't already promised this 'book' to someone else, I would gladly send it to you. But I'm sure you would want a hardcover version.<br><br>I am a woefully mistaken elitist fuckwad who can't distinguish between true art and the crap I normally read.]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 08 12:05:51 -0700 2010</created_at>
+  <updated_at>Sat May 08 12:05:51 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16427874</id>
+  <body><![CDATA[At least we can agree that the paintings are both trenchant and timely.]]></body>
+  
+  <user>
+    <id>3538533</id>
+    <name>Erzsebet</name>
+
+    <location>Albany, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3538533-erzsebet]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1312143019p3/3538533.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1312143019p2/3538533.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 08 12:53:59 -0700 2010</created_at>
+  <updated_at>Sat May 08 12:53:59 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16998787</id>
+  <body><![CDATA[wait! why were you giving me this book again???]]></body>
+  
+  <user>
+    <id>53674</id>
+    <name>The Crimson Fucker</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/53674-the-crimson-fucker]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1410097231p3/53674.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1410097231p2/53674.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue May 25 10:18:44 -0700 2010</created_at>
+  <updated_at>Tue May 25 10:18:44 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17010381</id>
+  <body><![CDATA[Because I asked, and you said yes. C'mon Alfonso, you know you want to read it!!]]></body>
+  
+  <user>
+    <id>42508</id>
+    <name>Greg</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/42508-greg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1368721201p3/42508.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1368721201p2/42508.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue May 25 16:02:13 -0700 2010</created_at>
+  <updated_at>Tue May 25 16:02:13 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17094484</id>
+  <body><![CDATA[So this morning the moderator for the Bookish club started a thread for 100-word stories, and I thought of my abandoned promise here. <a href="https://www.goodreads.com/topic/show/341872-writing">Here is my Pulitzer-worthy attempt.</a>]]></body>
+  
+  <user>
+    <id>3144945</id>
+    <name>Alex</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3144945-alex]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1303883046p3/3144945.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1303883046p2/3144945.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri May 28 07:37:59 -0700 2010</created_at>
+  <updated_at>Fri May 28 07:37:59 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17114467</id>
+  <body><![CDATA[I have to buy this book now.]]></body>
+  
+  <user>
+    <id>2169723</id>
+    <name>Jayme</name>
+
+    <location>Richmond, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2169723-jayme]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1414864466p3/2169723.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1414864466p2/2169723.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri May 28 19:20:17 -0700 2010</created_at>
+  <updated_at>Fri May 28 19:20:17 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17116371</id>
+  <body><![CDATA[what a marvelous story!!<br><br>hats off!]]></body>
+  
+  <user>
+    <id>45618</id>
+    <name>karen</name>
+
+    <location>Woodside, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/45618-karen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453564550p3/45618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453564550p2/45618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri May 28 20:04:59 -0700 2010</created_at>
+  <updated_at>Fri May 28 20:04:59 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/64059313]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/64059313]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

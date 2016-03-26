@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>38067634</id>
+    
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">659517</id>
+  <isbn>0738210420</isbn>
+  <isbn13>9780738210421</isbn13>
+  <text_reviews_count type="integer">30</text_reviews_count>
+  <title>Locker Room Diaries: The Naked Truth about Women, Body Image, and Re-imagining the "Perfect" Body</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/659517.Locker_Room_Diaries</link>
+  <num_pages>264</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Da Capo Press</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.07</average_rating>
+  <ratings_count>148</ratings_count>
+  <description>I wish my thighs were smaller. "If only I could lose ten pounds." A wake-up call for any woman who has engaged in the "if only" wishing game, &lt;em&gt;Locker Room Diaries&lt;/em&gt; uses the unique lens of the locker room to reveal what, exactly, goes into "shaping" not just a woman's body but her body image. The locker room can be a wondrous retreat, a place to toss aside the worries of the day, but it is also where our flaws become most apparent-and where most of us can't help but wonder how we "measure up." Often dressed in no more than a towel, Leslie Goldman spent five years talking with women of all shapes and sizes about their body image, from taut twenty-somethings to heavyset seniors. Why is it, she asks, that almost no one seems satisfied with her physique? From compulsive workouts to daily dates with the scale, from bikini waxes to body fat measurements, American women are swept up in a constant quest for the "perfect" body. Thankfully, more than one woman reveals how she halted her cycle of self-loathing and learned to like her body &lt;em&gt;as is&lt;/em&gt;. Blending expert opinion with wonderfully intimate, often laugh-outloud, confidences, &lt;em&gt;Locker Room Diaries&lt;/em&gt; will inspire anyone who knows the highs of exercise to leave the lows of self-esteem behind-and, most especially, once and for all, to step off that scale!</description>
+<authors>
+<author>
+<id>13490026</id>
+<name>Leslie  Goldman</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13490026.Leslie_Goldman]]></link>
+<average_rating>3.07</average_rating>
+<ratings_count>148</ratings_count>
+<text_reviews_count>38</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="poop" exclusive="false" review_shelf_id="17512032" sortable="false" />
+    <shelf name="womens-interest" exclusive="false" review_shelf_id="17477986" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Nov 19 00:00:00 -0800 2008</read_at>
+  <date_added>Tue Nov 18 13:12:08 -0800 2008</date_added>
+  <date_updated>Wed Nov 19 08:49:55 -0800 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Waste of my time. Thanks for the news flash that a large percentage of women (big and small) hate their bodies.<br /><br />I bumped her from 1 star to 2 because she had a great interview with a 91 year old yoga instructor. That was it.<br /><br /><br />]]>
+  </body>
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>2625580</id>
+  <body><![CDATA[AND, many men think their size of that "certain part of the male anatomy" (so cleverly disguised in all those goddamn herbal penis - ahem - "part" enhancement advertisements) is inadequate. Talk about stating the obvious and well known. Don't worry, I will certainly avoid this book. However, you did put it on the "poop" bookshelf. You tricked me, woman! You should re-label it for bad books. Remember, "poop" in my world is a positive, complimentary term! :P]]></body>
+  
+  <user>
+    <id>85638</id>
+    <name>Mattomic</name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/85638-mattomic]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1222191633p3/85638.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1222191633p2/85638.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 20 13:24:02 -0800 2008</created_at>
+  <updated_at>Thu Nov 20 13:24:02 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2628707</id>
+  <body><![CDATA[Sorry about the confusion on the Poop shelf, bro!<br>(How ya been, stranger?)<br><br>I talked to a plastic surgeon today. I think I got into the wrong field. Dude is making bank off of our insecurities.<br><br>Men DO worry about the penis thing... and the baldness thing. I love the baldness thing...]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 20 16:55:40 -0800 2008</created_at>
+  <updated_at>Thu Nov 20 16:55:40 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2630041</id>
+  <body><![CDATA[Bald head, hairy penis. It's just a bad deal all around for guys. ]]></body>
+  
+  <user>
+    <id>85638</id>
+    <name>Mattomic</name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/85638-mattomic]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1222191633p3/85638.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1222191633p2/85638.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 20 18:17:43 -0800 2008</created_at>
+  <updated_at>Thu Nov 20 18:17:43 -0800 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/38067634]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/38067634]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

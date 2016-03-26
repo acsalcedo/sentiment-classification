@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>9627988</id>
+    
+  <user>
+    <id>576123</id>
+    <name>Debbi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576123-debbi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193486403p3/576123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193486403p2/576123.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">180739</id>
+  <isbn>1591450748</isbn>
+  <isbn13>9781591450740</isbn13>
+  <text_reviews_count type="integer">501</text_reviews_count>
+  <title>The Yada Yada Prayer Group (The Yada Yada Prayer Group #1)</title>
+  <image_url>https://d.gr-assets.com/books/1424209435m/180739.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1424209435s/180739.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/180739.The_Yada_Yada_Prayer_Group</link>
+  <num_pages>385</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Thomas Nelson</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>5785</ratings_count>
+  <description>What do an ex-con, a former drug addict, a real estate broker, a college student, and a married mother of two have in common?&lt;br&gt;&lt;br&gt;Nothing, or so I thought. Who would have imagined that God would make a prayer group as mismatched as ours the closest of friends? I almost didn't even go to the Chicago Women's Conference--after all, being thrown together with five hundred strangers wasn't exactly my "comfort zone." But something happened that weekend to make us realize we had to hang together, and the "Yada Yada Prayer Group" was born! When I faced the biggest crisis of my life, God used my newfound Sisters to show me what it means to be just a sinner saved by grace.</description>
+<authors>
+<author>
+<id>6976</id>
+<name>Neta Jackson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245852053p5/6976.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1245852053p2/6976.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6976.Neta_Jackson]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>33435</ratings_count>
+<text_reviews_count>2144</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="waste-of-time" exclusive="false" review_shelf_id="104231308" sortable="false" />
+    <shelf name="book-club" exclusive="false" review_shelf_id="3557583" sortable="false" />
+    <shelf name="started-but-didn-t-finish" exclusive="false" review_shelf_id="4850861" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 01 00:00:00 -0800 2008</read_at>
+  <date_added>Tue Nov 27 17:51:32 -0800 2007</date_added>
+  <date_updated>Fri Jan 18 03:38:56 -0800 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Its not very often I don't finish a fictional book, but this one I couldn't stand. It a was boring &amp; predictable book full of Christian clichés and stereotypes. I would file this under Christian twaddle. I couldn't finish it.<br /><br />]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/9627988]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/9627988]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

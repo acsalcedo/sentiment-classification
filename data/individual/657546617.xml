@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>657546617</id>
+    
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7740152</id>
+  <isbn>0385739141</isbn>
+  <isbn13>9780385739146</isbn13>
+  <text_reviews_count type="integer">6207</text_reviews_count>
+  <title>Torment (Fallen, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1362339749m/7740152.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1362339749s/7740152.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7740152-torment</link>
+  <num_pages>452</num_pages>
+  <format>Hardcover</format>
+  <edition_information>1st Edition</edition_information>
+  <publisher>Delacorte Press</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>162264</ratings_count>
+  <description>How many lives do you need to live before you find someone worth dying for?&lt;br&gt;&lt;br&gt;In the aftermath of what happened at Sword &amp;amp; Cross, Luce has been hidden away by her cursed angelic boyfriend, Daniel, in a new school filled with Nephilim, the offspring of fallen angels and humans. Daniel promises she will be safe here, protected from those who would kill her. At the school Luce discovers what the Shadows that have followed her all her life mean – and how to manipulate them to see into her other lives. Yet the more Luce learns about herself, the more she realizes that the past is her only key to unlocking her future . . . and that Daniel hasn't told her everything. What if his version of the past isn't actually the way things happened . . . what if Luce was really meant to be with someone else?&lt;br&gt;&lt;br&gt;The second novel in the addictive FALLEN series...where love never dies.</description>
+<authors>
+<author>
+<id>2905297</id>
+<name>Lauren Kate</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1296679724p5/2905297.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1296679724p2/2905297.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2905297.Lauren_Kate]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>779617</ratings_count>
+<text_reviews_count>38731</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">29741868</id>
+          <page type="integer">18</page>
+          <chapter type="integer"></chapter>
+          <comments_count>20</comments_count>
+          <created_at type="datetime">Wed Jul 03 05:01:02 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 08:06:23 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">74</ratings_count>
+          <percent type="integer">3</percent>
+          <work_id type="integer">7380161</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9417adbf749433e1082c975aedbde297</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Luce, when you think you might be dreaming you're supposed to pinch YOURSELF! Not the other person. Fucking idiot...]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">29739501</id>
+          <page type="integer">0</page>
+          <chapter type="integer"></chapter>
+          <comments_count>46</comments_count>
+          <created_at type="datetime">Wed Jul 03 03:14:19 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 08:02:15 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">31</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">7380161</work_id>
+          <note_uri>kca://note/amzn1.grok.note.cda2e49d15f525c7a52d5b551d4de5b1</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[This is what I have been brought to. Note to future self: Never let people choose your reading material!]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">116239309</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Aug 09 05:26:05 -0700 2013</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>8</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">74900874</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Jul 03 03:13:08 -0700 2013</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>115</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="just-plain-bad" exclusive="false" review_shelf_id="676424330" sortable="false" />
+    <shelf name="kat-s-book-reviews" exclusive="false" review_shelf_id="676424348" sortable="false" />
+    <shelf name="kat-s-rants" exclusive="false" review_shelf_id="676424340" sortable="false" />
+    <shelf name="too-painful-to-finish" exclusive="false" review_shelf_id="676424430" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 03 00:00:00 -0700 2013</started_at>
+  <read_at>Fri Aug 09 00:00:00 -0700 2013</read_at>
+  <date_added>Wed Jul 03 03:13:08 -0700 2013</date_added>
+  <date_updated>Sat Apr 26 20:32:00 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book is fail.<br /><br />If it were a city it would be Failinburg. If it were a WWII battle, it would be Failingrad. If this book were a movie, it would be Million Dollar Failby. How much did this book fail thee? Let me count the ways. Oh no wait, I couldn't be bothered. I ain't bovvered. If this book w...]]>
+  </body>
+  <comments_count>48</comments_count>
+    <comments start="1" end="48" total="48">
+        <comment>
+  <id>77619008</id>
+  <body><![CDATA[You gave it 4 stars!]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jul 03 13:56:57 -0700 2013</created_at>
+  <updated_at>Wed Jul 03 13:56:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77635691</id>
+  <body><![CDATA[This is DNF for me. I barely got through the 1st one, the second is no better if not worse.]]></body>
+  
+  <user>
+    <id>10600726</id>
+    <name>Elena (Brown Eyed)</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10600726-elena-brown-eyed]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1390779998p3/10600726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1390779998p2/10600726.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jul 03 18:13:21 -0700 2013</created_at>
+  <updated_at>Wed Jul 03 18:13:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>77812288</id>
+  <body><![CDATA[LOL oh trust me, she is. I can't believe i ever enjoyed this series. Luce is a moron, Daniel is an asshole. the whole series is just awful! and this was the worst in the series for me.]]></body>
+  
+  <user>
+    <id>4949463</id>
+    <name>Mai</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4949463-mai]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447449804p3/4949463.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447449804p2/4949463.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 06 11:57:47 -0700 2013</created_at>
+  <updated_at>Sat Jul 06 11:57:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78409487</id>
+  <body><![CDATA[I stopped at this book, the first one peaked an interest with the whole fallen angel concept, but the way in which she started to develop that, meh, I just simply couldn't. But what I did want to recommend to you was Christine Zolendz and her Mad World Series. It's a humorous, gripping and fun read, I'm seriously obsessed with it. Lets say I'm spreading a cosmic joy of sorts!]]></body>
+  
+  <user>
+    <id>14127823</id>
+    <name>Emily</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14127823-emily]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1412505102p3/14127823.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1412505102p2/14127823.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jul 14 13:52:43 -0700 2013</created_at>
+  <updated_at>Sun Jul 14 13:52:43 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78860424</id>
+  <body><![CDATA[I stopped at the first book too, I just couldn't brig myself to like the main character, Lucy was it? And don't get me started on the angel whose name I've forgotten.]]></body>
+  
+  <user>
+    <id>7369872</id>
+    <name>Fariha</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7369872-fariha]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436457477p3/7369872.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436457477p2/7369872.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 20 14:00:33 -0700 2013</created_at>
+  <updated_at>Sat Jul 20 14:00:33 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79004837</id>
+  <body><![CDATA[WHY R U STILL READING THIS THEN????]]></body>
+  
+  <user>
+    <id>13431830</id>
+    <name>Lana</name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13431830-lana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 22 13:19:18 -0700 2013</created_at>
+  <updated_at>Mon Jul 22 13:19:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79034265</id>
+  <body><![CDATA[How r u liking Fallen? I Loved it! Do you! And I love your taste in books btw ;)]]></body>
+  
+  <user>
+    <id>22440558</id>
+    <name>Mary</name>
+
+    <location>Ottawa, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22440558-mary-anne]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 22 19:50:23 -0700 2013</created_at>
+  <updated_at>Mon Jul 22 19:50:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79038018</id>
+  <body><![CDATA[Yeah, sorry Marry. I hated Fallen. I'm only reading this because a friend is making me for a blog feature we have. But thanks!]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 22 20:41:31 -0700 2013</created_at>
+  <updated_at>Mon Jul 22 20:41:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79039382</id>
+  <body><![CDATA[Quite appropriate book title I'm thinking.]]></body>
+  
+  <user>
+    <id>11177071</id>
+    <name>Kelly (Diva Booknerd)</name>
+
+    <location>Melbourne, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11177071-kelly-diva-booknerd]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456611138p3/11177071.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456611138p2/11177071.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 22 21:03:53 -0700 2013</created_at>
+  <updated_at>Mon Jul 22 21:03:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79047905</id>
+  <body><![CDATA[Kelly, you read my mind! I was just going to say that.]]></body>
+  
+  <user>
+    <id>7559710</id>
+    <name>Readallnight</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7559710-readallnight]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1349154792p3/7559710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1349154792p2/7559710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jul 23 00:41:48 -0700 2013</created_at>
+  <updated_at>Tue Jul 23 00:41:48 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79145230</id>
+  <body><![CDATA[Why would Steph torment you like that? Yes, I went there.]]></body>
+  
+  <user>
+    <id>4548226</id>
+    <name>Jennifer at BookShelfery</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4548226-jennifer-at-bookshelfery]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1424124389p3/4548226.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1424124389p2/4548226.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jul 24 08:38:45 -0700 2013</created_at>
+  <updated_at>Wed Jul 24 08:38:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79872691</id>
+  <body><![CDATA[The first book was good... the second passable... the others.. oh so boring...]]></body>
+  
+  <user>
+    <id>4948929</id>
+    <name>Vikk</name>
+
+    <location>Buenos Aires, Argentina</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4948929-vikk]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1370815860p3/4948929.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1370815860p2/4948929.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Aug 02 17:36:42 -0700 2013</created_at>
+  <updated_at>Fri Aug 02 17:36:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79957186</id>
+  <body><![CDATA[The first book was a bait. :(]]></body>
+  
+  <user>
+    <id>9116818</id>
+    <name>Johanna</name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9116818-johanna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1337527415p3/9116818.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1337527415p2/9116818.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 03 23:07:02 -0700 2013</created_at>
+  <updated_at>Sat Aug 03 23:07:02 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80020694</id>
+  <body><![CDATA[FINISH IT.]]></body>
+  
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 04 21:14:27 -0700 2013</created_at>
+  <updated_at>Sun Aug 04 21:14:27 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80022196</id>
+  <body><![CDATA[No.]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 04 21:38:21 -0700 2013</created_at>
+  <updated_at>Sun Aug 04 21:38:21 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80026085</id>
+  <body><![CDATA[Hahaha! Steph, just remember...payback is a u know what! I'm sure Kat will return the 'favor'!]]></body>
+  
+  <user>
+    <id>11494588</id>
+    <name>Tandie</name>
+
+    <location>Rock Springs, WY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11494588-tandie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450327909p3/11494588.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450327909p2/11494588.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 04 23:06:09 -0700 2013</created_at>
+  <updated_at>Sun Aug 04 23:06:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80029729</id>
+  <body><![CDATA[Is it worth reading? I read the first one and it was OK but I'm not sure if I should follow with the sequel.]]></body>
+  
+  <user>
+    <id>7015013</id>
+    <name>Penny</name>
+
+    <location>Athens, 35, Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7015013-penny-raspenny]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1415319039p3/7015013.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1415319039p2/7015013.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 05 02:16:00 -0700 2013</created_at>
+  <updated_at>Mon Aug 05 02:16:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80029870</id>
+  <body><![CDATA[No. No it's not.]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 05 02:23:11 -0700 2013</created_at>
+  <updated_at>Mon Aug 05 02:23:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80030273</id>
+  <body><![CDATA[I'll keep it in mind! Thanks!]]></body>
+  
+  <user>
+    <id>7015013</id>
+    <name>Penny</name>
+
+    <location>Athens, 35, Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7015013-penny-raspenny]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1415319039p3/7015013.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1415319039p2/7015013.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 05 02:45:26 -0700 2013</created_at>
+  <updated_at>Mon Aug 05 02:45:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80032991</id>
+  <body><![CDATA[I've read all of them (or at least attempted to) they are definitely worth the pain when you tear up the pages you've read as motivation.]]></body>
+  
+  <user>
+    <id>7559710</id>
+    <name>Readallnight</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7559710-readallnight]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1349154792p3/7559710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1349154792p2/7559710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 05 04:38:11 -0700 2013</created_at>
+  <updated_at>Mon Aug 05 04:38:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80041903</id>
+  <body><![CDATA[<em>Tandie wrote: "Hahaha! Steph, just remember...payback is a u know what! I'm sure Kat will return the 'favor'!"</em><br><br>She's trying to convince me to read <a href="https://www.goodreads.com/book/show/15513156.Of_Triton__Of_Poseidon___2_" title="Of Triton (Of Poseidon, #2) by Anna Banks">Of Triton</a> and <a href="https://www.goodreads.com/book/show/12995284.Dreamless__Starcrossed___2_" title="Dreamless (Starcrossed, #2) by Josephine Angelini">Dreamless</a>. Torture!]]></body>
+  
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 05 08:02:40 -0700 2013</created_at>
+  <updated_at>Mon Aug 05 08:02:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>80135928</id>
+  <body><![CDATA[<em>Steph wrote: "Tandie wrote: "Hahaha! Steph, just remember...payback is a u know what! I'm sure Kat will return the 'favor'!"<br><br>She's trying to convince me to read Of Triton and Dreamless. Torture!"</em><br>You know that they say: tit for tat.]]></body>
+  
+  <user>
+    <id>4548226</id>
+    <name>Jennifer at BookShelfery</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4548226-jennifer-at-bookshelfery]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1424124389p3/4548226.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1424124389p2/4548226.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 06 12:12:51 -0700 2013</created_at>
+  <updated_at>Tue Aug 06 12:12:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87238304</id>
+  <body><![CDATA[Out of curiosity did you end up finishing this or not?]]></body>
+  
+  <user>
+    <id>14163509</id>
+    <name>Therealbadkitty</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14163509-therealbadkitty]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1405822025p3/14163509.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1405822025p2/14163509.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 21 10:48:12 -0800 2013</created_at>
+  <updated_at>Thu Nov 21 10:48:12 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87284610</id>
+  <body><![CDATA[Nope!]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 22 06:01:25 -0800 2013</created_at>
+  <updated_at>Fri Nov 22 06:01:25 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87332703</id>
+  <body><![CDATA[I kept reading the series hoping, freakin praying, that the book would get better. Sadly, it was to no avail. Guess when it comes to second chances, and thirds and fourths this book just disappoints]]></body>
+  
+  <user>
+    <id>22158928</id>
+    <name>Mireille</name>
+
+    <location>Santa Paula, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22158928-mireille]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1388699795p3/22158928.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1388699795p2/22158928.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Nov 23 00:18:47 -0800 2013</created_at>
+  <updated_at>Sat Nov 23 00:18:47 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>87948941</id>
+  <body><![CDATA[<em>Readallnight wrote: "I've read all of them (or at least attempted to) they are definitely worth the pain when you tear up the pages you've read as motivation."</em><br><br>Hahahaha! That sounds like an awesome plan! I tried reading Fallen, but Luce was just begging for a face punch. Needless to say, I couldn't bring myself to continue the torture and finish it. Now If I'm inspired, I may just buy a physical second hand copy to follow your plan and finally finish it.]]></body>
+  
+  <user>
+    <id>15519770</id>
+    <name>Ingrid</name>
+
+    <location>Nova Friburgo, RJ, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15519770-ingrid]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1388115324p3/15519770.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1388115324p2/15519770.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Dec 03 08:52:22 -0800 2013</created_at>
+  <updated_at>Tue Dec 03 08:52:22 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>97254114</id>
+  <body><![CDATA[I just finished it and I couldn't agree more. To think I kept telling myself that it was going to get better...]]></body>
+  
+  <user>
+    <id>6767471</id>
+    <name>Olivia</name>
+
+    <location>Downingtown, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6767471-olivia-mccloskey]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455329655p3/6767471.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455329655p2/6767471.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 23 20:06:48 -0700 2014</created_at>
+  <updated_at>Wed Apr 23 20:06:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97254255</id>
+  <body><![CDATA[Given that the first book had more suck than the vacuum of outer space, book two fell into the "I'd rather watch paint dry" category. Your hilarious review affirms the validity of my choice.]]></body>
+  
+  <user>
+    <id>5112326</id>
+    <name>P.</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5112326-p-kirby]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442534274p3/5112326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442534274p2/5112326.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 23 20:09:12 -0700 2014</created_at>
+  <updated_at>Wed Apr 23 20:09:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97255256</id>
+  <body><![CDATA[LOL yeah, couldn't keep my paws off the beautiful cover is all!]]></body>
+  
+  <user>
+    <id>3378835</id>
+    <name>Kathryn </name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3378835-kathryn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453437433p3/3378835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453437433p2/3378835.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 23 20:26:58 -0700 2014</created_at>
+  <updated_at>Wed Apr 23 20:26:58 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97261753</id>
+  <body><![CDATA[Hilarious review! I like that Failinski part. LOL!<br><br>I have been tempted to buy and read these series because it's in the bargain deal in my local bookstore for long. Well, now I know why.]]></body>
+  
+  <user>
+    <id>246517</id>
+    <name>Sandra (Page by Page)</name>
+
+    <location>Bandung, West Java, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/246517-sandra-page-by-page]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1413134380p3/246517.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1413134380p2/246517.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 23 23:09:11 -0700 2014</created_at>
+  <updated_at>Wed Apr 23 23:09:11 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97263347</id>
+  <body><![CDATA[This a what I call a review which sticks to the point :))]]></body>
+  
+  <user>
+    <id>16981538</id>
+    <name>Oana</name>
+
+    <location>Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16981538-oana]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458689402p3/16981538.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458689402p2/16981538.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Apr 24 00:18:52 -0700 2014</created_at>
+  <updated_at>Thu Apr 24 00:18:52 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97263921</id>
+  <body><![CDATA[now that I think about it, I only like the series because of the covers. The third book was way awful and I tried reading the fourth and I didn't get it.]]></body>
+  
+  <user>
+    <id>4247818</id>
+    <name>Syahira</name>
+
+    <location>Petaling Jaya, Malaysia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4247818-syahira-sharif]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450440150p3/4247818.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450440150p2/4247818.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Apr 24 00:49:17 -0700 2014</created_at>
+  <updated_at>Thu Apr 24 00:49:17 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97267560</id>
+  <body><![CDATA[This is just too funny for words. I love it!]]></body>
+  
+  <user>
+    <id>3564852</id>
+    <name>Ariana</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3564852-ariana]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451393828p3/3564852.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451393828p2/3564852.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Apr 24 03:50:30 -0700 2014</created_at>
+  <updated_at>Thu Apr 24 03:50:30 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97354851</id>
+  <body><![CDATA[well, this was an amazing review, haha. oh, and by the way, this book will probably be a movie because they already started filming for the first one...]]></body>
+  
+  <user>
+    <id>17979936</id>
+    <name>Bianca</name>
+
+    <location>Arad, Romania</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17979936-bianca]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1392582543p3/17979936.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1392582543p2/17979936.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Apr 25 11:48:48 -0700 2014</created_at>
+  <updated_at>Fri Apr 25 11:48:48 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97432552</id>
+  <body><![CDATA[Haha nice review]]></body>
+  
+  <user>
+    <id>22455838</id>
+    <name>Matt</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22455838-matt]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1404220304p3/22455838.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1404220304p2/22455838.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Apr 26 16:59:35 -0700 2014</created_at>
+  <updated_at>Sat Apr 26 16:59:35 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97445533</id>
+  <body><![CDATA[You basically summed up exactly my thoughts on this book series.]]></body>
+  
+  <user>
+    <id>7466851</id>
+    <name>Chelsea</name>
+
+    <location>Victoria, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7466851-chelsea]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1398569641p3/7466851.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1398569641p2/7466851.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Apr 26 20:27:31 -0700 2014</created_at>
+  <updated_at>Sat Apr 26 20:27:31 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97454488</id>
+  <body><![CDATA[This made my day. Failinski...hahaha you're too awesome.]]></body>
+  
+  <user>
+    <id>21022007</id>
+    <name>Caj</name>
+
+    <location>Santa Barbara, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21022007-caj]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1376441320p3/21022007.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1376441320p2/21022007.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Apr 26 23:51:22 -0700 2014</created_at>
+  <updated_at>Sat Apr 26 23:51:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97523068</id>
+  <body><![CDATA[ROFL @ the review!<br>(Didn't read the book though. The first one was one too many.)]]></body>
+  
+  <user>
+    <id>5530854</id>
+    <name>Zarah</name>
+
+    <location><![CDATA[living side by side with my loyal polar bears, Sweden]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5530854-zarah]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1338933262p3/5530854.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1338933262p2/5530854.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Apr 28 01:25:21 -0700 2014</created_at>
+  <updated_at>Mon Apr 28 01:25:21 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97523094</id>
+  <body><![CDATA[Thanks! And I know. This was so painful for me.]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Apr 28 01:26:34 -0700 2014</created_at>
+  <updated_at>Mon Apr 28 01:26:34 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97591384</id>
+  <body><![CDATA[You poor, poor soul. I didn't last through the first book:/]]></body>
+  
+  <user>
+    <id>15787409</id>
+    <name>Trisha</name>
+
+    <location>Singapore, 00, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15787409-trisha-call-me-tris]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1387554445p3/15787409.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1387554445p2/15787409.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 29 03:17:30 -0700 2014</created_at>
+  <updated_at>Tue Apr 29 03:17:30 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97733940</id>
+  <body><![CDATA[agree!]]></body>
+  
+  <user>
+    <id>16731810</id>
+    <name>Bryee</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16731810-bryee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1403110151p3/16731810.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1403110151p2/16731810.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 01 08:35:22 -0700 2014</created_at>
+  <updated_at>Thu May 01 08:35:22 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97736872</id>
+  <body><![CDATA[I read these books a long time ago.. I have to say I liked them.. It was in my earlier reviewer days, but I did enjoy the story. There were a few things I didn't like, and really didn't care for the novella, but I honestly liked the series..]]></body>
+  
+  <user>
+    <id>4190077</id>
+    <name>Stephanie</name>
+
+    <location>Kevil, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4190077-stephanie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1291238844p3/4190077.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1291238844p2/4190077.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 01 09:26:53 -0700 2014</created_at>
+  <updated_at>Thu May 01 09:26:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>97760471</id>
+  <body><![CDATA[That's nice.]]></body>
+  
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 01 16:20:12 -0700 2014</created_at>
+  <updated_at>Thu May 01 16:20:12 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98064241</id>
+  <body><![CDATA[<em>Emily wrote: "I stopped at this book, the first one peaked an interest . . . <em></em><br><br>Piqued your interest. I am not usually the pedantic spelling police, I honestly thought you would know. :)</em>]]></body>
+  
+  <user>
+    <id>8734858</id>
+    <name>John</name>
+
+    <location>Bagdad, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8734858-john-bonner]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1334216730p3/8734858.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1334216730p2/8734858.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 07 00:01:41 -0700 2014</created_at>
+  <updated_at>Wed May 07 00:01:41 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99103452</id>
+  <body><![CDATA[Omfg! Yes! Totally agree! Its so sad that when I start a series I just can not helped but to finish it because if I don't it will haunt me FOREVER!]]></body>
+  
+  <user>
+    <id>25867549</id>
+    <name>Jaylah</name>
+
+    <location>Redford, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25867549-jaylah]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439516283p3/25867549.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439516283p2/25867549.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 25 06:51:13 -0700 2014</created_at>
+  <updated_at>Sun May 25 06:51:13 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>99103476</id>
+  <body><![CDATA[But I will have to start getting used to it because this series.....]]></body>
+  
+  <user>
+    <id>25867549</id>
+    <name>Jaylah</name>
+
+    <location>Redford, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25867549-jaylah]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439516283p3/25867549.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439516283p2/25867549.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 25 06:51:46 -0700 2014</created_at>
+  <updated_at>Sun May 25 06:51:46 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>106956920</id>
+  <body><![CDATA[The first one had absolutely no supernatural elements until for about 99% of the book then we jump into a battle of cam and Daniel that we have no idea what's going on and then in book 2 they're working together! What was true while point of his temper tantrum battle. And I don't know what your religion is but I'm a Christian (ya ya I know I'm reading fallen angels) anyway torment reminded me of the book of judges so much! How many times can a couple-fight, leave, come back, makeout. Fight, leave, come back makeout. In one book like really. And Luce is soooooo whiny and self pitying and Daniels sexist and controlling! *exhales* I'll stop my rant but I couldn't agree more with you THIS BOOK (and series) SUCKS. I was only attracted to the pretty covers]]></body>
+  
+  <user>
+    <id>30835833</id>
+    <name>Laia</name>
+
+    <location>Pittsburgh, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30835833-laia-reed]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1398387264p3/30835833.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1398387264p2/30835833.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Sep 29 19:00:02 -0700 2014</created_at>
+  <updated_at>Mon Sep 29 19:00:02 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>113838001</id>
+  <body><![CDATA[I read it at sixteen and it was a choice between this and math class. I still mourn all those equations I could've solved.]]></body>
+  
+  <user>
+    <id>36356260</id>
+    <name>Aya</name>
+
+    <location>Athens, 35, Greece</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36356260-aya]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 01 09:23:05 -0800 2015</created_at>
+  <updated_at>Sun Feb 01 09:23:05 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/657546617]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/657546617]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

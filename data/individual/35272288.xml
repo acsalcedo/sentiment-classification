@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>35272288</id>
+    
+  <user>
+    <id>238748</id>
+    <name>Meghan</name>
+
+    <location>Framingham, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/238748-meghan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2657</id>
+  <isbn>0061120081</isbn>
+  <isbn13>9780061120084</isbn13>
+  <text_reviews_count type="integer">50414</text_reviews_count>
+  <title>To Kill a Mockingbird</title>
+  <image_url>https://d.gr-assets.com/books/1361975680m/2657.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361975680s/2657.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information>50th Anniversary</edition_information>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2773489</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, &lt;em&gt;To Kill A Mockingbird&lt;/em&gt; became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br&gt;&lt;br&gt;Compassionate, dramatic, and deeply moving, &lt;em&gt;To Kill A Mockingbird&lt;/em&gt; takes readers to the roots of human behavior—to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>2881481</ratings_count>
+<text_reviews_count>80368</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1213561857</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jan 29 11:52:51 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>606</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 1993</read_at>
+  <date_added>Tue Oct 14 08:01:56 -0700 2008</date_added>
+  <date_updated>Sat Jan 11 14:03:10 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[If I could give this no stars, I would. This is possibly one of my least favorite books in the world, one that I would happily take off of shelves and stow in dark corners where no one would ever have to read it again.<br /><br />I think that To Kill A Mockingbird has such a prominent place in (American) cul...]]>
+  </body>
+  <comments_count>445</comments_count>
+    <comments start="1" end="50" total="445">
+        <comment>
+  <id>2179980</id>
+  <body><![CDATA[Having not yet read TKAM, I still find this a great review. I was wondering why it took me so long to get through the first five pages of the darn book, and perhaps it's the lack of any meaningful characterization. Also, I love Huck Finn. ]]></body>
+  
+  <user>
+    <id>127289</id>
+    <name>Emily</name>
+
+    <location>College Station, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/127289-emily]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1225085296p3/127289.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1225085296p2/127289.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 15 06:07:03 -0700 2008</created_at>
+  <updated_at>Wed Oct 15 06:07:03 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3612832</id>
+  <body><![CDATA[This was a required book in high school. People who didn't seem to be readers enjoyed reading it, so I thought that was a good thing.<br><br>The ending did nothing for me though and I came away nonplussed. The lack of depth I hadn't considered as a reason, but like many school-assigned books and most "literature" of that era, I saw the attempted cultural statement in it and probably didn't expect much.]]></body>
+  
+  <user>
+    <id>1951528</id>
+    <name>Jalek</name>
+
+    <location>Woodland, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1951528-jalek]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jan 24 16:49:56 -0800 2009</created_at>
+  <updated_at>Sat Jan 24 16:49:56 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3714353</id>
+  <body><![CDATA[i like the story TKAM.. but im not contented and i cnt explain why ... it seems that theres something missing, ... ]]></body>
+  
+  <user>
+    <id>1301753</id>
+    <name>Faith</name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1301753-faith]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1242902159p3/1301753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1242902159p2/1301753.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Jan 29 19:56:44 -0800 2009</created_at>
+  <updated_at>Thu Jan 29 19:56:44 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4107092</id>
+  <body><![CDATA[WELL, I LIKED IT.]]></body>
+  
+  <user>
+    <id>1906763</id>
+    <name>Alyssa</name>
+
+    <location>Omaha, NE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1906763-alyssa-calloway]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1401384039p3/1906763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1401384039p2/1906763.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Feb 20 15:25:04 -0800 2009</created_at>
+  <updated_at>Fri Feb 20 15:25:04 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4130800</id>
+  <body><![CDATA[Clearly well-thought out and fair points, in my opinion. I enjoyed the book overall; the writing style has a certain charm that many other writers just never seem to capture for me. This was a re-read for me (after the requisite high school run-through).<br><br>I don't, however, agree that there is no maturation or change in the children's world. It's true that in some ways there is a lack of depth. We see Jem begin to have, or attempt to have, a better understanding of the world as he knows it, but his struggles are often internal and unclear as seen through the eyes of his little sister. Perhaps if the book had been longer...I do think it's a shame that Harper Lee never published another book. It would have been nice to have something to compare with TKAM.]]></body>
+  
+  <user>
+    <id>902629</id>
+    <name>Helen</name>
+
+    <location>Blacksburg, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/902629-helen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1403054443p3/902629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1403054443p2/902629.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Feb 21 20:12:16 -0800 2009</created_at>
+  <updated_at>Sat Feb 21 20:12:16 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4828331</id>
+  <body><![CDATA[Oh my GOD, YES!!! This book is awful! And I can't believe how many people consider it one of their all time faves. I hated it when I had to read it in AP English and was looked down on for not "appreciating great american literature." I vomit on the soap sculptures of the siblings. <br>]]></body>
+  
+  <user>
+    <id>2161558</id>
+    <name>Lira</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2161558-lira]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Mar 28 16:08:17 -0700 2009</created_at>
+  <updated_at>Sat Mar 28 16:08:17 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5707118</id>
+  <body><![CDATA[If you read this book as a high schooler and hated it... grow up and read it again. There are reasons it is so loved that may not be apparent to the less mature reader. If you think it lacked depth, you just don't get it.]]></body>
+  
+  <user>
+    <id>1221125</id>
+    <name>Barbara</name>
+
+    <location>Gilbert, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1221125-barbara]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1361255160p3/1221125.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1361255160p2/1221125.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 09 05:06:33 -0700 2009</created_at>
+  <updated_at>Sat May 09 05:06:33 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5822052</id>
+  <body><![CDATA[I love the book, but have to say you did a great review, which made me think a lot. Thank you. ]]></body>
+  
+  <user>
+    <id>1590672</id>
+    <name>Sandy</name>
+
+    <location>Saline, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1590672-sandy-d]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439770349p3/1590672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439770349p2/1590672.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 14 14:16:29 -0700 2009</created_at>
+  <updated_at>Thu May 14 14:16:29 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5968380</id>
+  <body><![CDATA[Thanks for the review. Appreciate your viewpoint. It is still my favorite. I pick it up and read it every 2 or 3 years.]]></body>
+  
+  <user>
+    <id>2422488</id>
+    <name>Charles</name>
+
+    <location>Monroe, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2422488-charles-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1266003449p3/2422488.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1266003449p2/2422488.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 20 19:48:28 -0700 2009</created_at>
+  <updated_at>Wed May 20 19:48:28 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6491212</id>
+  <body><![CDATA[Maybe you have to be of a certain age (I am 70) and born and reared in the South (I did/do) to appreciate the dignity and courage of Atticus Finch! This is what strikes me most about the story. ]]></body>
+  
+  <user>
+    <id>2355635</id>
+    <name>Neadtoread</name>
+
+    <location>Yorktown, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2355635-neadtoread]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jun 12 09:49:26 -0700 2009</created_at>
+  <updated_at>Fri Jun 12 09:49:26 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6531019</id>
+  <body><![CDATA[THANK YOU, Meghan! I've been looking for a review like this FOREVER!! EVERYONE I know that's read this book says it was amazing, along with almost EVERY review on here. I thought I'd never find someone who hated it like I did. Thank God for this review!! I agree with EVERYTHING you said. <br><br>Please check out my review, you'll like it: <a target="_blank" href="https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird">http://www.goodreads.com/book/show/26...</a>]]></body>
+  
+  <user>
+    <id>909992</id>
+    <name>Sella</name>
+
+    <location>Fairfield, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/909992-sella-malin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1277512197p3/909992.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1277512197p2/909992.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jun 14 01:03:22 -0700 2009</created_at>
+  <updated_at>Sun Jun 14 01:03:22 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6607735</id>
+  <body><![CDATA[is this book even worth reading.. i mean with all the positive comments you mentioned should i even pick the book up?]]></body>
+  
+  <user>
+    <id>2427346</id>
+    <name>Brandon</name>
+
+    <location>Crestwood, KY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2427346-brandon]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jun 16 19:28:13 -0700 2009</created_at>
+  <updated_at>Tue Jun 16 19:28:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6790702</id>
+  <body><![CDATA[This is perhaps one of the finest works of American fiction. This review of it is absolute drivel. Atticus and his children are not blessed with the ability to discern the difference between good and evil people, but they DO recognize when a human being is being mistreated because of the color of his skin. Perhaps Meghan lacks this kind of empathy or is uncomfortable with the idea that others possess it. Suffice it to say that not many readers agree with her. Everyone is entitled to their own opinion, but thank God we don't have to be exposed to this woman's sensibilities on a regular basis. If you don't read "To Kill a Mockingbird" it is your loss.]]></body>
+  
+  <user>
+    <id>2450589</id>
+    <name>Richard</name>
+
+    <location>Ellenton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2450589-richard]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1245783011p3/2450589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1245783011p2/2450589.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jun 23 10:56:47 -0700 2009</created_at>
+  <updated_at>Tue Jun 23 10:56:47 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7904895</id>
+  <body><![CDATA[Atticus Finch was always a hero to me. I wanted a father like him and wanted to be like Scout. I agree with Richard. Please do not take Meghan's word for it. Read the book. ]]></body>
+  
+  <user>
+    <id>1955509</id>
+    <name>Richnaktd</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1955509-richnaktd-richnak]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1248838761p3/1955509.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1248838761p2/1955509.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jul 28 20:52:33 -0700 2009</created_at>
+  <updated_at>Tue Jul 28 20:52:33 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8116309</id>
+  <body><![CDATA[Meghan probably has written the most truthful review of this book ever. I agree with her completely.]]></body>
+  
+  <user>
+    <id>2595567</id>
+    <name>Kim</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2595567-kim]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373130096p3/2595567.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373130096p2/2595567.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 04 13:47:00 -0700 2009</created_at>
+  <updated_at>Tue Aug 04 13:47:00 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8241302</id>
+  <body><![CDATA["I would happily take off of shelves and stow in dark corners where no one would ever have to read it again." <br><br>Perhaps you could try stowing it in the dark, empty space inside you where your heart was supposed to be. ;-)]]></body>
+  
+  <user>
+    <id>1696807</id>
+    <name>Dan</name>
+
+    <location>Scarsdale, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1696807-dan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1247953184p3/1696807.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1247953184p2/1696807.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 08 20:49:41 -0700 2009</created_at>
+  <updated_at>Sat Aug 08 20:49:41 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8284206</id>
+  <body><![CDATA["It's a saccharine, rose-tinted eulogy". I suppose, "Do unto others as you would have them do unto you" might seem rose tinted sacchrine as well if it weren't trying to teach a lesson in morality. ]]></body>
+  
+  <user>
+    <id>2431043</id>
+    <name>Michael</name>
+
+    <location>Minneapolis, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2431043-michael]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1383150164p3/2431043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1383150164p2/2431043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 10 17:55:23 -0700 2009</created_at>
+  <updated_at>Mon Aug 10 17:55:23 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8304508</id>
+  <body><![CDATA[While this is a very well written review, it is completely misguided. You're taking something that is simplistic and naive on purpose to provide a child's point of view on something that is so horrific it is hard to look at from an adult's and making it seem foolish. You are simply wrong. This book is about exactly the things you seem to praise in the other ones you discussed, "...protagonists who are, if not actively fighting to become adults, at least fighting to find themselves as people. There is an active struggle throughout each of those books to make sense of the world, to define the world as something larger than oneself, as something that the protagonist can somehow be a part of." This is exactly what Scout and Jem are trying to do. Try again Meghan. And for those who haven't read it for yourself, try it.]]></body>
+  
+  <user>
+    <id>2621102</id>
+    <name>Emily</name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2621102-emily-polhamus]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1378402612p3/2621102.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1378402612p2/2621102.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 11 13:45:27 -0700 2009</created_at>
+  <updated_at>Tue Aug 11 13:45:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8324083</id>
+  <body><![CDATA["Jem and Scout will be children forever"<br><br>I find this one of the enduring fascinations of this book. What kind of adults did Jem and Scout become? <br><br>This fascination is a testament to the brilliance of the writing. The children are so evocatively brought to life that you want to meet them and to know them.]]></body>
+  
+  <user>
+    <id>1080321</id>
+    <name>Charlie</name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1080321-charlie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 12 06:13:25 -0700 2009</created_at>
+  <updated_at>Wed Aug 12 06:13:25 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8445890</id>
+  <body><![CDATA[SO...is it good or bad???]]></body>
+  
+  <user>
+    <id>2587962</id>
+    <name>Haley</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2587962-haley]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1260483824p3/2587962.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1260483824p2/2587962.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 15 19:00:13 -0700 2009</created_at>
+  <updated_at>Sat Aug 15 19:00:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8450697</id>
+  <body><![CDATA[Haley, it is a very, very good book. Especially in this era of continued bigotry and intolerance, this novel again reminds us that racism is LEARNED behavior. "You have to be carefully taught." This great novel handles this subject without ever getting "preachy", giving us unforgettable characters and wonderfully evocative <br>writing.]]></body>
+  
+  <user>
+    <id>2450589</id>
+    <name>Richard</name>
+
+    <location>Ellenton, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2450589-richard]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1245783011p3/2450589.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1245783011p2/2450589.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 15 21:34:56 -0700 2009</created_at>
+  <updated_at>Sat Aug 15 21:34:56 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8450784</id>
+  <body><![CDATA[Haley, I think that the comments here make it clear that you've asked a very subjective question. Read it and see what you think--it's arguably worth reading even if you (or I) think that it's a "bad" book, simply because of its obvious cultural value and the near-fanatic love that some people have for it. ]]></body>
+  
+  <user>
+    <id>238748</id>
+    <name>Meghan</name>
+
+    <location>Framingham, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/238748-meghan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 15 21:38:21 -0700 2009</created_at>
+  <updated_at>Sat Aug 15 21:38:21 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8454348</id>
+  <body><![CDATA[Thank you so much Meghan and Richard!]]></body>
+  
+  <user>
+    <id>2587962</id>
+    <name>Haley</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2587962-haley]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1260483824p3/2587962.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1260483824p2/2587962.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 16 04:54:13 -0700 2009</created_at>
+  <updated_at>Sun Aug 16 04:54:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8454653</id>
+  <body><![CDATA[Good effort at bringing down a holy cow but I'm not really convinced by any of your arguments. The problem is I can't see from reading your review how you justify your zero star rating. It looks to me like you picked a rating arbitrarily and then tried to piece together an argument to justify it. The length and eloquence of your review suggests to me that you found more value in this book than you're willing to admit.<br><br>Is there anything inherently wrong with a book being "episodic"? Some of my favourite books are episodic. The skill of the anecdotal writer is to piece together interesting episodes in such a way as to create a coherent and gripping narrative. I think Harper Lee achieves this but if you can identify any episodes that you think don't add anything to the character development or the storyline then I'd be interested to know which ones.<br><br>Why do you need so many dimensions? "Atticus is a good father, wise and patient". What more dimensions do you need? Do you need him to have some hobbies before you'll accept him as a character?<br><br>What is "dimensionless" writing? Which dimension are you missing?<br><br>I'd never heard of it billed as a coming of age story so the fact that, as you correctly point out, no one really comes of age has never bothered me. If someone incorrectly bills this as a coming of age story then it's not Harper Lee's fault that there's no coming of age storyline. <br><br>What exactly are these "social changes and conventions" that you're "still grating at"?<br><br>Zero stars is a big call and it needs better justification than you've given it.]]></body>
+  
+  <user>
+    <id>1080321</id>
+    <name>Charlie</name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1080321-charlie]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 16 05:53:12 -0700 2009</created_at>
+  <updated_at>Sun Aug 16 05:53:12 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8653680</id>
+  <body><![CDATA[<em>Richard wrote: "This is perhaps one of the finest works of American fiction. This review of it is absolute drivel. Atticus and his children are not blessed with the ability to discern the difference between good..."</em><br><br>I couldn't agree more, Richard. I knew that when there were 29 comments on this book, most of them would be defending the persistence of this novel in American schools. The fact that I teach it to adolescents when they are on the brink of making many drastic changes, life-decisions, and, in many cases, assumptions about their peers, society, and the basis of human nature is no coincidence. I'm sorry those of you that didn't read it until presumptions and prejudices about life AND literature were so deeply ingrained in you that it's importance is lost on you--but I have seen young people's eyes open in my classroom to ideals they never even considered after having read this book. (I am an open-minded liberal who once taught in a small, conservative, 90% Anglo Oklahoma town.)<br><br>It seems to me that Meghan may be too jaded to think that Lee's work can have any sort of social, political, educational, or literary impact. But I'll say this--I'm one of the most cynical people I know, but I don't read banned books in order to rebel. I read (and TEACH) them because they affect change. ]]></body>
+  
+  <user>
+    <id>2655503</id>
+    <name>Lauren</name>
+
+    <location>Oklahoma City, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2655503-lauren-lowry]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1319292087p3/2655503.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1319292087p2/2655503.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 22 16:28:30 -0700 2009</created_at>
+  <updated_at>Sat Aug 22 16:28:30 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8653790</id>
+  <body><![CDATA[And because I'm an English teacher, I MUST correct my typo 'it's.' It should be its, of course. ...Darn iPhone predictive text...]]></body>
+  
+  <user>
+    <id>2655503</id>
+    <name>Lauren</name>
+
+    <location>Oklahoma City, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2655503-lauren-lowry]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1319292087p3/2655503.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1319292087p2/2655503.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 22 16:32:00 -0700 2009</created_at>
+  <updated_at>Sat Aug 22 16:32:00 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8801000</id>
+  <body><![CDATA[I am new to this, so forgive me my kindnesses... I think "rating" a book is far different from being a literary "critic". One would require a vast amount of knowledge about literature and some credentials to support such knowledge. <br><br>I love that we can have this "back and forth", Meghan, and think that deleting part of the string of comments is cyber censorship, as it is simply you determining what does and does not "add to the discussion". It is "your" discussion, so I suppose that is your prerogative. <br><br>I personally needed to read all of this to make an informed decision on whether you initially posted <br>what "(hopefully obviously)" is a scathing, hardly credible critique that might bring about "annoying" comments that you happen to not appreciate about as much as you don't seem to appreciate the book in question.<br><br>I hate Charles Dickens' work. I think it's drivel. I wholeheartedly believe The Catcher in the Rye is a piece of shit. Let the comments begin there. The difference, however, is I don't claim to believe I am so far intellectually superior as to determine what should be put into dark corners and never read again. I feel as comfortable using that casual, caustic tone because I am not railing against the masses--blazing my own librarian path. There is a place for both, and since neither spoke to me, I can only presume that I am not one of those to whom the author was speaking. Thank God there is an audience, and for at least a few friends of mine, thank god for the fictional Holden Caulfield.<br><br>Please remember a few things, but post whatever you like, as I'm sure I'll either be deleted or not read, and I'm quite fine with either. (I'm simply responding.) But remember this: to be a critic, and a good one you must be timely, and you must have credibility. In 1993 when you published your first novel, Meghan, I think your words would've held more meaning.<br><br>Until then, I do believe that as lovers of the written word, we might think before ripping the typewritten flesh of something we've not been brave enough to lay bare. <br><br>It was 1959. The woman told a story, with an androgynous name. Anyone else bothered by that aspect? Thrilled by it? Grateful for the effort?<br><br>Just wondering...<br><br>"I never expected any sort of success with Mockingbird. I was hoping for a quick and merciful death at the hands of the reviewers but, at the same time, I sort of hoped someone would like it enough to give me encouragement. Public encouragement. I hoped for a little, as I said, but I got rather a whole lot, and in some ways this was just about as frightening as the quick, merciful death I'd expected.<br><br>– Harper Lee, quoted in Newquist—1964[6:]"<br><br>]]></body>
+  
+  <user>
+    <id>2660280</id>
+    <name>Stephanie</name>
+
+    <location>Edmond, OK</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2660280-stephanie-scott]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1315847775p3/2660280.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1315847775p2/2660280.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Aug 27 16:32:46 -0700 2009</created_at>
+  <updated_at>Thu Aug 27 16:32:46 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>9519265</id>
+  <body><![CDATA[<em>Richard wrote: "This is perhaps one of the finest works of American fiction. This review of it is absolute drivel. Atticus and his children are not blessed with the ability to discern the difference between good..."</em><br><br>Amen, Richard!<br>]]></body>
+  
+  <user>
+    <id>2203529</id>
+    <name>Lara</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2203529-lara]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417896129p3/2203529.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417896129p2/2203529.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Sep 22 19:11:27 -0700 2009</created_at>
+  <updated_at>Tue Sep 22 19:11:27 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10450704</id>
+  <body><![CDATA[HA HA, I quit reading the initial review here when I saw how long it was but the short version is more than enough for me. She is right. 100% right. <br><br>I read most of the comments because I figured the original reviewer would get toasted. Every time I mention I hated the book or felt it was a waste of paper, I got blasted. The book makes people feel warm about themselves as Americans and eventually I noticed I wasn't insulting the book or Lee, I was somehow insulting the reader. So I now I usually just say I didn't like it &amp; smile when they try to convince me. <br><br>The problem with critiquing To Kill a Mockingbird is the reader forms an emotional attachment to the book and can't separate the critique of the book from a critique on them. As I read the comments to this critique, the only ones who don't follow this are the "Well, I liked it" responses. The other responses seem to be personally insulted. <br><br>The only great literary value of the book is the character Lee created in the dad. Lee created the quintessential American or what most Americans want to be or think we are. Other than that, it is poor writing. Lee isn't descriptive nor tells a fascinating story. Lee just created the ideal American. <br><br>The book did nothing for social reform. It got people to admit there was a problem but didn't spur any sweeping action across the country. <br><br>You don't need to be a college grad or middle age to understand the book. In fact HS is the perfect age to read the book. You are still impressionable at that age. <br><br>I'm sure I'm in for some fun response now. LOL <br>]]></body>
+  
+  <user>
+    <id>2795352</id>
+    <name>Raleighhunter</name>
+
+    <location>Garland, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2795352-raleighhunter]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1257191383p3/2795352.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1257191383p2/2795352.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 28 08:47:36 -0700 2009</created_at>
+  <updated_at>Wed Oct 28 08:47:36 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10471756</id>
+  <body><![CDATA[I disagree. This book is certainly not the most complex piece of writing but i don't believe it was ever supposed to be.<br><br>There's no point saying too much as I'll just seem like I am getting angry. This is especially true given I do have an emotion attachment to the book as the comment above mentions.<br><br>I must say thought that i think the characters are far from one dimensional. No single character is portrayed as good or evil, even those who effectively sentence an innocent man to his death are given their own perspective and voice. Personally if you finished this book feeling like it was a complacement indoctrination into the outlines of right and wrong then I don't think you read it right.<br><br>If we admit it is a simple book then surley we can admit that the chief simple theme of the book alone makes it worthy of more than zero stars. To kill a Mockingbird is a sin, therefore why do we sometimes punish innocent people who 'never did no harm to nobody'?. That's a fantastic starting point and the book just builds on from there.<br>]]></body>
+  
+  <user>
+    <id>2887073</id>
+    <name>Kieran</name>
+
+    <location>Brisbane, 07, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2887073-kieran-rooney]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1256749683p3/2887073.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1256749683p2/2887073.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 29 05:11:38 -0700 2009</created_at>
+  <updated_at>Thu Oct 29 05:11:38 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10841779</id>
+  <body><![CDATA[Thank God we don't have to be exposed to this woman's sensibilities on a regular basis.<br><br><br>couldn't have said it better myself]]></body>
+  
+  <user>
+    <id>2935350</id>
+    <name>Jean</name>
+
+    <location>Arlington, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2935350-jean]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Nov 11 19:36:32 -0800 2009</created_at>
+  <updated_at>Wed Nov 11 19:36:32 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10960673</id>
+  <body><![CDATA[you are so stupid- im younger than you and i get the point the book is making!]]></body>
+  
+  <user>
+    <id>2950302</id>
+    <name>Morgan Leigh</name>
+
+    <location>Ogema, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2950302-morgan-leigh]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1259175286p3/2950302.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1259175286p2/2950302.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 12:58:20 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 12:58:20 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10979663</id>
+  <body><![CDATA[Morgan pretty much proves my point about emotional ties. I read these comments and laugh. I read the 5 star reviews and didn't see anyone attacking the reviewer. LOL With all due respect, you guys are so predictable. <br><br>Meghan isn't insulting you or your personal friend Atticus. She simply told you why she didn't like the book and people took it emotionally instead of rationally. This is why an honest evaluation of the book is impossible. <br><br>The book as a literary work has one redeeming value, the character of Atticus Finch. Other than that, it is trite pulp with a predictable story and standard characters to be found in any books on the South in the era. <br><br>If people don't buy into Atticus Finch being the quintessential American white guy, they are not going to like the book. It is that simple. When the book is debated, it is debating the character Atticus. ]]></body>
+  
+  <user>
+    <id>2795352</id>
+    <name>Raleighhunter</name>
+
+    <location>Garland, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2795352-raleighhunter]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1257191383p3/2795352.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1257191383p2/2795352.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 17 05:49:32 -0800 2009</created_at>
+  <updated_at>Tue Nov 17 05:49:32 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10981129</id>
+  <body><![CDATA[Surely the large amount of people with an emotional attachment says something positive about the book? Just putting it out for discussion.]]></body>
+  
+  <user>
+    <id>2887073</id>
+    <name>Kieran</name>
+
+    <location>Brisbane, 07, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2887073-kieran-rooney]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1256749683p3/2887073.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1256749683p2/2887073.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 17 07:38:49 -0800 2009</created_at>
+  <updated_at>Tue Nov 17 07:38:49 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11446567</id>
+  <body><![CDATA[ick! i hate this book:s]]></body>
+  
+  <user>
+    <id>2783806</id>
+    <name>AKsana</name>
+
+    <location>Lebanon</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2783806-aksana]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1263065670p3/2783806.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1263065670p2/2783806.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Dec 04 11:45:10 -0800 2009</created_at>
+  <updated_at>Fri Dec 04 11:45:10 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11530614</id>
+  <body><![CDATA[I am a fan of TKAM. I disagree with Raleighhunter. I have trouble with Atticus's character (as is evident in my review of this title), but it doesn't diminish the moments in the book that affected me the most, which I don't think are reflected in Meghan's critique. For me a fundamental point of the book is that a child's perspective is naive and simple, and ultimately "good" compared to the rationalizations and complexities that jade an adult's perspective. One of the most memorable parts of the book for me is when "the town drunk" offers Scout a sip of what everyone assumes is whiskey from his bagged bottle, and it turns out to be coke. He explains to Scout that it's easier for people to assume he's a drunk than a sober man who chose a black mate. This quasi-deception seems confusing to Scout, a child, but necessary for adults. That scene seems a microcosm for the story and its setting.]]></body>
+  
+  <user>
+    <id>2288137</id>
+    <name>Debra</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2288137-debra]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1282319824p3/2288137.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1282319824p2/2288137.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 07 09:59:08 -0800 2009</created_at>
+  <updated_at>Mon Dec 07 09:59:08 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11531566</id>
+  <body><![CDATA[<em>Lira wrote: "Oh my GOD, YES!!! This book is awful! And I can't believe how many people consider it one of their all time faves. I hated it when I had to read it in AP English and was looked down on for not "app..."</em><br><br>I disagree with your comment, but at the same time love it!]]></body>
+  
+  <user>
+    <id>2288137</id>
+    <name>Debra</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2288137-debra]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1282319824p3/2288137.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1282319824p2/2288137.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 07 10:59:47 -0800 2009</created_at>
+  <updated_at>Mon Dec 07 10:59:47 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>13301366</id>
+  <body><![CDATA[What do you mean by uneven writing! It was written in a child's perpective.]]></body>
+  
+  <user>
+    <id>2647205</id>
+    <name>Starry7star</name>
+
+    <location>Singapore, 00, Singapore</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2647205-starry7star]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1250775148p3/2647205.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1250775148p2/2647205.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Feb 02 06:10:55 -0800 2010</created_at>
+  <updated_at>Tue Feb 02 06:10:55 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13517151</id>
+  <body><![CDATA[I agree with Starry7star; what would you expect a child to say or think? Lee obviously wanted the book in a child's perspective and did a great job with doing that. Like every child, they learn from what they observe, and as they get older, they understand things more clearly. <br>You said "They have no identity outside of these roles. The children have no guile, no shrewdness--there is none of the delightfully subversive slyness that real children have, the sneakiness that will ultimately allow them to grow up." <br>Have you even read the book? The kids were trying to sneak around to see Boo thinking that they could get a glimpse of the man that they heard about in rumors; that sounds cheeky to me.<br>And you're going to have to search deeper than that to find the true symbolism of each character; they're definitely not one dimensional, look for the allegory of this story and hopefully you'll realize the true power of this book.]]></body>
+  
+  <user>
+    <id>3142273</id>
+    <name>Layla</name>
+
+    <location>Osaka, 32, Japan</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3142273-layla]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1264263439p3/3142273.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1264263439p2/3142273.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Feb 09 04:35:24 -0800 2010</created_at>
+  <updated_at>Tue Feb 09 04:35:24 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13545710</id>
+  <body><![CDATA["It's a saccharine, rose-tinted eulogy for the nineteen thirties"<br><br>It's about a trial for RAPE.<br>Have you ever actually read the book ? <br><br>"The children have no guile, no shrewdness--there is none of the delightfully subversive slyness that real children have, the sneakiness that will ultimately allow them to grow up"<br><br>They sneak into the courtroom. They talk to people their father tells them not to.<br>Again, have you ever actually read the BOOK ?<br><br>"To Kill A Mockingbird has no struggle to become part of the world--in it, the children *are* the world, and everything else is just only relevant in as much as it affects them"<br><br>The story is principally about adults ; it is only narrated by a child.<br><br>Try actually reading the book.]]></body>
+  
+  <user>
+    <id>3271211</id>
+    <name>John</name>
+
+    <location>Adelaide, 05, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3271211-john]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Feb 09 19:58:54 -0800 2010</created_at>
+  <updated_at>Tue Feb 09 19:58:54 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13615415</id>
+  <body><![CDATA[Wow...<br><br>I'm new on Goodreads and I must say I was SO surprised to see TKAM considered as one of the best books ever. Not because the book is bad (I have not read it yet) but because this book is totally unknown in my country while it seems to be a major piece of american literary history. From a european perspective I would have expected to see Kerouac, Faulkner, deLillo, or God knows who at the top of the list. I'll definetely give this book a read.<br><br>Otherwise, considering stories about kids struggling and growing up, it seems nobody mentionned Carson McCullers "Heart is a lonely hunter" (huum, not sur of the original title... sorry)]]></body>
+  
+  <user>
+    <id>3272987</id>
+    <name>Mathieu</name>
+
+    <location>France</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3272987-mathieu]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Feb 12 04:28:36 -0800 2010</created_at>
+  <updated_at>Fri Feb 12 04:28:36 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>13643100</id>
+  <body><![CDATA[I consider "To Kill a Mockingbird" by Harper Lee to be a masterpiece of American Literature. While Meghan has every right to her opinion, I feel that sadly, she has missed one of the most valued, and simplest of messages in the novel. That an individual can stand for his or her convictions and make a difference. <br>I hope that Meghan visits To Kill A Mockingbird again, and with a few more years behind her, will pick up on the more subtle messages of this novel. ]]></body>
+  
+  <user>
+    <id>2818898</id>
+    <name>eddy</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2818898-eddy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1257839571p3/2818898.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1257839571p2/2818898.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Feb 12 22:06:53 -0800 2010</created_at>
+  <updated_at>Fri Feb 12 22:06:53 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>14167485</id>
+  <body><![CDATA[Perhaps To Kill a Mockingbird is naive and idealistic, or maybe innocent is a better word. And perhaps it shouldn't be listed among the greats of literature. For that reason critical reviews certainly serve a valuable purpose, and I appreciated reading this one. But I come back to dismissing all of the criticism, and loving this book. Who cares about its flaws. The truth is this book is special simply because it conjures so much love and affection from so many people from so many different backgrounds for so many reasons. I think this criticism is a reaction to that widespread affection. It's a rare occurrence for a book to be so beloved, because reaching the hearts of so many is an exceedingly difficult thing for a writer to do.]]></body>
+  
+  <user>
+    <id>2130618</id>
+    <name>Hannah</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2130618-hannah-naughton]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436240894p3/2130618.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436240894p2/2130618.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Mar 01 11:05:15 -0800 2010</created_at>
+  <updated_at>Mon Mar 01 11:05:15 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>14170978</id>
+  <body><![CDATA["The truth is this book is special simply because it conjures so much love and affection from so many people from so many different backgrounds for so many reasons."<br><br>-who needs to say more? Thank you, Hannah.]]></body>
+  
+  <user>
+    <id>2818898</id>
+    <name>eddy</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2818898-eddy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1257839571p3/2818898.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1257839571p2/2818898.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Mar 01 13:14:36 -0800 2010</created_at>
+  <updated_at>Mon Mar 01 13:14:36 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>14230780</id>
+  <body><![CDATA[I think the best part of the book is how the author led us to see the world from the honest, frank children point of view in which there wasn't supposed to be lies and prejudice in between, and in which assumption people make can be wrong. We are also reminded that people should treat every individual equally regardless of their color and origin]]></body>
+  
+  <user>
+    <id>3125700</id>
+    <name>Vero</name>
+
+    <location>Surabaya, 08, Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3125700-vero]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 03 05:48:32 -0800 2010</created_at>
+  <updated_at>Wed Mar 03 05:48:32 -0800 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15539530</id>
+  <body><![CDATA[<em>Barbara wrote: "If you read this book as a high schooler and hated it... grow up and read it again. There are reasons it is so loved that may not be apparent to the less mature reader. If you think it lacked de..."</em><br><br>THANK YOU! finally someone understands... This is absolutely ridiculous, how could you hate a book that's #1 on the top 100 best books ever list? I am in highschool and I'm beginning to think you need to have southern roots to understand this book...]]></body>
+  
+  <user>
+    <id>3572007</id>
+    <name>Clara</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3572007-clara]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Apr 11 20:10:35 -0700 2010</created_at>
+  <updated_at>Sun Apr 11 20:10:35 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15837859</id>
+  <body><![CDATA[<em>Clara wrote: "Barbara wrote: "If you read this book as a high schooler and hated it... grow up and read it again. There are reasons it is so loved that may not be apparent to the less mature reader. If you th..."</em><br><br>Liking a book because of its popularity is akin to to enjoying a movie because of its publicity. And to answer your question, I hate Twilight, and any higher standing on popularity for that book is not going to change my mind. I'm in high school too, and I don't have southern roots, but I understand TKAM perfectly well. Please grow up and leave the bias that something is good just because it's popular.<br>I could rant about this for hours. <em>The Clique</em>. Sure it's popular, but it's also shallow, it sides with self-absorbed, snobby, immature middleschoolers, and, by placing these Libbys as the protagonists, sets them up as <em>role models</em>. Gag.<br><br>Oh, and this book isn't on the #1 spot...I think that would go to Harry Potter.]]></body>
+  
+  <user>
+    <id>2874718</id>
+    <name>Levina </name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2874718-levina-c]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1322853008p3/2874718.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1322853008p2/2874718.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 20 18:50:59 -0700 2010</created_at>
+  <updated_at>Tue Apr 20 18:50:59 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15889046</id>
+  <body><![CDATA[I see how you would think all that but i still read it each year]]></body>
+  
+  <user>
+    <id>3624527</id>
+    <name>Chase</name>
+
+    <location>Sammamish, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3624527-chase-mattingly]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Apr 22 13:58:21 -0700 2010</created_at>
+  <updated_at>Thu Apr 22 13:58:21 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15960804</id>
+  <body><![CDATA[Unfortunately, it is required reading for high school... usually 9th grade. The reason that this is unfortunate is b/c the average 14 year old will not appreciate the story. This is evident by the number of teeny boppers who are grasping at your review as permission to hate something that they have to read for school. In my opinion, some people hate the book b/c they see it as racist... well yeah, but wasn't that the point? To illustrate human nature and hope that we learn from others' mistakes and stop taking the world at face value. And I do want to address one point... soothing? I don't know many people who would call this book soothing. Disturbing, yes, but in a way that makes me so glad I read it... over and over again.]]></body>
+  
+  <user>
+    <id>3480475</id>
+    <name>Heather</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3480475-heather]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Apr 24 16:47:02 -0700 2010</created_at>
+  <updated_at>Sat Apr 24 16:47:02 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16963843</id>
+  <body><![CDATA[This review really surprised me. Having read and enjoyed this book for the first time a few years ago (It wasn't mandatory reading in school for us), I feel sad that it didn't touch you the same way it did me. But, of course, this is very subjective.<br><br>Having said that, you do seem to have offered what appears to be objective reasons for your dislike for this book. Reading such contrary review to a book that is loved by almost everybody, myself included, I was intrigued to find out what you found so objectionable. Having no prior sentimental attachment to the book, I wanted to try to see your point of view. But as much as I tried to find some merit in your reasons, it seems to me that they are, at the very least, simplistic if not inaccurate.<br><br>****************SPOILERS ALERT*********************<br>For instance, you say the characters are one-dimensional (I think you meant to say two-dimensional, by the way. One-dimensional exists only in theory. :) Anyways, it's semantics.) and then you list the wrong examples, with the plausible exception of Atticus:<br><br>- Calpurnia was not introduced to the reader as being loving; in fact, at the beginning of the book, Scout alludes that she possibly only favors Jem. And then later on, we see she does love both kids. If you mean her character doesn't assume the rights a black woman now will: the book is set in the 50s. Wouldn't you want a book to be realistic? Not all characters in the book can be totally different than what is the norm. There are already at least three, if not more, non-conservative characters: Atticus, Scout and Maudie. But I must say that I did not like it that none of the black characters were explored fully.<br><br>- "Tom Robinson is the innocent wronged" --- that in itself means it's not two-dimensional! (He's been accused of a crime and the simplistic conclusion would be that he's guilty. But he's innocent.) Or do you mean you needed a dimension where his character could have been guilty of other crimes but not this one, perhaps? If this is the case (I too like characters to have a few imperfections), but do keep in mind the time period of the book. If he had some prior convictions or a history of violence, there probably wouldn't even have been a trial!<br><br>- "Boo is the kind eccentric" -- Same as the above. Boo, till almost the very end, is thought of as, by the the children, sinister. His kindness is a additional dimension, which wasn't apparent to the children or the readers (one would hope they see it coming). Maybe you find it stereotypical since nowadays we have a lot of books and movies where characters are antisocial-coming-off-as-a-bad-person-but-is-a-real-softie-inside?<br><br>Similar case with your other examples.<br><br>And as Layla and John have pointed out, the kids seem to be up to some kind of mischief most times! I don't know how it is accurate to say that they weren't sneaky..<br><br>Also to say that things that happened in the book leaves the kids unchanged is just plainly wrong! We read about the changes that happen to Jem (even if we aren't privy to his thoughts. This is a story told from Scout's perspective and she mentions the changes she sees. And Atticus at one point tries to explain the possible reasons for these changes.) Scout grows up too.<br><br>And this is definitely not a soothing story.. it's tragic and heart-breaking, for all its humor. And yet amidst all that, it's a story that makes you believe that with a few good people like Atticus, maybe there is hope after all for humanity. Lee displays her obvious contempt with subtle irony for unfair laws, racism and class-ism, even the education system.<br><br>****************SPOILERS END***********************<br><br>With regard to your claim that the writing is uneven, I find that Harper Lee's prose is so visual! It's ironical that I, along with many people, find the fluidity in her writing so incredible that one episode transitions into another effortlessly!<br><br>You make all the arguments that would apply to many books, but totally fails to describe this one. I have to agree with Hannah that it seems like your issues with the book is more a reaction to the book's popularity and people's fondness for it than the book in itself. It's something for you to think about.. or not. Or as Layla and John asked, have you ever read the book? Or did you only read it as school-work and never reread it again?<br><br>For people who haven't read this book: I found this to be a beautifully-written story about racism, courage, integrity and justice despite some real danger and hatred. And it's subtly funny too! Very few books make me turn the pages ever so slowly towards the end lest the book ends; this one most definitely did and I remember being very sad that it ended. I immediately went online to find other books of Harper Lee and was dismayed to find that this is only published one.]]></body>
+  
+  <user>
+    <id>3773943</id>
+    <name>Bynz</name>
+
+    <location>Melbourne, 3127, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3773943-bynz]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon May 24 11:44:09 -0700 2010</created_at>
+  <updated_at>Mon May 24 11:44:09 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/35272288]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/35272288]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1112477094</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">13455782</id>
+  <isbn>0062085506</isbn>
+  <isbn13>9780062085504</isbn13>
+  <text_reviews_count type="integer">2628</text_reviews_count>
+  <title>Shatter Me (Shatter Me, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1338924054m/13455782.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1338924054s/13455782.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13455782-shatter-me</link>
+  <num_pages>338</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>HarperCollins</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>159042</ratings_count>
+  <description>Juliette hasn’t touched anyone in exactly 264 days.&lt;br&gt;&lt;br&gt;The last time she did, it was an accident, but The Reestablishment locked her up for murder. No one knows why Juliette’s touch is fatal. As long as she doesn’t hurt anyone else, no one really cares. The world is too busy crumbling to pieces to pay attention to a 17-year-old girl. Diseases are destroying the population, food is hard to find, birds don’t fly anymore, and the clouds are the wrong color.&lt;br&gt;&lt;br&gt;The Reestablishment said their way was the only way to fix things, so they threw Juliette in a cell. Now so many people are dead that the survivors are whispering war – and The Reestablishment has changed its mind. Maybe Juliette is more than a tortured soul stuffed into a poisonous body. Maybe she’s exactly what they need right now.&lt;br&gt;&lt;br&gt;Juliette has to make a choice: Be a weapon. Or be a warrior.</description>
+<authors>
+<author>
+<id>4637539</id>
+<name>Tahereh Mafi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444252799p5/4637539.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1444252799p2/4637539.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4637539.Tahereh_Mafi]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>386917</ratings_count>
+<text_reviews_count>43890</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825193</id>
+          <old_status>2-stars</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:29 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1247818874</id>
+          <old_status>read</old_status>
+          <status>2-stars</status>
+          <updated_at type="datetime">Sun Feb 21 22:23:50 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">645373499</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Nov 21 23:05:12 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-2014" exclusive="false" review_shelf_id="1233742498" sortable="false" />
+    <shelf name="2-stars" exclusive="false" review_shelf_id="1233742160" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 21 23:05:11 -0800 2014</date_added>
+  <date_updated>Tue Feb 23 19:48:04 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Okay, seriously....fuck this book. ]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1112477094]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1112477094]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

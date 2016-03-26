@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>7478942</id>
+    
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">73968</id>
+  <isbn>0380017601</isbn>
+  <isbn13>9780380017607</isbn13>
+  <text_reviews_count type="integer">1567</text_reviews_count>
+  <title>Love Story (Love Story, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/73968.Love_Story</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.59</average_rating>
+  <ratings_count>39578</ratings_count>
+  <description>Oliver Barrett IV, a wealthy jock from a stuffy WASP family on his way to a Harvard degree and a career in law . . . Jenny Cavilleri, a sharp-tongued, working-class beauty studying music at Radcliffe . . .&lt;br&gt;&lt;br&gt;Opposites in nearly every way, Oliver and Jenny are kindred spirits from vastly different worlds. Falling deeply and powerfully, their attraction to one another defies everything they have ever believed—as they share a passion far greater than anything they dreamed possible . . . and explore the wonder of a love that must end too soon.&lt;br&gt;&lt;br&gt;One of the most adored novels of our time, this is the book that defined a generation—a story of uncompromising devotion, of life as it really is . . . and love that changes everything.</description>
+<authors>
+<author>
+<id>15516</id>
+<name>Erich Segal</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202419115p5/15516.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1202419115p2/15516.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15516.Erich_Segal]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>70741</ratings_count>
+<text_reviews_count>3091</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="total-crap" exclusive="false" review_shelf_id="9153934" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 09 08:46:36 -0700 2007</date_added>
+  <date_updated>Sat Oct 04 16:19:53 -0700 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Pure unadulterated crap. Cliche masquerading (unsuccessfully) as wisdom.]]>
+  </body>
+  <comments_count>9</comments_count>
+    <comments start="1" end="9" total="9">
+        <comment>
+  <id>168813</id>
+  <body><![CDATA[It was better than <em>Jonathan Linvingston Seagull</em>]]></body>
+  
+  <user>
+    <id>344915</id>
+    <name>Jim</name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/344915-jim]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1298211859p3/344915.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1298211859p2/344915.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 09 18:17:57 -0700 2007</created_at>
+  <updated_at>Tue Oct 09 18:17:57 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>168910</id>
+  <body><![CDATA[<em>Anything</em> is better than Jonathan Livingston Seagull.<br><br>R]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 09 19:52:55 -0700 2007</created_at>
+  <updated_at>Tue Oct 09 19:52:55 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>797526</id>
+  <body><![CDATA[Hell is being condemned to be a character in this book, saying nothing but things that are either stupid or obvious, but mostly both.]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 18 08:26:06 -0700 2008</created_at>
+  <updated_at>Sun May 18 08:26:06 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>799791</id>
+  <body><![CDATA[Is this that book about Al Gore?]]></body>
+  
+  <user>
+    <id>428585</id>
+    <name>Lesley</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/428585-lesley]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1374952997p3/428585.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1374952997p2/428585.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 18 17:56:18 -0700 2008</created_at>
+  <updated_at>Sun May 18 17:56:18 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>818464</id>
+  <body><![CDATA[Ruth, thanks for another bit of comic relief:)]]></body>
+  
+  <user>
+    <id>347123</id>
+    <name>Monica</name>
+
+    <location>Royal Oak, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/347123-monica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1311905621p3/347123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1311905621p2/347123.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 21 21:17:37 -0700 2008</created_at>
+  <updated_at>Wed May 21 21:17:37 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2064199</id>
+  <body><![CDATA[Hell is listening to a speech by Al Gore that's longer than 5 minutes. JLSeagul/Love Story: kind of easy targets, Ruth. If you actually read them to the finish line, then I guess, I, Ugh, feel your pain, however self-inflicted. ]]></body>
+  
+  <user>
+    <id>908543</id>
+    <name>Stephen</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/908543-stephen]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 05 18:30:17 -0700 2008</created_at>
+  <updated_at>Sun Oct 05 18:30:17 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2066816</id>
+  <body><![CDATA[I did. I read them through. There. I feel better for having said it.<br><br>This was back in my less sophisticated days, when I was a sucker for reading anything that everybody was talking about.<br><br>I'm all better now.]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 05 22:34:30 -0700 2008</created_at>
+  <updated_at>Sun Oct 05 22:34:30 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2070763</id>
+  <body><![CDATA[Oh, Ruth, you must tell me how you recovered from this illness. Do I need to join a 12-step group or what? I still fall into the "Oh, if everyone's read it, I guess I should too."]]></body>
+  
+  <user>
+    <id>199326</id>
+    <name>Gail</name>
+
+    <location>Smiths Station, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/199326-gail]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1293564910p3/199326.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1293564910p2/199326.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Oct 06 11:49:44 -0700 2008</created_at>
+  <updated_at>Mon Oct 06 11:49:44 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2071193</id>
+  <body><![CDATA[I think it's an immunity you acquire after an accumulation of bad experiences. Sort of like acquiring immunity to a particularly nasty microbes.<br><br>What we have to watch out for is the spread of the MRSAs of the book world.]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Oct 06 12:29:54 -0700 2008</created_at>
+  <updated_at>Mon Oct 06 12:29:54 -0700 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/7478942]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/7478942]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

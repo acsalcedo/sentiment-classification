@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>42000372</id>
+    
+  <user>
+    <id>576123</id>
+    <name>Debbi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576123-debbi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193486403p3/576123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193486403p2/576123.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6070204</id>
+  <isbn>0979160065</isbn>
+  <isbn13>9780979160066</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <title>Visionary</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6070204-visionary</link>
+  <num_pages>488</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tumblar House</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.50</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>Slacker reporter, Jim Jacobson, is sent to cover the visit of the mystic-prophet figure, Nigel Fox. Jacobson's skepticism is exceeded only by his self doubt and remorse about his own life and roots. Before the day is over he will be hurled into an adventure that spans sixty years of history, the events of a world war, a beautiful and ill-fated love affair set in the backdrop of eastern Orthodox spirituality. The book is a novel in the grand sense: a purposeful plot with characters that walk and breathe within the narrative and dialogue. Interwoven elements of Christian mysticism and Biblical prophecy collide with conspiracy and the new technology of the post-war America: television. Visionary is a book about the discovery of faith, recovery of a lost past, and the pains and joys of connections which defy time, space, and logic. It is very much, a novel with multiple layers of connection to the human spirit as it struggles to comprehend the divine." - Randy Maugans, Threshing Floor Radio Host</description>
+<authors>
+<author>
+<id>5690647</id>
+<name>Hallford Michael</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5690647.Hallford_Michael]]></link>
+<average_rating>4.50</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="mysteries" exclusive="false" review_shelf_id="19910056" sortable="false" />
+    <shelf name="light-and-fun" exclusive="false" review_shelf_id="19910058" sortable="false" />
+    <shelf name="started-but-didn-t-finish" exclusive="false" review_shelf_id="20220452" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="19910053" sortable="false" />
+    <shelf name="waste-of-time" exclusive="false" review_shelf_id="103535985" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 05 13:50:26 -0800 2009</date_added>
+  <date_updated>Sat Jan 10 05:14:01 -0800 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[It doesn't seem fair to give a review of a book I couldn't finish. I made it to about 100 pages and decided this wasn't my type of book. The writing was sloppy and the story uninteresting. ]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/42000372]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/42000372]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

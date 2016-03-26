@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>6069952</id>
+    
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">52529</id>
+  <isbn>1582701709</isbn>
+  <isbn13>9781582701707</isbn13>
+  <text_reviews_count type="integer">7832</text_reviews_count>
+  <title>The Secret (The Secret, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1391995828m/52529.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1391995828s/52529.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/52529.The_Secret</link>
+  <num_pages>184</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Atria Books</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month/>
+  <average_rating>3.59</average_rating>
+  <ratings_count>207484</ratings_count>
+  <description>Fragments of a Great Secret have been found in the oral traditions, in literature, in religions and philosophies throughout the centuries. For the first time, all the pieces of The Secret come together in an incredible revelation that will be life-transforming for all who experience it. &lt;p&gt; In this book, you'll learn how to use The Secret in every aspect of your life -- money, health, relationships, happiness, and in every interaction you have in the world. You'll begin to understand the hidden, untapped power that's within you, and this revelation can bring joy to every aspect of your life. &lt;/p&gt;&lt;p&gt; The Secret contains wisdom from modern-day teachers -- men and women who have used it to achieve health, wealth, and happiness. By applying the knowledge of The Secret, they bring to light compelling stories of eradicating disease, acquiring massive wealth, overcoming obstacles, and achieving what many would regard as impossible.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>29655</id>
+<name>Rhonda Byrne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1250448613p5/29655.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1250448613p2/29655.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29655.Rhonda_Byrne]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>235231</ratings_count>
+<text_reviews_count>9943</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="poop" exclusive="false" review_shelf_id="2836640" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jul 01 00:00:00 -0700 2007</read_at>
+  <date_added>Tue Sep 11 18:40:12 -0700 2007</date_added>
+  <date_updated>Fri Sep 13 15:52:56 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[i thought this was complete poop. there is something to thinking positive, but "things" don't just materialize because you want them to.]]>
+  </body>
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>82886581</id>
+  <body><![CDATA[I loathed this book too - should have given it no stars whatsoever.]]></body>
+  
+  <user>
+    <id>1694004</id>
+    <name>Joy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1694004-joy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1296601421p3/1694004.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1296601421p2/1694004.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Sep 13 16:26:07 -0700 2013</created_at>
+  <updated_at>Fri Sep 13 16:26:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>83296127</id>
+  <body><![CDATA[Some books deserve negative star ratings. This is one of them!]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Sep 19 20:12:51 -0700 2013</created_at>
+  <updated_at>Thu Sep 19 20:12:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>83322849</id>
+  <body><![CDATA[<em>Books Ring Mah Bell wrote: "Some books deserve negative star ratings. This is one of them!"</em><br><br>Couldn't agree more!]]></body>
+  
+  <user>
+    <id>1694004</id>
+    <name>Joy</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1694004-joy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1296601421p3/1694004.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1296601421p2/1694004.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Sep 20 09:45:26 -0700 2013</created_at>
+  <updated_at>Fri Sep 20 09:45:26 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/6069952]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/6069952]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

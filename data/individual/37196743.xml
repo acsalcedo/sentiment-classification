@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>37196743</id>
+    
+  <user>
+    <id>576123</id>
+    <name>Debbi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576123-debbi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193486403p3/576123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193486403p2/576123.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">2967752</id>
+  <isbn>1933372605</isbn>
+  <isbn13>9781933372600</isbn13>
+  <text_reviews_count type="integer">12135</text_reviews_count>
+  <title>The Elegance of the Hedgehog</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2967752-the-elegance-of-the-hedgehog</link>
+  <num_pages>325</num_pages>
+  <format>Paperback</format>
+  <edition_information>First English Edition</edition_information>
+  <publisher>Europa Editions</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>104109</ratings_count>
+  <description>We are in the center of Paris, in an elegant apartment building inhabited by bourgeois families. Renée, the concierge, is witness to the lavish but vacuous lives of her numerous employers. Outwardly she conforms to every stereotype of the concierge: fat, cantankerous, addicted to television. Yet, unbeknownst to her employers, Renée is a cultured autodidact who adores art, philosophy, music, and Japanese culture. With humor and intelligence she scrutinizes the lives of the building's tenants, who for their part are barely aware of her existence. &lt;p&gt;Then there's Paloma, a twelve-year-old genius. She is the daughter of a tedious parliamentarian, a talented and startlingly lucid child who has decided to end her life on the sixteenth of June, her thirteenth birthday. Until then she will continue behaving as everyone expects her to behave: a mediocre pre-teen high on adolescent subculture, a good but not an outstanding student, an obedient if obstinate daughter. &lt;/p&gt;&lt;p&gt;Paloma and Renée hide both their true talents and their finest qualities from a world they suspect cannot or will not appreciate them. They discover their kindred souls when a wealthy Japanese man named Ozu arrives in the building. Only he is able to gain Paloma's trust and to see through Renée's timeworn disguise to the secret that haunts her. This is a moving, funny, triumphant novel that exalts the quiet victories of the inconspicuous among us. &lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+<authors>
+<author>
+<id>643126</id>
+<name>Muriel Barbery</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1262638110p5/643126.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1262638110p2/643126.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/643126.Muriel_Barbery]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>109561</ratings_count>
+<text_reviews_count>14664</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="audio" exclusive="false" review_shelf_id="122803097" sortable="false" />
+    <shelf name="waste-of-time" exclusive="false" review_shelf_id="124113683" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="17017912" sortable="false" />
+    <shelf name="read-in-2011" exclusive="false" review_shelf_id="122803113" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 30 00:00:00 -0700 2011</started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 08 13:07:44 -0800 2008</date_added>
+  <date_updated>Thu Aug 04 06:09:04 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[quite disappointed. Several reviews mentioned that it was worth it to stick with it to the end, so I did. But, I felt pretty cheated. 3/4 of the book is made up of two intellectual snobs telling us that only they are superior and truly understand the world...the rest are a bunch of selfish buffoo...]]>
+  </body>
+  <comments_count>6</comments_count>
+    <comments start="1" end="6" total="6">
+        <comment>
+  <id>34382954</id>
+  <body><![CDATA[Im impressed you're listening to it in French!']]></body>
+  
+  <user>
+    <id>4716208</id>
+    <name>Kyrie</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4716208-kyrie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308857270p3/4716208.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308857270p2/4716208.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 30 06:22:29 -0700 2011</created_at>
+  <updated_at>Sat Jul 30 06:22:29 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34383426</id>
+  <body><![CDATA[LOL - no - I don't know how that happened. I clicked on the English version. Will fix it.]]></body>
+  
+  <user>
+    <id>576123</id>
+    <name>Debbi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576123-debbi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193486403p3/576123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193486403p2/576123.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 30 06:44:07 -0700 2011</created_at>
+  <updated_at>Sat Jul 30 06:44:07 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34410259</id>
+  <body><![CDATA[Oh, phooey and here I was being amazed!]]></body>
+  
+  <user>
+    <id>4716208</id>
+    <name>Kyrie</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4716208-kyrie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1308857270p3/4716208.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1308857270p2/4716208.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 30 19:19:58 -0700 2011</created_at>
+  <updated_at>Sat Jul 30 19:19:58 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34722181</id>
+  <body><![CDATA[I liked it, but I was definitely in the minority in my Book Club.<br>One thing I was shocked by was how few people in my club realized that the different texts meant a different narrator.]]></body>
+  
+  <user>
+    <id>4474787</id>
+    <name>Mimi</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4474787-mimi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1288300428p3/4474787.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1288300428p2/4474787.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Aug 05 11:54:49 -0700 2011</created_at>
+  <updated_at>Fri Aug 05 11:54:49 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34725703</id>
+  <body><![CDATA[well...that's odd. Especially since it's pretty obvious it is two different people.<br><br>However, I listened to it on audio and they used two different actors.]]></body>
+  
+  <user>
+    <id>576123</id>
+    <name>Debbi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576123-debbi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193486403p3/576123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193486403p2/576123.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Aug 05 13:18:00 -0700 2011</created_at>
+  <updated_at>Fri Aug 05 13:18:00 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>34726171</id>
+  <body><![CDATA[I thought so too.]]></body>
+  
+  <user>
+    <id>4474787</id>
+    <name>Mimi</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4474787-mimi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1288300428p3/4474787.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1288300428p2/4474787.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Aug 05 13:27:59 -0700 2011</created_at>
+  <updated_at>Fri Aug 05 13:27:59 -0700 2011</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/37196743]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/37196743]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

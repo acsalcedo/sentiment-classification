@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1179687088</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17566814</id>
+  <isbn>1423176383</isbn>
+  <isbn13>9781423176381</isbn13>
+  <text_reviews_count type="integer">655</text_reviews_count>
+  <title>Midnight Thief (Midnight Thief, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1383982568m/17566814.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1383982568s/17566814.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17566814-midnight-thief</link>
+  <num_pages>376</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>5967</ratings_count>
+  <description>Growing up on Forge’s streets has taught Kyra how to stretch a coin. And when that’s not enough, her uncanny ability to scale walls and bypass guards helps her take what she needs.&lt;br&gt;&lt;br&gt;But when the leader of the Assassins Guild offers Kyra a lucrative job, she hesitates. She knows how to get by on her own, and she’s not sure she wants to play by his rules. But he’s persistent—and darkly attractive—and Kyra can’t quite resist his pull.&lt;br&gt;&lt;br&gt;Tristam of Brancel is a young Palace knight on a mission. After his best friend is brutally murdered by Demon Riders, a clan of vicious warriors who ride bloodthirsty wildcats, Tristam vows to take them down. But as his investigation deepens, he finds his efforts thwarted by a talented thief, one who sneaks past Palace defenses with uncanny ease.&lt;br&gt;&lt;br&gt;When a fateful raid throws Kyra and Tristam together, the two enemies realize that their best chance at survival—and vengeance—might be to join forces. And as their loyalties are tested to the breaking point, they learn a startling secret about Kyra’s past that threatens to reshape both their lives.&lt;br&gt;&lt;br&gt;In her arresting debut novel, Livia Blackburne creates a captivating world where intrigue prowls around every corner—and danger is a way of life.</description>
+<authors>
+<author>
+<id>4519247</id>
+<name>Livia Blackburne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377286415p5/4519247.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1377286415p2/4519247.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4519247.Livia_Blackburne]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>7715</ratings_count>
+<text_reviews_count>1061</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">60094531</id>
+          <page type="integer">258</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Feb 20 20:09:49 -0800 2015</created_at>
+          <updated_at type="datetime">Fri Feb 20 20:10:25 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">68</percent>
+          <work_id type="integer">24502541</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2b34885ac9a7db41d4086a5f8c67fc29</note_uri>
+          <note_updated_at type="datetime">Fri Feb 20 20:10:25 -0800 2015</note_updated_at>
+          <body><![CDATA[God I can't wait to finish this so I can get started on Red Queen. MY COPY ARRIVED TODAY]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">59740175</id>
+          <page type="integer">84</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Feb 16 15:46:42 -0800 2015</created_at>
+          <updated_at type="datetime">Mon Feb 16 15:46:55 -0800 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">22</percent>
+          <work_id type="integer">24502541</work_id>
+          <note_uri>kca://note/amzn1.grok.note.df817a824134666d6a0a0ba22570bdbf</note_uri>
+          <note_updated_at type="datetime">Mon Feb 16 15:46:55 -0800 2015</note_updated_at>
+          <body><![CDATA[I'm less than impressed with this. Dull characters, okay writing, no intrigue. Meh]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825254</id>
+          <old_status>2-stars</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:34 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1247808633</id>
+          <old_status>read</old_status>
+          <status>2-stars</status>
+          <updated_at type="datetime">Sun Feb 21 22:11:02 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">766211521</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 21 20:26:29 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">759662752</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Feb 16 15:44:56 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">729657963</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Sun Jan 25 01:17:11 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2-stars" exclusive="false" review_shelf_id="1233734803" sortable="false" />
+    <shelf name="2014-releases" exclusive="false" review_shelf_id="1233734825" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 16 00:00:00 -0800 2015</started_at>
+  <read_at>Sat Feb 21 00:00:00 -0800 2015</read_at>
+  <date_added>Sun Jan 25 01:17:11 -0800 2015</date_added>
+  <date_updated>Sun Feb 21 22:31:33 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Sigh. Didn't love this one, sadly. With its dull characters and less than stellar writing, Midnight Thief ended up falling flat for me. <br /><br />Full review to come. ]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1179687088]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1179687088]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1176243792</id>
+    
+  <user>
+    <id>6478831</id>
+    <name>Charlotte</name>
+
+    <location>Millbrook, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6478831-charlotte]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17874773</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">75</text_reviews_count>
+  <title>Untitled (The Wicked Powers, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17874773-untitled</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>131</ratings_count>
+  <description>Cassandra Clare said that she will publish another trilogy in the Shadowhunters' world after the Dark Artifices and The TLH trilogy. It will have two gay main characters. More information to come...&lt;br&gt;&lt;br&gt;&lt;br&gt;Cassandra Clare said about writing more books in the Shadowhunter World:&lt;br&gt;&lt;br&gt;&lt;em&gt;My plan at the moment is to do five Shadowhunter series, total. I don’t know if I’ll do any series in the Shadowhunter world beyond that. I don’t know why five exactly — maybe because one of my major literary idols has always been Tamora Pierce and she did five series set in Tortall. :) Maybe I think I have five stories to tell in this world. Maybe I’ll get to the end and want to tell more. Maybe not — I have a stockpile of other worlds and stories in my head; I’m writing one of them by writing Magisterium now, but there are many others.&lt;br&gt;&lt;br&gt;There is a special sort of enjoyment in developing stories in a created world, because you can take the rules you yourself have invented, and bend them or break them. You can create connections and history — the story of Isabelle’s ruby necklace stretches back all the way to Vampires, Scones and Edmund Herondale. Then again, with a brand new world, you get to make everything up again. It’s like: brand-new baby or adorable five-year old? They’re both good.&lt;br&gt;&lt;br&gt;&lt;br&gt;(The five Shadowhunter series are TiD, TLH, TMI, TDA, and very far down the road, TWP. Don’t even ask about that one! It’s too far in the future! There are other Shadowhunter projects like The Bane Chronicles and the graphic novel project about the Circle, currently in planning stages and known as TST, but I’m not counting them: I’m only counting book series/trilogies written solely by me.)&lt;/em&gt;</description>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p5/150038.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1270502031p2/150038.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>4085499</ratings_count>
+<text_reviews_count>224430</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">725297473</id>
+          <old_status>to-read</old_status>
+          <status>if-you-recommend-this-i-ll-bite-you</status>
+          <updated_at type="datetime">Wed Jan 21 17:53:39 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">725296516</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Jan 21 17:52:46 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="nope" exclusive="false" review_shelf_id="891405501" sortable="false" />
+    <shelf name="if-you-recommend-this-i-ll-bite-you" exclusive="true" review_shelf_id="891405447" sortable="false" />
+    <shelf name="nopers" exclusive="false" review_shelf_id="891405506" sortable="false" />
+    <shelf name="never-again" exclusive="false" review_shelf_id="891405476" sortable="false" />
+    <shelf name="no" exclusive="false" review_shelf_id="891405485" sortable="false" />
+    <shelf name="no-effing-comment" exclusive="false" review_shelf_id="891405512" sortable="false" />
+    <shelf name="not-in-this-lifetime" exclusive="false" review_shelf_id="891405514" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jan 21 17:52:46 -0800 2015</date_added>
+  <date_updated>Wed Jan 21 17:53:47 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Cassandra Clare, in the name of the Lord on high, stop writing. Just... stop writing things. At least, things related to The Mortal Instruments. Please, stop beating this dead horse before I haul in some Dying with Dignity organization to sue your ass. <br /><br />IT. IS. TIME. TO. MOVE. ON.]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>148533818</id>
+  <body><![CDATA[It's her world. It's her books. She can write whatever she wants. What if u were doing the thing u love most and someone told u stop doing it? Exactly.]]></body>
+  
+  <user>
+    <id>33049596</id>
+    <name>Lgalanbooks</name>
+
+    <location>Everett, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/33049596-lgalanbooks]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1456056717p3/33049596.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1456056717p2/33049596.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Mar 05 13:15:27 -0800 2016</created_at>
+  <updated_at>Sat Mar 05 13:15:27 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1176243792]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1176243792]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

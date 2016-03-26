@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1282950057</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17331828</id>
+  <isbn>0373211392</isbn>
+  <isbn13>9780373211395</isbn13>
+  <text_reviews_count type="integer">1910</text_reviews_count>
+  <title>Talon (Talon, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1397581124m/17331828.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1397581124s/17331828.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17331828-talon</link>
+  <num_pages>449</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harlequin Teen </publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>11722</ratings_count>
+  <description>Long ago, dragons were hunted to near extinction by the Order of St. George, a legendary society of dragon slayers. Hiding in human form and growing their numbers in secret, the dragons of Talon have become strong and cunning, and they're positioned to take over the world with humans none the wiser.&lt;br&gt;&lt;br&gt;Ember and Dante Hill are the only sister and brother known to dragonkind. Trained to infiltrate society, Ember wants to live the teen experience and enjoy a summer of freedom before taking her destined place in Talon. But destiny is a matter of perspective, and a rogue dragon will soon challenge everything Ember has been taught. As Ember struggles to accept her future, she and her brother are hunted by the Order of St. George.&lt;br&gt;&lt;br&gt;Soldier Garret Xavier Sebastian has a mission to seek and destroy all dragons, and Talon's newest recruits in particular. But he cannot kill unless he is certain he has found his prey: and nothing is certain about Ember Hill. Faced with Ember's bravery, confidence and all-too-human desires, Garret begins to question everything that the Order has ingrained in him: and what he might be willing to give up to find the truth about dragons.</description>
+<authors>
+<author>
+<id>2995873</id>
+<name>Julie Kagawa</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1257816454p5/2995873.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1257816454p2/2995873.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2995873.Julie_Kagawa]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>569175</ratings_count>
+<text_reviews_count>45258</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">66651647</id>
+          <page type="integer">97</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun May 17 18:31:15 -0700 2015</created_at>
+          <updated_at type="datetime">Sun May 17 18:31:51 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">21</percent>
+          <work_id type="integer">24035257</work_id>
+          <note_uri>kca://note/amzn1.grok.note.147df501a3837faca0a73036f9145f2a</note_uri>
+          <note_updated_at type="datetime">Sun May 17 18:31:51 -0700 2015</note_updated_at>
+          <body><![CDATA[Is this seriously one of Julie Kagawa's books? Julie Kagawa, THE QUEEN? <br><br> I don't believe it. It just...it can't be. I love Julie K. I LOVE HER. But this book is just...no. There's already been like three cases of insta-love. I'm sniffing out a love triangle. And the mythology is confusing and sub-par. What do dragons do that makes them a hunted creature? Do they eat humans? Or what?<br><br> I'm so, so disappointed.]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825156</id>
+          <old_status>1-star</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:27 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1247824616</id>
+          <old_status>read</old_status>
+          <status>1-star</status>
+          <updated_at type="datetime">Sun Feb 21 22:30:42 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">867892356</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed May 20 20:59:37 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">864308324</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sun May 17 18:28:35 -0700 2015</updated_at>
+          <ratings_count>2</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>23</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="1-star" exclusive="false" review_shelf_id="1233745775" sortable="false" />
+    <shelf name="2014-releases" exclusive="false" review_shelf_id="1233745796" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun May 17 00:00:00 -0700 2015</started_at>
+  <read_at>Wed May 20 00:00:00 -0700 2015</read_at>
+  <date_added>Sun May 17 18:28:35 -0700 2015</date_added>
+  <date_updated>Sun Feb 21 22:50:23 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Um. Wow. This book was...bad.<br /><br /><img src="https://i.imgur.com/TIVp2h.jpg" alt="" width="240" height="228" class="gr-hostedUserImg" /><br /><br />I'm legitimately distraught that this novel came from the mind of someone who I once thought of as a goddess, who I once believed was on par with Marissa Meyer, Leigh Bardugo, even Marie Lu. I don't mean to trash Kagawa, but I was wrong to compare her to those authors...]]>
+  </body>
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>147930819</id>
+  <body><![CDATA[As soon as I got to this part, <br><br>"If every dragon chose to be white and dragons don't choose "ugly" human forms, then what -- exactly -- is Kagawa trying to say about people of color?"<br><br>I literally stopped and went, "Oh...Oh, no. OH NO," because that is a <em>massive fuck up. </em> Absolutely avoiding this one.]]></body>
+  
+  <user>
+    <id>4115453</id>
+    <name>Hailee</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4115453-hailee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451953784p3/4115453.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451953784p2/4115453.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 22 00:03:11 -0800 2016</created_at>
+  <updated_at>Mon Feb 22 00:03:11 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>147930889</id>
+  <body><![CDATA[<em>Hailee wrote: "As soon as I got to this part, <br><br>"If every dragon chose to be white and dragons don't choose "ugly" human forms, then what -- exactly -- is Kagawa trying to say about people of color?"<br><br>I literally..."</em><br><br>Please do. SAVE YOURSELF.]]></body>
+  
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 22 00:07:31 -0800 2016</created_at>
+  <updated_at>Mon Feb 22 00:07:31 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1282950057]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1282950057]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

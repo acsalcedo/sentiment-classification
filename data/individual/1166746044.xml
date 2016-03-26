@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1166746044</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">113436</id>
+  <isbn>0375826696</isbn>
+  <isbn13>9780375826696</isbn13>
+  <text_reviews_count type="integer">14670</text_reviews_count>
+  <title>Eragon (The Inheritance Cycle, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1366212852m/113436.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1366212852s/113436.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/113436.Eragon</link>
+  <num_pages>503</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Knopf Books for Young Readers</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>958979</ratings_count>
+  <description>One boy. One dragon. A world of adventure.&lt;br&gt;When Eragon finds a polished blue stone in the forest, he thinks it is the lucky discovery of a poor farm boy; perhaps it will buy his family meat for the winter. But when the stone brings a dragon hatchling, Eragon realizes he has stumbled upon a legacy nearly as old as the Empire itself.&lt;br&gt;&lt;br&gt;Overnight his simple life is shattered, and he is thrust into a perilous new world of destiny, magic, and power. With only an ancient sword and the advice of an old storyteller for guidance, Eragon and the fledgling dragon must navigate the dangerous terrain and dark enemies of an Empire ruled by a king whose evil knows no bounds.&lt;br&gt;&lt;br&gt;Can Eragon take up the mantle of the legendary Dragon Riders? The fate of the Empire may rest in his hands.</description>
+<authors>
+<author>
+<id>8349</id>
+<name>Christopher Paolini</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1412963950p5/8349.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1412963950p2/8349.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8349.Christopher_Paolini]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>1587590</ratings_count>
+<text_reviews_count>40491</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825113</id>
+          <old_status>1-star</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:24 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1247792491</id>
+          <old_status>read</old_status>
+          <status>1-star</status>
+          <updated_at type="datetime">Sun Feb 21 21:52:10 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">713263784</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jan 12 23:32:37 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-2014" exclusive="false" review_shelf_id="1233723747" sortable="false" />
+    <shelf name="1-star" exclusive="false" review_shelf_id="1233723725" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 12 23:32:37 -0800 2015</date_added>
+  <date_updated>Tue Feb 23 19:53:44 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[You could tell this shit was written by a thirteen year old. ]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1166746044]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1166746044]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

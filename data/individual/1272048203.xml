@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1272048203</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12813630</id>
+  <isbn>0316213101</isbn>
+  <isbn13>9780316213103</isbn13>
+  <text_reviews_count type="integer">4695</text_reviews_count>
+  <title>The Coldest Girl in Coldtown</title>
+  <image_url>https://d.gr-assets.com/books/1367312471m/12813630.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1367312471s/12813630.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12813630-the-coldest-girl-in-coldtown</link>
+  <num_pages>419</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>34034</ratings_count>
+  <description>Tana lives in a world where walled cities called Coldtowns exist. In them, quarantined monsters and humans mingle in a decadently bloody mix of predator and prey. The only problem is, once you pass through Coldtown's gates, you can never leave.&lt;br&gt;&lt;br&gt;One morning, after a perfectly ordinary party, Tana wakes up surrounded by corpses. The only other survivors of this massacre are her exasperatingly endearing ex-boyfriend, infected and on the edge, and a mysterious boy burdened with a terrible secret. Shaken and determined, Tana enters a race against the clock to save the three of them the only way she knows how: by going straight to the wicked, opulent heart of Coldtown itself.&lt;br&gt;&lt;br&gt;&lt;em&gt;The Coldest Girl in Coldtown&lt;/em&gt; is a wholly original story of rage and revenge, of guilt and horror, and of love and loathing from bestselling and acclaimed author Holly Black.</description>
+<authors>
+<author>
+<id>25422</id>
+<name>Holly Black</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1261867163p5/25422.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1261867163p2/25422.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25422.Holly_Black]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>536307</ratings_count>
+<text_reviews_count>46301</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825151</id>
+          <old_status>1-star</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:27 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1246271593</id>
+          <old_status>read</old_status>
+          <status>1-star</status>
+          <updated_at type="datetime">Sat Feb 20 21:15:02 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">850060856</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon May 04 20:12:11 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-2014" exclusive="false" review_shelf_id="1232642474" sortable="false" />
+    <shelf name="1-star" exclusive="false" review_shelf_id="1232642498" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2015</read_at>
+  <date_added>Mon May 04 20:12:11 -0700 2015</date_added>
+  <date_updated>Sun Feb 21 22:31:27 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I've come to the conclusion that Holly Black just isn't for me. Read two of her books and both sucked. You'd better bet that I'm not touching that faerie series of hers. ]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>130953852</id>
+  <body><![CDATA[I completely agree... I don't really get what all the hype is about.]]></body>
+  
+  <user>
+    <id>41948577</id>
+    <name>Ishika</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41948577-ishika]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1428433605p3/41948577.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1428433605p2/41948577.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jun 27 16:26:40 -0700 2015</created_at>
+  <updated_at>Sat Jun 27 16:26:40 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1272048203]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1272048203]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

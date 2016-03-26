@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>513898435</id>
+    
+  <user>
+    <id>6478831</id>
+    <name>Charlotte</name>
+
+    <location>Millbrook, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6478831-charlotte]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">590708</id>
+  <isbn>0842384073</isbn>
+  <isbn13>9780842384070</isbn13>
+  <text_reviews_count type="integer">76</text_reviews_count>
+  <title>Soon: The Beginning of the End (Underground Zealot, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1406510819m/590708.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1406510819s/590708.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/590708.Soon</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tyndale House Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>3579</ratings_count>
+  <description>2004 Christy Fiction award winner! Paul Stepola, an agent working for the National Peacekeeping Organization (NPO), has been assigned to enforce compliance with the world government's prohibition on religion. Paul relishes his job and is good at it. He is determined to expose underground religion—flush it out, expose it, and kill it—until his life is turned upside down and he is forced to look at life in a different way. As Paul begins to unravel the truth about what he has found, events taking place around the world start to make sense. Something big is coming—something that can't be stopped. And it is coming "soon."</description>
+<authors>
+<author>
+<id>15412</id>
+<name>Jerry B. Jenkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1428529036p5/15412.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1428529036p2/15412.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15412.Jerry_B_Jenkins]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>451064</ratings_count>
+<text_reviews_count>9981</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="no" exclusive="false" review_shelf_id="347083541" sortable="false" />
+    <shelf name="ew" exclusive="false" review_shelf_id="347083811" sortable="false" />
+    <shelf name="get-away" exclusive="false" review_shelf_id="347083712" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jan 22 09:28:59 -0800 2013</date_added>
+  <date_updated>Fri Feb 22 16:33:33 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[The biggest problem I have with this book is <em>absolutely NOTHING happens!</em>]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/513898435]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/513898435]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

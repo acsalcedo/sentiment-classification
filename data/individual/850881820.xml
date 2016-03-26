@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>850881820</id>
+    
+  <user>
+    <id>922495</id>
+    <name>Patrick</name>
+
+    <location>Freedom, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/922495-patrick]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1351307095p3/922495.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1351307095p2/922495.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">194755</id>
+  <isbn>0224064924</isbn>
+  <isbn13>9780224064927</isbn13>
+  <text_reviews_count type="integer">638</text_reviews_count>
+  <title>Esio Trot</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/194755.Esio_Trot</link>
+  <num_pages>80</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Jonathan Cape Children's Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.73</average_rating>
+  <ratings_count>20540</ratings_count>
+  <description>Mr. Hoppy is in love with Mrs. Silver, but her heart belongs to Alfie, her pet tortoise. Mr. Hoppy is too shy to approach Mrs. Silver, until one day he comes up with a brilliant idea to win her heart. If Mr. Hoppy's plan works, Mrs. Silver will certainly fall in love with him. But it's going to take one hundred and forty tortoises, an ancient spell, and a little bit of magic.</description>
+<authors>
+<author>
+<id>4273</id>
+<name>Roald Dahl</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1311554908p5/4273.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1311554908p2/4273.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4273.Roald_Dahl]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>2018258</ratings_count>
+<text_reviews_count>50438</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">315341400</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 10 09:23:47 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>1898</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Feb 10 00:00:00 -0800 2014</read_at>
+  <date_added>Mon Feb 10 09:23:47 -0800 2014</date_added>
+  <date_updated>Thu Oct 15 19:38:17 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<br />Fuck this book. Don't read it to your kids. That's the short version.<br /><br />If you want the longer version, settle in. We're going to have a bumpy ride.<br /><br />Also. There's spoilers here. And cussing. And some indignation. Be warned.<br /><br />I've always thought of myself as a bit of Roald Dahl fan. I read BFG growing u...]]>
+  </body>
+  <comments_count>223</comments_count>
+    <comments start="1" end="50" total="223">
+        <comment>
+  <id>92498962</id>
+  <body><![CDATA[Your version is much better! ;-&gt;]]></body>
+  
+  <user>
+    <id>12554340</id>
+    <name>Tari</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12554340-tari]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1371520347p3/12554340.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1371520347p2/12554340.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:32:31 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:32:31 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499062</id>
+  <body><![CDATA[And this, my friends, is how you parent.<br><br>Good show.]]></body>
+  
+  <user>
+    <id>26183090</id>
+    <name>Tim</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26183090-tim-johnson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1385966516p3/26183090.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1385966516p2/26183090.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:34:38 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:34:38 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499114</id>
+  <body><![CDATA[Boy, your version sounds like a great book. Hope you write an actual kids book someday (as opposed to a book that looks like one but would actually permanently damage my toddler haha).]]></body>
+  
+  <user>
+    <id>247727</id>
+    <name>Chris</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/247727-chris-mcgrath]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447945503p3/247727.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447945503p2/247727.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:35:36 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:35:36 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499216</id>
+  <body><![CDATA[I would pay for this review! Great ending!]]></body>
+  
+  <user>
+    <id>19642429</id>
+    <name>Sander</name>
+
+    <location>Leopoldsburg, 05, Belgium</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19642429-sander-reynders]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1366567576p3/19642429.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1366567576p2/19642429.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:37:29 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:37:29 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499286</id>
+  <body><![CDATA[There are a lot of "problematic" things about Roald Dahl, and his writings.]]></body>
+  
+  <user>
+    <id>27978892</id>
+    <name>Bryan</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27978892-bryan-wong]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1390501210p3/27978892.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1390501210p2/27978892.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:39:10 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:39:10 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499385</id>
+  <body><![CDATA[He is going to be so pissed when he goes to read that version to his kids. You should write it down so he has something to go with.]]></body>
+  
+  <user>
+    <id>4147587</id>
+    <name>Liam</name>
+
+    <location>Edmonton, AB, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4147587-liam-johnstone]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1304096659p3/4147587.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1304096659p2/4147587.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:40:47 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:40:47 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499425</id>
+  <body><![CDATA[Thanks for saving the story! Sort of like what everone has done to Grimm's fairy tales]]></body>
+  
+  <user>
+    <id>10176697</id>
+    <name>Kevin</name>
+
+    <location>Middletown, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10176697-kevin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1339536308p3/10176697.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1339536308p2/10176697.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:41:29 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:41:29 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499500</id>
+  <body><![CDATA[Did you REALLY watch Charlie and the Chocolate Factory? Because I'm not sure it (either version) is really great fodder for children either. The moral seems to be ' only screw someone over a little'. <br>Never read Georges Marvelous Medicine because it advocates poisoning your old granny because you don't like her much.<br>Loved Roald Dhal as a kid, but as an adult... But then when I was wee it was either him or Enid Blyton. <br>Now, plz go write some decent kids books.]]></body>
+  
+  <user>
+    <id>6976301</id>
+    <name>Ann</name>
+
+    <location>Glasgow, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6976301-ann]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1321444432p3/6976301.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1321444432p2/6976301.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:42:58 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:42:58 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499517</id>
+  <body><![CDATA[Wow good for you! I also like your version much better! Thank you for helping to keep some decency in this world :)]]></body>
+  
+  <user>
+    <id>27642732</id>
+    <name>Joan</name>
+
+    <location>Seymour, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27642732-joan-swanson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1389628015p3/27642732.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1389628015p2/27642732.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:43:16 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:43:16 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499566</id>
+  <body><![CDATA[Good review! Sounds like you're a great father.]]></body>
+  
+  <user>
+    <id>28565536</id>
+    <name>Tim</name>
+
+    <location>Stevens Point, WI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28565536-tim-thornburg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1392054087p3/28565536.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1392054087p2/28565536.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:44:09 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:44:09 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499608</id>
+  <body><![CDATA[You lost me at "I watched Charlie and the Chocolate Factory and loved it". As far as I am concerned being a fan of Dahl and liking those films are mutually exclusive.<br><br>I would be interested though to see what your thoughts on how literature ages, and especially how it relates to children's books. If you argue that no books that carry a message that is not compatible with modern viewpoints on behaviour, gender roles or the emotional link to pets then you are losing a vast swathe of literature, which would be a great shame. <br><br>Esio Trot may be a second rate book by an otherwise great children's author, but I would argue that the themes it explores where valid at the point it was written and it does not deserve the vitriol you have thrown at it.]]></body>
+  
+  <user>
+    <id>8941478</id>
+    <name>Carl</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8941478-carl-phillips]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:44:53 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:44:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499623</id>
+  <body><![CDATA[Patrick, much as I love Kvothe and company, I cannot feel but that you are missing the point of Dahl.<br><br>Dahl is dark, even at his lightest. This is a light story, but as you can expect in any of his works there is a twisted element to the story. However consider that in the end, no animals are hurt, a little girl gets a pet, and the couple are happy ever after. That's not bad by Dahl standards.<br><br>Sure there is a 'trick' which is the core of the courtship, but really they would hardly have been happy together if that was all there was to the relationship. Really it's an over complex means by which our 'protagonist' can express his feelings to the object of his love. That she isn't the brightest bulb in the box is just a character trait. It's not like Dahl was shy of writing strong female characters.<br><br>Further Dahl is being somewhat of a realist. Many relationships in the real world are built on even worses bases than this. You are someone who I would expect to appreciate not feeding sweetness and roses tales to kids.<br><br>So sure you might prefer a different story, but then that would be your story, not Dahl's. <br><br>Your opinion if of course your own, and no one can expect you to like that which you do not. However I think your critique is simply missing the point of Dahl in general: the world is weird, a bit dark, but despite all of that, and the weirdness of people, you can find happiness.]]></body>
+  
+  <user>
+    <id>19397008</id>
+    <name>William</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/19397008-william-quinn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1365901571p3/19397008.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1365901571p2/19397008.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:45:18 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:45:18 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499640</id>
+  <body><![CDATA[<em>Tari wrote: "Your version is much better! ;-&gt;"</em><br><br>Yeah, i like this one better]]></body>
+  
+  <user>
+    <id>8897860</id>
+    <name>Xetws</name>
+
+    <location>São Paulo, SP, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8897860-xetws]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1428593032p3/8897860.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1428593032p2/8897860.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:45:32 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:45:32 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499652</id>
+  <body><![CDATA[Yes, write it your version down.. Much better telling..]]></body>
+  
+  <user>
+    <id>5137187</id>
+    <name>Christine</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5137187-christine-perry]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1300318836p3/5137187.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1300318836p2/5137187.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:45:53 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:45:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499654</id>
+  <body><![CDATA[As a woman who used to read this book as a little girl, I have to say that I only cared about the turtles, not the marriage or the secret love XD I feel awful, Pat, you destroy my childhood, hahahahaha. No, just joking, I LOVE Matilda and I discovered Roald Dahl with that book, but then I read his book about witches and it scared me to death, so I lost my faith, hahahaha.]]></body>
+  
+  <user>
+    <id>20795562</id>
+    <name>Beatriz</name>
+
+    <location>Granada, Spain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/20795562-beatriz]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1421610365p3/20795562.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1421610365p2/20795562.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:45:54 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:45:54 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499667</id>
+  <body><![CDATA[I have to say, I'd never read this book despite growing up with the "BFG" myself and loving it very much. I'm now rather relieved that I never read it. I'm not comfortable with what's being presented as acceptable in the story and I wouldn't want my kids exposed to it. I'm glad you found a way to change things around and give Oot a better story even if he did know it wasn't the original. One day, he'll read it himself and know you gave him a story that was better than the original and be grateful to have a dad that cared enough about him to make something like that up on the fly.<br><br>Also, I'm glad I'm not the only one that didn't love "James and the Giant Peach."]]></body>
+  
+  <user>
+    <id>9614623</id>
+    <name>Charlotte</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9614623-charlotte-austen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1337359294p3/9614623.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1337359294p2/9614623.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:46:05 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:46:05 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499751</id>
+  <body><![CDATA[My kids loved most of Dahl's books, but not Esio Trot. They very much enjoyed George's Marvelous Medicine. The grandmother is horrible. Kids understand that there is evil in the world.]]></body>
+  
+  <user>
+    <id>11311159</id>
+    <name>Alison</name>
+
+    <location>Tucson, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11311159-alison]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1343328557p3/11311159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1343328557p2/11311159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:47:33 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:47:33 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499822</id>
+  <body><![CDATA[Good story, I like your version much better. We listen to Audiobooks in the car on the way to and from school and I always skip over this one when we're listening to Roald Dahl.]]></body>
+  
+  <user>
+    <id>10868620</id>
+    <name>Kaely</name>
+
+    <location>Slidell, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10868620-kaely]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1342020659p3/10868620.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1342020659p2/10868620.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:49:14 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:49:14 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499940</id>
+  <body><![CDATA[This coming from the author of "The Adventures of the Princess and Mr. Whiffle." Roald Dahl stories always have darker subtext and twists. I get that your son is very young and that your version teaches a much more simplistic and palatable moral, but your critique is toward young adult books. Terrible stories and terrible morals abound in fiction and reality; yet all can be tools to learn.]]></body>
+  
+  <user>
+    <id>7846063</id>
+    <name>John</name>
+
+    <location>Lehi, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7846063-john]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1392054805p3/7846063.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1392054805p2/7846063.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:51:41 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:51:41 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92499960</id>
+  <body><![CDATA[So this is the first time in my life that a book review has brought me to tears. Oot and Cutie Snoo will be brought up as people who actually give a shit about the feelings of others. Your writing has always impressed me, your parenting style is EPIC.]]></body>
+  
+  <user>
+    <id>18575526</id>
+    <name>Lori</name>
+
+    <location>Taylor, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18575526-lori-mcauliffe-niemtschk]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363844788p3/18575526.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363844788p2/18575526.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:52:16 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:52:16 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500025</id>
+  <body><![CDATA[Yep, I have to say your version of Esio Trot is much more to my taste.]]></body>
+  
+  <user>
+    <id>1745460</id>
+    <name>Moondancer</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1745460-moondancer-drake]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1278275754p3/1745460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1278275754p2/1745460.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:53:28 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:53:28 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500035</id>
+  <body><![CDATA[Are Roald Dahl's works public domain yet? Can't you have some sort of "Pride And Prejudice And Zombies" arrangement?]]></body>
+  
+  <user>
+    <id>22240675</id>
+    <name>D.</name>
+
+    <location>Hyattsville, MD</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22240675-d]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373940965p3/22240675.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373940965p2/22240675.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:53:42 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:53:42 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500112</id>
+  <body><![CDATA[I always thought it was particularly cruel to Alfie that he was discarded after 11 years.]]></body>
+  
+  <user>
+    <id>7290580</id>
+    <name>Elisabeth</name>
+
+    <location>Concord, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7290580-elisabeth-jewell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1326669653p3/7290580.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1326669653p2/7290580.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:55:36 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:55:36 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500224</id>
+  <body><![CDATA[Trust Pat to turn even a questionable book into an entertaining story!]]></body>
+  
+  <user>
+    <id>9080084</id>
+    <name>The Bookwyrm&apos;s Hoard</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9080084-the-bookwyrm-s-hoard]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1359500529p3/9080084.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1359500529p2/9080084.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:57:33 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:57:33 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500311</id>
+  <body><![CDATA[well done]]></body>
+  
+  <user>
+    <id>5880715</id>
+    <name>David</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5880715-david-nowlin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1311631639p3/5880715.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1311631639p2/5880715.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 09:59:11 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 09:59:11 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500423</id>
+  <body><![CDATA[Have to agree with William Quinn over here: your critique is missing the point :/]]></body>
+  
+  <user>
+    <id>7978593</id>
+    <name>Paul Martin</name>
+
+    <location>Oslo, Norway</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7978593-paul-martin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1441224499p3/7978593.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1441224499p2/7978593.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:01:16 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:01:16 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500557</id>
+  <body><![CDATA[LOL, I've never read this Dahl book and I spent some time pretty obsessed with him in the early years. I suspect my mother may have edited this from the collection now, totally going to ask her. Knowing her she probably just didn't like the pet being discarded and knew I'd cry over it for months.<br>I used to cry over the trix commercials because no one would give the rabbit any trix. *sigh*]]></body>
+  
+  <user>
+    <id>7475930</id>
+    <name>Amber</name>
+
+    <location>Corning, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7475930-amber]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455990262p3/7475930.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455990262p2/7475930.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:03:50 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:03:50 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500648</id>
+  <body><![CDATA[<em>John wrote: "This coming from the author of "The Adventures of the Princess and Mr. Whiffle." Roald Dahl stories always have darker subtext and twists. I get that your son is very young and that your version te..."</em><br><br>The Princess &amp; Mr. Whiffle has a sticker on it that says "This shit is not for kids." (Which is perhaps why my two-year-old daughter refuses to open it.)]]></body>
+  
+  <user>
+    <id>12086557</id>
+    <name>Matt</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12086557-matt-weber]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442946941p3/12086557.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442946941p2/12086557.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:05:28 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:05:28 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500741</id>
+  <body><![CDATA[You are an EXCELLENT parent. And not a half-bad writer...]]></body>
+  
+  <user>
+    <id>8451911</id>
+    <name>April</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8451911-april]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442647994p3/8451911.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442647994p2/8451911.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:07:27 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:07:27 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500762</id>
+  <body><![CDATA[Your story reminds me of the Grandpa (I miss Peter Falk!) reading The Princess Bride to little Fred Savage. He only read the good parts of the book..... you just had to insert your own. :)]]></body>
+  
+  <user>
+    <id>1090305</id>
+    <name>Jbarth</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1090305-jbarth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1377724910p3/1090305.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1377724910p2/1090305.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:08:03 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:08:03 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500876</id>
+  <body><![CDATA[Beautiful review! My daughter is 4 years old and I try my best to filter out the garbage they consider literature. The other day she asked me to read Dracula to her. I told her she needed a few more years to read that one. Great review!]]></body>
+  
+  <user>
+    <id>4159427</id>
+    <name>Athena Shardbearer</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4159427-athena-shardbearer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452008771p3/4159427.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452008771p2/4159427.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:10:30 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:10:30 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92500894</id>
+  <body><![CDATA[Yes. I read it to my kid. Thankfully he was like, I think I'll play with my cars and ignore you while you read, but don't leave because then the lights go out and I can't see my cars. In the end. Huge, huge, creepy mehs.]]></body>
+  
+  <user>
+    <id>1992176</id>
+    <name>Amanda</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1992176-amanda-allen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442896749p3/1992176.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442896749p2/1992176.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:10:42 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:10:42 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92501312</id>
+  <body><![CDATA[Have you started on the Shel Silverstein books? A hell of a lot better than Roald Dahl and there is always Steven Manes's Chicken Trek. I fondly remember this insanely weird book from childhood.]]></body>
+  
+  <user>
+    <id>910729</id>
+    <name>Elizabeth</name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/910729-elizabeth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1321841773p3/910729.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1321841773p2/910729.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:19:20 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:19:20 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92501519</id>
+  <body><![CDATA[Well done, sir. :)]]></body>
+  
+  <user>
+    <id>3176772</id>
+    <name>Gabrielle</name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3176772-gabrielle-harbowy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442526599p3/3176772.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442526599p2/3176772.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:24:02 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:24:02 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92501547</id>
+  <body><![CDATA[I love your rewrite. Brilliant!!]]></body>
+  
+  <user>
+    <id>3590847</id>
+    <name>Angie</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3590847-angie-keyes]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1272926303p3/3590847.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1272926303p2/3590847.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:24:30 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:24:30 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92501619</id>
+  <body><![CDATA[I'm thankful there are parents (and authors) like you out there.]]></body>
+  
+  <user>
+    <id>4805160</id>
+    <name>Elika</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4805160-elika]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1415301093p3/4805160.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1415301093p2/4805160.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:26:03 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:26:03 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92501688</id>
+  <body><![CDATA[Haha! You are amazing. I loved the ending of your review. :-)]]></body>
+  
+  <user>
+    <id>9521302</id>
+    <name>Emelie</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9521302-emelie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1364133594p3/9521302.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1364133594p2/9521302.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:27:18 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:27:18 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92501714</id>
+  <body><![CDATA[Your version is much better. But you know when he grows up you are going to have to come clean all the way before he picks that book up to read to his own son, because you love him, you did such a good job.]]></body>
+  
+  <user>
+    <id>25663758</id>
+    <name>Jana</name>
+
+    <location>Albuquerque, NM</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/25663758-jana-knight]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1384533720p3/25663758.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1384533720p2/25663758.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:27:53 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:27:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92501785</id>
+  <body><![CDATA[You are my hero for telling it like it is Pat. Kids books are not supposed to be stupid. They are not supposed to be full of plot holes or the kind of junk you pointed out. Amen.]]></body>
+  
+  <user>
+    <id>21851401</id>
+    <name>Kenneth</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21851401-kenneth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373057320p3/21851401.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373057320p2/21851401.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:29:36 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:29:36 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502007</id>
+  <body><![CDATA[If you read other Dahl stories (and his Revolting Rhymes) you will see that he is deliberately subverting the idea of childhood innocence, and appealing to the devilment in children. It is entirely tongue in cheek. If the child is old enough to read it themselves, then they know this; if not then the parent does and uses their tone of voice to portray it. Children's literature has come a long way since the days of monotonous moralistic and instrumental works like Little Women (and your version above).<br><br>I am a great fan of your work (and usually your blogs) but if I'm honest I think your version is tedious and insipid. As a parent you have to think about your child and obviously their age needs to be accounted, I don't know how old your child is but I will continue (like tens of millions of others) to read Dahl to my kids, and not the drivel you came up with.<br><br>If you don't want your child hearing it, then don't tell it. Your aggressive rant is completely inconsistent with the context, and aside from the swearing you sound like(ironically) a ranting child.]]></body>
+  
+  <user>
+    <id>9190411</id>
+    <name>Paul</name>
+
+    <location><![CDATA[Waterlooville, F2, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9190411-paul]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:34:04 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:34:04 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502127</id>
+  <body><![CDATA[I agree that Esio Triot is not Dahl's best work, and I do like your version better. However, if you've only ever read one other Dahl book, you're missing out.<br><br>He has written some wonderful, empowering, exhilarating fiction for kids. I hope you'll try Matilda, or Fantastic Mr. Fox, or especially Danny the Champion of the World.<br><br>I also hope you don't keep Oot and Cutie from reading any of his other books, based on your experience with this one.]]></body>
+  
+  <user>
+    <id>23777686</id>
+    <name>Thea</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23777686-thea]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1428674270p3/23777686.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1428674270p2/23777686.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:36:12 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:36:12 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502415</id>
+  <body><![CDATA[Woah! As someone who also grew up reading the BFG (along with my 4 siblings) I can't believe this is now what's flowing from this author's pen. I would never read that to a child - I think what you did was great, but it's really absurd that it had to be done at all. Who "green lights" a book like that???]]></body>
+  
+  <user>
+    <id>10269665</id>
+    <name>Amanda</name>
+
+    <location>Phoenix, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10269665-amanda]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357516207p3/10269665.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357516207p2/10269665.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:41:45 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:41:45 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502426</id>
+  <body><![CDATA[Have you read The Boxcar Children? Or Nancy Drew, or the Hardy Boys? The Boxcar Children has some pretty obvious gender roles, but that was due to when it was written I think. Has some wonderfully strong child characters, and a lesson that just because someone might seem scary at first doesn't mean that they aren't nice. Canary Red is a fabulous book about a girl who's mother is dead and her father gets out of prison and has custody. Only he went in when she was a baby and they don't know one another. And yes, it's YA. Another book that teaches tolerence and understanding.]]></body>
+  
+  <user>
+    <id>1090549</id>
+    <name>Tia</name>
+
+    <location>Kirkland, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1090549-tia]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:41:55 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:41:55 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502493</id>
+  <body><![CDATA[If it only would be so easy between Kvothe and Denna :P]]></body>
+  
+  <user>
+    <id>21958904</id>
+    <name>Phezh</name>
+
+    <location>Darmstadt, 05, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21958904-phezh]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:43:35 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:43:35 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502555</id>
+  <body><![CDATA[This makes me think about that article where Michelle Nijhuis talks about gender-swapping the main characters of books she reads to her kids, most notably making Bilbo a girl in The Hobbit. Thought it was a fascinating kind of reversal, and intriguing food for thought. :)]]></body>
+  
+  <user>
+    <id>7399763</id>
+    <name>Evan</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7399763-evan-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1326302375p3/7399763.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1326302375p2/7399763.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:44:44 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:44:44 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502594</id>
+  <body><![CDATA[Loved your rewrite!]]></body>
+  
+  <user>
+    <id>141484</id>
+    <name>Sally</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/141484-sally-myers]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:45:37 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:45:37 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92502894</id>
+  <body><![CDATA[What a wonderful story you created out of an unpleasant beginning! I second the comments here when people urge you to put your version of the story in writing -- for Oot if not for the rest of the world. I never read much Dahl growing up - I was more of a Dr. Seuss, Mother Goose, Grimm's Fairy Tales (the original versions) and Shel Silverstein person growing up. Thus, those are the authors I read to my son as a child.]]></body>
+  
+  <user>
+    <id>7394371</id>
+    <name>Jennifer</name>
+
+    <location>Sandy Hook, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7394371-jennifer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1326245583p3/7394371.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1326245583p2/7394371.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:51:14 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:51:14 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92503096</id>
+  <body><![CDATA[Pat. Can you rewrite the Twilight books before your son is old enough to read them? ;)<br><br>* I've not read them, just about them.]]></body>
+  
+  <user>
+    <id>3503344</id>
+    <name>Riff</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3503344-riff]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1448631962p3/3503344.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1448631962p2/3503344.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 10:54:57 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 10:54:57 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92503391</id>
+  <body><![CDATA[Im just stopping by to say that it is pretty cool to see a bestselling author (even better - a good one) write a book review, Ive been following your reviews for a while and Im really impressed by how down to earth you are as a person :))]]></body>
+  
+  <user>
+    <id>7518512</id>
+    <name>Elena</name>
+
+    <location>Plovdiv, 42, Bulgaria</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7518512-elena]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1327422685p3/7518512.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1327422685p2/7518512.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 11:00:54 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 11:00:54 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>92503501</id>
+  <body><![CDATA[You're awesome, Rothfuss. Even with reviews you can do something nice.]]></body>
+  
+  <user>
+    <id>28567174</id>
+    <name>Allan</name>
+
+    <location>Vina Del Mar, 01, Chile</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28567174-allan-verdessi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1392058067p3/28567174.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1392058067p2/28567174.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 10 11:03:12 -0800 2014</created_at>
+  <updated_at>Mon Feb 10 11:03:12 -0800 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/850881820]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/850881820]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

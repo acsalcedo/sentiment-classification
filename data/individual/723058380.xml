@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>723058380</id>
+    
+  <user>
+    <id>576123</id>
+    <name>Debbi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576123-debbi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193486403p3/576123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193486403p2/576123.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7847478</id>
+  <isbn>1854249681</isbn>
+  <isbn13>9781854249685</isbn13>
+  <text_reviews_count type="integer">52</text_reviews_count>
+  <title>A Very Private Grave (Monastery Murders, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1281865795m/7847478.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1281865795s/7847478.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7847478-a-very-private-grave</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Monarch Books</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>139</ratings_count>
+  <description>Felicity Howard, a young American studying at the College of the Transfiguration in Yorkshire, is devastated when she finds her beloved Fr. Dominic bludgeoned to death and Fr. Antony, her church history lecturer, soaked in his blood ... 'A Very Private Grave' is a contemporary novel with a thoroughly modern heroine who must learn some ancient truths in order to solve the mystery and save her own life as she and Fr. Antony flee a murderer and follow clues that take them to out-of-the way sites in northern England and southern Scotland. The narrative skillfully mixes detection, intellectual puzzles, spiritual aspiration, romance, and the solving of clues ancient and modern.</description>
+<authors>
+<author>
+<id>56147</id>
+<name>Donna Fletcher Crow</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1268244501p5/56147.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1268244501p2/56147.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/56147.Donna_Fletcher_Crow]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>824</ratings_count>
+<text_reviews_count>259</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">227656987</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Dec 02 06:08:24 -0800 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">189109519</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Oct 23 16:19:14 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">157384222</id>
+          <old_status>read</old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Wed Sep 18 17:42:16 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">157383224</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Sep 18 17:41:00 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="515126607" sortable="false" />
+    <shelf name="history" exclusive="false" review_shelf_id="515126623" sortable="false" />
+    <shelf name="read-in-2013" exclusive="false" review_shelf_id="537014004" sortable="false" />
+    <shelf name="waste-of-time" exclusive="false" review_shelf_id="562988990" sortable="false" />
+    <shelf name="mysteries" exclusive="false" review_shelf_id="515126643" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 23 00:00:00 -0700 2013</started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 18 17:41:00 -0700 2013</date_added>
+  <date_updated>Mon Dec 02 06:08:38 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[A disappointment. It had so much potential too.. but then I read on another review that the author is a romance book writer, and then it all made sense: The cookie cutter characters, the silly plot, and the oh so obvious murderer. <br /><br />The only positive is that it does make me want to read the Venerab...]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/723058380]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/723058380]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

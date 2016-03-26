@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1555369413</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17849112</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1455</text_reviews_count>
+  <title>World After (Penryn &amp; the End of Days, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1423238855m/17849112.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1423238855s/17849112.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17849112-world-after</link>
+  <num_pages>320</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Skyscape</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>54927</ratings_count>
+  <description>In this sequel to the bestselling fantasy thriller, &lt;em&gt;Angelfall&lt;/em&gt;, the survivors of the angel apocalypse begin to scrape back together what's left of the modern world.&lt;br&gt;&lt;br&gt;When a group of people capture Penryn's sister Paige, thinking she's a monster, the situation ends in a massacre. Paige disappears. Humans are terrified. Mom is heartbroken.&lt;br&gt;&lt;br&gt;Penryn drives through the streets of San Francisco looking for Paige. Why are the streets so empty? Where is everybody? Her search leads her into the heart of the angels' secret plans where she catches a glimpse of their motivations, and learns the horrifying extent to which the angels are willing to go.&lt;br&gt;&lt;br&gt;Meanwhile, Raffe hunts for his wings. Without them, he can't rejoin the angels, can't take his rightful place as one of their leaders. When faced with recapturing his wings or helping Penryn survive, which will he choose?</description>
+<authors>
+<author>
+<id>4890182</id>
+<name>Susan Ee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1370738953p5/4890182.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1370738953p2/4890182.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4890182.Susan_Ee]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>187683</ratings_count>
+<text_reviews_count>22450</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825162</id>
+          <old_status>1-star</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:28 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1246271603</id>
+          <old_status>read</old_status>
+          <status>1-star</status>
+          <updated_at type="datetime">Sat Feb 20 21:15:03 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1246256049</id>
+          <old_status>1-star</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 20 20:58:38 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1246255684</id>
+          <old_status>read</old_status>
+          <status>1-star</status>
+          <updated_at type="datetime">Sat Feb 20 20:58:19 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1246207706</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Feb 20 20:11:20 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="pre-2014" exclusive="false" review_shelf_id="1232603856" sortable="false" />
+    <shelf name="1-star" exclusive="false" review_shelf_id="1232597421" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 20 20:11:19 -0800 2016</date_added>
+  <date_updated>Sun Feb 21 22:31:27 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Huge disappointment. :( 
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1555369413]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1555369413]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

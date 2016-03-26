@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1495482218</id>
+    
+  <user>
+    <id>1391045</id>
+    <name>Nikole</name>
+
+    <location>Worcester, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1391045-nikole]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1236101111p3/1391045.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1236101111p2/1391045.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6263078</id>
+  <isbn>1423119924</isbn>
+  <isbn13>9781423119920</isbn13>
+  <text_reviews_count type="integer">773</text_reviews_count>
+  <title>Miles to Go</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6263078-miles-to-go</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>7871</ratings_count>
+  <description>&lt;br&gt;&lt;strong&gt;
+  &lt;em&gt;"There are multiple sides to all of us.&lt;/em&gt;
+&lt;/strong&gt;&lt;em&gt; &lt;strong&gt;Who we are and who we might be if we follow our dreams."&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt; -&lt;strong&gt;Miley Cyrus&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Three years ago, Miley Cyrus was a virtual unknown. Her life in rural Tennessee was filled with family, friends, school, cheerleading, and the daily tasks of living on a farm. And then came a little show called &lt;em&gt;Hannah Montana&lt;/em&gt;. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Almost overnight, Miley would rocket to superstardom, becoming a television and singing phenomenon. Quiet days were replaced with sold-out concerts, television appearances, and magazine shoots. But through it all, Miley has remained close to her family and friends and has stayed connected to the Southern roots that made her so strong. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;In &lt;em&gt;Miles to Go, &lt;/em&gt;Miley offers an honest, humorous, and often touching story of one girl's coming-of-age--from private moments with her pappy to off-roading with her dad, Billy Ray, to her run-ins with mean girls. Miley talks about suffering through drama and heartbreak and coming out the other end unscathed (relatively). And now for the first time, she will discuss it all-the milestones still left to reach (driver's license! voting!), dreams to live out (travel to Asia! find true love!), and the lessons to be learned (remembernig to enjoy every moment!). &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;This is a truly unique look inside the world of one of today's biggest and brightest stars as she tackles looking back and moving forward.</description>
+<authors>
+<author>
+<id>990148</id>
+<name>Miley Cyrus</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434338836p5/990148.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1434338836p2/990148.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/990148.Miley_Cyrus]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>9362</ratings_count>
+<text_reviews_count>910</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1153077064</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jan 04 15:56:14 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 04 15:57:32 -0800 2016</read_at>
+  <date_added>Mon Jan 04 15:56:13 -0800 2016</date_added>
+  <date_updated>Mon Jan 04 15:57:32 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Boring.... nothing of note happened. Perhaps it's meant for a younger crowd.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1495482218]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1495482218]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

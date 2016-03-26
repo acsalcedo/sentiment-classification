@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>22779567</id>
+    
+  <user>
+    <id>733629</id>
+    <name>Chris</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/733629-chris]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1199331851p3/733629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1199331851p2/733629.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1618</id>
+  <isbn>1400032717</isbn>
+  <isbn13>9781400032716</isbn13>
+  <text_reviews_count type="integer">26590</text_reviews_count>
+  <title>The Curious Incident of the Dog in the Night-Time</title>
+  <image_url>https://d.gr-assets.com/books/1327882682m/1618.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327882682s/1618.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time</link>
+  <num_pages>226</num_pages>
+  <format>Paperback</format>
+  <edition_information>Vintage Contemporaries</edition_information>
+  <publisher>Vintage</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>820543</ratings_count>
+  <description>Christopher John Francis Boone knows all the countries of the world and their capitals and every prime number up to 7,057. He relates well to animals but has no understanding of human emotions. He cannot stand to be touched. And he detests the color yellow.&lt;br&gt;&lt;br&gt;Although gifted with a superbly logical brain, for fifteen-year-old Christopher everyday interactions and admonishments have little meaning. He lives on patterns, rules, and a diagram kept in his pocket. Then one day, a neighbor's dog, Wellington, is killed and his carefully constructive universe is threatened. Christopher sets out to solve the murder in the style of his favourite (logical) detective, Sherlock Holmes. What follows makes for a novel that is funny, poignant and fascinating in its portrayal of a person whose curse and blessing are a mind that perceives the world entirely literally.</description>
+<authors>
+<author>
+<id>1050</id>
+<name>Mark Haddon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337988298p5/1050.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1337988298p2/1050.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1050.Mark_Haddon]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>862848</ratings_count>
+<text_reviews_count>36485</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1214762033</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Jan 30 08:14:40 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>287</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for><![CDATA[anyone looking for a reason to quit reading cold-turkey]]></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue May 27 00:00:00 -0700 2008</read_at>
+  <date_added>Thu May 22 17:20:20 -0700 2008</date_added>
+  <date_updated>Sun Jan 12 11:38:36 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Absolute garbage. Easily the worst book I’ve read in 2008, and certainly a contender for Worst Book I’ve Ever Read. This crap won the prestigious Whitbread Book of the Year honors, and while I have absolutely no idea what that entails, I firmly support both the eradication of this farcical award...]]>
+  </body>
+  <comments_count>228</comments_count>
+    <comments start="1" end="50" total="228">
+        <comment>
+  <id>1034241</id>
+  <body><![CDATA[my options were limited: 1) enjoy the company of my g/f's family. 2) hang out with a pair of hicks named Wade and Nathan and listen to them assert 'ain't no tornado gunna git me'. 3) read this crap, the only crap i happened to have available. <br><br>this book is terrible.]]></body>
+  
+  <user>
+    <id>733629</id>
+    <name>Chris</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/733629-chris]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1199331851p3/733629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1199331851p2/733629.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jun 23 16:32:57 -0700 2008</created_at>
+  <updated_at>Mon Jun 23 16:32:57 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1036951</id>
+  <body><![CDATA[Ha! I didn't read the book, listened to the audiobook so fortunately was spared the words in bold and diagrams (?!!). I really enjoyed the audio version, guess that was the better format, eh? ]]></body>
+  
+  <user>
+    <id>1020736</id>
+    <name>Stacey</name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1020736-stacey]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1391972803p3/1020736.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1391972803p2/1020736.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jun 23 21:21:22 -0700 2008</created_at>
+  <updated_at>Mon Jun 23 21:21:22 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1037052</id>
+  <body><![CDATA[That was a brilliant review. I don't normally read reviews that ramble on quite that long, but that was seriously entertaining.]]></body>
+  
+  <created_at>Mon Jun 23 21:38:48 -0700 2008</created_at>
+  <updated_at>Mon Jun 23 21:38:48 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1274420</id>
+  <body><![CDATA[This review isn't funny, it's crap. It has almost nothing to do with the book, and what does, doesn't make sense. <em>The Curious Incident</em> is a realistic story from an autistic boy's point of view - the author works with people like that so he should know, right?<br><br>If you didn't like the book, fine. But don't make fun of autistic people just because you don't understand them and you're "tired of hearing about them." It's sick.]]></body>
+  
+  <user>
+    <id>998422</id>
+    <name>MountainLaurel</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/998422-mountainlaurel]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1216649696p3/998422.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1216649696p2/998422.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 21 07:40:00 -0700 2008</created_at>
+  <updated_at>Mon Jul 21 07:40:00 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1276662</id>
+  <body><![CDATA[Wow, what a lot of words just to say you didn't like the book. Why even bother? It just makes you look like an ass.]]></body>
+  
+  <user>
+    <id>224290</id>
+    <name>Katryn</name>
+
+    <location>Jersey City, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/224290-katryn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1186694014p3/224290.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1186694014p2/224290.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 21 11:25:38 -0700 2008</created_at>
+  <updated_at>Mon Jul 21 11:25:38 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1389246</id>
+  <body><![CDATA[Yes, Kathryn. Well said.]]></body>
+  
+  <user>
+    <id>1386254</id>
+    <name>Helen</name>
+
+    <location>Brattleboro, VT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1386254-helen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1217595521p3/1386254.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1217595521p2/1386254.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 02 05:57:56 -0700 2008</created_at>
+  <updated_at>Sat Aug 02 05:57:56 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1395094</id>
+  <body><![CDATA[Helen and Katryn, you missed the point: Chris is releasing some of the frustrated writer in him. He might even have liked The Curious Incident..., but good reviews are good in only one way, while bad reviews allow you to be creative]]></body>
+  
+  <user>
+    <id>1545</id>
+    <name>Renan</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1545-renan]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 03 01:24:56 -0700 2008</created_at>
+  <updated_at>Sun Aug 03 01:24:56 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1395343</id>
+  <body><![CDATA[Then maybe Chris should get a blog, if he wants to rant and rave about the randomest things in creation. Goodreads is for posting your opinion <em>on the book</em>, but what do inbred children and his trip to the Midwest have to do with ANYTHING?]]></body>
+  
+  <user>
+    <id>998422</id>
+    <name>MountainLaurel</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/998422-mountainlaurel]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1216649696p3/998422.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1216649696p2/998422.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 03 04:43:30 -0700 2008</created_at>
+  <updated_at>Sun Aug 03 04:43:30 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1566550</id>
+  <body><![CDATA[(gasp!)<br><br>I mean I didn't like it that much either, but don't murder the book! Whatever made you say such horrible things (and don't tell me to read the book again because I love myself and would like to spare myself from torture)? Your review was knee-slapping funny though.]]></body>
+  
+  <user>
+    <id>308948</id>
+    <name>Paula</name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/308948-paula]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1410236310p3/308948.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1410236310p2/308948.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 20 16:35:20 -0700 2008</created_at>
+  <updated_at>Wed Aug 20 16:35:20 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1632843</id>
+  <body><![CDATA[The only thing more depressing than this review are all the comments proclaiming it to be hysterically funny.<br><br>Essentially Chris' beef with the book is that it's about an Autistic boy and it is evident that Chris really doesn't like the disabled.<br><br>What a stand up guy he obviously is.<br><br>From the ever so rebellious profile image depicting him lighting up to his plagiaristic account of the camp-site denizens, Chris has himself down as a latter day Bill Hicks. However Hicks used abrasion as the delivery tool of a searing observation on the injustices of modern life. He was never simply obnoxious for a cheap laugh. <br><br>I think Chris needs to grow up a little bit.]]></body>
+  
+  <user>
+    <id>974884</id>
+    <name>Matt</name>
+
+    <location>Guildford, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/974884-matt-cole]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 26 13:16:19 -0700 2008</created_at>
+  <updated_at>Tue Aug 26 13:16:19 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1633165</id>
+  <body><![CDATA[He still gave it one star after hating it that much. <br><br>]]></body>
+  
+  <user>
+    <id>361789</id>
+    <name>Myke</name>
+
+    <location>Columbus, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/361789-myke]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1189544382p3/361789.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1189544382p2/361789.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 26 13:46:42 -0700 2008</created_at>
+  <updated_at>Tue Aug 26 13:46:42 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1660107</id>
+  <body><![CDATA[Chris has revealed more about himself than this excellent, perceptive novel.]]></body>
+  
+  <user>
+    <id>1433865</id>
+    <name>Robert</name>
+
+    <location>Bath, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1433865-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1254324661p3/1433865.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1254324661p2/1433865.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Aug 29 05:13:16 -0700 2008</created_at>
+  <updated_at>Fri Aug 29 05:13:16 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1665717</id>
+  <body><![CDATA[Hey Matt,<br><br>I just wanted to post a quick 'thank you', as your comment alerted me that my profile image isn't nearly as effective as conveying the badass-rebel image I ordinarily exude in person. Sure, in the photo I'm lighting a smoke, and we all know how wicked-killer hardcore that is, but I unfortunately had to 'crop' the image prior to uploading, and what you are missing out on are not only my two kickass tattoos (one is a barbed-wire band around my neck, the other is the resulting hybrid of the Hebrew and Chinese characters for the phrase 'against the grain') but also the awesome "Che" shirt that I'm wearing, which I purchased en route to a totally off-the-chain Rage Against The Machine concert (and I exceeded the speed limit and neglected using my turn signals during that entire drive)! <br><br>You also reminded me I need to give credit for the source material that I pilfer all my reviews from. I had to Google Bill Hicks to find out who the hell he was, but after doing so, realized that I did indeed borrow heavily from him in this ridiculously lame waste of time/review. I'd like to thank the late, great George Carlin, from whom I stole word-for-word my review of "The Great Gatsby", Bill Cosby, who I blatantly ripped off in my review of "The Thorn Birds", and Sam Kinison, whom I slavishly emulated in my review of "Les Miserables" (in which I rant "Leper Whore!" whenever I reference the vixen Eponine). A chance encounter with your mother at the nearby Motel 6 allowed my to quote her verbatim in my review of "Infinite Jest" when I plagiaristically stated "my, god it's so big and thick and good!"<br><br>As far as growing up goes; I'm undertaking that magnificent transformation one day at a time. However, as I've actually never posted a comment on someone else's review simply to lambaste the reviewer and the collective taste of those who might have liked it, I'm hesitant to take your advice. Then again, if your post is a review of my review........ hmmm, now this is really presenting a quandary for me. <br>]]></body>
+  
+  <user>
+    <id>733629</id>
+    <name>Chris</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/733629-chris]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1199331851p3/733629.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1199331851p2/733629.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Aug 29 15:05:45 -0700 2008</created_at>
+  <updated_at>Fri Aug 29 15:05:45 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1677093</id>
+  <body><![CDATA[Kathryn,<br><br>Thanks for your comment.<br><br>About my last response to Chris. I actually found his reply very funny and responded in kind.<br><br>It was a joke. I'm sure when he reads it he will appreciate it.<br><br>M]]></body>
+  
+  <user>
+    <id>974884</id>
+    <name>Matt</name>
+
+    <location>Guildford, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/974884-matt-cole]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 31 01:56:20 -0700 2008</created_at>
+  <updated_at>Sun Aug 31 01:56:20 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2265241</id>
+  <body><![CDATA[I actually really hated his comments. He said more about himself than the book and that is not why I was reading the reviews. He seems like a really irritating person and very full of himself. I had trouble with the book too, but I know a kid with Asperger's and I was impressed with the accuracy of the author's portrayal.]]></body>
+  
+  <user>
+    <id>1550867</id>
+    <name>Laura D.</name>
+
+    <location>Eugene, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1550867-laura-d]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1222191193p3/1550867.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1222191193p2/1550867.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 22 11:20:13 -0700 2008</created_at>
+  <updated_at>Wed Oct 22 11:20:13 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2291699</id>
+  <body><![CDATA[Ginnie, I looked at the review that you suggested and I understand what you mean. However, from the research that I have done on Asperger's Syndrome, the effects of which vary with each case, it was obvious that Mark Haddon had gathered much of the same information that I had. Keep in mind Mark Haddon is not autistic so it is impossible for him to know exactly what happens in an autistic mind. This book is perhaps not the best book for autistic people but it does help non-autistic people to understand some of the differences. It is very difficult because the autistic and non-autistic mind function very differently. A non-autistic cannot put themselves into the thought process of an autistic. It is just not possible. I applaud Mark Haddon for trying, even if the only result was to bring further autistic awareness.<br><br>I still really hated Chris' review.]]></body>
+  
+  <user>
+    <id>1550867</id>
+    <name>Laura D.</name>
+
+    <location>Eugene, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1550867-laura-d]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1222191193p3/1550867.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1222191193p2/1550867.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 24 15:16:19 -0700 2008</created_at>
+  <updated_at>Fri Oct 24 15:16:19 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2721266</id>
+  <body><![CDATA[Best review ever.]]></body>
+  
+  <user>
+    <id>568426</id>
+    <name>Antoinette</name>
+
+    <location>Grants Pass, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/568426-antoinette]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1431828451p3/568426.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1431828451p2/568426.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 28 08:44:55 -0800 2008</created_at>
+  <updated_at>Fri Nov 28 08:44:55 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3289720</id>
+  <body><![CDATA[I'd bet just about anything that this review is better writing than the book in question.]]></body>
+  
+  <user>
+    <id>1854001</id>
+    <name>Rick</name>
+
+    <location>Champaign, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1854001-rick]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 06 12:31:11 -0800 2009</created_at>
+  <updated_at>Tue Jan 06 12:31:11 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3815349</id>
+  <body><![CDATA[Wow! I hated the book too! However, not to the point that I would write an overly verbose review primarily chronicling my adventures in camping and then grudge fucking my girlfriend afterwards (I hope she dumped you).<br><br>You're a pretty good writer, albeit a bit pompous and pretentious. And what's up with your profile photo? Why are you wearing two pairs of glasses? ]]></body>
+  
+  <user>
+    <id>632671</id>
+    <name>Joe</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/632671-joe]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1229710327p3/632671.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1229710327p2/632671.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Feb 04 10:30:12 -0800 2009</created_at>
+  <updated_at>Wed Feb 04 10:30:12 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3832335</id>
+  <body><![CDATA[I couldn't make it past paragraph 3 of Chris's review. However, I have enjoyed reading all of these comments. Thanks for the entertainment everybody! ]]></body>
+  
+  <user>
+    <id>186908</id>
+    <name>Sarah</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/186908-sarah]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1184253958p3/186908.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1184253958p2/186908.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Feb 05 09:30:49 -0800 2009</created_at>
+  <updated_at>Thu Feb 05 09:30:49 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3915479</id>
+  <body><![CDATA[This review is one of the most beautiful things I have ever read.]]></body>
+  
+  <user>
+    <id>1682081</id>
+    <name>Cassandra</name>
+
+    <location>Wadsworth, IL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1682081-cassandra]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1237126997p3/1682081.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1237126997p2/1682081.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Feb 10 00:08:28 -0800 2009</created_at>
+  <updated_at>Tue Feb 10 00:08:28 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4015921</id>
+  <body><![CDATA[Chris is quite dense. The book isn't funny, but it is moving and enlightening. Maybe Chris can't read?]]></body>
+  
+  <user>
+    <id>583654</id>
+    <name>Kelly</name>
+
+    <location>San Antonio, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/583654-kelly]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 15 21:47:00 -0800 2009</created_at>
+  <updated_at>Sun Feb 15 21:47:00 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4083745</id>
+  <body><![CDATA[Wow Dude, Seriously twisted views! Obviously you want to be a writer and you have some skill with words but I have a feeling you are pretty self-absorbed. do you also hate the blind, crippled and deaf? Lighten up and bit and you might enjoy life more. Better yet, take out your frustrations by taking your hand at writing a book yourself. Maybe on one of your camping trips. ]]></body>
+  
+  <user>
+    <id>844810</id>
+    <name>Paul</name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/844810-paul]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Feb 19 08:52:08 -0800 2009</created_at>
+  <updated_at>Thu Feb 19 08:52:08 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4765691</id>
+  <body><![CDATA[Chris, the circumference of your neck looks to be close to that of a redwood tree. I'm not sure what this means, but I thought I should tell you. Oh, and I entertained your mother last night. (It was my turn.) Over Starbuck's Via Instant Coffee and Pepperidge Farm Chessmen cookies, we discussed your tendency to misdirect your obvious comedic gifts into cruel, pointless reviews of books about disabled people. I mean, who is bold enough to use a word like 'smegma'? You, Chris, and you can grow beyond the comment threads of GoodReads. You're special. ]]></body>
+  
+  <user>
+    <id>1796061</id>
+    <name>Clairemicklin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1796061-clairemicklin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 25 13:52:04 -0700 2009</created_at>
+  <updated_at>Wed Mar 25 13:52:04 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4793610</id>
+  <body><![CDATA[I found your review very witty and entertaining, though I must say I skimmed some parts since it's a bit long. You actually made it sound appealing to me <br><br><em>Lastly, this autistic kid is walking around with a knife throughout the book and ceaselessly contemplating shanking strangers with it. </em><br><br>Was what caught my eye and made me determined to read this book. The paragraph that's in is my fave from the review. Anyway I hope you keep reviewing more books.]]></body>
+  
+  <user>
+    <id>1992374</id>
+    <name>Lee</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1992374-lee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249009997p3/1992374.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249009997p2/1992374.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Mar 26 19:06:16 -0700 2009</created_at>
+  <updated_at>Thu Mar 26 19:06:16 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4839590</id>
+  <body><![CDATA[I really agree -- the book was awful, and I can't understand who this guy slept with to get the book as much hype as it had.]]></body>
+  
+  <user>
+    <id>1860637</id>
+    <name>Heather</name>
+
+    <location>Acton, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1860637-heather]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1355030009p3/1860637.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1355030009p2/1860637.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Mar 29 10:19:59 -0700 2009</created_at>
+  <updated_at>Sun Mar 29 10:19:59 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5024776</id>
+  <body><![CDATA[Oh man I usually really enjoy your reviews Chris but this one really cut me up. Speaking from personal experience, my daughter is autistic, I'm pretty fucking sure that she hates the shit that she has to do to try and function in the world too and I'm also pretty solid on the fact that I'm glad I didnt drown her at birth...your "simple minded slander" about those with autism goes beyond the bounds of a book review and only contributes to the prejudices that they have to put up with on a daily basis. If you don't like the book, fine but did you really need to take that extra step and air your ignorance and negative views about those with autism too?<br><br>I am subjected to someone groaning in close proximity to me for hours on a daily basis...and I can tell you that that shit is a hell of a lot cooler than your sad ignorance.<br><br>]]></body>
+  
+  <user>
+    <id>1820314</id>
+    <name>Libby</name>
+
+    <location>Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1820314-libby]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430141981p3/1820314.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430141981p2/1820314.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 07 17:55:04 -0700 2009</created_at>
+  <updated_at>Tue Apr 07 17:55:04 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>5441524</id>
+  <body><![CDATA[Best review ever. ]]></body>
+  
+  <user>
+    <id>1769857</id>
+    <name>Annabelle</name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1769857-annabelle]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1445300446p3/1769857.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1445300446p2/1769857.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Apr 26 22:40:55 -0700 2009</created_at>
+  <updated_at>Sun Apr 26 22:40:55 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6432025</id>
+  <body><![CDATA[hey! I have one request. I see that you are deepened in the book, and you do good you know. Asked if you would like to write me a short essay on the relationship between C and his father. And relationship between C and his mother. You made me a really big favor, because I have school in another bunch of stuff. And my English is very bad! Please reply me! Thank you! Pia]]></body>
+  
+  <user>
+    <id>2403191</id>
+    <name>Pia</name>
+
+    <location>Koper, 04, Slovenia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2403191-pia-visocnik]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jun 10 06:30:41 -0700 2009</created_at>
+  <updated_at>Wed Jun 10 06:30:41 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10151681</id>
+  <body><![CDATA[I thought the review was 'honest'. This is a book I liked - mind you, I wouldn't want to read a whole series of books that go on about the topic.<br><br>But Chris's review is a riot - hats off to you Chris. <br><br>I'm gonna' ask you to be one of my 'friends' . . .<br><br>]]></body>
+  
+  <user>
+    <id>1480335</id>
+    <name>Carly</name>
+
+    <location>Ashcroft, BC, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1480335-carly-svamvour]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1413895417p3/1480335.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1413895417p2/1480335.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 16 20:03:43 -0700 2009</created_at>
+  <updated_at>Fri Oct 16 20:03:43 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10274221</id>
+  <body><![CDATA[Chris seems like the type who'd dump a quadriplegic from his wheelchair into the pool and say, "Swim, you pansy! You're not really paralyzed!" <br><br>As the parent of an autistic child, I'm also glad you aren't one of my child's schoolmates. You would have probably been one of those assholes who pushes him in the halls just to get a reaction and calls him "freak" and "weirdo" because you refuse to exercise any comnpassion or understanding so you can write a salacious, ignorant, insensitive review of a book that was supposed to foster awareness. Simply put,you didn't like it because you didn't get it. And if you did "get it," you were uncomfortable with the truth of it because you probably <em>were</em> one of those assholes in sixth grade who pushed disabled kids around and called them "freak" and "weirdo." Some things just aren't funny. Your review is at the top of the list. ]]></body>
+  
+  <user>
+    <id>2294830</id>
+    <name>Lynne</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2294830-lynne]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1389008986p3/2294830.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1389008986p2/2294830.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 21 09:28:22 -0700 2009</created_at>
+  <updated_at>Wed Oct 21 09:28:22 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>11987233</id>
+  <body><![CDATA[Since when does a review of anything (book, film, etc.) need to be "sensitive"? Plus, this is is his OPINION. I've read several reviews elsewhere by people diagnosed with Asperger's and other spectrum disorders who say this book is extremely stereotypical and inaccurate. I suppose they must be ignorant and insensitive, as well. Anyway, hilarious review. ]]></body>
+  
+  <user>
+    <id>1490915</id>
+    <name>Kate</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1490915-kate]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1233518407p3/1490915.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1233518407p2/1490915.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Dec 23 13:37:46 -0800 2009</created_at>
+  <updated_at>Wed Dec 23 13:37:46 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>14736854</id>
+  <body><![CDATA[What a shame that even people who disagree with this reviewer's opinion, like his review. I'm honor bound to respect his right to his opinion but, c'mon, the review itself sucks. It proves only that he's comical. It doesn't even give evidence that he read the book.<br><br>"This book sucks and now look at a lot of funny ways I can say it," does not constitute a meaningful review. You're funny, Chris, but if you believe the stuff you write, you are an asshole.]]></body>
+  
+  <user>
+    <id>963692</id>
+    <name>Bill</name>
+
+    <location>Glastonbury, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/963692-bill-keefe]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Mar 19 06:31:37 -0700 2010</created_at>
+  <updated_at>Fri Mar 19 06:31:37 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>15632084</id>
+  <body><![CDATA[It's beyond extremely stereotypical and inaccurate. It is probably the ONLY Asperger's related book in existence that has genuinely offended me, and I've read nearly all of them. I thought this review was pretty funny.]]></body>
+  
+  <user>
+    <id>2085595</id>
+    <name>Kim</name>
+
+    <location>Cherry Hill, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2085595-kim-b]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451606705p3/2085595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451606705p2/2085595.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 14 16:46:49 -0700 2010</created_at>
+  <updated_at>Wed Apr 14 16:46:49 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16461178</id>
+  <body><![CDATA[The author of Curious Incident admits on his website he knows very little about Aspergers and that this book is a "novel". I read this book with an open mind and therefore I found parts of it really funny and it made me laugh, so I liked it for that reason. (I hated all the bad language in it though - unnecessary and detracted from the enjoyment of the book). Each to his own and "vive la difference!"]]></body>
+  
+  <user>
+    <id>3673937</id>
+    <name>Dawn</name>
+
+    <location><![CDATA[Birmingham, A7, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3673937-dawn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1420928841p3/3673937.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1420928841p2/3673937.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 09 11:56:41 -0700 2010</created_at>
+  <updated_at>Sun May 09 11:56:41 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16464066</id>
+  <body><![CDATA["The author of Curious Incident admits on his website he knows very little about Aspergers..."<br><br>THEN HE SHOULDN'T HAVE WRITTEN THE BOOK. I'm sorry, but why would you write a book about a mental disorder that you know nothing about and further those harmful stereotypes? "Write what you know" doesn't mean "write about stereotypes you think are true."]]></body>
+  
+  <user>
+    <id>2085595</id>
+    <name>Kim</name>
+
+    <location>Cherry Hill, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2085595-kim-b]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451606705p3/2085595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451606705p2/2085595.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 09 13:19:06 -0700 2010</created_at>
+  <updated_at>Sun May 09 13:19:06 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16468972</id>
+  <body><![CDATA[Actually Kimmy I tend to agree with you in some ways. I was a little disappointed when I learnt that he knew little of the condition, but then he did admit it was a novel about "difference", so on this admission I let it pass. This is what the author wrote on his website on 16 July 2009:<br><br>"16/07/09 01:34pm asperger's &amp; autism<br><br>unsurprisingly, i'm often asked to talk about asperger’s and autism or to become involved with organisations who work on behalf of people with asperger’s and autism, many of whom do wonderful work. but i always decline, for two reasons:<br><br>1) i know very little about the subject. i did no research for curious incident (other than photographing the interiors of swindon and paddington stations). i’d read oliver sacks’s essay about temple grandin and a handful of newspaper and magazine articles about, or by, people with asperger’s and autism. i deliberately didn’t add to this list. imagination always trumps research. i thought that if i could make Christopher real to me then he’d be real to readers. i gave him some rules to live by and some character traits and opinions, all of which i borrowed from people i know, none of whom would be labelled as having a disability. judging by the reaction, it seems to have worked.<br><br>2) curious incident is not a book about asperger’s. it’s a novel whose central character describes himself as ‘a mathematician with some behavioural difficulties’. indeed he never uses the words ‘asperger’s’ or ‘autism’ (i slightly regret that fact that the word ‘asperger’s’ was used on the cover). if anything it’s a novel about difference, about being an outsider, about seeing the world in a surprising and revealing way. it’s as much a novel about us as it is about christopher.<br><br>labels say nothing about a person. they say only how the rest of us categorise that person. good literature is always about peeling labels off. and treating real people with dignity is always about peeling the labels off. a diagnosis may lead to practical help. but genuinely understanding another human being involves talking and listening to them and finding out what makes them an individual, not what makes them part of a group.<br><br>i passionately believe this and i’ve said it repeatedly in many different forms. to become a spokesperson for those with asperger’s or autism, or to present myself as some kind of expert in the field, would completely undermine this, and make me look like a fool into the bargain. i would much rather spend my time writing more novels, standing up for difference and trying to understand outsiders who see the world in surprising and revealing ways"<br><br><a target="_blank" href="http://www.markhaddon.com/aspergers-and-autism" rel="nofollow">http://www.markhaddon.com/aspergers-a...</a><br><br>I found his websdite a little odd and I think maybe Mark Haddon is an odd sort himself, though i have to admit I haven't read a lot of his blog, but the little Id id read I thought he had a very "different" worldview himself!]]></body>
+  
+  <user>
+    <id>3673937</id>
+    <name>Dawn</name>
+
+    <location><![CDATA[Birmingham, A7, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3673937-dawn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1420928841p3/3673937.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1420928841p2/3673937.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 09 15:14:47 -0700 2010</created_at>
+  <updated_at>Sun May 09 15:14:47 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16472934</id>
+  <body><![CDATA[I see what you mean now. It doesn't make me any less irritated that I know of so many people who think this book is all they need to read to become an "instant expert" on Asperger Syndrome, and so I will probably never be able to re-approach the book with an open mind, but it makes more sense.]]></body>
+  
+  <user>
+    <id>2085595</id>
+    <name>Kim</name>
+
+    <location>Cherry Hill, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2085595-kim-b]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451606705p3/2085595.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451606705p2/2085595.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 09 16:37:30 -0700 2010</created_at>
+  <updated_at>Sun May 09 16:37:30 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16641047</id>
+  <body><![CDATA[Nobody gives a damn about your trip, dumbass. I'm gonna do you a favor and tell you that you're a prejudiced piece of shit. I hope this spares you the humiliation of walking around under the assumption that you're funny. Kind of like Michael Scott in The Office. If you've never seen the show, I suggest you watch and learn from your fictional counterpart.]]></body>
+  
+  <user>
+    <id>3710381</id>
+    <name>Reader</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3710381-reader]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri May 14 13:36:47 -0700 2010</created_at>
+  <updated_at>Fri May 14 13:36:47 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>16641137</id>
+  <body><![CDATA[<em>Kate wrote: "Since when does a review of anything (book, film, etc.) need to be "sensitive"? Plus, this is is his OPINION. I've read several reviews elsewhere by people diagnosed with Asperger's and other spect..."</em><br><br>If I'd read a book with a black protagonist and wrote a review saying, "You know what, I really can't fucking stand black people. They're so annoying." Would that count as an okay "opinion" too? No, of course not. Shut the fuck up and stop promoting hatred of handicapped people.]]></body>
+  
+  <user>
+    <id>3710381</id>
+    <name>Reader</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3710381-reader]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri May 14 13:39:46 -0700 2010</created_at>
+  <updated_at>Fri May 14 13:39:46 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>17849010</id>
+  <body><![CDATA[You are a insulting overbearing idiot and I hope that you read a lot because that might be our only good quality.<br><br>NEWSFLASH: I think that and I'm 11 years old.]]></body>
+  
+  <user>
+    <id>3270899</id>
+    <name>Mira</name>
+
+    <location>Hudson, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270899-mira]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1332468078p3/3270899.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1332468078p2/3270899.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jun 18 21:30:52 -0700 2010</created_at>
+  <updated_at>Fri Jun 18 21:30:52 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18021883</id>
+  <body><![CDATA[Chris review truly sucks. It deserves a one star rating. As a novel and knowing almost nothing about Asperger I was able to enjoy the book on its own right. I feel the reviewer is just blowing his own horn in the expense of putting something down.]]></body>
+  
+  <user>
+    <id>3900059</id>
+    <name>Sherryl</name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3900059-sherryl]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jun 23 20:02:12 -0700 2010</created_at>
+  <updated_at>Wed Jun 23 20:02:12 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>18192023</id>
+  <body><![CDATA[<em>Chris wrote: "Hey Matt,<br><br>I just wanted to post a quick 'thank you', as your comment alerted me that my profile image isn't nearly as effective as conveying the badass-rebel image I ordinarily exude in person. ..."</em><br><br>this reply was really funny! But your review was actually long and eye-rolling. Try it more like this and don't veer off course so much, you can be so funny when you're not boring!]]></body>
+  
+  <user>
+    <id>1525958</id>
+    <name>Eeeeeep</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1525958-eeeeeep]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1356824341p3/1525958.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1356824341p2/1525958.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jun 28 19:02:07 -0700 2010</created_at>
+  <updated_at>Mon Jun 28 19:02:07 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19329124</id>
+  <body><![CDATA[Wow, 2 years later and still some response evoked from this review! I have an autistic son and I still found this review to be hilarious. Why? Because I guess I choose to believe that Chris is just funny in a literary Daniel Tosh kind of way. Having an autistic son can be tough at times and also extremely rewarding but I can't expect people who aren't in the same position to fully feel that. The drowning of kids part - probably not so funny - but I'm just not thinking he'd actually do that, so just take it with a grain of salt. Truthfully, I wonder what did happen with autistic children 200 years ago. I wonder what happens to them today if their parents don't have the ability to properly deal with the situation. <br><br>So I read this book before we knew that my son has autism but when we knew that there were some parallels with the book. I enjoyed the book to a degree but had some issues with it. Much like this review, I would hope people aren't reading this book and thinking, ok, so Autistic kids, or kids with Aspergers anyway are really good at math and extremely violent. Because you see, when some people write books (see Jodi Piccoult's House Rules) they are thinking about what can make a plot interesting, the what ifs in society and what will fire people up? A lot people aren't going to read a book about what a typical family would autism would go through. Apparently if you add a little bit of murder mystery to the mix you can get a really good fan base.<br><br>So, I laughed when I read this. I laughed when I read all the responses. Too bad I had to write one that had no humor in it.]]></body>
+  
+  <created_at>Fri Jul 30 10:13:49 -0700 2010</created_at>
+  <updated_at>Fri Jul 30 10:13:49 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>19718298</id>
+  <body><![CDATA[You are an ignorant peice of shit, who has nothing better to do than insult a book without even knwowing what it was awarded with. I hope your life is as misrable as you sound.]]></body>
+  
+  <user>
+    <id>4131409</id>
+    <name>Alec</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4131409-alec]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 09 18:44:35 -0700 2010</created_at>
+  <updated_at>Mon Aug 09 18:44:35 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20717446</id>
+  <body><![CDATA[My reaction to this pointless review? <br><br><br>Zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz... <br><br>When I read a book review I don't want to hear all about the writer's life story. As nice as your real life stories might be, I honestly couldn't give a hoot about where you read the book or where you plan to burn it. Short and sweet are two characteristics I like in my book reviews for a reason. If you must, must share a real life story, make sure it's at least relevant to the book you're talking about (Keep your rants at livejournal children!). <br><br>In MY opinion (haha!) Chris should follow his own advice to the parents of autistic children and find something better to do than vomit his piggish, prejudiced views about disabled people and red necks on the internet. Writing reviews which don't bore his reader to death would be nice too.]]></body>
+  
+  <user>
+    <id>3186227</id>
+    <name>xlovelylightx</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3186227-xlovelylightx]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Sep 07 08:28:40 -0700 2010</created_at>
+  <updated_at>Tue Sep 07 08:28:40 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20717459</id>
+  <body><![CDATA[<em>Alec wrote: "You are an ignorant peice of shit, who has nothing better to do than insult a book without even knwowing what it was awarded with. I hope your life is as misrable as you sound."</em><br><br>If he's as obnoxious as he is on the internet, I'm sure it is.]]></body>
+  
+  <user>
+    <id>3186227</id>
+    <name>xlovelylightx</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3186227-xlovelylightx]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Sep 07 08:29:21 -0700 2010</created_at>
+  <updated_at>Tue Sep 07 08:29:21 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>20996326</id>
+  <body><![CDATA[To start with, YOU ARE A COMPLETE MORON.<br>This was a fantastic book that explored the world of someone with Autism and you decided to make a joke out of it. Your review had almost nothing to do with the book and spent the majority of your idiotic slur talking about your hick friends and tornadoes. No one cares about you or your pathetic life. Anyone who found your review funny is an idiot like you.<br>Great book. You are a sad excuse for a human being.<br>Enough said.<br>Suck me loser.]]></body>
+  
+  <user>
+    <id>4296875</id>
+    <name>Alex</name>
+
+    <location>Brisbane, 04, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4296875-alex]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 15 21:33:18 -0700 2010</created_at>
+  <updated_at>Wed Sep 15 21:33:18 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>21186713</id>
+  <body><![CDATA[Gods! I'm only on page 37 but even I can tell from just that amount of pages that you completely did not grasp the concept of ASPGERGER'S SYNDROME.<br>You talk about the boy narrating talking about the same things repetitively and the games that he liked and, yes, that may have annoyed you. OK, that's you point of view (even though I disagree with it) but your annoyance towards that shouldn't allow you to say that the whole book wasn't good.<br>In fact, some of the things that you just told me were in fact SYMPTOMNS of ASPERGER'S SYNDROME which is what the book is BASED ON!<br><br>So, actually, I think you had a perfect grasp on the book.<br><br>Ha ha. You just gave reasons why it sucessfully delivered the character of a person with Asperger's. LOL!<br><br>:)]]></body>
+  
+  <user>
+    <id>3259752</id>
+    <name>Too Many Thoughts </name>
+
+    <location>My mind, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3259752-too-many-thoughts]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1271961166p3/3259752.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1271961166p2/3259752.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 22 08:15:57 -0700 2010</created_at>
+  <updated_at>Wed Sep 22 08:15:57 -0700 2010</updated_at>
+</comment>
+
+        <comment>
+  <id>21609339</id>
+  <body><![CDATA[I thought trolls were supposed to be anonymous. I wasn't aware they wrote self-indulgent faux-badass book reviews on nerdy book websites. <br><br>Funny review, if taken for what it's worth. Easily one of the more entertaining reviews on this site, if only because of the exact sort of response the author so dearly wished he could inspire. Kudos to that.]]></body>
+  
+  <user>
+    <id>204691</id>
+    <name>Ryan</name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/204691-ryan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1184872893p3/204691.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1184872893p2/204691.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 05 18:34:58 -0700 2010</created_at>
+  <updated_at>Tue Oct 05 18:34:58 -0700 2010</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/22779567]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/22779567]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

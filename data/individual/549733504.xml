@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>549733504</id>
+    
+  <user>
+    <id>3270188</id>
+    <name>Kat Kennedy</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3270188-kat-kennedy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458284726p3/3270188.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458284726p2/3270188.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17162769</id>
+  <isbn nil="true"/>
+  <isbn13>9781743560273</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <title>Saving Grace (The Button Jar series #1)</title>
+  <image_url>https://d.gr-assets.com/books/1364792386m/17162769.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1364792386s/17162769.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17162769-saving-grace</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harlequin Enterprises Australia</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>366</ratings_count>
+  <description>When Emily Oliphant married John Stratten, she thought it was the beginning of an exciting new adventure, imagining herself standing shoulder-to-shoulder with the most eligible farmer in the district, mucking in to build a thriving agricultural business. Three years later, however, Emily sees her marriage for what it is — a loveless tie to a callous man, her advice heeded only when it pertains to her husband’s dinner.&lt;br&gt;&lt;br&gt;The last straw comes when John threatens to harm her new puppy, and Emily is forced to brave her husband’s wrath, and her mother’s glaring disapproval, and move out. With the encouragement of her new friend Barbara, Emily moves into an abandoned property, taking on the mammoth task of making the unloved house into a home. As she begins to work on the property, she discovers a new side of her father, meets some new friends and finds an inner strength she never knew she had.&lt;br&gt;&lt;br&gt;Emily’s fragile confidence is soon tested, though, when the owners of the property make her a tempting offer. Will she risk everything and invest in the ramshackle house that has finally given her a sense of purpose? Or will Emily listen to the views of the community, and the voice of her mother, and go back to her sensible, but meaningless, life with John? </description>
+<authors>
+<author>
+<id>4311460</id>
+<name>Fiona McCallum</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404258442p5/4311460.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1404258442p2/4311460.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4311460.Fiona_McCallum]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>1634</ratings_count>
+<text_reviews_count>243</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">24343052</id>
+          <page type="integer">60</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Fri Mar 01 16:05:37 -0800 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:38:29 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Fri Mar 01 17:11:41 -0800 2013</last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">23588419</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bab88dcd2f863e878af8302114d3ddc9</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body>Boooooooooooooring!</body>
+        </user_status>
+    </user_statuses>
+  <rating>2</rating>
+  <votes>16</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="australian-writer" exclusive="false" review_shelf_id="374602389" sortable="false" />
+    <shelf name="contemporary-fiction" exclusive="false" review_shelf_id="374602434" sortable="false" />
+    <shelf name="too-painful-to-finish" exclusive="false" review_shelf_id="374602576" sortable="false" />
+    <shelf name="just-plain-bad" exclusive="false" review_shelf_id="374602492" sortable="false" />
+    <shelf name="kat-s-book-reviews" exclusive="false" review_shelf_id="374602511" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 01 00:00:00 -0800 2013</started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2013</read_at>
+  <date_added>Fri Mar 01 16:05:03 -0800 2013</date_added>
+  <date_updated>Fri Mar 01 19:19:15 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Okay, at page 156 this crossed over from boring to painful to read. <br /><br />And it's not that I don't understand what the author is trying to do here. Low self-esteem country girl, bully misogynistic husband, starting a new life and all that. It's probably mostly realistic. I've met enough couples like t...]]>
+  </body>
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>68943854</id>
+  <body><![CDATA[LMAO omg Kat I don't know why I found your review so hilarious. Number 7!!! Winner. I wasn't sure I was going to read this to begin with because the style didn't look like something I'd read but I considered trying it out. Not anymore.]]></body>
+  
+  <user>
+    <id>5000255</id>
+    <name>Jaz</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5000255-jaz]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1386673176p3/5000255.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1386673176p2/5000255.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Mar 01 20:08:23 -0800 2013</created_at>
+  <updated_at>Fri Mar 01 20:08:23 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68944647</id>
+  <body><![CDATA["edumacation". Hilarious, Kat. And you're telling me the main character didn't follow your VERY helpful (not to mention a known) rules?]]></body>
+  
+  <user>
+    <id>16569148</id>
+    <name>Cookielover</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16569148-cookielover]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447909950p3/16569148.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447909950p2/16569148.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Mar 01 20:23:07 -0800 2013</created_at>
+  <updated_at>Fri Mar 01 20:23:07 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>68946302</id>
+  <body><![CDATA[With point 7, I'm assuming you mean go out and celebrate your new-found freedom with an endless string of kinky, meaningless one night stands and sex, yes? Maybe point 8 should be to use protection?<br><br>I'm not sure why I'm writing this. I'm sorry. I'm bored. And... Procrastinating instead of reading S&amp;S. because when I do... It will all be over *whimpers*<br><br>Erm, seriously, but: I don't regret giving this to my co-worker. Not. One. Bit.]]></body>
+  
+  <user>
+    <id>3825460</id>
+    <name>Sarah (saz101)</name>
+
+    <location>Sydney, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3825460-sarah-saz101]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1300234087p3/3825460.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1300234087p2/3825460.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Mar 01 20:59:14 -0800 2013</created_at>
+  <updated_at>Fri Mar 01 20:59:14 -0800 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/549733504]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/549733504]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

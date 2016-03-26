@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>6442362</id>
+    
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">3463</id>
+  <isbn>0446696137</isbn>
+  <isbn13>9780446696135</isbn13>
+  <text_reviews_count type="integer">2647</text_reviews_count>
+  <title>A Bend in the Road</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3463.A_Bend_in_the_Road</link>
+  <num_pages>341</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>112543</ratings_count>
+  <description>Miles Ryan's life seemed to end the day his wife was killed in a hit-and-run accident two years ago. Missy had been his first love, and Miles fervently believes she will be his last. As a deputy in the North Carolina town of New Bern, Miles Ryan not only grieves for Missy, but also longs to bring the unknown driver to justice. Then Miles meets Sarah Andrews. The second grade teacher of his son, Jonah, Sarah had left Baltimore after a difficult divorce to start over in the gentler surroundings of New Bern. Perhaps it's her own emotional wounds that make her sensitive to the hurt she first sees in Jonah's eyes, and then his father's.&lt;br&gt;&lt;br&gt;Tentatively, Sarah and Miles reach out to each other. Soon they are both laughing for the first time in years . . . and falling in love. Neither will be able to guess how closely linked they are to a shocking secret -- one that will force them to question everything they ever believed in . . . and make a heartbreaking choice that will change their lives forever.&lt;br&gt;In A Bend in the Road, Nicholas Sparks writes with a luminous intensity about life's bitter turns and incomparable sweetness. His affirming message carries a powerful lesson about the imperfections of being human, the mistakes we all make, and the joy that comes when we give ourselves to love.</description>
+<authors>
+<author>
+<id>2345</id>
+<name>Nicholas Sparks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p5/2345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p2/2345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2345.Nicholas_Sparks]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>3988844</ratings_count>
+<text_reviews_count>120934</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="poop" exclusive="false" review_shelf_id="6339327" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 19 09:54:25 -0700 2007</date_added>
+  <date_updated>Wed Sep 19 09:56:30 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[why oh why do I read this crap. usually I am coming off of some heavy, awful WW2 book, when I grab some fluff for a break, and alas, Spark offs more people. I think he's a serial murderer. He seems to get off on it.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/6442362]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/6442362]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

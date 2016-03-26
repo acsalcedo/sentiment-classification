@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>5589709</id>
+    
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">30677</text_reviews_count>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1303252999m/968.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1303252999s/968.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>1408387</ratings_count>
+  <description>An ingenious code hidden in the works of Leonardo da Vinci. A desperate race through the cathedrals and castles of Europe. An astonishing truth concealed for centuries . . . unveiled at last.&lt;br&gt;&lt;br&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br&gt;&lt;br&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>4539271</ratings_count>
+<text_reviews_count>126791</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1226846011</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 07 05:48:32 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>110</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="total-crap" exclusive="false" review_shelf_id="8184654" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2006</read_at>
+  <date_added>Mon Sep 03 12:43:47 -0700 2007</date_added>
+  <date_updated>Thu Jan 09 22:53:08 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Impossibly complicated plot. Really, really, really bad writing. This book was forced upon me. I should have known better.<br /><br />]]>
+  </body>
+  <comments_count>69</comments_count>
+    <comments start="1" end="50" total="69">
+        <comment>
+  <id>195822</id>
+  <body><![CDATA[Heh, well, I'm still convinced this book broke me up with someone once because she loved it and I, after near record breaking speed reading it, found it to be crap. ;P<br><br>-Rob]]></body>
+  
+  <user>
+    <id>120879</id>
+    <name>Trebro</name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/120879-trebro]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1186456117p3/120879.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1186456117p2/120879.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 26 19:45:49 -0700 2007</created_at>
+  <updated_at>Fri Oct 26 19:45:49 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>195839</id>
+  <body><![CDATA[The book's popularity was/is always a mystery. Was it the rather anti-Christian theme? It couldn't have been the abysmal writing, the horrendusly convoluted and contrived plot. And what in Heaven's name convinced Tom Hanks he wanted to star in the movie? I have to assume that Dan Brown made a deal directly with the devil. There's the real story. This was one horrible book.]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 26 20:18:20 -0700 2007</created_at>
+  <updated_at>Fri Oct 26 20:18:20 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>195849</id>
+  <body><![CDATA[It was my brother who pressed it upon me. I've never reported back. If I did, I probably would not be able to hold my tongue.<br><br>I was at our cabin in the woods and had read everything else. So it was that, or the back of the cereal boxes. Wheaties would have been better.]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 26 20:26:45 -0700 2007</created_at>
+  <updated_at>Fri Oct 26 20:26:45 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>195883</id>
+  <body><![CDATA[I am amused with the love it/hate it thing around this book -- I read it knowing EXACTLY what it was going to be -- and while I agree the package was awful -- the story was as I expected and all the twists and turns were just that. I enjoyed the romp for what it was -- the anti-Christian message? -- well, it didn't bother me much nor do I think it SHOULD cause much controversy among those who believe. It's a BOOK -- a not very well put together book -- the theory has been around forever -- there are many such books based loosely on the ideas -- this one just hit something somewhere and exploded into the universe it seems. TOO funny.]]></body>
+  
+  <user>
+    <id>336421</id>
+    <name>Dottie </name>
+
+    <location>Villa Park, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/336421-dottie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1424536742p3/336421.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1424536742p2/336421.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 26 21:10:47 -0700 2007</created_at>
+  <updated_at>Fri Oct 26 21:10:47 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>195915</id>
+  <body><![CDATA[Oh, crap, Dottie, you're making me go slightly serious for a moment. First, for full disclosure, i am a Christian. God has asked me not to advertise that because--well let's just say I'm not his best example.Yet.<br>I do think that the book does damage to the Christian faith. The very fact that so many people (surely you read some of the hype during the long Best Seller run) used the book as a serious argument for the fallacy of the risen Christ has impact on young people and the radical Islamic idiots who preach hate against Christians and Jews. The whole 'We wrote it first' lawsuit wouldn't have been an issue if some people didn't actually think that there was this true research that----blah blah. The only issue I would have with Brown,however, was that he played up the possibility of the book being somewhat true. This book was promoted by anti-Christian factions around the world. <br>Lastly, when a book this poorly written stays at the top of the best seller lists so long, I think literature suffers, however slightly. <br>I certainly don't begrudge Brown the money. Everyday on Wall Street guys make that kind of money by lying and cheating old folks and orphans. ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 26 21:49:16 -0700 2007</created_at>
+  <updated_at>Fri Oct 26 21:49:16 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>195921</id>
+  <body><![CDATA[I guess you could class me as part of the anti-Christian faction--no, probably more of an anti-religious faction, but you'd have to twist my legs off to get me to promote this book. <br><br><em>when a book this poorly written stays at the top of the best seller lists so long, I think literature suffers, however slightly</em><br><br>I absolutely agree. It's sad that so much of the country thinks that this is all that literature can aspire to.]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 26 21:53:31 -0700 2007</created_at>
+  <updated_at>Fri Oct 26 21:53:31 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196000</id>
+  <body><![CDATA[Okay, Phillip -- I have little argument with what you said -- but just to play devil's advocate a bit -- which I tend to do, you will learn -- Those who take the theory seriously and research it and are trying to "prove" it can unsettle young people in their beliefs as readily as anything Brown wrote so ineloquently (is that a word?) in the book. And surely Brown did no more than the "scholars" as far as hinting that this may be a fact vs a theory. Christian faith must be able to stand up against the Dan Browns or the scholars who may mislead them or the fundamentalist fringes whether they are fringes of Islam or Catholicism or any other religion, including Christianity -- or -- again, in my opinion -- they surely will not be able to withstand the devil in any guise in my opinion.<br><br>As for poor quality literature staying high on the best seller list -- well, there are likely other fine examples of books riding high on the lists which also teach young people some fairly poor ideas, ideals and values. then we could turn to TV, films, video games, the internet -- Dan Brown didn't invent this to influence young people in their beliefs -- he wanted just what we've all given him, publicity and loads of cash just as you pointed out. Now it could well be that as Flip's Geraldine used to say -- "the devil made him do it" -- but I don't know that for a fact. ]]></body>
+  
+  <user>
+    <id>336421</id>
+    <name>Dottie </name>
+
+    <location>Villa Park, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/336421-dottie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1424536742p3/336421.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1424536742p2/336421.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 26 23:32:30 -0700 2007</created_at>
+  <updated_at>Fri Oct 26 23:32:30 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196046</id>
+  <body><![CDATA[A different Philip here - <br><br>My mother in law pressed Brown's Angels &amp; Demons on me once, and of its type (page-turner, more or less Sidney Sheldon type frenzied writing) it was the sort of thing that will take you from coast to coast on an airplane.<br><br>The DaVinci Code (to add to the lists of its demerits) has its supposed experts make all sorts of deeply ignorant pronouncements about things I know something about. Worst I guess is that my students now think that the disciple John in Leonardo's painting of the Supper is Mary Magdalene. <br><br>And luckily for Ruth and the rest of us, Brown doesn't need her promotional efforts on this one.]]></body>
+  
+  <user>
+    <id>555726</id>
+    <name>Philip</name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/555726-philip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1324299344p3/555726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1324299344p2/555726.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 01:20:31 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 01:20:31 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196185</id>
+  <body><![CDATA[I found the book amusing in two ways. One is that is was, as noted, an "adequate" read if one's goal is passing the time with a book and one is not fortunate enough to be a member of goodreads and lists of the 400,000 books that are out there that are better in nearly every dimension. None of Brown's books are "literature" -- at best they are transient fiction, soon to be forgotten.<br><br>The other is that a good cover and tiny bit of outrageousness in the nominal plot line go a long, long way toward selling a book. Alas, all too often we truly do judge a book by its cover. A fact that I'm certainly trying to exploit in my own writing...:-)<br><br>BTW, I'm no relation (as far as I know) of Dan Brown, and if anybody is interested in looking at a book that also has an "outrageous" religious theme (but that is written in a light and humorous way, not as a conspiracy novel) you are welcome to check out:<br><br><a target="_blank" href="http://www.lulu.com/content/674763" rel="nofollow">http://www.lulu.com/content/674763</a><br><br>where you can read the entire book in the online browser for free if you wish. I'd welcome comments on this book, if anybody has any to offer.<br><br> rgb<br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 07:08:30 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 07:08:30 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196200</id>
+  <body><![CDATA[Dottie, (Dottie and I are old friends, BTW) as to your last paragraph--DVC is definitely poor quality literture, as you put it. But it's poor quality literature not for the values or lack thereof contained in its pages, (As you said, if a religion can't stand up against challenges...) but because of the abysmal quality of the writing. <br><br>The writing is poor even on the basic level of grammar. Sometimes the sentence structure was so bad I found myself reading a sentence over and over trying to decode the meaning. <br><br>The book is full of "information drops" in which the author drops, right onto our toes, great lumps of things he thinks we need to know without any attempt to weave them into the story in a subtle and meaningful way.<br><br>Often he does this as dialog. And his dialogue is bad enough even without this extra burden. In addition, the characters have only a few microns of depth and his plot is complicated, unwieldy and unbelieveable.<br><br>The the book tho, is printed on nice paper. <br><br>]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 07:35:24 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 07:35:24 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196204</id>
+  <body><![CDATA[Not really part of the book, but might as well be:<br><br>"Robert, we're seconds away from capture, what do we do?"<br><br>"Well, first let me squander several minutes telling you about these monks that carried a book down a sheer cliff..."<br><br>'nuff said.<br><br>-Rob]]></body>
+  
+  <user>
+    <id>120879</id>
+    <name>Trebro</name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/120879-trebro]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1186456117p3/120879.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1186456117p2/120879.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 07:40:21 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 07:40:21 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196643</id>
+  <body><![CDATA[Well, as they say, at least it has us discussing something. The following is a religious diatribe. Read it at your peril (of high blood pressure). I just can't quite let it pass. <br><br>1. This horribly written book didn't sell 45 jillion copies because of its cover and a tiny bit of outrageousness. If Christ did not die and arise, the entire basis of Christianity is false. Brown coyly hints in interviews that maybe...And the hype was about that, NOT the crappy prose. We all agree on that. <br><br>2. Christianity is the very root and foundation of Western civilization. I'll let anyone interested look up who said that. Of course it isn't believed in those highly developed/civilized countries which never had a strong Judeo/Christian presense Those would be.....<br><br>3. "If a religion isn't strong enough to stand the slings and arrows, it should"....what? fade away? wasn't a real religion in the first place? not be offended anyway? I guess that theory should explain why Dottie or Ruth wouldn't take offence if my next novel was about the pedophelia of their respective fathers (who by the way weren't actually married to their mothers). I'm not saying I've done that research, but I can just say that certain things seem to point in that direction.If they really know better, they shouldn't be offended.<br><br>4. Some of you agree with the neo-cons, I guess, that the prisoners at Gitmo should stop whining about the guards urinating on the Koran. If Islam can't take a bit of pee on the paper, it really isn't a religion.<br><br>5. Ruth, uh, I think if you're anti-religion (wow)that would pretty well make you anti-Christian. Our umbrage taken at the DVC aside, we're still calling ourselves a religion. <br><br>So you've cleverly outed me as a Christian Conservative. Right wing? I suppose although my particular demonination believes in giving folks way too much (IMO) tolerance. (Unlike liberals, i guess, I actually LIKE labels. I'm pretty proud of most of mine. And at least if someone will admit to being a liberal, I know I'm in for some Bush bashing and can adjust my hearing aid). <br><br>And while I'm on the subjects (I assume no one is still reading anyway): <br>Out of Iraq if the UN won't support us with troops and money.<br>Pull our military back to the homeland--maybe on the borders--and build up the Special Ops and Air Force. The Teddy Roosevelt philosophy. Pour the savings into massive medical aid around the world to anyone that just agrees not to piss and moan and/or attack us.Our standard of living shouldn't rise while other 'worthy' folks sink.<br>Domestically, things will work out. We need to bomb Wall Street every couple of years. Other than that let the free market work.<br>Sayanora. No response needed. I'm outta here. ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 16:32:58 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 16:32:58 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196723</id>
+  <body><![CDATA[Phillip, I'm still reading and let me just say - THANK YOU for taking a stand! Any stand - just...say what you want, using intelligence and thought-provoking comments. I may or may not agree with the stand, but I agree with your statements insofar as they promote lively discussion.<br><br>The actual book may be ill-written, but if it drives conversation where opinions are freely shared, then kudos to Brown.<br><br>]]></body>
+  
+  <user>
+    <id>288163</id>
+    <name>Lulu</name>
+
+    <location>Cary, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/288163-lulu]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1203778599p3/288163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1203778599p2/288163.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 18:04:01 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 18:04:01 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196755</id>
+  <body><![CDATA[One-El Philip here - I think it's less an 'anti-Christian' feeling that fuelled the huge success of the book (though I'm sure when people feel attacked they can take things personally) but more the thrill people get when any big institution is questioned in a rather 'conspiracy theory' way. ]]></body>
+  
+  <user>
+    <id>555726</id>
+    <name>Philip</name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/555726-philip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1324299344p3/555726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1324299344p2/555726.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 18:34:21 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 18:34:21 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196913</id>
+  <body><![CDATA[You may be right, Philip with one l.<br><br>R]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 21:09:47 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 21:09:47 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>196931</id>
+  <body><![CDATA[I don't agree but it makes little difference. As to taking it personally, I'm not sure of another way to take it (anti-Christianity). Should it be taken institutionally? Corporately? What exactly does it mean to be anti-Christian? How could one not take that personally? <br>At least we all seem to agree the book is poorly written. :)I am sure that Dan Brown is one of those folks (I almost admire them for their sheer 'faith.') who is comfortable that life as we know it was an accident of nature. We weren't-- and then we were. He was a hack. He is a rich hack.Ipso facto--Surely a just God could not let this happen.<br> Scio cui credidi--Pascal]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 27 21:32:40 -0700 2007</created_at>
+  <updated_at>Sat Oct 27 21:32:40 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>197793</id>
+  <body><![CDATA[Oh, dear. Such fun. I only wish I had time to do the long rebuttal instead of the short one. Let me begin by stating that I believe in God every bit as strongly as I believe in the laws of physics (as a physicist), and for pretty much the same reasons. However, I would have to describe myself as a scripture-free Deist (or as an apostatic ex-Christian) for reasons that will become apparent.<br><br>There is so much one can say about religions in general, Judeo-Christian-Islam more specifically, and Christianity in particular. The first is that religions are more than just belief in God -- they are (for many people -- I'd even say most people, at least from what I can see in the world) belief in a particular body of scripture. This scripture must, according to rules both explicit and implicit, be accepted as true beyond question, as a matter of faith, in what is otherwise a near-void of evidence that they are in fact true and correct.<br><br>This is necessary for the long term existence and stability of the faith for many reasons. For one, the beliefs and assertions of the religion in question tend to be intertwined so that it gets to be difficult to challenge and ultimately reject one part of the creed without losing the rationale for the whole thing. A prime example is the book of Genesis and creation versus evolution. If in fact creation did not take six days, if man and woman were not created out of clay, if there was no garden of Eden, no serpent, no tree, no fruit, no original sin, and no fall from grace and perfection, then the need for redemption <em>from</em> this fall disappears. <br><br>Why then is it necessary to have a redeemer? If we in fact evolved and continue to evolve, we are imperfect and it <em>isn't our fault</em> as we <em>aren't finished</em> works of creation. Furthermore, we are <em>becoming more perfect</em> over time as our knowledge and society evolve right along with us, with the metaphorical hand of God neither more nor less apparent than it has ever been.<br><br>The world is full of evidence -- evidence that is literally everywhere you look, evidence in the stars you see at night, in the sun that lights you during the day, in the rocks beneath your feet, in your very genes -- that the universe is between 13 and 14 billion years old, that the earth is much younger and that we are all composed out of stardust -- the matter scattered from the explosion of a first generation star, and that we <em>evolved</em> into our current form over roughly a billion years give or take a billion. That puts a great deal of pressure on the scriptural basis of the entire Judeo-Christian-Islam family tree. And if one piece is wrong, especially a critical part, what is the basis for believing in the rest, holding to it against all evidence as its very foundation is kicked out?<br><br>(cont, working around 4000 character limit)<br><br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 28 15:06:07 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 15:06:07 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>197795</id>
+  <body><![CDATA[(cont)<br><br>I didn't get the feeling that Dan Brown was advancing atheism -- on the contrary, I think his thesis was that there was a massive underground movement of gnostic Christianity that was keeping alive the true statements and beliefs of Jesus in the face of violent opposition from the scripture-based power structure of The Church. The reason that it was even quasi-believable is that "The Church" has time and again had the choice between seeking and accepting truth, and serving its own best interests (violently), and has chosen wrong, over and over again. The obvious case of Galileo, the Inquisition, the council of Nicea, and of course the automatic excommunication of anyone who dared to argue on behalf of evolution right up to the 1950's, followed by a forced retreat into the absolutely untenable stance of "creationism" stand as famous examples, but there are doubtless millions of less famous ones spread out over two thousand years.<br><br>In my opinion, the major religions do not worship God, they worship scripture. They quite literally prohibit adherents from using common sense and the evidence of their own eyes to decide on the truth, in favor of the unreasoned acceptance of the writings of primitive and (dare I argue) self-serving people who were putting together a memetic superorganism in which they would hold status. In fact, virtually all scripture contains explicitly or implicitly the statement that it (the scripture itself) is true and can be doubted in the least detail only at the peril of your soul.<br><br>If there is a graven idol in the world this is it. This is why we are forbidden to portray Mohammed (idolatry in the extreme) or be disrespectful to (I'm sorry) <em>books</em>, whatever those books might be -- old or new testament, koran. <br><br>I love books. I refuse to worship one, or consider any words written by humans to be unquestionable truth.<br><br>If one goes through the Bible dispassionately, and attempts to judge its content on the basis of objective believability (even as history) there is very little that survives, and most of the good stuff that does consists of its statement of a social ethic that isn't perfect, but that proved to be a good starting point for a process of social evolution that continues today.<br><br> rgb<br><br>P.S. - maybe you <em>don't</em> want to read The Book of Lilith after all, as in it a rather different picture of Creation is portrayed...<br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 28 15:06:40 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 15:06:40 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>197921</id>
+  <body><![CDATA[Professor<br>OMG!! You mean there is evidence that the world is older than related in the Bible? Those darn Christians brothers have been afoolin' me. <br>Spoken (written) like an academic.<br><br>There is a place in Nam-A-Rama (one of my books) where the protagonist prays to a God that doesn't have time for him due to a pressing tee time. And He has aligator golf shoes. When I wrote that passage, I didn't head for a lightning proof shelter.<br><br>Robert, all Christians, even born again Christians, aren't cousin-marrying dopes. (I think less than 34% are)<br><br>"advancing atheism"?? Heck, I've always assumed that DB was just out to make a buck. I reserve my right to be offended. Just as I am offended at the removal of Christian symbols from public property and other cowardly acts. (The athiests are afraid of exactly what? Or are they just offended?)<br><br>But ma has the beans on the table and cousin Hattie's come to visit. Best go.<br><br>]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 28 17:20:21 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 17:20:21 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>197984</id>
+  <body><![CDATA[Just for the record, evidence against the Risen Christ -- which, let's face it, is ZERO beyond supposed ancient hearsay -- doesn't harm Jews one bit.<br><br>We told you so.]]></body>
+  
+  <created_at>Sun Oct 28 18:14:26 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 18:14:26 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>197995</id>
+  <body><![CDATA[I doubt that Brown's book is worth this much discussion, but my response to Robert would be that it's the fallacy of anxious literalists that "everything is true or nothing is true" in a bare-faced literal way. <br><br>It is no serious argument against most of the more mainstream versions of Christianity to point out factual errors in their scripture, be they trivial or significant, or places where the general knowledge exhibited by ancient (yes, human) authors is unsurprisingly less capacious than our own with regard to modern science.<br><br>No serious reader of the Bible has ever missed its frequent use of metaphor and symbolism (but Dan Brown is all the proof one would need that it is easy to misconstrue symbolism, and even the scholarly study of symbols).]]></body>
+  
+  <user>
+    <id>555726</id>
+    <name>Philip</name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/555726-philip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1324299344p3/555726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1324299344p2/555726.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 28 18:28:41 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 18:28:41 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>198264</id>
+  <body><![CDATA[Now, Brendan, there you go again. To 90% of all people living or who have ever lived, all knowledge is hearsay. <br><br>Actually I made that up just now, but it sounds pretty good as a rebuttal of whatever your point was--I guess that Christ was just a good old boy.<br><br>Would anyone that I haven't insulted please raise their hand? Geez. <br><br>one last time: I thought the DVC was written excruciatingly bad and that it was heavily promoted as 'semi kind of maybe true' by anti-Christian elements together with a few mercenary hacks. And I took/take umbrage.<br><br>I am going to relinquish all further rejoinders to Philip (with one 'el') as he is demonstrably (sic) brighter than me. His response to Robert was immeasurably better than my planned--"Oh yeah, and so's your old man."<br>And my apologies to Ruth and Dottie,I've decided not to write that book.<br>No mas. ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 28 22:01:29 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 22:01:29 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>198284</id>
+  <body><![CDATA[Dear Phillip,<br><br>Hmmm, did you not write: "I am sure that Dan Brown is one of those folks (I almost admire them for their sheer 'faith.') who is comfortable that life as we know it was an accident of nature"? Forgive me for misinterpreting this as asserting that he is an atheist; I was merely pointing out that there was nothing in the two of his books that I've read to suggest that he thinks "life is an accident."<br><br>For that matter, I can see little reason for you to assume in message 19 above that someone who supports the removal of Christian symbols from public property is either cowardly (scared exactly of what?) or an atheist. Nor do I think that Christians in general or you in particular are "cousin-marrying dopes". I don't know what subset of the "Chistian creed" you subscribe to, how could I? From your reply you appear to be "enlightened" and have made it past the rejection of Genesis, which is good (although it would have earned you excommunication and/or a nasty death at the hand of the Christian secular power for roughly 1200 of the last 2000 years, longer than that in some countries and cultures). Your remarks indicate that you in turn think that Christians who still believe in the literal truth of Genesis are somehow stupid. Why is that? What <em>precisely</em> is any more stupid about believing in one piece of scripture rather than another? You will be believing in miracles and magic -- things that violate the laws of nature as best we have been able to infer them -- either way; the question is only one of degree.<br><br>It doesn't really matter, of course. At least part of whatever flavor of Christianity you believe in is guaranteed to be heresy to at least some other Christians and all other non-Christian religions, with no rational way to choose between them.<br><br>One way or another, you've chosen to believe in an elaborate, complex scheme based on ancient writings whose objective truth cannot be verified. It is highly probable that you believe in the <em>particular</em> set of ancient writings that you do because your parents happened to be Christian. If you happened to have been born in a small village in Egypt or Saudi Arabia, chances are excellent that you'd be an equally devout Muslim; if in India you'd be a great Hindu, if in Japan a Buddhist (and honestly, I suspect God is OK with this and doesn't cast the losers in the "I believe what my culture believes" game into eternal fire:-).<br><br>I would bet that your entire social culture has been structured around Christian events from the day of your birth to the present, and your participation in those events has been inevitably accompanied by public affirmations of the essential tenets of your faith in powerful rituals designed to give you both comfort and social support. Which is fine; your beliefs and culture are what they are.<br><br>The point remains: People who disagree with you regarding whether or not Jesus ever existed, whether he was or was not the "son of god", whether or not it makes any <em>sense</em> to view Diety as a father-son-HG trinity (some four billion humans do not think so, not that their own beliefs are necessarily more sound), or whether Jesus died, was buried, and rose on the third day and ascended to heaven (whereever and whatever that might be) to judge the quick and the dead are <em>not automatically atheists</em>.<br><br>While it is true that a number of our founding fathers were deists, <em>even</em> some Christians understand the Bill of Rights and realize that part of the price you pay for the freedom to worship as you please without government interference is that that same government doesn't get to advance YOUR version of religion anytime your group happens to be in the majority. All one has to do is glance at a history book or take a contemporary look overseas at the incredible evil that happens in the Islamic republics all in the name of God to realize that having a government endorsed or mandated religion is a <em>bad thing</em>...<br><br> rgb<br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 28 22:29:31 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 22:29:31 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>198310</id>
+  <body><![CDATA[Hey, do I get credit for this course? Cause I ain't gonna keep taking notes if this is just for fun.<br><br>Professor, all I can say is that you are soooooo wrong in about ninety percent of what you have surmised about me. And to my dying shame, you have missed the part that said I AM A SATIRIST. <br><br>I promised the smart Philip he had the last word. I hope he is ready to deliver. If not, I can't say I blame him. Nil sine numinr. :)<br><br>Mox nox in rem.<br><br>Them Latin folks had a way with words.]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 28 23:01:03 -0700 2007</created_at>
+  <updated_at>Sun Oct 28 23:01:03 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>198351</id>
+  <body><![CDATA[Dear One-ell Philip,<br><br>I wouldn't disagree with anything you said above, and wasn't really advancing the notion that if Genesis is false so is everything else --as you note, that is a fallacy, although the specific context I recited can easily be found in official creed from as little as forty or fifty years ago and is still being recited in sermon after sermon today, and not just among the cousin-marrying crowd. The church has yet to really come up with a good replacement for original sin to motivate the need for <em>universal</em> external supernatural salvation.<br><br>Rather I was advancing the notion that writing something down doesn't make it true, nor does reciting it in a ritual fashion in a large room<br>built for that purpose in the company of a large number of similar-minded people, nor does making it into the state religion of the world-ruling empire of Rome (which more than any other event dictated the form of modern Christianity).<br><br>Many parts of the Bible are in obvious conflict with currently accepted scientific or historical truth (and ditto most other religious scriptures of other faiths). This includes <em>all miracles</em> at least if one defines a miracle as something that violates natural laws, as opposed to being something that is merely unlikely. It isn't just Genesis; changing water into wine, walking on water, raising the dead all violate physical laws great and small. How can you ordinally rank such violations so that believing in Genesis is "dumb" but believing in walking on water is OK? Is one miracle "harder to perform"<br>to an all-powerful God?<br><br>Ultimately, this is all a "testament" to the failure of reason. Card-carrying religious figures throughout history have been required to<br>prove their authenticity by means of performing natural-law-violating miracles because otherwise their words carry no authority. Yet, even if<br>the biblical miracles were <em>real and divine</em> they'd still end up nothing more than smoke and mirrors as they demand fearful and unquestioning acquiescence rather than engage our reason or our heart. They represent a silly game; every instant of awareness is a miracle that no human can miss.<br><br>To return to TDVC one last time, I do find the Gnostic texts and the considerable controversy that has surrounded them from when they were<br>cast out and burned in the early fourth century to when they were rediscovered in near-original form in 1945 (giving them a "provenance" every bit as good as that of any of the gospels) extremely interesting. If Dan Brown did the world any service with his book, it was to bring the Gnostics out from the shadows of academia and into the attention of pretty much everybody.<br><br>This backhanded introduction to the fact that the Gnostic texts <em>exist</em> (however he may or may not have distorted their content) is, I'm sure, why a lot of people like TDVC. The plot may be lame, the historical basis may be warped and skewed, the writing is poor, but it still manages to focus the attention of the reader for several hours on the <em>fact</em> that the church has deliberately distorted their version of the life and teachings of Jesus (at the very least by selecting what to leave in and what to leave out) to support their own ends. This makes the reader think. Thinking is good, ergo the book (however bad) is still good. TDVC is an oxymoron, and hence "fun".<br><br>Politically, the underlying dialectic of his novel is Christ our Brother versus Christ the King, a fight that dates back to 325 and the council<br>of Nicea. The Enlightenment (which still continues, far from being over) has been and will rightfully continue to be hard on Kings, "orthodox Jesus" not excepted.<br><br>Out of the Gnostics, my personal favorite line is in the Gospel of Thomas, where he quotes Jesus:<br><br>"Whoever blasphemes against the Father, they can be forgiven. Whoever blasphemes against the Son, <em>they</em> can be forgiven. Whoever blasphemes agains the Holy Spirit, they cannot be forgiven."<br><br> rgb<br><br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Oct 29 00:56:58 -0700 2007</created_at>
+  <updated_at>Mon Oct 29 00:56:58 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>198407</id>
+  <body><![CDATA[I guess out of Phil(l)ippian solidarity I will toss one last comment in here at Phillip's request, though as I've already said I now dislike Brown even more.<br><br>Robert has good points to make about the way religion is deeply imbedded in one's own culture and how The Code brought new awareness of the 'Gnostic Gospels.' I would disagree with the possible implication of Robert's general thrust that religion can be reduced to propositions -- this is admittedly largely the case with groups that focus on assent to creeds and the like, but misses the role of the mysterious in most religious experience.<br><br>But, to get back to literature, I guess there's a reason that religion and politics were not considered fit topics for dinner table conversation in the wardrooms of Royal Navy ships brought to life so marvellously in Patrick O'Brian's Aubrey/Maturin series.<br><br>Feelings run so high that in debates about religion we often speak past each other rather than to each other.]]></body>
+  
+  <user>
+    <id>555726</id>
+    <name>Philip</name>
+
+    <location>Saint Paul, MN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/555726-philip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1324299344p3/555726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1324299344p2/555726.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Oct 29 04:45:37 -0700 2007</created_at>
+  <updated_at>Mon Oct 29 04:45:37 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>198574</id>
+  <body><![CDATA[I'm hoping that you're referring to the "other" Brown, and if I've given you any cause to generalize to all Browns I apologize...:-)<br><br>FWIW, I agree with everything you say, although I might have said instead that the <em>only</em> thing that is important is those mysterious religious experiences -- including the fact that we experience anything at all. The greatest miracle is the one we experience at every instant of our awareness.<br><br>Zen masters would have even less patience with this sort of discussion than ship captains. They'd be more likely to whack the participants upside the head with a banana (squish!) to bring them back down to earth and force them to nonverbally confront the essential absurdity and miraculousness of the now.<br><br>But I'll definitely stop now. As you say, TDVC isn't worth it (even though the discussion itself is enjoyable, at least to me:-).<br><br> rgb<br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Oct 29 07:49:33 -0700 2007</created_at>
+  <updated_at>Mon Oct 29 07:49:33 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>200462</id>
+  <body><![CDATA[Wow. I guess we've done enough of this. Although some of us learned something, it was probably boring or even uncomfortable for others. I don't think that a literature blog is probably the place for religious debate. Why don't we just all agree that a living proof of a Christian God is that He has given us one of the greatest presidents (W) in American history and let it go at that. <br><br>I'm woefully behind on a script due 11/21 and won't be able to join a discussion until December.<br>cheers]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 09:37:30 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 09:37:30 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>200478</id>
+  <body><![CDATA[We'll miss you. But I can't agree on either god or george.<br><br>But to each his own. You're right in that we should drop this. It IS making me uncomfortable.<br><br>R]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 09:45:55 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 09:45:55 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>200518</id>
+  <body><![CDATA[Ruth<br>I write HUMOR!<br><br>pej]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 09:57:51 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 09:57:51 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>200612</id>
+  <body><![CDATA[I knew I shouldn't have given up caffeine.<br><br>Ruth, slapping her head]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 10:33:56 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 10:33:56 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>200744</id>
+  <body><![CDATA[The art of the smiley:<br><br> George W. Bush is a brilliant president!<br><br>Baaaad. People might think you are slightly brain damaged as well.<br><br> George W. Bush is a brilliant president! :-p<br><br>Better. Words contradict smiley, which suggests that you're about to barf as you say this and conveys your true emotion.<br><br> George W. Bush is a brilliant president! :-o&gt;<br><br>Better still. Now you are expressing fear, which is a more honest emotion than mere revulsion when contemplating a complete idiot in charge of a huge army and an immense nuclear arsenal who has spent us into a huge national debt -- again.<br><br> George W. Bush is a brilliant president! *:-(<br><br>Now, now, no matter how scared and nauseated he makes you feel, shooting yourself in the head isn't going to make it any better.<br><br> George W. Bush is a brilliant president! ;-)<br><br>That's it! The sly wink shows that you are sharing a joke with friends and that the statement shouldn't be taken too seriously. The smile shows that you've lost your mind, because if you hadn't you would feel sick and scared and might even choose to end it all rather than hang around and wait to get drafted, broke -- for fighting in Iran...<br><br>:-)<br><br>rgb]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 11:37:41 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 11:37:41 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>201275</id>
+  <body><![CDATA[You just can't help poking robert with the satire stick right in his scientist eye, can you? (Big Smiley face, rgb :)) and it has been so amusing to read, really.]]></body>
+  
+  <user>
+    <id>288163</id>
+    <name>Lulu</name>
+
+    <location>Cary, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/288163-lulu]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1203778599p3/288163.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1203778599p2/288163.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 17:42:05 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 17:42:05 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>201282</id>
+  <body><![CDATA[Ruth, it's all my fault, I will never comment on a book you've read ever again. (Insert smiley of your choice here.)<br><br>-Rob<br>this space for smiley]]></body>
+  
+  <user>
+    <id>120879</id>
+    <name>Trebro</name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/120879-trebro]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1186456117p3/120879.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1186456117p2/120879.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 17:46:30 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 17:46:30 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>201305</id>
+  <body><![CDATA[Come back, come back. All is forgiven.<br><br>R]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 17:57:41 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 17:57:41 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>201349</id>
+  <body><![CDATA[Hey, good news for everybody. I got a reprieve on delivering the script until after Thanksgiving. Rather than use that time to rewrite and tweak, I'm going to waste it on- line. And I DO like George Bush. I don't love him but not for the reasons that some of you might have--he's not REPUBLICAN enough for me. The wimp.(Surely no one thought I was a DEMOCRAT Right Wing Christian).<br>RGB, risking another lesson in God knows what, i have to tell you that I am a firm believer in Thermodynamics, especially as it applies to evolution. And I might add that my quant fund uses the second law to pick stocks. :) Currently it is probably the hottest fund in the country. When i started my Chinese company, in 1994, it was based on a crude (mine) understanding of complexity. It's now highly successful. So I believe in your 'science' but I am at heart a Christian and comfortably so.<br><br>pej<br>Those of you on this blog who are annoyed to no end, I can at least offer an authentic fully autographed (not just an X) copy of Nam-A-Rama or Goodbye Mexico. Just let me know where to send it. (No salemen will call)<br><br>It was noted that Ruth didn't invite ME back. <br>Ruth, what else have you been reading? ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 18:23:10 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 18:23:10 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>201512</id>
+  <body><![CDATA[Sorry for the intrusion. I know I'm kind of late to this party, but I just couldn't help but comment on a couple of things. 1) This seems to be a lively and intelligent, if passionate, debate. Kudos to all for participating. 2) Somebody has been reading their Dawkins. You know who you are.;) 3) Unless I missed it (which is highly likely since I kinda skimmed some of the longer diat...I mean...posts. :)), no one has brought up the role of faith in this discussion. Is Faith (caps intentional), not the reason this debate exists? Both Science and Religion operate on faith. For those scientists who disagree, please see "string theory." As well Religion has no proof of God (with all due respect St. Thomas Acquinas of course). Are not both Religion and Science different paths to the same Truth? Did Dan Brown not place his faith squarely on the Truth of the P.T. Barnum?]]></body>
+  
+  <user>
+    <id>436292</id>
+    <name>Chris</name>
+
+    <location>Cary, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/436292-chris-m]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1196305590p3/436292.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1196305590p2/436292.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 20:49:36 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 20:49:36 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>201519</id>
+  <body><![CDATA[Phillip - I have been lurking in the shadows on this blog and as a somewhat conservative Christian, I was personally rooting for you until you got to the George Dubya part:) Good to know other discerning Christians who enjoy great lit!! ]]></body>
+  
+  <user>
+    <id>105244</id>
+    <name>peg</name>
+
+    <location>Plymouth Meeting, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/105244-peg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1184201070p3/105244.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1184201070p2/105244.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 30 20:55:20 -0700 2007</created_at>
+  <updated_at>Tue Oct 30 20:55:20 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>201941</id>
+  <body><![CDATA[Actually I've spent more time reading <a href="https://www.goodreads.com/search/search?q=%20The%20Lucifer%20Principle" title=" The Lucifer Principle"> The Lucifer Principle</a> by Bloom than Dawkins work. Dawkins is too vociferous an atheist for my taste, and I enjoy the arguments advanced by Bloom for the sheer fun of them - I've done a signficant amount of coding and work on genetic optimization methods in e.g. neural networks (for entrepreneurial purposes, not to publish:-) and understand the incredible power of GAs (genetic algorithms) in quantitative terms. So I'd already reached most of Blooms' (or Dawkins') conclusions on my own anyway, but it is a really entertaining romp through history and sociology looking for specific examples of superorganismal evolution and its always nice to have your intuition validated to some extent, even if TLP is mostly anecdotal and not properly scientific.<br><br>(N.B. -- I'd be happy to see a separate thread started <em>just</em> to discuss The Lucifer Principle if anybody's interested and has read it, or I'd be happy to wait until others read it and do it there. It is one of the most thought-provoking books I've read in the last decade.)<br><br>Regarding Faith, you are absolutely dead on. This is something <em>I'm</em> writing a book on. It's title is <em>Axioms</em> and there is a very preliminary version available under my personal website (under Philosophy). In a nutshell, Hume showed that Philosophy is Bullshit in the specific sense that everything we <em>think</em> that we know beyond what we are experienc<em>ing</em> is known by means of inference. Inference at the time was not a deductively validated form of mathematical or logical reasoning. Even <em>deductive</em> reasoning is suspect, because without exception it relies on <em>axioms</em> where the litereal meaning of the word is "unprovable assumption", and assume makes an ass out of u and me as my wife likes to say...<br><br>All knowledge, therefore, is based on axioms. Around sixty years ago, a virtually unknown physicist named Richard Cox invented a system of three axioms that allowed him to derive <em>the algebra of inference</em> and show that it is a) monotonically equivalent to Bayesian probabililty theory; b) the basis of all inductive knowledge; c) contains Aristotelian boolean <em>deductive</em> logic as a special limiting case that is for all practical purposes never realized in the real world. Some of this was also developed by E. T. Jaynes, a well-known physicist who was a very early adopter of the Cox theory. Among other things, statistical mechanics in physics and information theory in computation is derivable from the Cox axioms, which <em>preceded</em> Shannon's theorem, so he rightfully has precedence.<br><br>As one of many consequences of this stupendous (and virtually unknown) accomplishment in philosophy, it is now <em>provable</em> that all science is based on faith - in the Cox axioms first and foremost, and in various other axioms (like the law of causality and a slew of others that say things like "there is an objective external reality that corresponds to our sensory experience") as well. This is why I think atheism is silly. It can no more be "logically proven" than theism of one sort or another. Properly speaking, the Cox axioms reveal that we are all, truly, agnostics -- ascribing a greater or lesser degree of belief to propositions regarding God based on our personal experience, where certainty is forever beyond our grasp.<br><br> rgb<br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 31 07:30:38 -0700 2007</created_at>
+  <updated_at>Wed Oct 31 07:30:38 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>202113</id>
+  <body><![CDATA[Robert<br>"monotonically equivalent to Bayesian probability theory"?? You have got to be kidding! What are the dang standards at our universities anymore? <br>As for 'certainty forever beyond our grasp'? Ruth will never mention the DVC again. I am certain.<br>Pretty interesting stuff, I'll admit. But I was thinking more along the lines of a Horsey and a Doggie.*<br>cheers<br>*With apologies to Peanuts.]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 31 09:16:37 -0700 2007</created_at>
+  <updated_at>Wed Oct 31 09:16:37 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>202784</id>
+  <body><![CDATA[You mean, Phillip, that you were thinking of a horsey and a ducky, but you changed your mind? :)<br><br>I really wish that musical was on DVD. :(<br><br>-Rob]]></body>
+  
+  <user>
+    <id>120879</id>
+    <name>Trebro</name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/120879-trebro]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1186456117p3/120879.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1186456117p2/120879.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 31 16:22:57 -0700 2007</created_at>
+  <updated_at>Wed Oct 31 16:22:57 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>202835</id>
+  <body><![CDATA[Yep, always one of my favorite Peanuts strips. I somehow find myself in that situation often. I have a Wire Haired Fox Terrrier that attacks giant dogs all the time. And I call HIM an idiot.<br>cheers<br><br>RGB, when do you ever find the time to waste time? One of my favorite pasttimes. But I am really seriously going to get back to writing soon. I mean it this time. ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 31 17:11:34 -0700 2007</created_at>
+  <updated_at>Wed Oct 31 17:11:34 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>202915</id>
+  <body><![CDATA[Google on rgb and bot at the same time, or rgbbot. This is my secret -- I've been cloned and formed into a parallel work unit. Or if you're feeling really bored, try "rgb duke" or "rgb beowulf". Yep, several hundred thousand hits and they are almost all me (some duplicates, but still:-).<br><br>I've been on the Internet since there was such a thing. I write somewhere in the ballpark of ten to twenty pages of text of one sort or another a day. Forum posts (too many of those, recently:-). Mailing list participation. Papers. Magazine articles. More recently, novels, books of poetry, textbooks, and computer books. Computer code. Communications with students, either in my classes or my advisees.<br><br>Seriously, if I didn't type <em>almost</em> as fast as I can talk, I'd go nuts trying to keep up with all the writing I need to do before I die. As it is, I'm spread way too thin -- trying to work on a computer program today after teaching, in between advising students and negotiating an independent study project for a student I'll probably mentor next semester, while occasionally pretending to promote my book while I'm <em>really</em> just having a blast on this list, when I should be finishing a second round draft copy of my long-completed SF novel, or rewriting the book on beowulf cluster engineering so I can publish it properly, or working on Axioms which is <em>really</em> what I should probably be doing to the exclusion of all else. And I read, usually at least an hour or two a day, have teen age sons, a wife who's a physician, three dogs, five (sigh) cars in various states of repair.<br><br>Why, I've even been known to sleep!<br><br>Sometimes, when the moon is just right, I play World of Warcraft or fish. Not enough fishing time, alas, for some years now, but one thing you learn as you live is that life is phases -- you never stay in one for long, and often when they pass you miss them even as you longed to be finished with them in midstream, or find that old age isn't what you thought it might be (many rewards, but having your body and eyesight gradually deteriorate sucks). Zen practice is to try to clear your mind and live fully in the now, not dwelling on or wishing to recapture or regretting the past, not fearing or stressing out or longing for the future. Be alive, be here, be now, be in the joy and light of the moment.<br><br>Don't make me come over there and whack you with a banana, now... ;-)<br><br> rgb<br>]]></body>
+  
+  <user>
+    <id>538288</id>
+    <name>Robert</name>
+
+    <location>Durham, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/538288-robert]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1192229994p3/538288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1192229994p2/538288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 31 18:27:01 -0700 2007</created_at>
+  <updated_at>Wed Oct 31 18:27:01 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>662907</id>
+  <body><![CDATA[I agree with you Ruth in regard to the writing. I found it almost distasteful(in which case your Wheaties box would have been MUCH more appealling to the palate). Not in its content or the controversy around it, but the writing itself.Very Dissappointing.<br>I hope my tongue doesn't fall out after I say this-I never feel this way but the screenplay writers did a better job on the movie... <br>or perhaps I just enjoyed the setting!]]></body>
+  
+  <user>
+    <id>1012545</id>
+    <name>Mary</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1012545-mary-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442499285p3/1012545.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442499285p2/1012545.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 22 07:57:49 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 07:57:49 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>665354</id>
+  <body><![CDATA[Ruth, I've skimmed the entire bothersome debate and must say that everyone has lost sight of the true issue here: not what Brown's own religious views are or how novel the ideas he propounded were, but why you, as an inveterate reader very conscious of your own tastes, opted to travel without reading material of your own, instead trusting in what was already at the cabin. <br><br>Travel less lightly?<br>yulia]]></body>
+  
+  <user>
+    <id>185835</id>
+    <name>Yulia</name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/185835-yulia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1375640372p3/185835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1375640372p2/185835.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 22 13:56:33 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 13:56:33 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>665815</id>
+  <body><![CDATA[Heehee, Yulia. The first thing I do before I even pack my nighty to leave for the cabin is to stock up on books. We stay at the cabin for 4 or 5 weeks, and while there is a library in a small town about 10 miles away, it's pretty poor pickings.<br><br>There are also lots and lots of books at the cabin, but I read them long ago. So there I was, my imported supply of books had run out. It was going to be a day or two before I could get to the library and there was the DVC staring at me.<br><br>Being an areligious person, I didn't give a damn about whether the book was blasphemous or not. But I do want decent writing. This was pure crap. <br><br>R]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 22 15:03:30 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 15:03:30 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>665983</id>
+  <body><![CDATA[I never could have read DVC with my own eyes, however large the print (my internal critic is insulted by the writing), but Frank read it to me. I find I'm somewhat more (too?) tolerant of bad writing when I'm read it, though not always. Sometimes, I insist he finish books without me. <br><br>It's why I made a separate shelf for books read to me, as if to explain the awkward discrepancy in my literary standards, not that anyone notices this disparity besides me. ]]></body>
+  
+  <user>
+    <id>185835</id>
+    <name>Yulia</name>
+
+    <location>New York, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/185835-yulia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1375640372p3/185835.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1375640372p2/185835.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 22 15:21:38 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 15:21:38 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>666033</id>
+  <body><![CDATA[Bravo, Ruth.]]></body>
+  
+  <user>
+    <id>1012545</id>
+    <name>Mary</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1012545-mary-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442499285p3/1012545.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442499285p2/1012545.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 22 15:26:36 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 15:26:36 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>666145</id>
+  <body><![CDATA[Thanks, Mary. Bravo for packing books? Bravo for trashing DVC?<br><br>Yulia, I think I'm actually more critical of the writing when I'm listening to an audiobook. Perhaps it's because my mind can't go leaping along through the words, but must listen to it word by word.<br><br>Do you find there's a difference between listening to an audiobook and having a "real person" read to you?]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 22 15:37:50 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 15:37:50 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>666261</id>
+  <body><![CDATA[(...I may have just entered an incomplete post- sorry if I did.)<br>Bravo for your second to last remark in that post: "But I do want decent writing."<br>If quality is overlooked and the vision becomes better marketability of a book, it is a sad thing. And so, as you said in one of your past posts, literature suffers.]]></body>
+  
+  <user>
+    <id>1012545</id>
+    <name>Mary</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1012545-mary-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442499285p3/1012545.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442499285p2/1012545.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 22 15:56:34 -0700 2008</created_at>
+  <updated_at>Tue Apr 22 15:56:34 -0700 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/5589709]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/5589709]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>15702592</id>
+    
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15925</id>
+  <isbn>0446696110</isbn>
+  <isbn13>9780446696111</isbn13>
+  <text_reviews_count type="integer">3477</text_reviews_count>
+  <title>The Guardian</title>
+  <image_url>https://d.gr-assets.com/books/1388195339m/15925.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1388195339s/15925.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15925.The_Guardian</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>129771</ratings_count>
+  <description>Julie Barenson's young husband left her two unexpected gifts before he died: a Great Dane puppy named Singer and the promise that he would always be watching over her. Now, four years have passed. Still living in the small town of Swansboro, North Carolina, 29-year-old Julie is emotionally ready to make a commitment to someone again. But who? Should it be Richard Franklin, the handsome, sophisticated engineer who treats her like a queen? Or Mike Harris, the down-to-earth nice guy who was her husband's best friend? Choosing one of them should bring her more happiness than she's had in years. Instead, Julie is soon fighting for her life in a nightmare spawned by a chilling deception and jealousy so poisonous that it has become a murderous desire</description>
+<authors>
+<author>
+<id>2345</id>
+<name>Nicholas Sparks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p5/2345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1332884095p2/2345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2345.Nicholas_Sparks]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>3988844</ratings_count>
+<text_reviews_count>120934</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1270984754</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Mar 09 12:04:17 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>20</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="poop" exclusive="false" review_shelf_id="5958082" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 18 10:55:54 -0800 2008</date_added>
+  <date_updated>Tue Mar 22 06:08:25 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[yeah, there's a spoiler in here. so stop reading if you don't wanna know.<br /><br />yep. sparks does it again, sucks, that is.<br />he kills off a dog this time, if memory serves me right. I think that's all he's got... try to make a love story so sweet you need insulin. and then WHAM! Death! yeah, get out your k...]]>
+  </body>
+  <comments_count>18</comments_count>
+    <comments start="1" end="18" total="18">
+        <comment>
+  <id>429404</id>
+  <body><![CDATA[ah, but why do you keep reading him?<br>I've not tried him...but also thought I wouldn't want to...does he have something going for him other than high sales formulaic etc?]]></body>
+  
+  <user>
+    <id>777369</id>
+    <name>Jessica</name>
+
+    <location>Sheffield, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/777369-jessica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1283427299p3/777369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1283427299p2/777369.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 18 12:54:15 -0800 2008</created_at>
+  <updated_at>Mon Feb 18 12:54:15 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>429594</id>
+  <body><![CDATA[i think I keep hoping there's another "notebook" in him. I ADORED that book. and usually I have read something "heavy" - history or work related and need a "fluff" read. yes... I am seeing suggestions for light, fun, reads.<br><br>I am not sure what all the appeal is with him myself. he will never get my eyes on his writing ever again!]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 18 13:44:19 -0800 2008</created_at>
+  <updated_at>Mon Feb 18 13:44:19 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>430286</id>
+  <body><![CDATA[Woman, you need an intervention. Sparks is working his crazy hoodoo-voodoo on you again. Next thing you know you'll be reading his new book <em>The Botanist</em> about terminal cancer patient who kills her potted rubber tree plant and a jam jar full of sea monkeys, and then accidentally sets fire to an orphanage, a rain forest, and a puppy mill. You'd be better off reading those books about people taking dumps on each other's naughty bits that you like so much. (Doesn't Sparks write any of those?)]]></body>
+  
+  <created_at>Mon Feb 18 17:20:51 -0800 2008</created_at>
+  <updated_at>Mon Feb 18 17:20:51 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>28052947</id>
+  <body><![CDATA[This is a mean and cruel review.]]></body>
+  
+  <user>
+    <id>4048297</id>
+    <name>Anna</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4048297-anna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1369952478p3/4048297.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1369952478p2/4048297.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Mar 21 14:26:36 -0700 2011</created_at>
+  <updated_at>Mon Mar 21 14:26:36 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28054214</id>
+  <body><![CDATA[I think killing off dogs is mean and cruel.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Mar 21 14:53:58 -0700 2011</created_at>
+  <updated_at>Mon Mar 21 14:53:58 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28141067</id>
+  <body><![CDATA[Who is calling anyone a bastard? The way I wrote the crap above, well, it was supposed to read as if Sparks sits down at his computer with a formula,<br>"love + dead something = tearjerker = money in my pocket" and he's sarcastically calling his audience bastards.<br><br>we are suckers for getting pulled into the same story every time..<br><br>Ah, nevermind.<br><br>And what's with the jump to abortion?? Holy Maude!]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 23 13:57:03 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 13:57:03 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28141625</id>
+  <body><![CDATA[Message 4 was a mean and cruel comment, Anna. Go patrol other people's cavalier use of bastard (and retard while you're at it.)]]></body>
+  
+  <created_at>Wed Mar 23 14:10:53 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 14:10:53 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28142219</id>
+  <body><![CDATA[Anna...<br><br>That is one of the single most idiotic comments I've seen on Goodreads in quite a while. <br><br>1. People can 'get away' with calling other people unkind names because it's a free country. <br><br>2. If you're so easily and mortally wounded by a word -- a single word -- (not even directed at <em>you personally</em>) you have one hell of a tough road ahead of you, honey. It's best to go into your panic room right now and seal that bitch shut.<br><br>3. What does abortion have to do with anything here? While it's admittedly fun (and funny!) to talk about fetuses being burned alive, usually there's something that precedes it in a discussion to make it relevant. (See also 'Basic Interpersonal Communication 101.') You know, I could all of a sudden bring up the fact that I hate really dry bowel movements -- you know, the ones with a bunch of tiny fecal nuggets compacted together into one giant butt plug excretion -- and while it might be interesting, it would hardly be relevant.<br><br>4. Why is it that trolls always have private profiles? I love that. They throw stones from over their moats. Really brave. Let us troll through your drawers and see what you're about if you're going to inject yourself nonsensically into other people's review threads. Fair is fair.<br><br>5. Are you Jon Bruenning? You're too moronic not to be.<br><br>6. But you probably really are a bastard! That's the ironic thing here.]]></body>
+  
+  <user>
+    <id>3073544</id>
+    <name>David</name>
+
+    <location>South Bend, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3073544-david]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1374509066p3/3073544.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1374509066p2/3073544.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 23 14:25:34 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 14:25:34 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28142430</id>
+  <body><![CDATA[Goodreads is so fun today.]]></body>
+  
+  <user>
+    <id>1020084</id>
+    <name>JSou</name>
+
+    <location>Wickenburg, AZ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1020084-jsou]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357661877p3/1020084.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357661877p2/1020084.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 23 14:31:11 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 14:31:11 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28142547</id>
+  <body><![CDATA[<em>Sout Sout Soutasudio wrote: "Goodreads is so fun today."</em><br><br>Holla!]]></body>
+  
+  <user>
+    <id>580431</id>
+    <name>Jenn &quot;Awww Yeaaahhh&quot;</name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/580431-jenn-awww-yeaaahhh]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1367536006p3/580431.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1367536006p2/580431.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 23 14:33:40 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 14:33:40 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28143634</id>
+  <body><![CDATA[<em>David wrote: "Anna...<br><br>That is one of the single most idiotic comments I've seen on Goodreads in quite a while. <br><br>1. People can 'get away' with calling other people unkind names because it's a free country. <br><br>2...."</em><br><br>You just made me choke on my yogurt (NOT a euphemism). Way to go, David.]]></body>
+  
+  <user>
+    <id>1002888</id>
+    <name>Heidi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1002888-heidi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1400122440p3/1002888.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1400122440p2/1002888.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 23 14:57:13 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 14:57:13 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28143733</id>
+  <body><![CDATA[You just made me choke on my yogurt (TOTALLY a euphemism)]]></body>
+  
+  <user>
+    <id>399189</id>
+    <name>Weinz</name>
+
+    <location>Santa Barbara, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/399189-weinz]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1287433120p3/399189.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1287433120p2/399189.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 23 14:59:17 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 14:59:17 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>28157993</id>
+  <body><![CDATA[Wait a minute here... Who took down the burning fetus comments?? I'll burn fetuses if I want to! Keep your laws off my body!]]></body>
+  
+  <user>
+    <id>3073544</id>
+    <name>David</name>
+
+    <location>South Bend, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3073544-david]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1374509066p3/3073544.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1374509066p2/3073544.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 23 19:59:39 -0700 2011</created_at>
+  <updated_at>Wed Mar 23 19:59:39 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>29966420</id>
+  <body><![CDATA[Excuse me but I am not a bastard.]]></body>
+  
+  <user>
+    <id>4048297</id>
+    <name>Anna</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4048297-anna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1369952478p3/4048297.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1369952478p2/4048297.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue May 03 10:51:45 -0700 2011</created_at>
+  <updated_at>Tue May 03 10:51:45 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>29966480</id>
+  <body><![CDATA[No you are not.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue May 03 10:53:34 -0700 2011</created_at>
+  <updated_at>Tue May 03 10:53:34 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>30009920</id>
+  <body><![CDATA[David, America may be the country of free speech but that is no way to treat someone whose option differs from your won. Just because my option is opposite from yours gives you no right to call me a bastard. You may think that I am a sheltered nobody without feelings but let me tell you this I don't care that you called me a bastard...I simply don't care that you did.]]></body>
+  
+  <user>
+    <id>4048297</id>
+    <name>Anna</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4048297-anna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1369952478p3/4048297.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1369952478p2/4048297.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 04 10:23:58 -0700 2011</created_at>
+  <updated_at>Wed May 04 10:23:58 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>90061642</id>
+  <body><![CDATA[See you hate in him for the fact he killed a dog but... What about "Old Yeller" every body loved that book and the boy killed his dog for having rabies and defending the little boys mother and sister from a wolf but in this book the dog is poisoned lives gets up and protects his owner and gets shot by the bad guy. This book was simply amazing and I think singer was a very brave dog who was doing his job defending his master. This book is really about the dog and masters relationship through good and bad not a love story. Even though the book is told like a love story and thriller it's truly about the dog as quoted in the titled of the book "The Guardian"]]></body>
+  
+  <user>
+    <id>27131269</id>
+    <name>Monica</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/27131269-monica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1389480731p3/27131269.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1389480731p2/27131269.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jan 05 12:03:42 -0800 2014</created_at>
+  <updated_at>Sun Jan 05 12:03:42 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>90198263</id>
+  <body><![CDATA[okay.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 07 05:23:39 -0800 2014</created_at>
+  <updated_at>Tue Jan 07 05:23:39 -0800 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/15702592]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/15702592]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>42614989</id>
+    
+  <user>
+    <id>1258773</id>
+    <name>Douglas</name>
+
+    <location>Clarkston, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1258773-douglas-wilson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442450821p3/1258773.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442450821p2/1258773.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1812457</id>
+  <isbn>0964729237</isbn>
+  <isbn13>9780964729230</isbn13>
+  <text_reviews_count type="integer">24546</text_reviews_count>
+  <title>The Shack</title>
+  <image_url>https://d.gr-assets.com/books/1344270232m/1812457.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344270232s/1812457.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1812457.The_Shack</link>
+  <num_pages>248</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Windblown Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>364487</ratings_count>
+  <description>Mackenzie Allen Philips' youngest daughter, Missy, has been abducted during a family vacation, and evidence that she may have been brutally murdered is found in an abandoned shack deep in the Oregon wilderness. Four years later in the midst of his &lt;em&gt;"Great Sadness,"&lt;/em&gt; Mack receives a suspicious note, apparently from God, inviting him back to that shack for a weekend.&lt;br&gt;&lt;br&gt;Against his better judgment he arrives at the shack on a wintry afternoon and walks back into his darkest nightmare. What he finds there will change Mack's world forever.&lt;br&gt;&lt;br&gt;In a world where religion seems to grow increasingly irrelevant &lt;em&gt;The Shack&lt;/em&gt; wrestles with the timeless question, "Where is God in a world so filled with unspeakable pain?" The answers Mack gets will astound you and perhaps transform you as much as it did him. You'll want everyone you know to read this book!&lt;br&gt;&lt;br&gt;&lt;em&gt;* book description from the back cover&lt;/em&gt;</description>
+<authors>
+<author>
+<id>806593</id>
+<name>Wm. Paul Young</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1441046386p5/806593.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1441046386p2/806593.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/806593.Wm_Paul_Young]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>374403</ratings_count>
+<text_reviews_count>26769</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1216891045</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 14:22:19 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>18</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="personal-development" exclusive="false" review_shelf_id="20262034" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Oct 01 00:00:00 -0700 2008</read_at>
+  <date_added>Sat Jan 10 16:58:38 -0800 2009</date_added>
+  <date_updated>Sat Jan 10 16:59:35 -0800 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is a terrible book. The author sees the real problem of father hunger, and tries to fix it with a mammy.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/42614989]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/42614989]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

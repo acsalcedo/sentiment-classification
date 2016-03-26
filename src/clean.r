@@ -53,13 +53,17 @@ columnNames <- c("review","class")
 posLst <- cleanedData[[1]]$content
 positiveFile = "../data/divided/outputPositive.csv"
 negativeFile = "../data/divided/outputNegative.csv"
+allFile = "../data/divided/all.csv"
 cat(c("review","class"),file = positiveFile, fill=TRUE, sep=",")
 cat(c("review","class"),file = negativeFile, fill=TRUE, sep=",")
+cat(c("review","class"),file = allFile, fill=TRUE, sep=",")
 for (review in posLst) {
     elem <- gsub("<.*?>", "", review)
     content <- paste((gsub("[\r\n\t]", "", elem)),"positive",sep=",")
     if (nchar(review$content) > 1) { 
         cat(content, file=positiveFile,fill=TRUE, append=TRUE, sep=",") 
+        cat(content, file=allFile,fill=TRUE, append=TRUE, sep=",") 
+
     }
 }
 
@@ -70,5 +74,6 @@ for (review in negLst) {
     content <- paste((gsub("[\r\n\t]", "", elem)),"negative",sep=",")
     if (nchar(review$content) > 1) {  
         cat(content, file=negativeFile, fill=TRUE, append=TRUE, sep=",") 
+        cat(content, file=allFile,fill=TRUE, append=TRUE, sep=",") 
     }
 }

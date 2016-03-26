@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1532353051</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">14743927</id>
+  <isbn>162061006X</isbn>
+  <isbn13>9781620610060</isbn13>
+  <text_reviews_count type="integer">109</text_reviews_count>
+  <title>Obsidian (Lux, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1338542022m/14743927.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1338542022s/14743927.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14743927-obsidian</link>
+  <num_pages>400</num_pages>
+  <format>ebook</format>
+  <edition_information>2nd Edition</edition_information>
+  <publisher>Entangled Publishing</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>145640</ratings_count>
+  <description>Starting over sucks.&lt;br&gt;&lt;br&gt;When we moved to West Virginia right before my senior year, I'd pretty much resigned myself to thick accents, dodgy internet access, and a whole lot of boring.... until I spotted my hot neighbor, with his looming height and eerie green eyes. Things were looking up.&lt;br&gt;&lt;br&gt;And then he opened his mouth.&lt;br&gt;&lt;br&gt;Daemon is infuriating. Arrogant. Stab-worthy. We do not get along. At all. But when a stranger attacks me and Daemon literally freezes time with a wave of his hand, well, something...unexpected happens. &lt;br&gt;&lt;br&gt;The hot alien living next door marks me.&lt;br&gt;&lt;br&gt;You heard me. Alien. Turns out Daemon and his sister have a galaxy of enemies wanting to steal their abilities, and Daemon's touch has me lit up like the Vegas Strip. The only way I'm getting out of this alive is by sticking close to Daemon until my alien mojo fades. &lt;br&gt;&lt;br&gt;If I don't kill him first, that is</description>
+<authors>
+<author>
+<id>4476934</id>
+<name>Jennifer L. Armentrout</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1290636579p5/4476934.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1290636579p2/4476934.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4476934.Jennifer_L_Armentrout]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>1073112</ratings_count>
+<text_reviews_count>96166</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1246259718</id>
+          <old_status>read</old_status>
+          <status>blacklisted</status>
+          <updated_at type="datetime">Sat Feb 20 21:02:24 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1216491162</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 10:05:44 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>7</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="blacklisted" exclusive="true" review_shelf_id="1232592377" sortable="false" />
+    <shelf name="1-star" exclusive="false" review_shelf_id="1233751940" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 31 10:05:44 -0800 2016</date_added>
+  <date_updated>Sun Feb 21 22:43:05 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Do you want me to be honest? <br /><br />This is one of the worst books I've ever read. <br /><br />Every time I see the raving reviews it's gotten, <strong>I want to stab myself. </strong>This book is poorly written, poorly executed, and poorly plotted. It's horrible. It's absolutely horrible. And I have absolutely no respect for Jenni...]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>146990866</id>
+  <body><![CDATA[Oh yeah, I forgot I read this one XD it was so...forgettable. Haha, I really enjoyed your review, Kiwi!]]></body>
+  
+  <user>
+    <id>5312798</id>
+    <name>Gergana</name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5312798-gergana]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439319393p3/5312798.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439319393p2/5312798.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Feb 02 08:48:43 -0800 2016</created_at>
+  <updated_at>Tue Feb 02 08:48:43 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1532353051]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1532353051]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1166755502</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5821978</id>
+  <isbn>1416968237</isbn>
+  <isbn13>9781416968238</isbn13>
+  <text_reviews_count type="integer">6149</text_reviews_count>
+  <title>The Summer I Turned Pretty (Summer, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1361666855m/5821978.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361666855s/5821978.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5821978-the-summer-i-turned-pretty</link>
+  <num_pages>276</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster Books for Young Readers</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>91144</ratings_count>
+  <description>Belly measures her life in summers. Everything good, everything magical happens between the months of June and August. Winters are simply a time to count the weeks until the next summer, a place away from the beach house, away from Susannah, and most importantly, away from Jeremiah and Conrad. They are the boys that Belly has known since her very first summer--they have been her brother figures, her crushes, and everything in between. But one summer, one terrible and wonderful summer, the more everything changes, the more it all ends up just the way it should have been all along.</description>
+<authors>
+<author>
+<id>151371</id>
+<name>Jenny Han</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284428061p5/151371.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1284428061p2/151371.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/151371.Jenny_Han]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>430178</ratings_count>
+<text_reviews_count>44176</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825124</id>
+          <old_status>1-star</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:25 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1247823853</id>
+          <old_status>read</old_status>
+          <status>1-star</status>
+          <updated_at type="datetime">Sun Feb 21 22:29:39 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">713275741</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Jan 12 23:52:28 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="1-star" exclusive="false" review_shelf_id="1233745247" sortable="false" />
+    <shelf name="pre-2014" exclusive="false" review_shelf_id="1233745265" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 12 23:52:28 -0800 2015</date_added>
+  <date_updated>Tue Feb 23 19:53:32 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      shit. complete shit. 
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>149141783</id>
+  <body><![CDATA[I should have listened to you!<br>Now I lost all afternoon reading this thing :-[]]></body>
+  
+  <user>
+    <id>10752235</id>
+    <name>ohlainey</name>
+
+    <location>Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10752235-ohlainey]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1364230985p3/10752235.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1364230985p2/10752235.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Mar 19 06:05:10 -0700 2016</created_at>
+  <updated_at>Sat Mar 19 06:05:10 -0700 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1166755502]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1166755502]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

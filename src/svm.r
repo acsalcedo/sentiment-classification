@@ -10,13 +10,13 @@ negativeData <- read.table(negativePath, header=TRUE,sep=",")
 
 # Determines the training and testing sets for the positive reviews.
 posIndex     <- 1:nrow(positiveData)
-posTestIndex <- sample(posIndex, trunc(length(posIndex)/4))
+posTestIndex <- sample(posIndex, trunc(length(posIndex)/6))
 posTestSet   <- positiveData[posTestIndex,]
 posTrainSet  <- positiveData[-posTestIndex,]
 
 # Determines the training and testing sets for the negative reviews.
 negIndex     <- 1:nrow(negativeData)
-negTestIndex <- sample(negIndex, trunc(length(negIndex)/4))
+negTestIndex <- sample(negIndex, trunc(length(negIndex)/6))
 negTestSet   <- negativeData[negTestIndex,]
 negTrainSet  <- negativeData[-negTestIndex,]
 

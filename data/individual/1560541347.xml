@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1560541347</id>
+    
+  <user>
+    <id>34098548</id>
+    <name>Bronwyn</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34098548-bronwyn-prior]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23289469</id>
+  <isbn>0571313248</isbn>
+  <isbn13>9780571313242</isbn13>
+  <text_reviews_count type="integer">332</text_reviews_count>
+  <title>The Girl in the Red Coat</title>
+  <image_url>https://d.gr-assets.com/books/1412251739m/23289469.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1412251739s/23289469.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23289469-the-girl-in-the-red-coat</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information>UK edition</edition_information>
+  <publisher>Faber &amp; Faber</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.59</average_rating>
+  <ratings_count>2521</ratings_count>
+  <description>Kate Hamer's stand-out debut thriller is the hugely moving story of an abduction that will keep you guessing until the very last page. Carmel has always been different. Carmel's mother, Beth, newly single, worries about her daughter's strangeness, especially as she is trying to rebuild a life for the two of them on her own. When she takes eight year-old Carmel to a local children's festival, her worst fear is realised: Carmel disappears. Unable to accept the possibility that her daughter might be gone for good, Beth embarks on a mission to find her. Meanwhile, Carmel begins an extraordinary and terrifying journey of her own, with a man who believes she is a saviour.</description>
+<authors>
+<author>
+<id>8633753</id>
+<name>Kate Hamer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424607140p5/8633753.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1424607140p2/8633753.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8633753.Kate_Hamer]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>2524</ratings_count>
+<text_reviews_count>424</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1252885041</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Feb 25 14:09:25 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Feb 25 14:11:38 -0800 2016</read_at>
+  <date_added>Thu Feb 25 14:09:24 -0800 2016</date_added>
+  <date_updated>Thu Feb 25 14:11:38 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This is a very simplistic and predictable book playing on parents fears and stereotypes. There are so many good thrillers out there, don't waste your time on this one. I would have discarded it after 20 pages if I wasn't reading it for a bookclub. Skim read the rest with no missing of the story -...]]>
+  </body>
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>148269733</id>
+  <body><![CDATA[Oh dear - am just about to start this...]]></body>
+  
+  <user>
+    <id>14743847</id>
+    <name>Martin</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14743847-martin-warner]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1353371059p3/14743847.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1353371059p2/14743847.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 29 06:09:14 -0800 2016</created_at>
+  <updated_at>Mon Feb 29 06:09:14 -0800 2016</updated_at>
+</comment>
+
+        <comment>
+  <id>148278572</id>
+  <body><![CDATA[<em>Martin wrote: "Oh dear - am just about to start this..."</em><br><br>You never know, you might like it!]]></body>
+  
+  <user>
+    <id>34098548</id>
+    <name>Bronwyn</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34098548-bronwyn-prior]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 29 09:37:21 -0800 2016</created_at>
+  <updated_at>Mon Feb 29 09:37:21 -0800 2016</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1560541347]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1560541347]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>10834229</id>
+    
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4042</id>
+  <isbn>1400054206</isbn>
+  <isbn13>9781400054206</isbn13>
+  <text_reviews_count type="integer">329</text_reviews_count>
+  <title>Godless: The Church of Liberalism</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4042.Godless</link>
+  <num_pages>310</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Forum</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month/>
+  <average_rating>3.29</average_rating>
+  <ratings_count>2571</ratings_count>
+  <description>"If a martian landed in America and set out to determine the nation's official state religion, he would have to conclude it is liberalism, while Christianity and Judaism are prohibited by law. &lt;br&gt;Many Americans are outraged by liberal hostility to traditional religion. But as Ann Coulter reveals in this, her most explosive book yet, to focus solely on the Left's attacks on our Judeo-Christian tradition is to miss a larger point: liberalism "is" a religion--a godless one. &lt;br&gt;And it is now entrenched as the state religion of this county. &lt;br&gt;Though liberalism rejects the idea of God and reviles people of faith, it bears all the attributes of a religion. In "Godless," Coulter throws open the doors of the Church of Liberalism, showing us its sacraments (abortion), its holy writ ("Roe v. Wade"), its martyrs (from Soviet spy Alger Hiss to cop-killer Mumia Abu-Jamal), its clergy (public school teachers), its churches (government schools, where prayer is prohibited but condoms are free), its doctrine of infallibility (as manifest in the "absolute moral authority" of spokesmen from Cindy Sheehan to Max Cleland), and its cosmology (in which mankind is an inconsequential accident). &lt;br&gt;Then, of course, there's the liberal creation myth: Charles Darwin's theory of evolution. &lt;br&gt;For liberals, evolution is the touchstone that separates the enlightened from the benighted. But Coulter neatly reverses the pretense that liberals are rationalists guided by the ideals of free inquiry and the scientific method. She exposes the essential truth about Darwinian evolution that liberals refuse to confront: "it is bogus science." &lt;br&gt;Writing with a keen appreciation for genuine science, Coulter reveals that the so-called gaps in the theory of evolution are all there is--Darwinism is nothing but a gap. After 150 years of dedicated searching into the fossil record, evolution's proponents have failed utterly to substantiate its claims. And a long line of supposed evidence, from the infamous Piltdown Man to the "evolving" peppered moths of England, has been exposed as hoaxes. Still, liberals treat those who question evolution as religious heretics and prohibit students from hearing about real science when it contradicts Darwinism. And these are the people who say they want to keep faith out of the classroom? &lt;br&gt;Liberals' absolute devotion to Darwinism, Coulter shows, has nothing to do with evolution's scientific validity and everything to do with its refusal to admit the possibility of God as a guiding force. They will brook no challenges to the official religion. &lt;br&gt;Fearlessly confronting the high priests of the Church of Liberalism and ringing with Coulter's razor-sharp wit, "Godless" is the most important and riveting book yet from one of today's most lively and impassioned conservative voices. "Liberals love to boast that they are not 'religious, ' which is what one would expect to hear from the state-sanctioned religion. Of course liberalism is a religion. It has its own cosmology, its own miracles, its own beliefs in the supernatural, its own churches, its own high priests, its own saints, its own total worldview, and its own explanation of the existence of the universe. In other words, liberalism contains all the attributes of what is generally known as 'religion.'" --From Godless</description>
+<authors>
+<author>
+<id>2761</id>
+<name>Ann Coulter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1328475629p5/2761.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1328475629p2/2761.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2761.Ann_Coulter]]></link>
+<average_rating>3.54</average_rating>
+<ratings_count>16687</ratings_count>
+<text_reviews_count>1579</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>25</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="poop" exclusive="false" review_shelf_id="4033709" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Dec 21 13:41:21 -0800 2007</date_added>
+  <date_updated>Fri Dec 21 13:42:53 -0800 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[complete and utter poo. the reason she's so damn stupid is that she's obviously undernourished. Get that woman a cheeseburger- STAT!]]>
+  </body>
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>281851</id>
+  <body><![CDATA[OH MY GOD. Why are you reading that trannie crow? (Seriously, she has an Adam's Apple. Watch her.) I might read this book, though. I could write a fun review of it.<br><br>NC]]></body>
+  
+  <user>
+    <id>368200</id>
+    <name>Nathan</name>
+
+    <location>Charlotte, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/368200-nathan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1202672364p3/368200.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1202672364p2/368200.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Dec 21 16:38:38 -0800 2007</created_at>
+  <updated_at>Fri Dec 21 16:38:38 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>282484</id>
+  <body><![CDATA[Get her a cheeseburger? How about some arsenic? What a complete waste of DNA and oxygen. ~Ellis]]></body>
+  
+  <user>
+    <id>383154</id>
+    <name>Ellis</name>
+
+    <location>Holland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/383154-ellis]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451766633p3/383154.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451766633p2/383154.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Dec 22 06:28:58 -0800 2007</created_at>
+  <updated_at>Sat Dec 22 06:28:58 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>282940</id>
+  <body><![CDATA[you could write a review that would be most delightful, but why torture yourself?<br>:)]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Dec 22 12:53:38 -0800 2007</created_at>
+  <updated_at>Sat Dec 22 12:53:38 -0800 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>10839754</id>
+  <body><![CDATA[Such deep and reasoned arguments against Ann's ideas. You are indeed an intellectual giant. (<a target="_blank" href="http://dictionary.reference.com/browse/intellectual" rel="nofollow">http://dictionary.reference.com/brows...</a>)]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Nov 11 18:31:43 -0800 2009</created_at>
+  <updated_at>Wed Nov 11 18:31:43 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10843722</id>
+  <body><![CDATA[gee. thanks.<br><br><br>I went to skewl an' everthing.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Nov 11 21:03:16 -0800 2009</created_at>
+  <updated_at>Wed Nov 11 21:03:16 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10852800</id>
+  <body><![CDATA[Glad I could help...:-)<br><br>See conservatives and progressives ("libs") can get along if we try.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 12 12:44:01 -0800 2009</created_at>
+  <updated_at>Thu Nov 12 12:44:01 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10859865</id>
+  <body><![CDATA[Well, you know what they say Mike...<br><br><img src="https://i.gr-assets.com/images/S/photo.goodreads.com/hostedimages/1380222758i/50332._SX540_.gif" class="gr-hostedUserImg"><br><br>so we might as well get along!<br><br>;)]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 12 16:19:02 -0800 2009</created_at>
+  <updated_at>Thu Nov 12 16:19:02 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10866167</id>
+  <body><![CDATA[True.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 12 18:56:43 -0800 2009</created_at>
+  <updated_at>Thu Nov 12 18:56:43 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10872138</id>
+  <body><![CDATA[Hey, BRMB, no real surprises at the comments here. But I am truly curious as to why you react so viciously to AC. Tell me something out of the book that sets your hair on fire. What does she accuse libs of doing that they don't do? <br>I'm finally through with my book and back on here to stir things up. My editor said, "this is such a damn good book that I can't even imagine how good your second draft will be." So I rewrote it. I like editors with a sense of humor. <br>And yes, I like Ann. And yes, we have the same publisher (at least for this book).<br><br>cheers<br>Phil <br><br>PEJ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 13 01:57:25 -0800 2009</created_at>
+  <updated_at>Fri Nov 13 01:57:25 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10959216</id>
+  <body><![CDATA[<em>Tell me something out of the book that sets your hair on fire</em><br>There's plenty.<br>Assuming that I (as a liberal) am pro-abortion and want "mass infanticide" to help control overpopulation of the earth. (for the record, I am neither pro-life or pro-choice. I am pro responsibility and pro-adoption and pro-minding your own damn business)<br><br>She equates Muslims with terror. all of 'em.. That is pure horseshit. I am not saying there are not extremists out there that wish us harm (because there are).<br><br>She doesn't think people are born gay. I strongly disagree.<br><br>She thinks I think child molesters need to be rehabbed. I don't think so. And shipping them off to an island to rot is not mean enough in my eyes. I pick death for them.<br><br>I guess maybe I just don't see myself as she paints liberals out to be...<br><br>whoa! maybe I'm conservative in disguise?<br><br><br><br><br><br>Nah.<br><br><br>Welcome back Phillip! Hope you can rile the masses on a more regular basis again.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 11:35:28 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 11:35:28 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10959886</id>
+  <body><![CDATA[BRMB<br>Forget the ire raised by AC. You've hit on the basic issues. If you are suggesting that Conservatives want MORE control over our activities (forgetting abortion for the moment)then you're wrong. My "benchmark" is if you support the ACLU, then you're probably a liberal (at least a liberal that AC talks about). I'm probably more libertarian, except too many of them still wear wide ties and polyester suits or hang out in airports. <br>My idea is that you get one or two abortions and then you get sterilized. You molest kids, you get molested to death. You free criminals (from the bench, or as a defense attorney who tricks the court) they get to live with you. You jack around with the U.S. we bomb the shit out of you. But you get free bibles. <br>A simple, yet elegant stance.<br>PEJ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 12:15:34 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 12:15:34 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10959960</id>
+  <body><![CDATA[<em>I'm probably more libertarian...<br><br>...My idea is that you get one or two abortions and then you get sterilized. You molest kids, you get molested to death. You free criminals (from the bench, or as a defense attorney who tricks the court) they get to live with you. You jack around with the U.S. we bomb the shit out of you. But you get free bibles.</em><br><br>Yep, all ideas from the Libertarian playbook.]]></body>
+  
+  <user>
+    <id>26185</id>
+    <name>Dave</name>
+
+    <location>San Diego, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26185-dave-russell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1256777558p3/26185.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1256777558p2/26185.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 12:20:13 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 12:20:13 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10959989</id>
+  <body><![CDATA[Have you ever read a book entitled How I Accidentally Joined the Vast Right-Wing Conspiracy: (and Found Inner Peace)by harry Stein? Just wondering.<br><br>You know a lot of Ann's takes are couched in semi-humor to make a point. She asks if Islamics are against terror why they don't speak out. It's true every Islamic isn't a terrorist but she's asking if by keeping quiet are you acquiescing. <br><br>I said before, Ann is a bomb thrower but there is a place for it. It simply takes a very open mind to read. She basicly says, if you don't agree with me you're wrong. A lot of people write (and speak)from that point of view.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 12:21:47 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 12:21:47 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10960012</id>
+  <body><![CDATA[I'm probably more libertarian as well.<br><br>Did I mention I love guns?<br><br><em>You free criminals (from the bench, or as a defense attorney who tricks the court) they get to live with you.</em><br>I love that idea!<br><br><em>You jack around with the U.S. we bomb the shit out of you. But you get free bibles. </em><br>Um... No, Phillip! the bomb and bible campaign is no good!!! <br><br>Sincerely,<br>Peace loving/dirt worshiping/atheist/agnostic/deist pal,<br><br>BRMB]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 12:23:13 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 12:23:13 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10960383</id>
+  <body><![CDATA[Mike, there's no place for that kind of reasonable thinking in this thread. If you can't say something vitriolic and hate-filled, you really need to take a look at yourself in the mirror. Unless of course you can't afford a mirror in which case please accept my apologies and I'll donate something to Planned Parenthood in your name. <br>Luckily for all of you my new book "Some Muslims May Be Terrorists But Certainly Not All of Them and I Mean No Offense to the Many Non-Terrorist Muslims (many of whom are good friends and helped my mother when she was sick)And In Fact Think Its a Good Idea to Allow Unwanted Children to Reach the Age of Being Able to Wear a Suicide Vest Rather Than Killing Them in the Womb" should be out as soon as the title is cleared with the attorneys, the ACLU, the Anti-defamation League, the Southern Baptist Convention, and NOW. In it, I argue the point against dropping the Koran along with the Bible and bombs, not wanting to offend--not to assume that I assume we would be bombing Muslims, even suspected terrorist ones. <br>My publisher thinks a more pointed position would sell better, but I don't want to offend anyone. Except my publisher who looks an awfully lot like an MT. But, ya know, sometimes you just have to risk offending some folks.<br>pej]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 12:43:13 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 12:43:13 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10961383</id>
+  <body><![CDATA[I'll try to do better. Maybe I can go downtown later and practice by insulting people who work a "liberal" organizations. (We have a restaurant called the Acorn but I don't think there's any actual connection to the political group). I guess I could go down and question the staffers at my congressman's office as he never seems to have met a policy of this president he didn't like, but I'll have to watch myself or I'll end up being logical, again...sigh. It's a burden, but I'll try to be less reasonable. I do like this idea of Ann's particularly... "We should invade their countries, kill their leaders and convert them to Christianity." <br><br>Wow, I feel better already. ]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 13:29:13 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 13:29:13 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10966960</id>
+  <body><![CDATA[Edit*- I took down my post. I don't feel like talking about politics; I just don't have it in me these days. Fuck it- Love ya Bells. Love ya Phil. Love ya Dave. Don't know you, Mike!]]></body>
+  
+  <user>
+    <id>88967</id>
+    <name>Ben</name>
+
+    <location>Lakeland, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/88967-ben]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1321577354p3/88967.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1321577354p2/88967.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 16:20:53 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 16:20:53 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10968142</id>
+  <body><![CDATA[But Ben, talking about politics is what separates us from the apes. Another reason apes are better than men. GB<br>PJ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 16:53:00 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 16:53:00 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10971828</id>
+  <body><![CDATA[I thought conspiracy theories were what separated us from the apes. ]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 18:13:32 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 18:13:32 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10974437</id>
+  <body><![CDATA[I thought it was flinging feces?<br><br><br>(what did I miss Ben??? damnit!)]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 19:25:53 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 19:25:53 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10974557</id>
+  <body><![CDATA[Ben came out as a Stalinist.]]></body>
+  
+  <user>
+    <id>26185</id>
+    <name>Dave</name>
+
+    <location>San Diego, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26185-dave-russell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1256777558p3/26185.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1256777558p2/26185.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 19:30:15 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 19:30:15 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10975045</id>
+  <body><![CDATA[Well, that's life my sister is a self avowed socialist while I tend to think of Rush Limbaugh as a moderate.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 19:45:44 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 19:45:44 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10976668</id>
+  <body><![CDATA[Hey, look, let's knock off the nonsense and get back to BRMG handing out her vagina at Halloween or whatever it was. Or is that a different thread? You feces flinging libs should celebrate any woman who is taken seriously (and AC is, in the sense that people like us debate her all the time)as a pundit/politician. You folks don't seem to see the irony in having Tubrah grill Palin about her daughter's husband and raising a Down's baby. Somehow asking Most Heroic Four Month Warrior Kerry to come on a show to discuss his wife's drinking habits is hard to imagine. (I've seen both participants in that holy union and if they aren't both raging alcoholics, they have greater strength than I gave them credit for). But rather than search for a conclusion here I'll just quit.<br>PEJ]]></body>
+  
+  <user>
+    <id>385180</id>
+    <name>Phillip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/385180-phillip]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442465222p3/385180.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442465222p2/385180.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 21:14:26 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 21:14:26 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>10977006</id>
+  <body><![CDATA[I must admit that when Barbra Walters (note I made no joke at her expense) asked SP if "she knew her daughter was sexually active" I wondered if we'd ever hear that asked of say, Hilary Clinton. It was pretty much agreed that children and families would be off limits I thought, but not for "some people" apparently. Well, anyway this thread is about AC and the apparent fact that she tends to cause blood to shoot out of "some people's" eyes, or is that Glen Beck, or both AC and GB? Oh well. Maybe a lot of people do.]]></body>
+  
+  <user>
+    <id>2187043</id>
+    <name>Mike (the Paladin)</name>
+
+    <location>Hermitage, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2187043-mike-the-paladin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450193915p3/2187043.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450193915p2/2187043.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 16 21:36:41 -0800 2009</created_at>
+  <updated_at>Mon Nov 16 21:36:41 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>37229661</id>
+  <body><![CDATA[I love your "poop" shelf!]]></body>
+  
+  <user>
+    <id>5990312</id>
+    <name>Russ</name>
+
+    <location>Ennis, Clare, Ireland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5990312-russ-painter]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1316639367p3/5990312.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1316639367p2/5990312.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 21 15:06:43 -0700 2011</created_at>
+  <updated_at>Wed Sep 21 15:06:43 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>37243349</id>
+  <body><![CDATA[Sometimes, just that one simple word is all you need. :)]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 21 18:38:10 -0700 2011</created_at>
+  <updated_at>Wed Sep 21 18:38:10 -0700 2011</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/10834229]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/10834229]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

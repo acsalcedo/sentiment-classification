@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>154964194</id>
+    
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">4134071</id>
+  <isbn>031237982X</isbn>
+  <isbn13>9780312379827</isbn13>
+  <text_reviews_count type="integer">2629</text_reviews_count>
+  <title>Hunted (House of Night, #5)</title>
+  <image_url>https://d.gr-assets.com/books/1438042897m/4134071.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1438042897s/4134071.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4134071-hunted</link>
+  <num_pages>323</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>134716</ratings_count>
+  <description>What if the hottest guy in the world was hiding a nameless evil, and all he wanted was you? At the start of this heart-pounding new installment of the bestselling House of Night series, Zoey’s friends have her back again and Stevie Rae and the red fledglings aren’t Neferet’s secrets any longer. But an unexpected danger has emerged. Neferet guards her powerful new consort, Kalona, and no one at the House of Night seems to understand the threat he poses. Kalona looks gorgeous, and he has the House of Night under his spell. A past life holds the key to breaking his rapidly spreading influence, but what if this past life shows Zoey secrets she doesn’t want to hear and truths she can’t face?</description>
+<authors>
+<author>
+<id>17015</id>
+<name>P.C. Cast</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p5/17015.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p2/17015.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17015.P_C_Cast]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>1662487</ratings_count>
+<text_reviews_count>49461</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2009-reads" exclusive="false" review_shelf_id="100674978" sortable="false" />
+    <shelf name="kill-it-with-fire" exclusive="false" review_shelf_id="205043570" sortable="false" />
+    <shelf name="stop-it-already" exclusive="false" review_shelf_id="205043926" sortable="false" />
+    <shelf name="didn-t-care-for-it" exclusive="false" review_shelf_id="100674990" sortable="false" />
+    <shelf name="disappointment" exclusive="false" review_shelf_id="100674996" sortable="false" />
+    <shelf name="could-have-been-better" exclusive="false" review_shelf_id="100675000" sortable="false" />
+    <shelf name="door-stopper" exclusive="false" review_shelf_id="104382008" sortable="false" />
+    <shelf name="vamps" exclusive="false" review_shelf_id="104381983" sortable="false" />
+    <shelf name="hated-it-with-a-firey-passion" exclusive="false" review_shelf_id="104382013" sortable="false" />
+    <shelf name="not-for-me" exclusive="false" review_shelf_id="205043880" sortable="false" />
+    <shelf name="young-adult" exclusive="false" review_shelf_id="154287287" sortable="false" />
+    <shelf name="all-the-wrong-choices" exclusive="false" review_shelf_id="205043623" sortable="false" />
+    <shelf name="can-t-believe-i-finished" exclusive="false" review_shelf_id="205043645" sortable="false" />
+    <shelf name="kill-me-now" exclusive="false" review_shelf_id="205043571" sortable="false" />
+    <shelf name="heroines-i-want-to-shake" exclusive="false" review_shelf_id="205043709" sortable="false" />
+    <shelf name="no-stars-for-you" exclusive="false" review_shelf_id="205043863" sortable="false" />
+    <shelf name="why-why-why-did-i-read-it" exclusive="false" review_shelf_id="104381992" sortable="false" />
+    <shelf name="bound-to-inflict-a-migraine" exclusive="false" review_shelf_id="205043641" sortable="false" />
+    <shelf name="lots-of-fail-going-on-here" exclusive="false" review_shelf_id="205043790" sortable="false" />
+    <shelf name="ahhhhh-my-eyes" exclusive="false" review_shelf_id="205043609" sortable="false" />
+    <shelf name="why-the-hype" exclusive="false" review_shelf_id="205043965" sortable="false" />
+    <shelf name="made-me-angry" exclusive="false" review_shelf_id="205043799" sortable="false" />
+    <shelf name="no-just-no" exclusive="false" review_shelf_id="205043830" sortable="false" />
+    <shelf name="triangle-of-love" exclusive="false" review_shelf_id="205043956" sortable="false" />
+    <shelf name="where-s-my-chocolate" exclusive="false" review_shelf_id="205043961" sortable="false" />
+    <shelf name="st-martins-press" exclusive="false" review_shelf_id="205044056" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 17 10:28:33 -0700 2011</date_added>
+  <date_updated>Wed Mar 28 13:12:44 -0700 2012</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[And this is where I gave up on this series. I just couldn't connect with the characters. ]]>
+  </body>
+  <comments_count>8</comments_count>
+    <comments start="1" end="8" total="8">
+        <comment>
+  <id>48671833</id>
+  <body><![CDATA[I read one more and it sucked it was just stupid. You were smart to stop where you did.]]></body>
+  
+  <user>
+    <id>5226056</id>
+    <name>Rishelle</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5226056-rishelle]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1389819077p3/5226056.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1389819077p2/5226056.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 10 22:38:59 -0700 2012</created_at>
+  <updated_at>Tue Apr 10 22:38:59 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48671972</id>
+  <body><![CDATA[<em>Rishelle wrote: "I read one more and it sucked it was just stupid. You were smart to stop where you did."</em><br><br>I'm honestly baffled at how far I got with this series. No one can say I didn't try. Lol.]]></body>
+  
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 10 22:44:25 -0700 2012</created_at>
+  <updated_at>Tue Apr 10 22:44:25 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48672485</id>
+  <body><![CDATA[Yeah it was pretty stupid. And the all the characters suck. And the story is annoying! Oh yeah you tried thats for sure.]]></body>
+  
+  <user>
+    <id>5226056</id>
+    <name>Rishelle</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5226056-rishelle]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1389819077p3/5226056.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1389819077p2/5226056.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Apr 10 23:09:49 -0700 2012</created_at>
+  <updated_at>Tue Apr 10 23:09:49 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48681024</id>
+  <body><![CDATA[I think I only read the first one got partially through the second and was like this is stupid and threw the book down. Funny thing is how popular this series is. I'm sort of a comic geek and imagine to my surprise when I saw that there's a House of Night comic out now.]]></body>
+  
+  <user>
+    <id>4026143</id>
+    <name>Howdy YAL </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4026143-howdy-yal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1445310493p3/4026143.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1445310493p2/4026143.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 11 05:50:39 -0700 2012</created_at>
+  <updated_at>Wed Apr 11 05:50:39 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48681501</id>
+  <body><![CDATA[<em> YAL Book Briefs wrote: "I think I only read the first one got partially through the second and was like this is stupid ad threw the book down. Funny thing is how popular this series is. I'm sort of a comic geek and imag..."</em><br><br>Yeah, I saw that comic. It's a hot mess. Smh.]]></body>
+  
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 11 06:04:24 -0700 2012</created_at>
+  <updated_at>Wed Apr 11 06:04:24 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48681639</id>
+  <body><![CDATA[Yeah, I was curious enough to look at the art and thought it stunk. Out of all the books to turn into a comic they had to pick that particular "gem". Honestly, I'm still perplexed about the popularity of that series. I know it's about vampires, but Zoey is probably in my top ten most obnoxious YA heroines list.]]></body>
+  
+  <user>
+    <id>4026143</id>
+    <name>Howdy YAL </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4026143-howdy-yal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1445310493p3/4026143.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1445310493p2/4026143.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 11 06:07:50 -0700 2012</created_at>
+  <updated_at>Wed Apr 11 06:07:50 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48681752</id>
+  <body><![CDATA[I'm baffled as well. I think the only reason I continued to series for so long is because people highly recommended it. And these were grown women. O_o]]></body>
+  
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 11 06:11:05 -0700 2012</created_at>
+  <updated_at>Wed Apr 11 06:11:05 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>48682215</id>
+  <body><![CDATA[I know PC Cast has a lot of adult romances out there, so I'm assuming her fan base followed. But I don't know why so many of them are still such devoted followers of this series. I've kept up with it (just because I'm sort of curious where it will go) through others reviews and it seems it gets more and more bizarre book after book. The two male leads in the first few books aren't even really leads anymore if what I'm reading based off of summaries/reviews is true. <br><br>Anyway found this little interview by Cast amusing (well, the part about how she deserved a shout out in Glee): <a target="_blank" href="http://shelf-life.ew.com/2011/01/04/house-night-awakened-pc-kristin-cast-interview/" rel="nofollow">http://shelf-life.ew.com/2011/01/04/h...</a>]]></body>
+  
+  <user>
+    <id>4026143</id>
+    <name>Howdy YAL </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4026143-howdy-yal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1445310493p3/4026143.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1445310493p2/4026143.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Apr 11 06:22:04 -0700 2012</created_at>
+  <updated_at>Wed Apr 11 06:22:04 -0700 2012</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/154964194]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/154964194]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

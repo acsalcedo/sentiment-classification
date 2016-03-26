@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>40925132</id>
+    
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1734639</id>
+  <isbn>0061251348</isbn>
+  <isbn13>9780061251344</isbn13>
+  <text_reviews_count type="integer">631</text_reviews_count>
+  <title>Deceptively Delicious: Simple Secrets to Get Your Kids Eating Good Food</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1734639.Deceptively_Delicious</link>
+  <num_pages>208</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Collins Publishers</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.37</average_rating>
+  <ratings_count>16482</ratings_count>
+  <description>Mother of three, Jessica Seinfeld wages a personal war against sugars, packaged foods, and other nutritional saboteurs, offering appetising alternatives for parents who find themselves succumbing to the fastest and easiest (and least healthy) choices available to them.</description>
+<authors>
+<author>
+<id>796491</id>
+<name>Jessica Seinfeld</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206714860p5/796491.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206714860p2/796491.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/796491.Jessica_Seinfeld]]></link>
+<average_rating>3.38</average_rating>
+<ratings_count>17144</ratings_count>
+<text_reviews_count>746</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>5</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="what-s-cookin-hot-stuff" exclusive="false" review_shelf_id="19418631" sortable="false" />
+    <shelf name="poop" exclusive="false" review_shelf_id="19428983" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Dec 29 10:59:08 -0800 2008</read_at>
+  <date_added>Fri Dec 26 06:46:24 -0800 2008</date_added>
+  <date_updated>Mon Dec 29 10:59:08 -0800 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[meh.<br /><br />I'm not going to puree spinach in hide it in brownies. No way.<br />]]>
+  </body>
+  <comments_count>26</comments_count>
+    <comments start="1" end="26" total="26">
+        <comment>
+  <id>3142224</id>
+  <body><![CDATA[Sounds delicious. I think I found a new hiding place for the GHB.]]></body>
+  
+  <created_at>Mon Dec 29 09:25:19 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 09:25:19 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3143479</id>
+  <body><![CDATA[*note to self: NEVER accept brownies from David*<br><br>Yes, when your victim, er, date wakes up with a sore dupa, you can hand her this cookbook. "Sorry baby. I made spinach brownies. Must have given you the runs until you passed out..." <br>Then you can offer her some of your grilled cheese (with pureed squash).<br><br>MMMMMM. Nothin' puts me in the mood more than that.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 10:39:25 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 10:39:25 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3143842</id>
+  <body><![CDATA[Last thing I remembered was eating a green brownie...and then waking up in an Indiana corn field with my head shaved - looking like Michel Foucault.]]></body>
+  
+  <created_at>Mon Dec 29 11:00:40 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 11:00:40 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3144189</id>
+  <body><![CDATA[Actually, the look I was going for was Telly Savalas. But same difference. <br><br>Er, um... I mean, I have absolutely no idea what you're talking about, Mr. Bruenning. ]]></body>
+  
+  <created_at>Mon Dec 29 11:18:20 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 11:18:20 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3144459</id>
+  <body><![CDATA[...I guess that would explain the Diner's Card wedged in my butt-cheeks.]]></body>
+  
+  <created_at>Mon Dec 29 11:30:26 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 11:30:26 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3144787</id>
+  <body><![CDATA[I was tryin' to swipe it... but it got stuck.]]></body>
+  
+  <created_at>Mon Dec 29 11:44:59 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 11:44:59 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3144934</id>
+  <body><![CDATA[But how do you explain the gerbil, Jon?<br><br>Here, try one of these grilled cheese sandwiches.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 11:51:04 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 11:51:04 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3145012</id>
+  <body><![CDATA[The gerbil? That is easy...<br>I thought it would eat the potato.]]></body>
+  
+  <created_at>Mon Dec 29 11:54:34 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 11:54:34 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3145095</id>
+  <body><![CDATA[i think you write some of the dumbest, most ingnorant, piece of shit book "reviews" on the planet. i invite you to write anything at all without the word 'fuck', 'assfuck', 'shit' et al. (did this one have 'cunt'. that's my favorite. blah, blah, blah.) i avoid your reviews, despise them. but these reviews of yours, they pop up on other people's feeds and then end up in mine, spreading like an STD. you've earned a hater right here, big boy. so do me until i bleed.]]></body>
+  
+  <created_at>Mon Dec 29 11:58:58 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 11:58:58 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3145147</id>
+  <body><![CDATA[i'm having deja vu all over again--]]></body>
+  
+  <user>
+    <id>777369</id>
+    <name>Jessica</name>
+
+    <location>Sheffield, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/777369-jessica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1283427299p3/777369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1283427299p2/777369.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 12:01:37 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 12:01:37 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3145283</id>
+  <body><![CDATA[It's better the second time around though, dontcha think, Chairy?]]></body>
+  
+  <created_at>Mon Dec 29 12:09:29 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 12:09:29 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3145886</id>
+  <body><![CDATA[Chairy, you deleted a post! Why? Are you taking after me now? In the future, please replace all deleted posts with photos of baby elephants. It's the law.]]></body>
+  
+  <created_at>Mon Dec 29 12:53:57 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 12:53:57 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3146061</id>
+  <body><![CDATA[<s>Hi.What We Talk About When We Talk About Gerbils?PLZ Answer The Question In My Profile.</s><br><br><img src="https://i.gr-assets.com/images/S/photo.goodreads.com/hostedimages/1379728314i/7227.jpg" height="127" width="91" class="gr-hostedUserImg">]]></body>
+  
+  <user>
+    <id>1033675</id>
+    <name>Matt</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1033675-matt]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1325271531p3/1033675.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1325271531p2/1033675.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 13:05:18 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 13:05:18 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3146241</id>
+  <body><![CDATA[HA!<br><br>I can see someone's been friend requested by Saleh. Feel honored. He has high standards. (You actually have to have a GoodReads account...)]]></body>
+  
+  <created_at>Mon Dec 29 13:16:01 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 13:16:01 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3146653</id>
+  <body><![CDATA[ah..I guess I thought I'd get more attention by deleting...and it worked! and now I know the baby elephant maneuver. <br>anyway, I seem to be having an attack of editing-itis at the mo--<br>carry on pls.]]></body>
+  
+  <user>
+    <id>777369</id>
+    <name>Jessica</name>
+
+    <location>Sheffield, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/777369-jessica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1283427299p3/777369.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1283427299p2/777369.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 13:41:33 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 13:41:33 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3147905</id>
+  <body><![CDATA[<em> i think you write some of the dumbest, most ingnorant, piece of shit book "reviews" on the planet. i invite you to write anything at all without the word 'fuck', 'assfuck', 'shit' et al. (did this one have 'cunt'. that's my favorite. blah, blah, blah.) i avoid your reviews, despise them. but these reviews of yours, they pop up on other people's feeds and then end up in mine, spreading like an STD. you've earned a hater right here, big boy. so do me until i bleed. </em><br><br>Zoe? There's this gerbil in my friend Jon's ass. I need to send you on a rescue mission.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 14:52:06 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 14:52:06 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3148310</id>
+  <body><![CDATA[Ahhh, memories!<br><br>It <em>was</em> much better the second time, David. But then again, I'm really into kinky boy-boy erotica. (Though I hadn't been exposed to credit card butt cheek swiping before. Nice detail.)]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 15:14:32 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 15:14:32 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3148633</id>
+  <body><![CDATA[(Yeah, Mindy, but you also didn't know about Alabama Hot Pockets either. GoodReads has been edifying in ways you never anticipated...)]]></body>
+  
+  <created_at>Mon Dec 29 15:33:26 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 15:33:26 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3149684</id>
+  <body><![CDATA[(Shhh, stop telling people!)]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 16:30:53 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 16:30:53 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3150404</id>
+  <body><![CDATA[Do you know about the Cincinnati Bow Tie, Mindy?]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 17:06:27 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 17:06:27 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3150700</id>
+  <body><![CDATA[Jeezus, probably not. David, did you tell me about that one?]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 17:26:24 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 17:26:24 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3150756</id>
+  <body><![CDATA[baby elephant]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 17:31:04 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 17:31:04 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3150823</id>
+  <body><![CDATA[OH MY GAWD!!!!<br><br>(I wonder if somebody ever really did that?)]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 17:35:34 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 17:35:34 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3151030</id>
+  <body><![CDATA[probably with a monkey.]]></body>
+  
+  <user>
+    <id>372363</id>
+    <name>Books Ring Mah Bell</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/372363-books-ring-mah-bell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1363111417p3/372363.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1363111417p2/372363.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 17:48:01 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 17:48:01 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3152183</id>
+  <body><![CDATA[Now <em>that</em> makes me sad.]]></body>
+  
+  <user>
+    <id>1069458</id>
+    <name>Meen</name>
+
+    <location>Washington, DC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1069458-meen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1309493031p3/1069458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1309493031p2/1069458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 29 18:37:07 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 18:37:07 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3152252</id>
+  <body><![CDATA[I was perusing the subsequent comments after I have been away for a while...and the advertisement along the sidebar is for a television show called "Bromance."<br><br>It seemed like some kind of poetic justice.]]></body>
+  
+  <created_at>Mon Dec 29 18:40:27 -0800 2008</created_at>
+  <updated_at>Mon Dec 29 18:40:27 -0800 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/40925132]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/40925132]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

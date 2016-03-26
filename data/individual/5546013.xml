@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>5546013</id>
+    
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">71728</id>
+  <isbn>0743278909</isbn>
+  <isbn13>9780743278904</isbn13>
+  <text_reviews_count type="integer">3652</text_reviews_count>
+  <title>Jonathan Livingston Seagull</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull</link>
+  <num_pages>112</num_pages>
+  <format>Paperback</format>
+  <edition_information>pocket-book</edition_information>
+  <publisher>Scribner</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>129258</ratings_count>
+  <description>This is a story for people who follow their hearts and make their own rules...people who get special pleasure out of doing something well, even if only for themselves...people who know there's more to this living than meets the eye: they’ll be right there with Jonathan, flying higher and faster than ever they dreamed.&lt;br&gt;&lt;br&gt;Jonathan Livingston Seagull is no ordinary bird. He believes it is every gull's right to fly, to reach the ultimate freedom of challenge and discovery, finding his greatest reward in teaching younger gulls the joy of flight and the power of dreams. The special 20th anniversary release of this spiritual classic!</description>
+<authors>
+<author>
+<id>16904</id>
+<name>Richard Bach</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420982726p5/16904.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1420982726p2/16904.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16904.Richard_Bach]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>203082</ratings_count>
+<text_reviews_count>7212</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1246611275</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 05:46:34 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>49</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="total-crap" exclusive="false" review_shelf_id="23649383" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Sep 02 15:59:43 -0700 2007</date_added>
+  <date_updated>Mon Dec 30 04:21:50 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Puerile platitudes posing as wisdom.]]>
+  </body>
+  <comments_count>10</comments_count>
+    <comments start="1" end="10" total="10">
+        <comment>
+  <id>1465242</id>
+  <body><![CDATA[Tell Tracy thanks. <br><br>Glad to see you agree, K.]]></body>
+  
+  <user>
+    <id>335159</id>
+    <name>Ruth</name>
+
+    <location>San Clemente, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/335159-ruth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1437269566p3/335159.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1437269566p2/335159.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 10 22:49:28 -0700 2008</created_at>
+  <updated_at>Sun Aug 10 22:49:28 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1466547</id>
+  <body><![CDATA[i read this when i was a teenager and i remember trying SO VERY HARD to embrace with my whole being the wisdom that OBVIOUSLY was contained in its words, only to forget them the moment i closed the book. i'm being unfair. some scenes stayed with me. but none, not a single one, taught me one damn thing about living better or being happier or whatever it is that books like this are meant to teach.]]></body>
+  
+  <user>
+    <id>210397</id>
+    <name>jo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/210397-jo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1237421111p3/210397.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1237421111p2/210397.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 11 07:16:36 -0700 2008</created_at>
+  <updated_at>Mon Aug 11 07:16:36 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1582383</id>
+  <body><![CDATA[I need a Total Crap bookshelf. This book would be on it right next to "Love Story".<br><br>I don't think I really needed to be reminded of this book.]]></body>
+  
+  <user>
+    <id>811687</id>
+    <name>Sandi</name>
+
+    <location>Fountain Valley, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/811687-sandi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1404709147p3/811687.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1404709147p2/811687.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Aug 21 20:42:42 -0700 2008</created_at>
+  <updated_at>Thu Aug 21 20:42:42 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>4371485</id>
+  <body><![CDATA[Yes, but have you heard the Neil Diamond soundtrack with the same title? Pure gold.]]></body>
+  
+  <created_at>Fri Mar 06 08:53:48 -0800 2009</created_at>
+  <updated_at>Fri Mar 06 08:53:48 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4387314</id>
+  <body><![CDATA[Yeah, but when I was eleven I really dug it, especially the transparencies of the seagull flying.]]></body>
+  
+  <user>
+    <id>1580090</id>
+    <name>Jan</name>
+
+    <location>Oakland, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1580090-jan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1442493200p3/1580090.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1442493200p2/1580090.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Mar 06 21:19:19 -0800 2009</created_at>
+  <updated_at>Fri Mar 06 21:19:19 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>45760013</id>
+  <body><![CDATA[Couldn't have said it in simpler words]]></body>
+  
+  <user>
+    <id>2751677</id>
+    <name>Sudheer</name>
+
+    <location>Bombay, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2751677-sudheer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1258287858p3/2751677.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1258287858p2/2751677.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Feb 23 01:44:05 -0800 2012</created_at>
+  <updated_at>Thu Feb 23 01:44:05 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>83223211</id>
+  <body><![CDATA[this book inspired me to look up the scientific terms relating to flight and it was a great modern fairy tale]]></body>
+  
+  <user>
+    <id>24062367</id>
+    <name>Shauna</name>
+
+    <location>Chattanooga, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24062367-shauna-elasmar]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1379546499p3/24062367.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1379546499p2/24062367.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 18 16:49:34 -0700 2013</created_at>
+  <updated_at>Wed Sep 18 16:49:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>94253391</id>
+  <body><![CDATA[Perfect review. <br><br>I copied it into mine while linking to it. I would only have put the one line but your review is only one line. Please let me know if that's not okay. Here's <a href="https://www.goodreads.com/review/show/876367250">my review</a>.]]></body>
+  
+  <user>
+    <id>1059653</id>
+    <name>Kelly H. (Maybedog)</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1059653-kelly-h-maybedog]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1366465767p3/1059653.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1366465767p2/1059653.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Mar 09 00:02:53 -0800 2014</created_at>
+  <updated_at>Sun Mar 09 00:02:53 -0800 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>98159319</id>
+  <body><![CDATA[Exactly how I feel.]]></body>
+  
+  <user>
+    <id>18882768</id>
+    <name>Colin</name>
+
+    <location>Chillicothe, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18882768-colin-mcconnell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1364629712p3/18882768.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1364629712p2/18882768.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 08 14:19:40 -0700 2014</created_at>
+  <updated_at>Thu May 08 14:19:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>108218545</id>
+  <body><![CDATA[Ah brevity really is the soul of wit..great review.]]></body>
+  
+  <user>
+    <id>14944060</id>
+    <name>Taf</name>
+
+    <location>Kuala Lumpur, 14, Malaysia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14944060-taf-mupfumi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1408960107p3/14944060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1408960107p2/14944060.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 23 05:15:28 -0700 2014</created_at>
+  <updated_at>Thu Oct 23 05:15:28 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/5546013]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/5546013]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

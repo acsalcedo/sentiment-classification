@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>281408391</id>
+    
+  <user>
+    <id>4972138</id>
+    <name>shady boots</name>
+
+    <location>Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4972138-shady-boots]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455634254p3/4972138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455634254p2/4972138.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">12568505</id>
+  <isbn>0399159436</isbn>
+  <isbn13>9780399159435</isbn13>
+  <text_reviews_count type="integer">1082</text_reviews_count>
+  <title>Black City (Black City, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1345736401m/12568505.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1345736401s/12568505.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12568505-black-city</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>G.P. Putnam's Sons BYR</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>8954</ratings_count>
+  <description>&lt;em&gt;A dark and tender post-apocalyptic love story set in the aftermath of a bloody war.&lt;/em&gt;&lt;br&gt;&lt;br&gt;In a city where humans and Darklings are now separated by a high wall and tensions between the two races still simmer after a terrible war, sixteen-year-old Ash Fisher, a half-blood Darkling, and Natalie Buchanan, a human and the daughter of the Emissary, meet and do the unthinkable—they fall in love. Bonded by a mysterious connection that causes Ash’s long-dormant heart to beat, Ash and Natalie first deny and then struggle to fight their forbidden feelings for each other, knowing if they’re caught, they’ll be executed—but their feelings are too strong.&lt;br&gt;&lt;br&gt;When Ash and Natalie then find themselves at the center of a deadly conspiracy that threatens to pull the humans and Darklings back into war, they must make hard choices that could result in both their deaths.</description>
+<authors>
+<author>
+<id>5188888</id>
+<name>Elizabeth  Richards</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315674287p5/5188888.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1315674287p2/5188888.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5188888.Elizabeth_Richards]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>13748</ratings_count>
+<text_reviews_count>1691</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">20294824</id>
+          <page type="integer">282</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 06:17:06 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:30:11 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">73</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0dbf83ff32e2e5fc279c90bf08707efb</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Y'know what, at this point, I don't even care about anything anymore. I'm done. I don't feel like putting myself through more of this.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20294554</id>
+          <page type="integer">274</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Nov 26 06:08:14 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:30:00 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Nov 26 06:18:02 -0800 2012</last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">71</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f90c4448295e8bcf7a1d00c0e9025231</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[He's cheating.<br><br> HE'S. CHEATING. AND WE'RE TREATED TO A DETAILED MAKE-OUT SCENE WITH HIM AND THE OTHER GIRL.<br><br> NEED I FUCKING SAY MORE?<br><br> Oh for fuck's sakes, I don't think I can take this anymore, you guys.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20294295</id>
+          <page type="integer">260</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 05:58:19 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:29:51 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7ca6c6518ebd184dffd3fcba460822d3</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>Life would be so much simpler if Evangeline were my girlfriend.</em> But she's not, Natalie is.<br><br> Did he seriously just go there?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20294264</id>
+          <page type="integer">260</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 05:56:45 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:29:50 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9a8a4edf2f2349a95daecd88a77f62fe</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>Her hand lingers on my face, and my skin tingles where she's touching me. Moonlight streams through the open window, making her pale skin look dewy and iridescent. My pulse races.</em><br><br> Note: He's not talking about Natalie, the girl he's <em>actually</em> with. He's talking about Evangeline. What the fuck is going on?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20293835</id>
+          <page type="integer">225</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 05:37:15 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:29:32 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">58</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5454bdd838756bfac9e0fa626d5eca84</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>She takes my hand. A different sort of hunger flares inside me, and my skin feels hot where our hands connect. An image of Natalie pops into my head, and shame crawls through me. Even so, I don't let go of Evangeline's hand.</em><br><br> Uh oh. What's going on here.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20293625</id>
+          <page type="integer">213</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 05:26:44 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:34:03 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">55</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.182427cd40a80211914e6f21f2d7493a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>I lower my gaze. "You promise you'll come back to me?"<br> He lifts my chin and softly kisses my lips.<br> "Nothing will keep us apart," he says.</em><br><br><img src="https://d.gr-assets.com/hostedimages/1380361846ra/712906.gif" class="gr-hostedUserImg">]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20293030</id>
+          <page type="integer">172</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Nov 26 04:59:19 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:29:01 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Nov 26 05:07:35 -0800 2012</last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">44</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2a74851785e5f59b6bbe4d4c4f88a01d</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[AWWWW AND THEY'RE <em>BLOOD MATES</em>. THEY'RE <em>DESTINED</em> TO BE TOGETHER. HOW SWEET.<br><br><img src="https://d.gr-assets.com/hostedimages/1381040037ra/3938175.gif" class="gr-hostedUserImg">]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20292806</id>
+          <page type="integer">168</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Nov 26 04:48:13 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:28:50 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Nov 26 05:05:21 -0800 2012</last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9d53aca956eb3d5e145142e4ee4d8210</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[UUUUUGHHH STOP. OH MY GOD, LITERALLY EVERY PARAGRAPH IS FILLED WITH THEM BEING HOT FOR EACH OTHER. You know how bad the romance is? It's so bad that it's making me overlook everything else about the book. It's THAT bad.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20292330</id>
+          <page type="integer">135</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 04:21:46 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:31:04 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a217f5794b1b1dd322220712bf0cb6a6</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Could the romance <em>be</em> any cheesier? I mean damn.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20289719</id>
+          <page type="integer">91</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 01:08:37 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:26:04 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">23</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2a4e41d1e0f30bd22118d914fc98e2b8</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Electric touch! OF COURSE.<br><br><img src="https://d.gr-assets.com/hostedimages/1380222758ra/431471.gif" class="gr-hostedUserImg">]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20289330</id>
+          <page type="integer">72</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Nov 26 00:42:00 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 06:25:43 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0a90ecd5f428c48725190b5ceec9635a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em> (...) and a fitted black shirt that accentuates every inch of his powerful, muscular frame. He looks at me, </em>into<em> me, like he can see every secret I have, every rush of my blood. My pulse races with fear and a much more disturbing, unexpected emotion:</em> desire.<br><br> Oh brother. Insta-love alarms are constantly going off in my head the more I continue.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20289129</id>
+          <page type="integer">57</page>
+          <chapter type="integer"></chapter>
+          <comments_count>7</comments_count>
+          <created_at type="datetime">Mon Nov 26 00:26:55 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:22:36 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Mon Nov 26 01:16:35 -0800 2012</last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.4307c1476bb7d23ee060098a9e14a7d8</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Awwww isn't that cute! His heart doesn't work but the girl makes it beat! G'AWWWWWWWWWWW SO SWEET.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20198974</id>
+          <page type="integer">55</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 23 06:13:19 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 04:56:47 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.ec2c5079b44d030902d9dc5994e03eb3</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body>I&apos;m not feeling this.</body>
+        </user_status>
+        <user_status>
+          <id type="integer">20197923</id>
+          <page type="integer">12</page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Fri Nov 23 05:14:13 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 04:55:15 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Fri Nov 23 05:54:10 -0800 2012</last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">3</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.31b5087d6d5973d72f56fcbb0a838ad7</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Yup, "fragg" is the made up swear word. That's gonna cost a star, I don't care. I mean, FRAGG? How ridiculous can you get?! -_-]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20197697</id>
+          <page type="integer">4</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 23 05:01:59 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 04:54:49 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">1</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.899a0b7fc5957eb4cbdbb977c6420936</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[..... <em>Fragg</em>? Is that supposed to be a made up swear word for the world of this book? Are you kidding me?<br><br> Oh shit. You guys know how I feel about made up swear words in dystopians. And <em>fragg</em> just sounds fucking ridiculous.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">20197619</id>
+          <page type="integer">1</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Nov 23 04:57:07 -0800 2012</created_at>
+          <updated_at type="datetime">Sun Sep 08 04:54:40 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">17578969</work_id>
+          <note_uri>kca://note/amzn1.grok.note.8918c5e125d81ea4fac29def79ca7661</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Oh shit, this guy's name is Ash. Let's see if he measures up to the <em>real</em> Ash. *snort* I doubt it. xD But we'll see.]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>1</rating>
+  <votes>103</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="hot-mess" exclusive="false" review_shelf_id="309186838" sortable="false" />
+    <shelf name="i-am-disappoint" exclusive="false" review_shelf_id="309186854" sortable="false" />
+    <shelf name="too-painful-to-finish" exclusive="false" review_shelf_id="309186980" sortable="false" />
+    <shelf name="why-do-people-like-this-shit" exclusive="false" review_shelf_id="309187038" sortable="false" />
+    <shelf name="dnf" exclusive="true" review_shelf_id="309186342" sortable="false" />
+    <shelf name="dickhead-heroes" exclusive="false" review_shelf_id="309186713" sortable="false" />
+    <shelf name="horribad" exclusive="false" review_shelf_id="309186835" sortable="false" />
+    <shelf name="dont-understand-why-its-hyped" exclusive="false" review_shelf_id="309186735" sortable="false" />
+    <shelf name="you-arrogant-prick" exclusive="false" review_shelf_id="309187057" sortable="false" />
+    <shelf name="unlikable-heroines" exclusive="false" review_shelf_id="309186991" sortable="false" />
+    <shelf name="where-art-thou-originality" exclusive="false" review_shelf_id="309187025" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Nov 23 00:00:00 -0800 2012</started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 21 06:43:39 -0800 2012</date_added>
+  <date_updated>Tue Mar 10 06:00:31 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[You know what I hate? I hate when I'm reading a book, and all I feel the whole time is anger, frustration and disappointment.<br /><br />That's what I felt with <em>Black City</em>.<br /><br />As you can see, this is yet another DNF review. Let me tell you why I disliked this book so much: the romance. You know how bad the roman...]]>
+  </body>
+  <comments_count>34</comments_count>
+    <comments start="1" end="34" total="34">
+        <comment>
+  <id>61935663</id>
+  <body><![CDATA[No shit. The first time I saw this book, that's what went through my head as well.<br><br>When you live in South Florida and go to a ghetto-ish school, you tend to know the raps by heart.]]></body>
+  
+  <user>
+    <id>5832186</id>
+    <name>Ava Oceana</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5832186-ava-oceana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Nov 18 04:07:26 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 04:07:26 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61936242</id>
+  <body><![CDATA[^ where in South Florida!? o:]]></body>
+  
+  <user>
+    <id>2997955</id>
+    <name>Adrianna</name>
+
+    <location>Fort Myers, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2997955-adrianna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399076174p3/2997955.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399076174p2/2997955.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Nov 18 04:36:42 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 04:36:42 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61936465</id>
+  <body><![CDATA[Around Fort Lauderdale / Miami. And now Hollywood too, I suppose.]]></body>
+  
+  <user>
+    <id>5832186</id>
+    <name>Ava Oceana</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5832186-ava-oceana]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Nov 18 04:46:49 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 04:46:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61936634</id>
+  <body><![CDATA[Aw boo. I'm near Naples and ft. Myers]]></body>
+  
+  <user>
+    <id>2997955</id>
+    <name>Adrianna</name>
+
+    <location>Fort Myers, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2997955-adrianna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399076174p3/2997955.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399076174p2/2997955.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Nov 18 04:53:41 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 04:53:41 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61944750</id>
+  <body><![CDATA[<em>Adrianna wrote: "Aw boo. I'm near Naples and ft. Myers"</em><br><br>I used to work in Ft. Myers!<br><br>For a moment I thought it was to be sung to the tune of "Black Betty", but alas, alas, I was mistaken.<br><br>I miss the rap scene from the 90s. Not the EC/WC wars, but the talent.]]></body>
+  
+  <user>
+    <id>7617384</id>
+    <name>Christina</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7617384-christina-wilder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1427945624p3/7617384.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1427945624p2/7617384.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Nov 18 08:39:12 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 08:39:12 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>61948375</id>
+  <body><![CDATA[It's good to know I'm not the only one that does that.]]></body>
+  
+  <user>
+    <id>6515737</id>
+    <name>Sarah Marie</name>
+
+    <location>Youngsville, LA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6515737-sarah-marie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1439431355p3/6515737.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1439431355p2/6515737.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Nov 18 09:55:22 -0800 2012</created_at>
+  <updated_at>Sun Nov 18 09:55:22 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62243784</id>
+  <body><![CDATA[Oh my goodness, why am I laughing so hard?]]></body>
+  
+  <user>
+    <id>10697225</id>
+    <name>Izzy</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10697225-izzy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1406942493p3/10697225.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1406942493p2/10697225.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 23 10:20:33 -0800 2012</created_at>
+  <updated_at>Fri Nov 23 10:20:33 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62418472</id>
+  <body><![CDATA[i might be wrong but i have a feeling that fragg is a slang word for killing on online gaming? I've heard the boys call another player a fragger cause all they do is kill loads of people. Might just be an English thing though, not sure. Hope that helps x]]></body>
+  
+  <user>
+    <id>8308605</id>
+    <name>Rachel Filer</name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8308605-rachel-filer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1441801961p3/8308605.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1441801961p2/8308605.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 26 01:06:29 -0800 2012</created_at>
+  <updated_at>Mon Nov 26 01:06:29 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62425508</id>
+  <body><![CDATA[I do work in Fort Myers! And live in Lehigh. Unfortunately. And coincidentally spent half my childhood in Miami where I was born.]]></body>
+  
+  <user>
+    <id>3192797</id>
+    <name>Steph</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3192797-steph]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454425349p3/3192797.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454425349p2/3192797.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Nov 26 06:28:01 -0800 2012</created_at>
+  <updated_at>Mon Nov 26 06:28:01 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62473456</id>
+  <body><![CDATA[LOL it must have been bad. You're repeating yourself. You don't usually do that. :P]]></body>
+  
+  <created_at>Mon Nov 26 20:17:47 -0800 2012</created_at>
+  <updated_at>Mon Nov 26 20:17:47 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62480832</id>
+  <body><![CDATA[WTF....cheating?!....Now that is a definite deal breaker for me]]></body>
+  
+  <user>
+    <id>7139297</id>
+    <name>Nivedha</name>
+
+    <location>Mumbai, 16, India</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7139297-nivedha]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 27 00:28:30 -0800 2012</created_at>
+  <updated_at>Tue Nov 27 00:28:30 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62510481</id>
+  <body><![CDATA[Hilarious as fragg XD]]></body>
+  
+  <user>
+    <id>8295371</id>
+    <name>Charnae</name>
+
+    <location>New Castle, DE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8295371-charnae-warrick]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1353532686p3/8295371.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1353532686p2/8295371.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 27 13:57:25 -0800 2012</created_at>
+  <updated_at>Tue Nov 27 13:57:25 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62652859</id>
+  <body><![CDATA[<em>Sandy wrote: "LOL it must have been bad. You're repeating yourself. You don't usually do that. :P"</em><br><br>It was. ._. Yeah, I kept repeating myself because I just felt like no matter how many times I said it, my pissed-off mood never changed.]]></body>
+  
+  <user>
+    <id>4972138</id>
+    <name>shady boots</name>
+
+    <location>Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4972138-shady-boots]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455634254p3/4972138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455634254p2/4972138.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 30 00:18:43 -0800 2012</created_at>
+  <updated_at>Fri Nov 30 00:18:43 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62653279</id>
+  <body><![CDATA[Yeah - that happens. Some books just annoy you to that level.]]></body>
+  
+  <created_at>Fri Nov 30 00:45:23 -0800 2012</created_at>
+  <updated_at>Fri Nov 30 00:45:23 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>62662970</id>
+  <body><![CDATA[Oh my.. your review... is simply amazing. I couldn't have put in better words myself. The romance in this books was HORRIBLE. Cheesy to the point of being ridiculous. So glad I wasn't the only one who hated it :D]]></body>
+  
+  <user>
+    <id>4614263</id>
+    <name>Beatriz </name>
+
+    <location>Sao Paulo, Brazil</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4614263-beatriz-lins]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1393268416p3/4614263.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1393268416p2/4614263.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 30 07:20:44 -0800 2012</created_at>
+  <updated_at>Fri Nov 30 07:20:44 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63195109</id>
+  <body><![CDATA[You should have finished it because I really feel that Natalie's last quote would have made you roll with laughter! It was seriously the worst ending to anything. Ever. <br>After they meet rose face to face, Natalie looks at ash and says "why can't he just leave us alone?" <br>I think I almost choked on my tongue I was laughing so hard! I mean come on! How dim does a girl have to be to ask that question after meeting the tyrant she just tried to over throw?!]]></body>
+  
+  <user>
+    <id>8406135</id>
+    <name>Mia</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8406135-mia]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1353870209p3/8406135.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1353870209p2/8406135.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Dec 08 23:31:18 -0800 2012</created_at>
+  <updated_at>Sat Dec 08 23:31:18 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63195129</id>
+  <body><![CDATA[<em>Mia wrote: "You should have finished it because I really feel that Natalie's last quote would have made you roll with laughter! It was seriously the worst ending to anything. Ever. <br>After they meet rose face t..."</em><br><br>LOOOOL.]]></body>
+  
+  <user>
+    <id>4972138</id>
+    <name>shady boots</name>
+
+    <location>Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4972138-shady-boots]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455634254p3/4972138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455634254p2/4972138.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Dec 08 23:32:05 -0800 2012</created_at>
+  <updated_at>Sat Dec 08 23:32:05 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63215642</id>
+  <body><![CDATA[I read the sample, after 2 chapters I was bore out of my mind so I quit. And here I was eagerly waiting for it.]]></body>
+  
+  <user>
+    <id>10336770</id>
+    <name>Eva Rose</name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/10336770-eva-rose]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1427744239p3/10336770.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1427744239p2/10336770.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Dec 09 09:42:33 -0800 2012</created_at>
+  <updated_at>Sun Dec 09 09:42:33 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63293637</id>
+  <body><![CDATA[i think you may have just saved my life. i am glad i am not going to read this book now. So glad.]]></body>
+  
+  <user>
+    <id>8492956</id>
+    <name>Rashika (is tired)</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8492956-rashika-is-tired]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1407859013p3/8492956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1407859013p2/8492956.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 10 14:47:48 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 14:47:48 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63296972</id>
+  <body><![CDATA[I was going to read this. But I didn't realize how romance heavy it was. Thanks for the heads up.]]></body>
+  
+  <user>
+    <id>8581628</id>
+    <name>Katrina</name>
+
+    <location>Auckland, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8581628-katrina-welsh]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1388811064p3/8581628.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1388811064p2/8581628.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 10 15:41:23 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 15:41:23 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63298795</id>
+  <body><![CDATA[I too was going to read this, until of course you saved me from wasting my time! Thanks :)]]></body>
+  
+  <user>
+    <id>2997955</id>
+    <name>Adrianna</name>
+
+    <location>Fort Myers, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2997955-adrianna]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399076174p3/2997955.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399076174p2/2997955.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Dec 10 16:12:34 -0800 2012</created_at>
+  <updated_at>Mon Dec 10 16:12:34 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>63406541</id>
+  <body><![CDATA[Thank you for writing this. I was this close to buying this book until I read this review and always. So, the fact I didn't waste twenty dollars on this makes me happy. I still might check it out at the library eventually, but definitely not going to purchase it.]]></body>
+  
+  <user>
+    <id>4026143</id>
+    <name>Howdy YAL </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4026143-howdy-yal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1445310493p3/4026143.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1445310493p2/4026143.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Dec 12 12:01:00 -0800 2012</created_at>
+  <updated_at>Wed Dec 12 12:01:00 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64239117</id>
+  <body><![CDATA[I liked the book, in fact :D yeah some parts were a bit overblown but I was following the back-story too and I liked some of the curve balls that were thrown... but anyway I like your review :)]]></body>
+  
+  <user>
+    <id>3205982</id>
+    <name>Bakshree</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3205982-bakshree-mishra]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1264501811p3/3205982.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1264501811p2/3205982.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Dec 27 02:54:30 -0800 2012</created_at>
+  <updated_at>Thu Dec 27 02:54:30 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>64427270</id>
+  <body><![CDATA[<em>Rikki wrote: "I love you just for this Jujubee gif alone."</em><br><br>I love you for even <em>knowing</em> Jujubee.]]></body>
+  
+  <user>
+    <id>4972138</id>
+    <name>shady boots</name>
+
+    <location>Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4972138-shady-boots]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455634254p3/4972138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455634254p2/4972138.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Dec 29 17:22:09 -0800 2012</created_at>
+  <updated_at>Sat Dec 29 17:22:09 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>65954570</id>
+  <body><![CDATA[I agree, this book was so cheesy to the point of being just plain annoying. But the only part I actually enjoyed was when ash cheated on Natalie. Name one other ya paranormal romance book that has the BOY cheat on the girl, not the other way around. Yeah, the numbers are pretty low. Pretty much usually the heroine gets away with cheating on her boyfriend with some hot bad boy, and at the end it's all good. What the hell is the difference with the boy cheating on the girl? Why do people dislike that more then the girl cheating on the boy? The statement that it makes is not bad.]]></body>
+  
+  <user>
+    <id>13664711</id>
+    <name>Vittoria</name>
+
+    <location>Woburn, MA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13664711-vittoria]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1351034525p3/13664711.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1351034525p2/13664711.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jan 19 22:42:52 -0800 2013</created_at>
+  <updated_at>Sat Jan 19 22:42:52 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66373225</id>
+  <body><![CDATA[Bahahahahahah!!!! At least one good thing came from this book. THIS REVIEW. Just cried laughing. I just wrote a review for this book literally pointing out everything in this review. This book is infuriating. I feel nasty for being so nasty about the book, because it's the authors first book. But hell, If she's gonna write a cheap and naaaasty book, she gotta expect naaaasty reviews.]]></body>
+  
+  <user>
+    <id>15205600</id>
+    <name>Emily</name>
+
+    <location>Edinburgh, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15205600-emily-jane]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1365161959p3/15205600.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1365161959p2/15205600.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jan 25 12:18:28 -0800 2013</created_at>
+  <updated_at>Fri Jan 25 12:18:28 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>66647264</id>
+  <body><![CDATA[i actually was entertained somewhat by the cheesiness and the whole evangeline thing made me laugh a little...i might also be a sadist but i have to admit Ash cheating on her did piss me off for a bit.]]></body>
+  
+  <user>
+    <id>5726330</id>
+    <name>Regina</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5726330-regina]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1317824194p3/5726330.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1317824194p2/5726330.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jan 28 23:16:40 -0800 2013</created_at>
+  <updated_at>Mon Jan 28 23:16:40 -0800 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>70560861</id>
+  <body><![CDATA[<em>Vittoria wrote: "I agree, this book was so cheesy to the point of being just plain annoying. But the only part I actually enjoyed was when ash cheated on Natalie. Name one other ya paranormal romance book that has ..."</em><br><br>I see your point, but it's still cheating, and infidelity disgusts me no matter what the cheater's gender is.]]></body>
+  
+  <user>
+    <id>4972138</id>
+    <name>shady boots</name>
+
+    <location>Indonesia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4972138-shady-boots]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455634254p3/4972138.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455634254p2/4972138.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Mar 24 22:19:50 -0700 2013</created_at>
+  <updated_at>Sun Mar 24 22:19:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>73718334</id>
+  <body><![CDATA[Wow, he actually cheated, you're right there are a lot of asshole main male characters but they rarely ever actually cheat. This review had me dying though x3]]></body>
+  
+  <user>
+    <id>18053488</id>
+    <name>Tsukalavire</name>
+
+    <location>Belleville, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18053488-tsukalavire]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1362442043p3/18053488.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1362442043p2/18053488.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed May 08 16:50:51 -0700 2013</created_at>
+  <updated_at>Wed May 08 16:50:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>76655270</id>
+  <body><![CDATA[lol. your review made me laugh. I really enjoyed the POVs.]]></body>
+  
+  <user>
+    <id>1371359</id>
+    <name>Laura</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1371359-laura]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1356564640p3/1371359.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1356564640p2/1371359.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Jun 20 11:07:58 -0700 2013</created_at>
+  <updated_at>Thu Jun 20 11:07:58 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82670931</id>
+  <body><![CDATA[ugh I was deceived by the pretty cover :( I thought it would be a decent book]]></body>
+  
+  <created_at>Tue Sep 10 12:22:18 -0700 2013</created_at>
+  <updated_at>Tue Sep 10 12:22:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>83679699</id>
+  <body><![CDATA[I hate this book so much, I just haven't gotten around to expressing my full hatred in a review as of yet.<br><br>As for repeating yourself in the review, what does it matter? The book repeats the same information over...and over...and <em>over</em>...and then over again!<br><br>This book actually made me feel sick.]]></body>
+  
+  <user>
+    <id>6183263</id>
+    <name>blue</name>
+
+    <location>Caledonia, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6183263-blue]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1425366355p3/6183263.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1425366355p2/6183263.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 25 15:01:25 -0700 2013</created_at>
+  <updated_at>Wed Sep 25 15:01:25 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>114912111</id>
+  <body><![CDATA[Bloodmates? No. That was not the cheesiest part. They weren't blood mates. They were Soul mates!!!!!!]]></body>
+  
+  <user>
+    <id>9621797</id>
+    <name>Kallen</name>
+
+    <location>Tacloban City, Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9621797-kallen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451203107p3/9621797.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451203107p2/9621797.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Feb 20 00:28:22 -0800 2015</created_at>
+  <updated_at>Fri Feb 20 00:28:22 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>115907481</id>
+  <body><![CDATA[Thanks for mentioning cheating. Love triangles and cheatings are I try to stay away from amongst other things. Thanks for your review :) This made me laugh - "Nice try, Ash. The H on your name should be changed into another S, is what I think." :D]]></body>
+  
+  <user>
+    <id>2041782</id>
+    <name>anjuli</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2041782-anjuli]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1427287367p3/2041782.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1427287367p2/2041782.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Mar 10 05:29:43 -0700 2015</created_at>
+  <updated_at>Tue Mar 10 05:29:43 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/281408391]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/281408391]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

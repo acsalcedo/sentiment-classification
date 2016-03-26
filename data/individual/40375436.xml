@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>40375436</id>
+    
+  <user>
+    <id>576123</id>
+    <name>Debbi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576123-debbi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193486403p3/576123.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193486403p2/576123.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1812457</id>
+  <isbn>0964729237</isbn>
+  <isbn13>9780964729230</isbn13>
+  <text_reviews_count type="integer">24546</text_reviews_count>
+  <title>The Shack</title>
+  <image_url>https://d.gr-assets.com/books/1344270232m/1812457.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344270232s/1812457.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1812457.The_Shack</link>
+  <num_pages>248</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Windblown Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>364487</ratings_count>
+  <description>Mackenzie Allen Philips' youngest daughter, Missy, has been abducted during a family vacation, and evidence that she may have been brutally murdered is found in an abandoned shack deep in the Oregon wilderness. Four years later in the midst of his &lt;em&gt;"Great Sadness,"&lt;/em&gt; Mack receives a suspicious note, apparently from God, inviting him back to that shack for a weekend.&lt;br&gt;&lt;br&gt;Against his better judgment he arrives at the shack on a wintry afternoon and walks back into his darkest nightmare. What he finds there will change Mack's world forever.&lt;br&gt;&lt;br&gt;In a world where religion seems to grow increasingly irrelevant &lt;em&gt;The Shack&lt;/em&gt; wrestles with the timeless question, "Where is God in a world so filled with unspeakable pain?" The answers Mack gets will astound you and perhaps transform you as much as it did him. You'll want everyone you know to read this book!&lt;br&gt;&lt;br&gt;&lt;em&gt;* book description from the back cover&lt;/em&gt;</description>
+<authors>
+<author>
+<id>806593</id>
+<name>Wm. Paul Young</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1441046386p5/806593.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1441046386p2/806593.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/806593.Wm_Paul_Young]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>374403</ratings_count>
+<text_reviews_count>26769</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>36</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="faith" exclusive="false" review_shelf_id="18891978" sortable="false" />
+    <shelf name="fiction" exclusive="false" review_shelf_id="18891979" sortable="false" />
+    <shelf name="waste-of-time" exclusive="false" review_shelf_id="103533048" sortable="false" />
+    <shelf name="book-club" exclusive="false" review_shelf_id="18891982" sortable="false" />
+    <shelf name="audio" exclusive="false" review_shelf_id="18891986" sortable="false" />
+    <shelf name="read-in-2008" exclusive="false" review_shelf_id="18891990" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Dec 20 09:21:00 -0800 2008</read_at>
+  <date_added>Thu Dec 18 07:43:53 -0800 2008</date_added>
+  <date_updated>Sat Dec 20 09:21:00 -0800 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I had to read this for book club and I did not like it. Bad theology wrapped up in a sappy soap opera type book. <br /><br />I don't disagree with the message that God loves us and wants a relationship with us, but this book is so full of pot-holes and misinterpretations that renders useless:<br /><br />The Jesus charac...]]>
+  </body>
+  <comments_count>4</comments_count>
+    <comments start="1" end="4" total="4">
+        <comment>
+  <id>3304879</id>
+  <body><![CDATA[I couldn't agree with you more, Debbi. Your post sums up my thoughts of the book totally.]]></body>
+  
+  <user>
+    <id>727268</id>
+    <name>Jen</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/727268-jen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1199136109p3/727268.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1199136109p2/727268.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jan 07 13:45:18 -0800 2009</created_at>
+  <updated_at>Wed Jan 07 13:45:18 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>36086138</id>
+  <body><![CDATA[We ae not to copy Christ life, we are to work and stive to react as he reacted, to love as he loved, to be like him, but not to copy his life, but his emotions and faith in the Father.]]></body>
+  
+  <user>
+    <id>4868334</id>
+    <name>Michelle</name>
+
+    <location>Ellettsville, IN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4868334-michelle-randall]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1397264228p3/4868334.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1397264228p2/4868334.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 30 06:40:11 -0700 2011</created_at>
+  <updated_at>Tue Aug 30 06:40:11 -0700 2011</updated_at>
+</comment>
+
+        <comment>
+  <id>53652050</id>
+  <body><![CDATA[I'd like to introduce you to Alcatraz, a deeply troubled, teenage, tattoo artist on a spiritual quest to find God. <a target="_blank" href="http://www.lovegodandtattoos.com" rel="nofollow">www.lovegodandtattoos.com</a>]]></body>
+  
+  <user>
+    <id>5288044</id>
+    <name>Aleshia</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5288044-aleshia-robinson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360570460p3/5288044.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360570460p2/5288044.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jul 06 23:15:23 -0700 2012</created_at>
+  <updated_at>Fri Jul 06 23:15:23 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>96621329</id>
+  <body><![CDATA[The modern view of the death of Jesus is that He died for our sins out of sympathy for us. Yet the New Testament view is that He took our sin on Himself not because of sympathy, but because of His identification with us. He was “made. . . to be sin. . . .” Our sins are removed because of the death of Jesus, and the only explanation for His death is His obedience to His Father, not His sympathy for us. We are acceptable to God not because we have obeyed, nor because we have promised to give up things, but because of the death of Christ, and for no other reason. We say that Jesus Christ came to reveal the fatherhood and the lovingkindness of God, but the New Testament says that He came to take “away the sin of the world!” (John 1:29). -Chambers]]></body>
+  
+  <user>
+    <id>14625831</id>
+    <name>Kristin</name>
+
+    <location>Greenville, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14625831-kristin-stone]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1353017823p3/14625831.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1353017823p2/14625831.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Apr 14 07:32:36 -0700 2014</created_at>
+  <updated_at>Mon Apr 14 07:32:36 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/40375436]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/40375436]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1167379055</id>
+    
+  <user>
+    <id>37199753</id>
+    <name>Kiwi</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/37199753-kiwi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452825695p3/37199753.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452825695p2/37199753.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">11378402</id>
+  <isbn>1442443162</isbn>
+  <isbn13>9781442443167</isbn13>
+  <text_reviews_count type="integer">496</text_reviews_count>
+  <title>The Alchemy of Forever (Incarnation, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1317781223m/11378402.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1317781223s/11378402.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11378402-the-alchemy-of-forever</link>
+  <num_pages>256</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster Books For Young Readers</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>4612</ratings_count>
+  <description>In the first novel of the Incarnation series, the immortal Seraphina grapples with a wrenching truth: Falling in love might mean succumbing to death.People say “love never dies”…but love might be the death of Seraphina.&lt;br&gt;&lt;br&gt; Seraphina has been alive since the Middle Ages, when her boyfriend, Cyrus, managed to perfect a method of alchemy that lets them swap bodies with any human being. Sera ran away from Cyrus years ago, when she realized that what they were doing—taking the lives of innocent people—was wrong. Yet she doesn’t want to die, so she finds young people who are on the brink of death, and inhabits their bodies.&lt;br&gt;&lt;br&gt; Sera has just landed in the body of a girl named Kailey who was about to die in a car accident. For the first time, Sera falls in love with the life of the person she’s inhabiting. Sera also falls for the boy next door, Noah. And soon it’s clear the feelings are returned. But she can never kiss Noah, because for her to touch lips with a human would mean the human’s death. And she has even more to worry about: Cyrus is chasing her. If she stays in one place for long, she puts herself—and the people she’s grown to care for—in great danger. Will Sera have to give up the one thing that’s eluded her for centuries: true love?</description>
+<authors>
+<author>
+<id>4949972</id>
+<name>Avery Williams</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1317995245p5/4949972.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1317995245p2/4949972.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4949972.Avery_Williams]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>5775</ratings_count>
+<text_reviews_count>788</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1247825248</id>
+          <old_status>2-stars</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Feb 21 22:31:33 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1247777746</id>
+          <old_status>read</old_status>
+          <status>2-stars</status>
+          <updated_at type="datetime">Sun Feb 21 21:34:20 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">714065985</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Jan 13 14:01:37 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="2-stars" exclusive="false" review_shelf_id="1233712812" sortable="false" />
+    <shelf name="pre-2014" exclusive="false" review_shelf_id="1233712870" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jan 13 14:01:36 -0800 2015</date_added>
+  <date_updated>Sun Feb 21 22:48:00 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Oh, geez. Bad book is bad. 
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1167379055]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1167379055]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

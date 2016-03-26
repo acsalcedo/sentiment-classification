@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1397645608</id>
+    
+  <user>
+    <id>34555585</id>
+    <name>Soonya</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34555585-soonya]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1422474481p3/34555585.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1422474481p2/34555585.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">23510567</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">34</text_reviews_count>
+  <title>Illicit</title>
+  <image_url>https://d.gr-assets.com/books/1415339093m/23510567.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1415339093s/23510567.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23510567-illicit</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>433</ratings_count>
+  <description>She sees him in her dreams; dreams that are sometimes dark, sometimes full of light and hope. No two were ever the same and yet they all leave her with the same yearning, tempered with fear. One thing is for certain, in her dreams there's always danger....</description>
+<authors>
+<author>
+<id>6980638</id>
+<name>Jordan Silver</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362649651p5/6980638.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1362649651p2/6980638.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6980638.Jordan_Silver]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>73319</ratings_count>
+<text_reviews_count>3870</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">76450372</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Mon Sep 21 10:15:26 -0700 2015</created_at>
+          <updated_at type="datetime">Mon Sep 21 10:15:29 -0700 2015</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">83</percent>
+          <work_id type="integer">43113942</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5a23ad848e45d65e9835b09d527bf830</note_uri>
+          <note_updated_at type="datetime">Mon Sep 21 10:15:29 -0700 2015</note_updated_at>
+          <body><![CDATA[All this talk of him wanitng and loving only her his whole life, watching after her and all and only now we get to know that he was taught on countless women how to bring them pleasure? WTH. DNF.]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1013566815</id>
+          <old_status>read</old_status>
+          <status>dnf-lost-interest</status>
+          <updated_at type="datetime">Mon Sep 21 10:20:53 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1013563363</id>
+          <old_status>dnf-lost-interest</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Sep 21 10:17:07 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1013562357</id>
+          <old_status>currently-reading</old_status>
+          <status>dnf-lost-interest</status>
+          <updated_at type="datetime">Mon Sep 21 10:16:06 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1013560891</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Mon Sep 21 10:14:35 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="he-had-plenty-she-had-none" exclusive="false" review_shelf_id="1090147960" sortable="false" />
+    <shelf name="meh-hero" exclusive="false" review_shelf_id="1090148439" sortable="false" />
+    <shelf name="man-whore" exclusive="false" review_shelf_id="1090148260" sortable="false" />
+    <shelf name="virgin" exclusive="false" review_shelf_id="1090148127" sortable="false" />
+    <shelf name="mate-paranormal" exclusive="false" review_shelf_id="1090148641" sortable="false" />
+    <shelf name="wth-not-reading" exclusive="false" review_shelf_id="1090148308" sortable="false" />
+    <shelf name="not-for-me" exclusive="false" review_shelf_id="1090148400" sortable="false" />
+    <shelf name="plot-ruined-thebook" exclusive="false" review_shelf_id="1090148339" sortable="false" />
+    <shelf name="meh-heroine" exclusive="false" review_shelf_id="1090148447" sortable="false" />
+    <shelf name="dnf-lost-interest" exclusive="true" review_shelf_id="1090150914" sortable="false" />
+    <shelf name="smack-that-fucker" exclusive="false" review_shelf_id="1090148035" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 21 00:00:00 -0700 2015</started_at>
+  <read_at></read_at>
+  <date_added>Mon Sep 21 10:14:34 -0700 2015</date_added>
+  <date_updated>Mon Sep 21 10:24:48 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[DNF at 83%<br />Not only was it basically a twilight re-write but that revelation at this point? She was his mate, yet he slept with all those women? I don't care if it was for the job. He said himself he was taught how to bring pleasure to women and all for years. How is this romantic??? Hero sucks. W...]]>
+  </body>
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>140490979</id>
+  <body><![CDATA[That sucks! I'm speechless.]]></body>
+  
+  <user>
+    <id>26653561</id>
+    <name>Alp</name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26653561-alp]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458030627p3/26653561.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458030627p2/26653561.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Sep 21 11:44:13 -0700 2015</created_at>
+  <updated_at>Mon Sep 21 11:44:13 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140491035</id>
+  <body><![CDATA[I was too and super angry that we this revelation at this point!(like I was so invested in characters LOL) and then bam! This happened! :D]]></body>
+  
+  <user>
+    <id>34555585</id>
+    <name>Soonya</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/34555585-soonya]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1422474481p3/34555585.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1422474481p2/34555585.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Sep 21 11:45:53 -0700 2015</created_at>
+  <updated_at>Mon Sep 21 11:45:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>140506560</id>
+  <body><![CDATA[I can understand how frustrated you were.<br>Fortunately I haven't read this book! LOL]]></body>
+  
+  <user>
+    <id>26653561</id>
+    <name>Alp</name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26653561-alp]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458030627p3/26653561.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458030627p2/26653561.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Sep 21 18:16:03 -0700 2015</created_at>
+  <updated_at>Mon Sep 21 18:16:03 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1397645608]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1397645608]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

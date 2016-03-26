@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>737606973</id>
+    
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1429210533p3/8359556.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1429210533p2/8359556.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">30183</id>
+  <isbn>0312360266</isbn>
+  <isbn13>9780312360269</isbn13>
+  <text_reviews_count type="integer">11207</text_reviews_count>
+  <title>Marked (House of Night #1)</title>
+  <image_url>https://d.gr-assets.com/books/1317067002m/30183.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1317067002s/30183.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30183.Marked</link>
+  <num_pages>306</num_pages>
+  <format>Paperback</format>
+  <edition_information>1st edition</edition_information>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>332677</ratings_count>
+  <description>&lt;em&gt;Also see: Alternate Cover Editions for this ISBN [ACE] &lt;/em&gt; &lt;br&gt;&lt;strong&gt;
+  &lt;a href="https://www.goodreads.com/book/show/25992189"&gt;ACE #1&lt;/a&gt;
+&lt;/strong&gt;&lt;br&gt;&lt;br&gt;After a Vampire Tracker Marks her with a crescent moon on her forehead, 16-year-old Zoey Redbird enters the House of Night and learns that she is no average fledgling. She has been Marked as special by the vampyre Goddess Nyx and has affinities for all five elements: Air, Fire Water, Earth and Spirit. But she is not the only fledgling at the House of Night with special powers. When she discovers that the leader of the Dark Daughters, the school’s most elite club, is mis-using her Goddess-given gifts, Zoey must look deep within herself for the courage to embrace her destiny – with a little help from her new vampyre friends (or Nerd Herd, as Aphrodite calls them)</description>
+<authors>
+<author>
+<id>17015</id>
+<name>P.C. Cast</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p5/17015.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1347676514p2/17015.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17015.P_C_Cast]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>1662518</ratings_count>
+<text_reviews_count>49462</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">34075143</id>
+          <page type="integer">201</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Oct 14 10:18:49 -0700 2013</created_at>
+          <updated_at type="datetime">Mon Oct 14 10:18:52 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">65</percent>
+          <work_id type="integer">30573</work_id>
+          <note_uri>kca://note/amzn1.grok.note.fa78c8a65c7fdf48847df91eb9131bd4</note_uri>
+          <note_updated_at type="datetime">Mon Oct 14 10:18:52 -0700 2013</note_updated_at>
+          <body>Yaaaawn! So boring...</body>
+        </user_status>
+        <user_status>
+          <id type="integer">33921892</id>
+          <page type="integer">121</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Oct 10 06:09:00 -0700 2013</created_at>
+          <updated_at type="datetime">Thu Oct 10 06:09:02 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">30573</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6616b217f8f65899a3f6f5b693a8c971</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[The main character is judemental....]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">33884047</id>
+          <page type="integer">20</page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Wed Oct 09 07:13:33 -0700 2013</created_at>
+          <updated_at type="datetime">Wed Oct 09 07:13:33 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">6</percent>
+          <work_id type="integer">30573</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">185767436</id>
+          <old_status>currently-reading</old_status>
+          <status>did-not-finish</status>
+          <updated_at type="datetime">Sun Oct 20 08:45:05 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">175986406</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Oct 09 06:58:33 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+
+    <shelf name="not-my-cup-of-tea" exclusive="false" review_shelf_id="527958056" sortable="false" />
+    <shelf name="did-not-finish" exclusive="true" review_shelf_id="534723437" sortable="false" />
+    <shelf name="stinking-cowshit" exclusive="false" review_shelf_id="642868663" sortable="false" />
+    <shelf name="annoying-characters" exclusive="false" review_shelf_id="534723503" sortable="false" />
+    <shelf name="are-you-fucking-kidding-me" exclusive="false" review_shelf_id="534723514" sortable="false" />
+    <shelf name="hello-mary-sue" exclusive="false" review_shelf_id="534723652" sortable="false" />
+    <shelf name="scatterbrained-protagonists" exclusive="false" review_shelf_id="534723686" sortable="false" />
+    <shelf name="wasted-my-precious-time" exclusive="false" review_shelf_id="534723931" sortable="false" />
+    <shelf name="pretentious-books-and-characters" exclusive="false" review_shelf_id="534723637" sortable="false" />
+    <shelf name="turned-my-neurons-to-jelly" exclusive="false" review_shelf_id="534723700" sortable="false" />
+    <shelf name="undeserved-hype" exclusive="false" review_shelf_id="534723738" sortable="false" />
+    <shelf name="writers-set-to-destroy-the-world" exclusive="false" review_shelf_id="642868953" sortable="false" />
+    <shelf name="books-i-would-love-to-burn" exclusive="false" review_shelf_id="534723524" sortable="false" />
+    <shelf name="awfully-boring-plot" exclusive="false" review_shelf_id="534723584" sortable="false" />
+    <shelf name="i-loathe-this" exclusive="false" review_shelf_id="534723612" sortable="false" />
+    <shelf name="i-m-gonna-let-you-burn-burn-burn" exclusive="false" review_shelf_id="642868862" sortable="false" />
+    <shelf name="donno-what-is-so-appealing" exclusive="false" review_shelf_id="534724343" sortable="false" />
+    <shelf name="cringe-worthy" exclusive="false" review_shelf_id="642868834" sortable="false" />
+    <shelf name="needs-a-freaking-editor" exclusive="false" review_shelf_id="642868908" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 09 00:00:00 -0700 2013</started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 09 06:58:33 -0700 2013</date_added>
+  <date_updated>Tue Mar 11 07:07:23 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[<strong>DNF</strong><br /><br /><strong> <em>THIS BOOK WAS HORRENDOUS!</em> </strong><br /><br />Review to come.....]]>
+  </body>
+  <comments_count>5</comments_count>
+    <comments start="1" end="5" total="5">
+        <comment>
+  <id>85396787</id>
+  <body><![CDATA[BAHAHA I KNEW IT]]></body>
+  
+  <user>
+    <id>5045321</id>
+    <name>Kirstin</name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5045321-kirstin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453909982p3/5045321.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453909982p2/5045321.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:57:01 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:57:01 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85424542</id>
+  <body><![CDATA[Ugh, I hated Zoey, that stupid judgmental idiot!]]></body>
+  
+  <user>
+    <id>8359556</id>
+    <name>Ayesha</name>
+
+    <location>Manama, Bahrain</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8359556-ayesha]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1429210533p3/8359556.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1429210533p2/8359556.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 23 08:18:08 -0700 2013</created_at>
+  <updated_at>Wed Oct 23 08:18:08 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85652913</id>
+  <body><![CDATA[She's probably the worst MC I've ever had the misfortune of reading about.]]></body>
+  
+  <user>
+    <id>5045321</id>
+    <name>Kirstin</name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5045321-kirstin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453909982p3/5045321.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453909982p2/5045321.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 26 22:06:45 -0700 2013</created_at>
+  <updated_at>Sat Oct 26 22:06:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>96177651</id>
+  <body><![CDATA[This doesn't surprise me.]]></body>
+  
+  <user>
+    <id>21530568</id>
+    <name>Jinky</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/21530568-jinky-spring]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1371905674p3/21530568.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1371905674p2/21530568.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Apr 07 05:36:44 -0700 2014</created_at>
+  <updated_at>Mon Apr 07 05:36:44 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>141281273</id>
+  <body><![CDATA[I so knew it that if you had read this book, you are NOT going to like it. It WAS horrendous!]]></body>
+  
+  <user>
+    <id>36730926</id>
+    <name>Nimika</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/36730926-nimika]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457870907p3/36730926.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457870907p2/36730926.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 10 02:54:24 -0700 2015</created_at>
+  <updated_at>Sat Oct 10 02:54:24 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/737606973]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/737606973]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

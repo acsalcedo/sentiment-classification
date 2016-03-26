@@ -34,7 +34,7 @@ tdmStack  <- do.call(rbind.fill, reviewTDM)
 tdmStack[is.na (tdmStack)] <- 0
 
 getRandomSets <- function(reviewTDM) {
-    trainSet <- sample(nrow(reviewTDM),ceiling(nrow(reviewTDM) * 0.8))
+    trainSet <- sample(nrow(reviewTDM),ceiling(nrow(reviewTDM) * 0.7))
     testSet  <- (1:nrow(reviewTDM)) [-trainSet]
     return (list(trainSet,testSet))
 }
@@ -49,21 +49,14 @@ sizePositive <- nrow(reviewTDM[[1]]["Target"])
 negativeTrainSet <- sapply(sets[[2]][[1]],function(x) sum(x,sizePositive))
 negativeTestSet  <- sapply(sets[[2]][[2]],function(x) sum(x,sizePositive))
 
-
 trainSet <- c(positiveTrainSet,negativeTrainSet)
 testSet  <- c(positiveTestSet,negativeTestSet)
-
-# # KNN
 
 reviewsClass         <- tdmStack[,"Target"]
 reviewsWithoutTarget <- tdmStack[, !colnames(tdmStack) %in% "Target"]
 
-
+# # KNN
 classifyKnn     <- knn(reviewsWithoutTarget[trainSet, ], reviewsWithoutTarget[testSet,], reviewsClass[trainSet])
 confusionMatrix <- table("Predictions" = classifyKnn, Actual = reviewsClass[testSet])
 
-
-accuracy <- (sum(diag(confusionMatrix)) / length(testSet)) * 100
-
-print (accuracy)
-print (confusionMatrix)
+size <- length(testSet)

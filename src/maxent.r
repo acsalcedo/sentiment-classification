@@ -1,5 +1,5 @@
 library(maxent)
-
+source("clean.r")
 # Reads data from file where all reviews are stored.
 data <- read.csv(file="../data/divided/all.csv")
 
@@ -25,7 +25,7 @@ testSet <- sparse[trainIndex:dataSize,]
 model <- maxent(trainSet,trainSetClass)
 
 # Classifies test set given the max entropy model.
-classifedTestSet <- predict(model,testSet)
+classifiedTestSet <- predict(model,testSet)
 
 getConfusionMatrix <- function(results) {
 
@@ -62,20 +62,5 @@ getConfusionMatrix <- function(results) {
     return (result)
 }
 
-confusionMatrix <- getConfusionMatrix(classifedTestSet)
-
-truePositive  <- confusionMatrix[1]
-falsePositive <- confusionMatrix[2]
-trueNegative  <- confusionMatrix[4]
-falseNegative <- confusionMatrix[3]
-
-accuracy    <- (sum(diag(confusionMatrix)) / nrow(testSet)) * 100
-precision   <- (truePositive / (truePositive + falsePositive))
-sensitivity <- (truePositive / (truePositive + falseNegative))
-
-cat("\nConfusion Matrix\n")
-print(confusionMatrix)
-cat("\n")
-cat("Accuracy:", accuracy, "\n")
-cat("Precision:", precision, "\n")
-cat("Recall:", sensitivity, "\n")
+confusionMatrix <- getConfusionMatrix(classifiedTestSet)
+size <- nrow(testSet)

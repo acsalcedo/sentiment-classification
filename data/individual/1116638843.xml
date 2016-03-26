@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1116638843</id>
+    
+  <user>
+    <id>578009</id>
+    <name>Jordana</name>
+
+    <location>Short Hills, NJ</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/578009-jordana-horn-gordon]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357088926p3/578009.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357088926p2/578009.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7455</id>
+  <isbn>0446617687</isbn>
+  <isbn13>9780446617680</isbn13>
+  <text_reviews_count type="integer">1145</text_reviews_count>
+  <title>Sex and the City</title>
+  <image_url>https://d.gr-assets.com/books/1344270731m/7455.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1344270731s/7455.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7455.Sex_and_the_City</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.33</average_rating>
+  <ratings_count>36894</ratings_count>
+  <description>Enter a world where the sometimes shocking and often hilarious mating habits of the privileged are exposed by a true insider. In essays drawn from her witty and sometimes brutally candid column in the New York Observer, Candace Bushnell introduces us to the young and beautiful who travel in packs from parties to bars to clubs. Meet "Carrie," the quintessential young writer looking for love in all the wrong places..."Mr. Big," the business tycoon who drifts from one relationship to another..."Samantha Jones," the fortyish, successful, "testosterone woman" who uses sex like a man...not to mention "Psycho Moms," "Bicycle Boys," "International Crazy Girls," and the rest of the New Yorkers who have inspired one of the most watched TV series of our time. You've seen them on HBO, now read the book that started it all...</description>
+<authors>
+<author>
+<id>4415</id>
+<name>Candace Bushnell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1435063350p5/4415.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1435063350p2/4415.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4415.Candace_Bushnell]]></link>
+<average_rating>3.31</average_rating>
+<ratings_count>175479</ratings_count>
+<text_reviews_count>8972</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">53598588</id>
+          <page type="integer">0</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Nov 27 05:44:40 -0800 2014</created_at>
+          <updated_at type="datetime">Thu Nov 27 05:44:40 -0800 2014</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">0</percent>
+          <work_id type="integer">3297002</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">650693116</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Nov 27 05:57:16 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">650692927</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Nov 27 05:56:58 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">650690007</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Nov 27 05:52:26 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">650689910</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Nov 27 05:52:18 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">650685214</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Nov 27 05:44:53 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">650685144</id>
+          <old_status>read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Nov 27 05:44:46 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">650684943</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Thu Nov 27 05:44:28 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">650684820</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Thu Nov 27 05:44:19 -0800 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Nov 27 05:52:17 -0800 2014</started_at>
+  <read_at>Thu Nov 27 05:57:15 -0800 2014</read_at>
+  <date_added>Thu Nov 27 05:44:18 -0800 2014</date_added>
+  <date_updated>Thu Nov 27 05:57:15 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      The horror! The horror!
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1116638843]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1116638843]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

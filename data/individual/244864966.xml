@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>244864966</id>
+    
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">7778981</id>
+  <isbn>0312656262</isbn>
+  <isbn13>9780312656263</isbn13>
+  <text_reviews_count type="integer">3667</text_reviews_count>
+  <title>Halo (Halo, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1278885735m/7778981.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1278885735s/7778981.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7778981-halo</link>
+  <num_pages>484</num_pages>
+  <format>Hardcover</format>
+  <edition_information>1st Edition</edition_information>
+  <publisher>Feiwel &amp; Friends</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>54786</ratings_count>
+  <description>&lt;strong&gt;An angel is sent to Earth on a mission.&lt;br&gt;But falling in love is not part of the plan.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Three angels – Gabriel, the warrior; Ivy, the healer; and Bethany, the youngest and most human – are sent by Heaven to bring good to a world falling under the influence of darkness. They work hard to conceal their luminous glow, superhuman powers, and, most dangerous of all, their wings, all the while avoiding all human attachments.&lt;br&gt;&lt;br&gt;Then Bethany meets Xavier Woods, and neither of them is able to resist the attraction between them. Gabriel and Ivy do everything in their power to intervene, but the bond between Xavier and Bethany seems too strong.&lt;br&gt;&lt;br&gt;The angel’s mission is urgent, and dark forces are threatening. Will love ruin Bethany or save her?</description>
+<authors>
+<author>
+<id>696372</id>
+<name>Alexandra Adornetto</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1406760359p5/696372.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1406760359p2/696372.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/696372.Alexandra_Adornetto]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>96280</ratings_count>
+<text_reviews_count>6781</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">11168083</id>
+          <page type="integer">260</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Wed Feb 08 08:16:51 -0800 2012</created_at>
+          <updated_at type="datetime">Wed Feb 08 08:16:51 -0800 2012</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">10695325</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">11045392</id>
+          <page type="integer">30</page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Fri Feb 03 11:40:54 -0800 2012</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:24:02 -0700 2013</updated_at>
+          <last_comment_at type="datetime">Wed Feb 08 08:30:01 -0800 2012</last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">6</percent>
+          <work_id type="integer">10695325</work_id>
+          <note_uri>kca://note/amzn1.grok.note.26332295bdcb4dbefae40fb07f403363</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Not the best of beginnings but I can't make up my mind whether it's for me or not :S]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>1</rating>
+  <votes>10</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="beautiful-cover" exclusive="false" review_shelf_id="184876462" sortable="false" />
+    <shelf name="young-adult" exclusive="false" review_shelf_id="184622427" sortable="false" />
+    <shelf name="hate-is-not-a-strong-enough-word" exclusive="false" review_shelf_id="208151588" sortable="false" />
+    <shelf name="angels" exclusive="false" review_shelf_id="202788730" sortable="false" />
+    <shelf name="they-really-do-publish-anything" exclusive="false" review_shelf_id="207418160" sortable="false" />
+    <shelf name="a-z-challenge-2012" exclusive="false" review_shelf_id="278786447" sortable="false" />
+    <shelf name="reviewed" exclusive="false" review_shelf_id="224323924" sortable="false" />
+    <shelf name="trade-for-a-subway-sandwich" exclusive="false" review_shelf_id="303557788" sortable="false" />
+    <shelf name="didnt-like" exclusive="false" review_shelf_id="958133710" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 03 00:00:00 -0800 2012</started_at>
+  <read_at>Fri Feb 17 00:00:00 -0800 2012</read_at>
+  <date_added>Fri Dec 09 02:43:49 -0800 2011</date_added>
+  <date_updated>Fri Apr 10 08:40:45 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Hallelujah!..it's a miracle I managed to finish this book.<br /><br />I don’t understand what everyone else has been reading but this Halo was out of batteries!<br /><br />Summary: three angels – Gabriel (an archangel), Ivy (a seraph) and Bethany (a young angel) – come down from Heaven to protect the town of Venus Cove...]]>
+  </body>
+  <comments_count>13</comments_count>
+    <comments start="1" end="13" total="13">
+        <comment>
+  <id>45087180</id>
+  <body><![CDATA[Hey Kruti, a friend told me I should read this book but I'm not quite sure yet. What do you think of it so far? Also, I will definitely look at your review. :)]]></body>
+  
+  <user>
+    <id>6057769</id>
+    <name>Taylor</name>
+
+    <location>Laurel, DE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6057769-taylor]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1380908827p3/6057769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1380908827p2/6057769.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Feb 11 11:23:49 -0800 2012</created_at>
+  <updated_at>Sat Feb 11 11:23:49 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45184506</id>
+  <body><![CDATA[Hey Taylor, how are you? I know what you mean, alot of people told me to give this book a try and the cover looks so tempting to resist lol. But all I can say so far is that I'm not really enjoying it too much. I'm half way through but nothing seems to have happened yet. I don't know if my opinion will change much though but I will finish the book soon and let you know what I think of it. The book seems to drag on alot and it's very descriptive. Usually I don't mind that but here its just abit tedious.]]></body>
+  
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 13 03:02:39 -0800 2012</created_at>
+  <updated_at>Mon Feb 13 03:02:39 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45205009</id>
+  <body><![CDATA[Hey Kruti, I'm really good! How are you? I hope that you are doing good too! Oh I see, the cover does look really cool and I have the habit of reading books just becuase they have an awesome cover lol. But thanks for your input because I was wary of reading this book. Can't wait to see your review! :)]]></body>
+  
+  <user>
+    <id>6057769</id>
+    <name>Taylor</name>
+
+    <location>Laurel, DE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6057769-taylor]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1380908827p3/6057769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1380908827p2/6057769.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 13 12:37:42 -0800 2012</created_at>
+  <updated_at>Mon Feb 13 12:37:42 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45323844</id>
+  <body><![CDATA[Hey Taylor, I'm good. Ahh you're not the only one, awesome covers tend to hypnotise me until I actually pick up the book lol. Oh yeh, guess what? I picked up a copy of Interview with the Vampire from the library and I can't wait to start it :D. P.s. I love your profile pic. It serves as a constant reminder of what I'm missing lol :)]]></body>
+  
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Feb 15 14:28:31 -0800 2012</created_at>
+  <updated_at>Wed Feb 15 14:28:31 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45505830</id>
+  <body><![CDATA[Haha thamks! :) I love that pic of Lestst and Louie ( Tom Cruise and Brad Pitt lol). But that is awesome that you have checked Interview with the Vampire out! I hope you enjoy it and tell me how you like it as you read it! :D Oh and I saw that you have finished Halo and you rated it one star so I believe that is def a book I need to stay away from. But I'm going to read your review for it too.]]></body>
+  
+  <user>
+    <id>6057769</id>
+    <name>Taylor</name>
+
+    <location>Laurel, DE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6057769-taylor]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1380908827p3/6057769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1380908827p2/6057769.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Feb 18 17:26:06 -0800 2012</created_at>
+  <updated_at>Sat Feb 18 17:26:06 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45526093</id>
+  <body><![CDATA[Guess I should really avoid this one :)]]></body>
+  
+  <user>
+    <id>5304012</id>
+    <name>Simcsa</name>
+
+    <location>Senica, Slovakia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5304012-simcsa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1311779446p3/5304012.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1311779446p2/5304012.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 19 04:57:32 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 04:57:32 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45528761</id>
+  <body><![CDATA[I´m trying read this book for a month but I´m stuck in around page 100 and I´m afraid...I think I can´t finish this book. It is so booooooooring! In time when I can finished this book I finish two other books. I think I´ll put this back to library...]]></body>
+  
+  <user>
+    <id>4610156</id>
+    <name>Alča</name>
+
+    <location>Kladno, Czech Republic</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4610156-al-a]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1441662227p3/4610156.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1441662227p2/4610156.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 19 06:41:19 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 06:41:19 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45529056</id>
+  <body><![CDATA[I want to be sorry you had to read this book, but without it I would never get this hilarious review, so... I win some, you lose some? I'm sorry you had to suffer this tripe. Totally agree about the deceptive cover art though - GORGEOUS.]]></body>
+  
+  <user>
+    <id>6736300</id>
+    <name>the scarecrow</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6736300-the-scarecrow]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1359674865p3/6736300.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1359674865p2/6736300.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 19 06:50:19 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 06:50:19 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45529089</id>
+  <body><![CDATA[If you want a book about angels that's WORTH reading though, I can't praise The Vintner's Luck (by Elizabeth Knox) enough. It's easily amongst my favorite books of all time and is therefore highly recommended.]]></body>
+  
+  <user>
+    <id>6736300</id>
+    <name>the scarecrow</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6736300-the-scarecrow]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1359674865p3/6736300.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1359674865p2/6736300.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 19 06:51:45 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 06:51:45 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45536184</id>
+  <body><![CDATA[<em>Simcsa wrote: "Guess I should really avoid this one :)"</em><br><br>Hey Simcsa, the only thing I can say is that you should stay away from this with a ten foot pole. Unless you love books with alot of descriptions and no plot. Honestly, all I can say is that there are too many good books out there to read rather than wasting your time reading one loooong book :). But if you really want to read this book, I would suggest previewing the first few pages to see if you like it or not.]]></body>
+  
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 19 09:34:07 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 09:34:07 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45536445</id>
+  <body><![CDATA[<em>Aladdin wrote: "I´m trying read this book for a month but I´m stuck in around page 100 and I´m afraid...I think I can´t finish this book. It is so booooooooring! In time when I can finished this book I finish two ..."</em><br><br>Hey Aladdin, I couldn't agree with you more. I read the whole of the Lemony Snicket series whilst trying to read this book. And that was 13 books! The book is sooo long and really boring that I could only handle 1 chapter at a time. I hope you survive by the end of this book. Trust me finishing this book is an achievement in itself. Luckily you didn't purchase the book.]]></body>
+  
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 19 09:40:04 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 09:40:04 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45536927</id>
+  <body><![CDATA[<em>the scarecrow wrote: "I want to be sorry you had to read this book, but without it I would never get this hilarious review, so... I win some, you lose some? I'm sorry you had to suffer this tripe. Totally agree about th..."</em><br><br>Hey scarecrow, OMG your comment made me laugh so much and I was on the bus at the time too. People started giving me weird looks but I don't care. Haha that's ok. You had to suffer whilst reading this book too so I guess we're even lol. After reading this book, I've become a little wary of reading anything that has a good cover! Thanks for the recommendation. I've added it on my tbr list now. I've only found just one other book about angels that's really good and that's Angelfall by Susan Ee. It's definitely one of my favourites and I would recommend it to anyone who loves action and good plot twists.]]></body>
+  
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Feb 19 09:49:41 -0800 2012</created_at>
+  <updated_at>Sun Feb 19 09:49:41 -0800 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>45635972</id>
+  <body><![CDATA[Thanks Kruti! I will def stay away from this book lol. But your review was great and it really convinced me not to read this! :)]]></body>
+  
+  <user>
+    <id>6057769</id>
+    <name>Taylor</name>
+
+    <location>Laurel, DE</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6057769-taylor]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1380908827p3/6057769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1380908827p2/6057769.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 20 20:04:47 -0800 2012</created_at>
+  <updated_at>Mon Feb 20 20:04:47 -0800 2012</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/244864966]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/244864966]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

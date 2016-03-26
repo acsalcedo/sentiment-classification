@@ -3,7 +3,8 @@ args <- commandArgs(trailingOnly = TRUE)
 folder <- ""
 
 if (length(args) < 1) {
-    argumentErrors()
+    blankMsg <- sprintf("\r%s\r", paste(rep(" ", getOption("width")-1L), collapse=" "));
+    stop(simpleError(blankMsg));
 }
 
 algorithm <- args[1]

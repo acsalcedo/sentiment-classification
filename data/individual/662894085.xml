@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>662894085</id>
+    
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">114363</id>
+  <isbn>0553277472</isbn>
+  <isbn13>9780553277470</isbn13>
+  <text_reviews_count type="integer">324</text_reviews_count>
+  <title>Zen and the Art of Motorcycle Maintenance: An Inquiry into Values</title>
+  <image_url>https://d.gr-assets.com/books/1346459264m/114363.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1346459264s/114363.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/114363.Zen_and_the_Art_of_Motorcycle_Maintenance</link>
+  <num_pages>380</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam New Age Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1984</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>132384</ratings_count>
+  <description>The extraordinary story of a man's quest for truth. It will change the way you think and feel about your life. "The cycle you're working on is a cycle called 'yourself.'"&lt;br&gt;&lt;br&gt;"The study of the art of motorcycle maintainence is really a study of the art of rationality itself. Working on a motorcycle, working well, caring, is to become part of a process, to achieve an inner peace of mind. The motorcycle is primarily a mental phenomenon." -- Robert M. Pirsig&lt;br&gt;&lt;br&gt;"Profoundly important... full of insights into our most perplexing contemporary dilemmas... It is intellectual entertainment of the highest order." -- "The New York Times"&lt;br&gt;&lt;br&gt;"It lodges in the mind as few recent novels have... The book is inspired, original... As the mountains gentle toward the sea--with father and child locked in a ghostly grip--the narrative tact, the perfect economy of effect defy criticism... The analogies with "Moby Dick" are patent. Robert Pirsig invites the prodigious comparison... What more can one say?" -- "The New Yorker"&lt;br&gt;&lt;br&gt;"It's a miracle.. sparkles like an electric dream. Freshness, originality... that seduces you into loving motorcycles, as tender in their pistons as the petals in the Buddah's dawn lotus." -- "The Village Voice"</description>
+<authors>
+<author>
+<id>401</id>
+<name>Robert M. Pirsig</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440106738p5/401.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440106738p2/401.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/401.Robert_M_Pirsig]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>136942</ratings_count>
+<text_reviews_count>5768</text_reviews_count>
+</author>
+</authors>
+  <published>1984</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">30431000</id>
+          <page type="integer">196</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu Jul 18 13:54:08 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 13:54:56 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">51</percent>
+          <work_id type="integer">175720</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9ecfcfbb9975f1979851ab83a8928278</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Im drifting...losing interest..can you still be redeemed? Yes you can. Youre only half dead, which also means youre half alive. Youre fading fast as fuck though.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">30353614</id>
+          <page type="integer">181</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Jul 16 19:59:23 -0700 2013</created_at>
+          <updated_at type="datetime">Tue Jul 16 19:59:23 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">47</percent>
+          <work_id type="integer">175720</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+        <user_status>
+          <id type="integer">30166485</id>
+          <page type="integer">89</page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Jul 12 14:21:55 -0700 2013</created_at>
+          <updated_at type="datetime">Fri Jul 12 14:21:55 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">23</percent>
+          <work_id type="integer">175720</work_id>
+          <note_uri></note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">99002588</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jul 24 12:15:14 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">82235420</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Tue Jul 09 07:32:00 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>37</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="fiction" exclusive="false" review_shelf_id="465175154" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jul 09 00:00:00 -0700 2013</started_at>
+  <read_at>Wed Jul 24 00:00:00 -0700 2013</read_at>
+  <date_added>Tue Jul 09 07:32:00 -0700 2013</date_added>
+  <date_updated>Sat Dec 28 15:27:17 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Fuck! I hate this. I give up. I can't anymore. The last page I actually read was 217, so I didn't officially "finish" this book, but it will go into my finished pile. I need all the help I can get. My goal was 50 books this year, and Im 8 books behind. I will count this book as read no matter wha...]]>
+  </body>
+  <comments_count>32</comments_count>
+    <comments start="1" end="32" total="32">
+        <comment>
+  <id>78810234</id>
+  <body><![CDATA[Even the title is off-putting to me, it's one of Reddit's favorite books though so I'm looking forward to hear your comments!]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jul 19 18:46:53 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 18:46:53 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78813788</id>
+  <body><![CDATA[Im about halfway, so it can still rehabilitate itself, but man. I really dont mind philosophy wrapped in a super thin narrative (like Sophies World which I enjoyed), and there are good ideas in this book, but its starting to bore me.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jul 19 19:39:27 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 19:39:27 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78815338</id>
+  <body><![CDATA[<em>Guillermo wrote: "and there are good ideas in this book, but its starting to bore me. ..."</em><br><br>Good ideas tend to do that ;)]]></body>
+  
+  <user>
+    <id>2457095</id>
+    <name>Apatt</name>
+
+    <location>Bangkok, Thailand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2457095-apatt]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1349239948p3/2457095.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1349239948p2/2457095.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jul 19 20:02:13 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 20:02:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>78819356</id>
+  <body><![CDATA[I hated this book so damn much when I was forced to read it in school. Luckily I barely remember anything about it.]]></body>
+  
+  <user>
+    <id>13502158</id>
+    <name>Ken</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/13502158-ken]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1391009264p3/13502158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1391009264p2/13502158.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jul 19 21:06:12 -0700 2013</created_at>
+  <updated_at>Fri Jul 19 21:06:12 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79212812</id>
+  <body><![CDATA[This review is hilarious. I haven't read the book myself, but I've seen nothing but positive feedback about it. Coming from that, your review was a bit unexpected which I found highly amusing. I was remotely considering picking this book up, but considering your response I think I'll give it a pass. I'm not a fan of pretentiousness.]]></body>
+  
+  <user>
+    <id>1920158</id>
+    <name>Laura</name>
+
+    <location>Mount Morris, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1920158-laura]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457383440p3/1920158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457383440p2/1920158.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Jul 25 05:01:06 -0700 2013</created_at>
+  <updated_at>Thu Jul 25 05:01:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79214301</id>
+  <body><![CDATA[Thank you! That book was like a bad girlfriend. Im kindof missing it now because it was my travel-to-work paperback, but Im not going back to that prostitute. Its not written bad, and I may get appreciation out of it at some point. You might love it and think Im a kook. Im a little sad to bash it, but it was just "wrong place, wrong time" with that thing.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Jul 25 05:41:40 -0700 2013</created_at>
+  <updated_at>Thu Jul 25 05:41:40 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79241456</id>
+  <body><![CDATA[I tried to read it in COLLEGE and found it too pretentious so I'll bet I'd really hate it now. BTW we had a boring friend in college who rode his boring motorcycle across the US and it was all he could talk about. That made this book all the more irritating, or vice versa. :)]]></body>
+  
+  <user>
+    <id>2433650</id>
+    <name>Anne</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2433650-anne]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1315015783p3/2433650.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1315015783p2/2433650.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Jul 25 13:10:50 -0700 2013</created_at>
+  <updated_at>Thu Jul 25 13:10:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>79479228</id>
+  <body><![CDATA[Ha! I bet your friend who rode his "boring motorcycle across the US.." had more interesting stories and/or wisdom than those found here. This review is the harshest thing I've written, but I just got so irritated. One paragraph of boring annoying travels with his grumpy son, then the rest of the chapter in a flashback of his days trying to teach what "quality" means to his unfortunate class. Rinse and repeat.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jul 28 19:16:49 -0700 2013</created_at>
+  <updated_at>Sun Jul 28 19:16:49 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>82967018</id>
+  <body><![CDATA[Im fascinated, disgusted, and thankful at the same time, that you people are enjoying my vulgar assessment of this book. Do you know how many times Ive contemplated deleting this shit, and changed my mind because I got a "like" from a complete stranger?? Thanks, people.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Sep 14 20:58:51 -0700 2013</created_at>
+  <updated_at>Sat Sep 14 20:58:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84330924</id>
+  <body><![CDATA[It really is my loss. It's a cross I will have to carry to my death I guess.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 19:07:47 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 19:07:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84331484</id>
+  <body><![CDATA[Really? You read 1 book and this it, and you gave it 5 stars? Youre a mod. Pathetic.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 19:16:51 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 19:16:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84335500</id>
+  <body><![CDATA[Welcome.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:21:03 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:21:03 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84335672</id>
+  <body><![CDATA[You critisized me for not finishing? News to me, since you never wrote that.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:23:37 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:23:37 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84335812</id>
+  <body><![CDATA[How much do they pay you? How about you pretend to have a profile, couple of read books, maybe one or two friends, and then comment.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:26:00 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:26:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84336271</id>
+  <body><![CDATA[Sorry, man. Been on the defensive as of late. Guess youre not a douche.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:33:36 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:33:36 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84336915</id>
+  <body><![CDATA[Oh fuck you man, go to hell already, I try to be nice, and you try to stick dynamite up my ass. That's what I get for trying to be reasonable. Did you even read my last posts or are you just on an anger bender. I was trying to play nice, and this is the fucking stupidity I get. Do not respond, because I will no longer respond, whoever or whatever you are. It's obvious you're not a rational thing.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:44:29 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:44:29 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84337351</id>
+  <body><![CDATA[For the record You posts were showing up late here. Nevertheless I've deleted all of my posts]]></body>
+  
+  <user>
+    <id>24483091</id>
+    <name>Jeff</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24483091-jeff-t]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1381032844p3/24483091.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1381032844p2/24483091.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:52:45 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:52:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84337629</id>
+  <body><![CDATA[Ok.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 20:58:32 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 20:58:32 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84337735</id>
+  <body><![CDATA[I still dont think youre a member, but it was a well written review.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 21:00:46 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 21:00:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84337913</id>
+  <body><![CDATA[Like I previously stated, I just joined today!<br><br>Although I'm not real happy with the outcome thus far.]]></body>
+  
+  <user>
+    <id>24483091</id>
+    <name>Jeff</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24483091-jeff-t]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1381032844p3/24483091.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1381032844p2/24483091.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 21:04:20 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 21:04:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84338084</id>
+  <body><![CDATA[You come out of the gate swinging at me with no profile, in a time when members are worried about censorship. This is my only 1 star rating, by the way, so its pretty suspicious.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 21:08:20 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 21:08:20 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84338189</id>
+  <body><![CDATA[Sorry if you got a bad vibe, check back in a few weeks if were still here, and own up to the fact that you approached me like a douchebag, and you got the response you deserved.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 21:10:42 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 21:10:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84339181</id>
+  <body><![CDATA[Look... you certainly give quite a mixed message.<br><br>I cast no obscenities at you... yet you accuse me of being a non member more than once, accuse me of being paid to write something, you state fuck you, go to hell, refer to me as a douchebag twice and this is the response I deserve because I stated that it was a loss that you chose to not finish the book?<br><br>I don't think it was me who came out swinging, and I certainly didn't refer to any kind of censorship.I was neither hostile nor aggressive.]]></body>
+  
+  <user>
+    <id>24483091</id>
+    <name>Jeff</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/24483091-jeff-t]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1381032844p3/24483091.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1381032844p2/24483091.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Oct 05 21:33:27 -0700 2013</created_at>
+  <updated_at>Sat Oct 05 21:33:27 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84350293</id>
+  <body><![CDATA[The fact that you still take time to attack me and address a single one of my reconcilliations, and have not a single outside of "Zen", confirms to me you're an employee of Amazon. Stop trolling me already.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 06 05:59:26 -0700 2013</created_at>
+  <updated_at>Sun Oct 06 05:59:26 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>84350300</id>
+  <body><![CDATA[The fact that you still take time to attack me and address a single one of my reconcilliations, and have not a single outside of "Zen", confirms to me you're an employee of Amazon. Stop trolling me already.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 06 05:59:45 -0700 2013</created_at>
+  <updated_at>Sun Oct 06 05:59:45 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>94502020</id>
+  <body><![CDATA[Thanks for the laughs! I completely agree with your review!!]]></body>
+  
+  <user>
+    <id>3160622</id>
+    <name>Natasha</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3160622-natasha]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1400820172p3/3160622.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1400820172p2/3160622.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Mar 12 18:26:00 -0700 2014</created_at>
+  <updated_at>Wed Mar 12 18:26:00 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>94545223</id>
+  <body><![CDATA[Thank you Natasha. That's so nice to hear.]]></body>
+  
+  <user>
+    <id>11481458</id>
+    <name>Guillermo</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11481458-guillermo]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1417725408p3/11481458.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1417725408p2/11481458.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Mar 13 12:27:25 -0700 2014</created_at>
+  <updated_at>Thu Mar 13 12:27:25 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>95933340</id>
+  <body><![CDATA[I don't like this review very much. Although you are of course free to post your opinion (freedom of speech), I think it's rather shallow and not supported quite well. I can clearly read you didn't finish it.<br>Yes, it is difficult to finish and yes there are things I don't understand in there too, but I hardly think you should define your opinion in terms of 'the vaginas smell like olf tuna', 'douchebag' and 'fucking get a life'.]]></body>
+  
+  <user>
+    <id>6571378</id>
+    <name>Luke</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6571378-luke]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1317937694p3/6571378.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1317937694p2/6571378.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Apr 03 09:42:53 -0700 2014</created_at>
+  <updated_at>Thu Apr 03 09:42:53 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96059281</id>
+  <body><![CDATA[You made it further than me! I'm only on page 50 and after he woke everyone up at 5:30am, forced them to ride in the freezing cold and then pretty much chalked it up to them being pussies when they were pissed, I'm done. Also, who cares about all the motorcycle details?? So ridiculously boring!]]></body>
+  
+  <user>
+    <id>16009030</id>
+    <name>Chelsea</name>
+
+    <location>Berlin, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16009030-chelsea]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451383840p3/16009030.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451383840p2/16009030.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Apr 05 09:57:40 -0700 2014</created_at>
+  <updated_at>Sat Apr 05 09:57:40 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>137437685</id>
+  <body><![CDATA[I couldn't stand the book either. It was a best seller, supposed to be wonderful philosophy, but it was down right boring, and who wants to read about a father who is verbally abusive to his son?]]></body>
+  
+  <user>
+    <id>4659464</id>
+    <name>Jessica</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4659464-jessica]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450129596p3/4659464.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450129596p2/4659464.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 25 03:58:30 -0700 2015</created_at>
+  <updated_at>Sat Jul 25 03:58:30 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>139576498</id>
+  <body><![CDATA[Guillermo and the Art of Book Reviewing! - Love it, buddy!! -- What is the best book you have read this summer?]]></body>
+  
+  <user>
+    <id>23385697</id>
+    <name>Glenn</name>
+
+    <location>Philadelphia, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/23385697-glenn-russell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1429392687p3/23385697.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1429392687p2/23385697.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Sep 01 16:58:08 -0700 2015</created_at>
+  <updated_at>Tue Sep 01 16:58:08 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>144202986</id>
+  <body><![CDATA[This book sucked. It's a "philosophy" book for people who haven't ever actually thought about anything.]]></body>
+  
+  <user>
+    <id>1639329</id>
+    <name>Erik</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1639329-erik]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1440429204p3/1639329.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1440429204p2/1639329.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Dec 11 09:49:42 -0800 2015</created_at>
+  <updated_at>Fri Dec 11 09:49:42 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/662894085]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/662894085]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

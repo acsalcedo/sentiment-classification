@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>138768499</id>
+    
+  <user>
+    <id>4760010</id>
+    <name>Bonnie</name>
+
+    <location>Livermore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4760010-bonnie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1319997984p3/4760010.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1319997984p2/4760010.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">6327770</id>
+  <isbn>0553807153</isbn>
+  <isbn13>9780553807158</isbn13>
+  <text_reviews_count type="integer">1118</text_reviews_count>
+  <title>Breathless</title>
+  <image_url>https://d.gr-assets.com/books/1320535822m/6327770.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1320535822s/6327770.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6327770-breathless</link>
+  <num_pages>337</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.43</average_rating>
+  <ratings_count>11090</ratings_count>
+  <description>#1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author Dean Koontz delivers a thrilling novel of suspense and adventure, as the lives of strangers converge around a mystery unfolding high in the Colorado mountains—and the balance of the world begins to tilt….&lt;br&gt;  &lt;br&gt;In the stillness of a golden September afternoon, deep in the wilderness of the Rockies, a solitary craftsman, Grady Adams, and his magnificent Irish wolfhound Merlin step from shadow into light…and into an encounter with enchantment. That night, through the trees, under the moon, a pair of singular animals will watch Grady's isolated home, waiting to make their approach. &lt;br&gt; &lt;br&gt;A few miles away, Camillia Rivers, a local veterinarian, begins to unravel the threads of a puzzle that will bring all the forces of a government in peril to her door.&lt;br&gt; &lt;br&gt;At a nearby farm, long-estranged identical twins come together to begin a descent into darkness…In Las Vegas, a specialist in chaos theory probes the boundaries of the unknowable…On a Seattle golf course, two men make matter-of-fact arrangements for murder…Along a highway by the sea, a vagrant scarred by the past begins a trek toward his destiny…&lt;br&gt; &lt;br&gt;In a novel that is at once wholly of our time and timeless, fearless and funny, Dean Koontz takes readers into the moment between one turn of the world and the next, across the border between knowing and mystery. It is a journey that will leave all who take it &lt;strong&gt;Breathless&lt;/strong&gt;&lt;em&gt;.   &lt;/em&gt;</description>
+<authors>
+<author>
+<id>9355</id>
+<name>Dean Koontz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1341717803p5/9355.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1341717803p2/9355.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9355.Dean_Koontz]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>1781173</ratings_count>
+<text_reviews_count>65643</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="semi-bad" exclusive="false" review_shelf_id="148447684" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jan 05 19:37:58 -0800 2011</date_added>
+  <date_updated>Wed Jan 05 19:48:54 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I'm not sure what possessed me to buy this book much less read it. I would not recommend this book or this author to anyone. Weak story, no character development, and dumb ending... nuf said!]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/138768499]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/138768499]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

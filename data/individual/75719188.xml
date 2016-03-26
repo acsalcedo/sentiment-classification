@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>75719188</id>
+    
+  <user>
+    <id>2874565</id>
+    <name>Sufferingbruin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2874565-sufferingbruin]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">32418</id>
+  <isbn>0099297701</isbn>
+  <isbn13>9780099297703</isbn13>
+  <text_reviews_count type="integer">1473</text_reviews_count>
+  <title>Hannibal (Hannibal Lecter, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1327356556m/32418.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1327356556s/32418.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32418.Hannibal</link>
+  <num_pages>562</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dell</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>54103</ratings_count>
+  <description>Years after his escape, posing as scholarly Dr. Fell, curator of a grand family's palazzo, Hannibal lives the good life in Florence, playing lovely tunes by serial killer/composer Henry VIII and killing hardly anyone himself. Clarice is unluckier: in the novel's action-film-like opening scene, she survives an FBI shootout gone wrong, and her nemesis, Paul Krendler, makes her the fall guy. Clarice is suspended, so, unfortunately, the first cop who stumbles on Hannibal is an Italian named Pazzi, who takes after his ancestors, greedy betrayers depicted in Dante's Inferno. Pazzi is on the take from a character as scary as Hannibal: Mason Verger. When Verger was a young man busted for raping children, his vast wealth saved him from jail. All he needed was psychotherapy--with Dr. Lecter. Thanks to the treatment, Verger is now on a respirator, paralyzed except for one crablike hand, watching his enormous, brutal moray eel swim figure eights and devour fish. His obsession is to feed Lecter to some other brutal pets.</description>
+<authors>
+<author>
+<id>12455</id>
+<name>Thomas Harris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1194544741p5/12455.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1194544741p2/12455.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12455.Thomas_Harris]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>587692</ratings_count>
+<text_reviews_count>8979</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>23</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jun 01 00:00:00 -0700 2002</read_at>
+  <date_added>Sun Oct 25 18:20:48 -0700 2009</date_added>
+  <date_updated>Thu Jan 09 19:50:42 -0800 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Lord, what an awful book. Awash in mediocrity from first page to last. It has mediocre characters (the same which were so captivating in "Silence of the Lambs"), mediocre dialogue, mediocre scenery, virtually no suspense (but a plethora of pointlessly putrid acts), and a meandering narrative that...]]>
+  </body>
+  <comments_count>4</comments_count>
+    <comments start="1" end="4" total="4">
+        <comment>
+  <id>53070835</id>
+  <body><![CDATA[Well said!]]></body>
+  
+  <user>
+    <id>9322920</id>
+    <name>Bill</name>
+
+    <location>Dallas, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9322920-bill]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452587922p3/9322920.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452587922p2/9322920.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jun 27 14:48:14 -0700 2012</created_at>
+  <updated_at>Wed Jun 27 14:48:14 -0700 2012</updated_at>
+</comment>
+
+        <comment>
+  <id>78479208</id>
+  <body><![CDATA[Very well said ... I thought about them the first time around. What sparked me to retread them is the Hannibal tv series which is so much better written then the books. Hannibal himself for all his intelligence is pretty bland for a serial killer and I didn't like starling until the movie...]]></body>
+  
+  <user>
+    <id>17587073</id>
+    <name>Alexis</name>
+
+    <location>Orlando, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17587073-alexis-mcmillen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1361208503p3/17587073.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1361208503p2/17587073.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jul 15 11:54:15 -0700 2013</created_at>
+  <updated_at>Mon Jul 15 11:54:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>83639660</id>
+  <body><![CDATA[you are a sped]]></body>
+  
+  <user>
+    <id>22869311</id>
+    <name>Fargnell</name>
+
+    <location>Perth, 08, Australia</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22869311-fargnell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1375866584p3/22869311.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1375866584p2/22869311.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Sep 24 23:15:07 -0700 2013</created_at>
+  <updated_at>Tue Sep 24 23:15:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>106979485</id>
+  <body><![CDATA[I'm glad I bought this for a dollar. It's so incoherent.]]></body>
+  
+  <user>
+    <id>16462500</id>
+    <name>Kyle</name>
+
+    <location>Kitchener, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/16462500-kyle-pfeffer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1358257589p3/16462500.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1358257589p2/16462500.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Sep 30 08:05:05 -0700 2014</created_at>
+  <updated_at>Tue Sep 30 08:05:05 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/75719188]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/75719188]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,1586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>582752934</id>
+    
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">15766910</id>
+  <isbn>1471115143</isbn>
+  <isbn13>9781471115141</isbn13>
+  <text_reviews_count type="integer">54</text_reviews_count>
+  <title>Walking Disaster (Beautiful, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1362536918m/15766910.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1362536918s/15766910.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15766910-walking-disaster</link>
+  <num_pages>448</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster UK</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>130876</ratings_count>
+  <description>&lt;strong&gt;&lt;em&gt;Finally, the highly anticipated follow-up to the&lt;/em&gt; New York Times &lt;em&gt;bestseller&lt;/em&gt; Beautiful Disaster.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Can you love someone too much?&lt;/em&gt;&lt;br&gt;&lt;br&gt;Travis Maddox learned two things from his mother before she died: Love hard. Fight harder.&lt;br&gt;&lt;br&gt;In &lt;em&gt;Walking Disaster&lt;/em&gt;; the life of Travis is full of fast women, underground gambling, and violence. But just when he thinks he is invincible, Abby Abernathy brings him to his knees.&lt;br&gt;&lt;br&gt;Every story has two sides. In &lt;em&gt;Beautiful Disaster&lt;/em&gt;, Abby had her say. Now it’s time to see the story through Travis’s eyes.</description>
+<authors>
+<author>
+<id>4464118</id>
+<name>Jamie McGuire</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442384565p5/4464118.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1442384565p2/4464118.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4464118.Jamie_McGuire]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>769390</ratings_count>
+<text_reviews_count>56634</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">28000615</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 14:04:53 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:24:32 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">100</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0c2107b0ad4f822b45870d4e23dc56c0</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[And I'm done. I finally conquered my Everest.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">28000296</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 13:54:58 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:23:59 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">99</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d7b47e45e7ca0e16508d1cf6c846b1c6</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>Every anniversary was a victory, a middle finger to everyone who thought we wouldn’t last.</em><br><br> And a middle finger to all the negative reviewers of this book. Just fuckin perfect!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">28000200</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 13:52:13 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:23:48 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">98</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.82d288667592e0803d2d90f13f832b02</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[There's not a big enough desk for me to hit my head on. They have twins, who are exact replicas of them. Between the kids playing poker, the girl beating up another girl in KINDERGARTEN and Travis telling his daughter that she has to let her brother fight for himself, I don't even know what's worse.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27999637</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 13:34:43 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:22:41 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">98</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f377831551ec883e4b6ab35a07e8a284</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[WTF?!? SERIOUSLY. This Epilogue...I can't even...I just can't.<br><br> Is it wise to let Travis handle firearms? I really hope he ends up shooting himself in the foot!! &gt;:). But seriously, Travis working for the FBI. THE FBI. It's just so fucking ridiculous. He wouldn't even get in simply on the background checks! The closest he would get to the FBI is in their interrogation cells!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27998790</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 13:08:50 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:21:02 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">96</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7db726667631668f20f62693826ecb21</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[A new car, a diamond ring, a new couch...you can really afford a lot on a student budget these days. <br><br> And yes, that is probably the jealousy speaking. God knows, I need a new car :(]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27998369</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Fri May 24 12:56:37 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:19:56 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">96</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f6bbb78fdb1d6c188d4473a224c91971</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>“You’re Mrs. Travis Maddox, now. Fuck ’em,” I said without hesitation. Abby smiled at me, and then looked down at her ring. “That I am. Guess I better represent the family appropriately.”</em><br><br> *headdesk*]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27995794</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 11:35:05 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:15:12 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">88</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.33b14e9ffa42bf01d289dc5cd5b8ab2a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>"I damn near drank myself to death . . . and you’re sorry?”<br> "I'm so...so sorry."<br> “Don’t ever do it again!” <br> “I won’t. I promise.”</em><br><br> This relationship is so unhealthy. I still don't understand what people find appealing?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27995331</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 11:19:57 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:14:25 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">87</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6fa968c354e99da1f3144b30f0eff552</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>"..I followed you around the party like some fucking stalker, and then I dragged you out of there, against your will . . . and then we . . .” I shook my head, disgusted with myself. <br> “Had the best sex of my life?” Abby said."</em><br><br> How is she not angry?? He manhandles her, throws her, drags her to his place and her thought is that was the best sex? Abby, you've only been with Travis so your point is invalid.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27993046</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 10:10:42 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:09:44 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">84</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5d4205d9900743996e6724a85b88c0bb</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Wait, did they edit the scene where Travis and Shep follow the girls to the bar and pummel all the guys that dance with them and threaten them to stay away from the girls? Figures.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27992521</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 09:54:41 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:08:37 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">84</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c596884526ed66e6d4af0ca03ac795ea</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Travis gets slapped by America and punched by Shep. As much as that please me *evil grin*, this ones all on you, Shep. If you didn't defend Travis ALL THE TIME, America wouldn't have broken up with you.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27992366</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 09:50:44 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:08:21 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">84</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.447d7648efbe3a8a7de955853e65b096</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>America’s eyes narrowed, and she pulled her arm from his grip. “Well then, why don’t you go find a random WHORE”—she looked at Megan—“from the Red and bring her home to fuck, and then let me know if it helps you get over me.”</em><br><br> God, all this slut shaming is making my head spin!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27989587</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Fri May 24 08:22:38 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:03:08 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">78</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c9baa03414ea09a6aabaeb0a2b2f4438</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>Abby bent over to push the turkey into the oven, and my morning tendency to protrude through my shorts had even more of a reason to do so.</em><br><br> There goes my appetite.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27989499</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 24 08:20:02 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:02:58 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">77</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.cbe50d5359983f0dee589da560f6217b</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Trent, Tyler, Taylor, Thomas...they're all blurring into one. Talk about poor characterisation. I can't tell the difference between any of them.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27744283</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 18 15:44:04 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:40:50 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">76</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.fc14419cc173e4aee8abd973ce3d10d7</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[She said no. She wants nothing to do with you, Travis. And now you're going to guilt trip her into spending thanksgiving with <em>your</em> family *sighs*<br><br> And then we get this:<br><br> They all made an effort to be there, since I promised them a real meal. We haven’t had a woman in the kitchen since Mom died and . . .”]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27742847</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 18 14:58:28 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:38:27 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">72</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.ea0fb13654a92023be9ef73ffee7a915</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["The fact that security had never showed to escort me out was amazing in itself..."<br><br> What's amazing is how you've never been arrested in your life!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27742283</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 18 14:39:18 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:37:26 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">71</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.db0e6fd459079ccc9fcf31999039ac8e</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“You are obviously a very vicious, <s>very talented</s> young man. You belong in that cage."<br><br> There. Fixed that for you.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27741057</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 18 13:58:18 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:35:08 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">70</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c6290d7f5370b959ea3a0931f70a6a17</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“Teach that asshole some manners.”<br><br> Once again, Abby's encouraging him to beat the shit out of people. You know what, these two deserve each other.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27740718</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 18 13:47:25 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:34:25 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">69</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7aa314e2c45add3b12ca9edbf616e87b</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["...it felt fucking amazing to unleash on Benny’s two goons David and Dane. It was like the best drug in existence."<br><br> Again, violence is not the answer!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27153089</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 04 14:48:42 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:03:59 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">69</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9a272eb83685b4717cb5431908bc9686</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[When a mobster tells you that you'll be good friends, that's your cue that something isn't right.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27152824</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 04 14:39:42 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:03:23 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">68</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bb3589fb079531844e95b307c48676a0</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[A 15 yr old negotiating with a mobster. Now, that's really believable.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27152260</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 04 14:20:39 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:02:07 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">67</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6b6a0f44486c93afb715dcdbbe346920</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Travis can lip-read. Why doesn't that surprise me?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27151257</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 04 13:49:44 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:00:07 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">65</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2f757fb7b191a5fa3235265be255c5c9</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[What college student carries around $2,500 in their pocket?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27151155</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat May 04 13:45:42 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 03:12:07 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">65</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1838edbea8f2c41da82dcf463973ec57</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Mick's here. <br><br> Tbh, I don't see the point of him. He's the worst portrayal of a villain. I don't know WTH he's done that's so terrible. There's absolutely no back story to explain what Abby's running from, let alone what he did to her. Sure, he blamed her for his luck turning bad but seriously is that all? There are parents who tell their kids they were a mistake and how they ruined their lives all the time.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27114864</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 03 15:00:11 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 04:45:49 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">63</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.570fe1c6ea62ad99e3512c07bd23993e</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“You look incredible . . . but you can’t wear that."<br><br> No, Travis she can wear whatever SHE wants!!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27114678</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 03 14:55:03 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 03:01:15 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.37b6efbb44eea0f048c1985be050681e</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Great, he's buying a ring already. Didn't they have a fight the night before? I can't keep up.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27114504</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 03 14:50:16 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 04:45:10 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">62</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d5403ae10f6d399febb3cb3da348e238</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>“Just when I think you can’t get any more insane, you do something else to remind me that you are far beyond bat shit crazy.”</em><br><br> My sentiments exactly.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27114258</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri May 03 14:41:30 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 04:44:39 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a24dfcd3b82ee9e6224852ab6967aeae</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>Shepley put his hand on Travis’s shoulder. “We’ve all had a lot to drink. Let’s just get out of here.”</em><br><br> Did Travis just refer to himself in the third person? C'mon that's just shoddy editing.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27075422</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 15:38:11 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:09:05 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d5334ff60529aaa9d6e4b774cf278133</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Where the hell are the bouncers? How has he <em>not</em> been arrested yet??]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27075306</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 15:34:16 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:08:42 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.ff03ca488cc55cd98a8ec829ccc7a8c0</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>She didn’t seem to mind so much when I was bashing Chris Jenks’s head in, but when I got pissed about her taking drinks from strangers, she had the audacity to get mad.</em><br><br> They're both so bad for each other, it's unhealthy.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27075073</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 15:28:02 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:08:07 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">57</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bc802a14e7c78778859bec1e11dac9bd</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I'm seeing a pattern here:<br><br> They go out. Travis gets angry over something small. Night's ruined. They all leave and go home early. Travis apologies. They forget about it. They go out again. *repeat cycle*]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27074655</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 15:15:37 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:26:57 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">56</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d150d76030e45143c4f7e2116bcb0f65</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>..on Halloween, I noticed that the sharp, late fall air didn’t hinder the number of women wearing an array of slutty costumes. I hugged my girlfriend to my side, grateful that she wasn’t one to dress up as Prostitute Barbie, or a football-player-slash-transvestite-whore</em><br><br> OH FUCK NO!!! Someone hold my shit, while I beat his ass!!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27074371</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 15:06:45 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:26:37 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">56</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.98c399cc5238a204f6e1f391050f365a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[By lunch, we already have 2 violent outbursts and a threat. Bravo, Travis. You didn't even last a day.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27074213</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 15:02:03 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:26:29 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">56</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.26d62a9e03f4c65c473bf115ba88eb02</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>A silent promise was formed in my head. I was going to be a better man for her, someone she deserved. No more flying off the handle. No more temper tantrums, or violent outbursts.</em><br><br> Anyone want to hazard a guess as to how long the promise is going to last? My guess 20 seconds before he loses it over something small.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27073883</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 14:52:28 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:05:06 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">55</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.04986419da9565967abd2a8035352fa3</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>The fighting, the gambling, the drinking . . . it’s what I left behind. When I’m around you it’s all right there for me in an irresistible, tattooed package.</em><br><br> What her dad and Travis have in common, I'm not even...It's too late and I can already feel a migraine coming on.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27068942</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 12:43:31 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 02:52:48 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.ff6ad1e5599324da48eb26fb5a6ce049</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[And we're back to talking about 'bagging'. Seriously, what's so fascinating about grocery shopping ?:|]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">27068583</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Thu May 02 12:33:43 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:21:08 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">52</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c96d6838e84e9925406547371476a145</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Nothing interesting happening. Just Travis being, well...<br><br><img src="https://d.gr-assets.com/hostedimages/1384008273ra/6740374.gif" width="360" height="150" alt="description" class="gr-hostedUserImg"><br><br> At least, the Hulk tried to fight it and control his anger. Travis on the other hand goes on A RAMPAGE!!! It's not even to save the planet. Just saying.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26987810</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 15:00:31 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:07:52 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">48</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.64644d3e3103faccb950f6934397a466</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>I don’t want you thinking I’m some psycho that goes around attacking people over the tiniest thing,” I said</em><br><br> Too late.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26987741</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 14:58:18 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:07:45 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">47</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.03a02a705f4017d7322e05398c597e96</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>As if we had to keep up pretenses to help Abby move through reality in her little bubble of ignorance where no one felt anything too strongly, and everything was cut-and-dried.</em><br><br> Huh? I had to read that several times and I still don't get it.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26985788</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Tue Apr 30 14:07:39 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:03:36 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">47</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2e2ba819f4683bfba195d193637799cc</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>“I watch you sleeping a lot,” I said.</em><br><br> Oh, brother.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26984623</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 13:37:26 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:01:25 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">44</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0d193baba352999ea14f9fc60b15b00a</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>“You’re the only woman I know that still looks incredible with your head in the toilet.</em><br><br> Charming.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26983944</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 13:19:31 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:00:14 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5a1bcf6cacbb55b0b369dd483f28d536</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[You're kidding me. What guy doesn't know what a scrunchie is? Black hair holder thingy...that's what you're going to call it?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26983722</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 13:13:58 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:59:54 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">43</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f310cb350a461c85fb0791b5969e945f</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>America laughed. “You haven’t seen me mean, mama’s boy!” “I told you we’re close!” “Yeah, so are me and my asshole! Doesn’t mean I’m going to call it twice a day!” “You’re a bitch!”</em><br><br> C'mon, you need better insults! I've seen 10 year olds have better comebacks.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26977016</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 10:01:55 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:46:43 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.bc5cd98a1ba1d86fc712fc58b4720381</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Ok I'm just going to leave this here. Make of it what you will.<br><br> “America would shit a wildcat..."<br><br> All I'm going to say is that must be painful.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26976606</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 09:53:18 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:45:47 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">39</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c866d814f6d25add7af319be47af27f6</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>It only took a bottle of whiskey and the mention of the word virgin for me to return to my dick ways.</em><br><br> Travis, you're too kind to yourself. You're a dick ALL the time.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26975375</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 09:15:32 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:43:03 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">38</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.87cf92ea7a69a9a141ca2a753db481b5</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>She was almost nineteen, and still a virgin? That was almost unheard of these days.</em><br><br> OMFG Travis you're a dick! It's none of your fucking business who she dates and does it with, just like it's none of your business if people decide to remain abstinent or not.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26974709</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 08:56:59 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:41:42 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9363e08bbecc8db5d7309bcc4354a548</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>“C’mon, Trav. Let’s get you liquored up.”...“But! You have to promise me something. No fighting tonight. Drowning your sorrows, yes,” she said, grabbing my chin and forcing me to nod my head. “Mean drunk, no.”</em><br><br> Do you think that's wise? What friend encourages their friend and DRIVES them to the liquor store to get wasted? And do you really think Trav can keep that promise?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26974282</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 08:43:49 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:41:01 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1ff537a648ca1b4f3d1cade063fbe1c5</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>The toilet flushed, and the faucet turned on, and then suddenly Abby cried out. Without thinking, I grabbed the doorknob and shoved it open...America laughed. “I just flushed the toilet, Trav, calm down.”</em><br><br> What is this shit? (No pun intended)]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26974055</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>7</comments_count>
+          <created_at type="datetime">Tue Apr 30 08:36:42 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:40:29 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">36</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d8bcf270340890bd8dc19b10bb157b82</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>“I’m not thrilled about you listening to my girl urinate,” Shepley said in a loud whisper.</em><br><br> I have no words.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26973938</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 30 08:32:59 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:40:10 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">35</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.7a87f03948c0c6fd29abfa60c8393fcc</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>The whining sound of the bathroom pipes signaled Abby’s intent to take a shower.</em><br><br> You don't say. Here, I was thinking she was going to re-do the plumbing.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26945209</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 29 15:46:19 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:41:59 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">34</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.b2924efe90de790d947e5d9b7240b2ea</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I'm bored. Fixing cars/shopping for car parts = me falling asleep. I'm off to bed. Til tomorrow :S]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26945067</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 29 15:42:10 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:41:37 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">34</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.c5d052ee9c75f41ca70a15da9baa6dee</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Travis' dad has no personality. He's only mentioned for the sake of a story or to defend Travis' actions. Half the time, I'm imagining Santa Claus and the other times a psychiatrist:<br><br> Dad touched Shepley’s shoulder. “You’re afraid, since this is Travis’s first attempt at a relationship, he’s going to screw it up, and that screws things up for you.”]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26943663</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 29 15:05:59 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:39:07 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">31</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.4ecc78ad952e77bbfb37f7f9e1770bad</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Travis can almost sound human when he wants to but two seconds later, he's back to being the same asshole as before.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26943300</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Apr 29 14:55:00 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:38:25 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.947abfd9ca9d9f710f870fb0e7c12810</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Ok, the pink thing is actually a shaving cream. As part of his apology, he buys her shaving cream!!! I know he's rusty at apologising but that's got to be the shitiest apology ever. "I'm sorry. Here's shaving cream. You need to shave your legs."]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26943095</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 29 14:51:37 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:38:04 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.03a41c58b927759af481c93eb26a54d4</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>"An apology wasn’t going to make her stay, but maybe a gesture would."</em><br><br> Yes, and nothing says sorry like a pink spongy thing and...buying her spaghetti and cereal. Don't even ask.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26942685</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 29 14:42:09 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:37:15 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.71110d445c189d9b72aa51f7307fea4c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Praise the book lords I don't have to read about the threesome in excruciating detail. Once was enough.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26942320</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 29 14:32:59 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:36:38 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">29</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.6f746f09056115e396136ed2ef459681</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>"Maybe for her, you could be a better man.” "You’re right. I’ve been a scumbag. Could I change? I don’t fucking know.”</em><br><br> Let's get one thing straight, a leopard can't change its spots and Travis, judging by the threesome you have 5 minutes after saying this - no, you effing can't change!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26939556</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Mon Apr 29 13:22:14 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:32:22 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">28</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2c34c0882df4b7dc089918ebba21aa7c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>“Abby. She’s a pigeon. A demonic pigeon that fucks with my head so bad I can’t think straight.</em><br><br> Now, now. That's your future wife you're talking about.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26939000</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Apr 29 13:08:34 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:31:20 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">27</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.0956979d970496cf5c0151b1044cadc6</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>...no fucking way was I going to let Parker have an entire night with her. She’d come back . . . ugh, I didn’t even wanna think about it.</em><br><br> Is he implying that Abby would sleep with Parker and as a result would be damaged goods? Omfg, he is, isn't he? FFS, you're not even dating her. She can date anyone she wants!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26937593</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Mon Apr 29 12:32:26 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:28:37 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">25</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.23dbf1d3e12417ce0d3d0b35cd6e3ab6</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[<em>I’ll be more worried about who’s looking at your tits in that shirt instead of Hoffman,” I said. Call it sexist, but it was true...“You can’t wear this to the fight, so please . . . just . . . please just change,” I said, shoving her into the room</em><br><br> Let the manhandling begin!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26936583</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 29 12:02:58 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:26:36 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">24</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.55fd19748937baa18e7a218e40085d6c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Is it just me or does this whole happy family act feel so fake? Travis is having "pigeon" problems and runs to his dad to cry on his shoulder. And his dad does the whole "There, there son. You know I love you" routine. Here's me rolling my eyes. Please don't tell me they're the Brady Bunch!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26934908</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Mon Apr 29 11:17:33 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:23:16 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">22</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a0b4de54a18d7fdb120ff51852ac3824</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I <em>will</em> finish this book today even if I have to sellotape my eyelids open and glue my ass to the chair. I will not let <em>it</em> taint my perfect zero DNF record.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26648121</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 22 14:24:54 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:44:41 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">22</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.24b238c653e640cee285499e17570dda</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["I was an infantile asshole that had the emotional control of a three-year-old."<br><br> Hear, hear.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26646436</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 22 13:43:55 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:39:52 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">20</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1e5e82db00cf2f35ff97fd35f6fc0b41</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Abby is such an idiot! I don't care what Travis says but he was <em>that</em> close to punching her after she compared him to Ethan, the rapist. And what's she thinking of instead:<br><br> “You think I’m beautiful?”<br> *headdesk*]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26646223</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 22 13:38:27 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:17:47 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f2ea04d247c0ad98836005bc51963d39</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“It looks like Vegas threw up on a flock of vultures,” America sneered.<br><br> Have I mentioned how much I hate America - the character not the country :)]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26606333</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Sun Apr 21 15:45:55 -0700 2013</created_at>
+          <updated_at type="datetime">Fri Sep 06 23:59:45 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">18</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.25a1198ad0f3266cdaa21fd86b1b5b31</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["Say what you want. Being a psychotic asshole had its perks."<br><br> The what now has the what? Yes, a two-by-four cell, free cable, meals on wheels - what's not to love?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26605862</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Apr 21 15:32:37 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:32:41 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">17</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.20c93f14c39ceee73fc85e20fd360919</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[“Jealous of what? The STD-infested imbecile you’re going to piss off in the morning?”<br><br> You know what? These two deserve eachother. So much girl hate going on in this book that it'll make you roll your eyes.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26605148</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Apr 21 15:13:15 -0700 2013</created_at>
+          <updated_at type="datetime">Fri Sep 06 23:57:04 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5e402101383880b34eda245801a45a7b</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["Travis, do you want her or not? Doing what you can to keep her from dating someone else when you’re not even with her is kind of an asshole thing to do."<br><br> It's good to know that Shepley can get his head out of Travis' ass long enough to see sense.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26527223</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 14:39:24 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:10:45 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">15</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.ae3b84db58fcab09dc90ec8fafdb941b</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["How does a pigeon know where to get condoms?"<br><br> I don't know whether to laugh or cry. At first glance, it looks like those crappy jokes you find at the back of a cereal box but it's not.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26525976</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 14:01:47 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:21:44 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.fb0c4a88d3c3e93cfa6691fded4f93db</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Apparently the type of underwear you wear defines you. Riiight.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26525851</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 13:57:46 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:07:19 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.1d550cb19336d01bd0a02b04135da314</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[He did not just go through her things. NO FREAKING WAY!! Hold up, he thinks she's a virgin because she doesn't have any thongs?? So women who wear thongs are automatically sluts? W-what?...Screw that. Why does it matter what kind of underwear she wears?!?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26525544</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 13:49:48 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:06:33 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">14</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5ee5702b454acb12175a83666ee7d448</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["I bag ’em on the couch. I don’t let them in my room.”<br><br> Women - good enough for the couch but not for bed sheets. Gotcha!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26524937</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 13:31:16 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:04:57 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">13</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.3cd8f28159c9e43b6bc7617b0f32ca77</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["Where is Abby going to sleep?” I asked, looking at the couch. I wasn’t going to let her sprawl out on fourteen months of body fluids."<br><br> That's gross.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26524217</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Fri Apr 19 13:10:48 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:20:10 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">7</ratings_count>
+          <percent type="integer">13</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.2e75a0eda1fac2eaa48e51824c4a27d4</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["...take your trash out,” he said, pointing to the bathroom."<br><br> And by trash, they're talking about the girl Travis recently "bagged".<br><br> Fuck you, Shepley!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26522917</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 12:30:34 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 05:00:20 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">3</ratings_count>
+          <percent type="integer">12</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.09e1e52e7f936e3a437d2fdb4c3f9c82</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["The girls pawed at me..."<br><br> Please STOP with all the animal references. Vultures, dogs, pigeons...they're all terrible!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26522714</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 12:24:38 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 04:59:54 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5fbaf4eb6e8ccd9c15e96e51efd302fa</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Phew. Crisis averted after some flirting with the cafeteria lady.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26522637</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 12:22:17 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 04:59:42 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9bd4a4289575ee9c6ff0d7fe51b6e320</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["I immediately noticed one thing missing from her tray: the can of OJ she picked up every day."<br><br> Oh dear god, what's going to happen next. The suspense is killing me!]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26522497</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Fri Apr 19 12:17:31 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:18:26 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">11</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.673e178e2f00896982c3090e63d1512c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["..the way her lotion smelled on her skin. I also noticed more about her, like...the colors she wore most often."<br><br> Stalker much?<br><br> "I even got a pretty good handle on which week I shouldn’t give her any extra shit, which fortunately for Shepley, was the same week not to fuck with America."<br><br> Shit, he even keeps track of her periods o_O]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26185973</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Thu Apr 11 14:59:38 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 07:02:36 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.db1b512f04b1e320179b2a414d74a877</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["Abby was no princess. She was hiding something. Maybe that was our connection: whatever it was that she had left behind."<br><br> I just remembered what happened in BD and I still don't get how Abby's past with her dad connects her with Travis. I feel a migraine coming on.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26184179</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Thu Apr 11 14:16:08 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 06:59:14 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">7</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.58828f5614e96a28eeb12935a4e3fe6c</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["Vultures. Half of them I’d bagged my freshman year, the other half had been on my couch well before. Except the girl on the end. Sophia...It looked like her face had caught fire and someone had tried to put it out with a fork. She had been with a few of my frat brothers..I felt the urge to shudder with disgust."<br><br> Loathe the way he thinks of women, like goods you either bag or damaged goods you avoid.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26093755</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Tue Apr 09 15:02:07 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 02:40:10 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">9</ratings_count>
+          <percent type="integer">7</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.74473af7c881cb402a7e657359cc4f07</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["No way was she a slut, though. Not even a reformed slut. I could spot them a mile away."<br><br> Just like I can spot a slut-shamer from a mile away and boy, Travis...my meter's reaching nuclear level.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26093113</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Tue Apr 09 14:46:45 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:46:54 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">5</ratings_count>
+          <percent type="integer">6</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.293cefaa91bb1a6b9444f47b0e348085</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Shepley just sounds like a wind-up doll. "Stay away from her", "don't date her", "don't screw it up for me". There is absolutely no character development for him. Seriously, what is his role exactly if not to kiss Travis' ass at every opportunity he can get?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26092489</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Tue Apr 09 14:30:08 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 03:45:09 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">6</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.ee75b3e5a5cb112dcbb23c2135919770</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["After spending sixty seconds in Abby Abernathy’s presence, I discerned two things: she didn’t talk much, and when she did she was kind of a bitch."<br><br> And that was only after 60 seconds. Hate to imagine what he thinks of her after spending more time with her if that's his first impression.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26048566</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>4</comments_count>
+          <created_at type="datetime">Mon Apr 08 16:08:07 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:56:34 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">11</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.098ab4dbbc0563d2dc3327d32ac57a15</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[And the cover saying that <em>this</em> is what all men really think does a disservice to all the good men out there who do treat women with respect regardless of anything.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26048300</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Mon Apr 08 16:00:24 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:49:46 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">12</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.92da8bb19c78b2a7e7d6cbbd1459a891</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[I am so glad I found this book to steer me in the right direction *rolls eyes*. The message couldn't be any loud and clear: <br><br> Men: sleep with as many women as you want and you'll be a stud.<br> Women: sleep with many men and you're a slut and deserve no respect!<br><br> It's trash like this that sets feminism back decades.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26047501</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>1</comments_count>
+          <created_at type="datetime">Mon Apr 08 15:39:10 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:55:15 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9562fbbe41d6068a43e960791ef14628</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["I had one rule: respect. For me, my family, and for my friends. Hell, even some of my enemies deserved respect."<br><br> But not the women he sleeps with. That right there says a lot about his character.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26046961</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 08 15:25:10 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:46:14 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.9c1dd226525166bed5ee21da4fbe463d</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[And it just keeps on coming:<br><br> "two inarticulate tarts"]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26046915</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>3</comments_count>
+          <created_at type="datetime">Mon Apr 08 15:23:56 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:46:03 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">4</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.d88f28f44287a52a7dd862121c369896</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["Her voice made dogs howl, and children perk up to see what cartoon character had come to life."<br><br> Jeez, he doesn't hold back, does he?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26046573</id>
+          <page type="integer"></page>
+          <chapter type="integer">1</chapter>
+          <comments_count>2</comments_count>
+          <created_at type="datetime">Mon Apr 08 15:15:05 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:54:22 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">4</ratings_count>
+          <percent type="integer">3</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.fd157d9aab374e809ba5847805953589</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Oh wow. Chapter 1, page 1 and Travis sounds like a fucking prince. Just look at all the colourful ways he describes women:<br><br> "fucking vultures"<br> "gold-digging banshee"<br> "a dumb bitch"]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26046201</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 08 15:06:15 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:53:57 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">2</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.468cce9853f5b4f6b3fa3454f0f98955</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA["One of these days you’re going to fall in love, son. Don’t settle for just anyone. Choose the girl that doesn’t come easy, the one you have to fight for, and then never stop fighting. Never”<br><br> Strange how his mother singles him out to tell him that on her death bed. He's only a baby. It would make better sense to tell Thomas that, who was reaching that age when you start dating.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26045537</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 08 14:49:52 -0700 2013</created_at>
+          <updated_at type="datetime">Sun Sep 08 01:53:13 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">2</ratings_count>
+          <percent type="integer">2</percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.e457be7ae6b8a641ab019e2c15973827</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[It's been sometime since I read BD but I honestly don't remember - how does Travis' mum die?]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26045013</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 08 14:37:53 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:40:55 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.f95b18d6a2d42f0f3d048e60505aa787</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[*stares at cover* "Find out what men REALLY think"<br><br> Don't make me laugh.]]></body>
+        </user_status>
+        <user_status>
+          <id type="integer">26044845</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Mon Apr 08 14:34:25 -0700 2013</created_at>
+          <updated_at type="datetime">Sat Sep 07 01:40:24 -0700 2013</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer"></percent>
+          <work_id type="integer">21436019</work_id>
+          <note_uri>kca://note/amzn1.grok.note.a1bd603f332a6596bf9f3acae99daf6f</note_uri>
+          <note_updated_at type="datetime"></note_updated_at>
+          <body><![CDATA[Ok, I'm caving in. I <em>really</em> shouldn't if I value my sanity but that nagging voice...IT WON'T STOP. It's like a car wreck, I really should carry on walking and go about my own business but there's always <em>something</em> that compels me to turn around and push people out of the way to get a better look. Curiosity <em>is</em> a bitch!]]></body>
+        </user_status>
+    </user_statuses>
+  <rating>1</rating>
+  <votes>10</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="hate-is-not-a-strong-enough-word" exclusive="false" review_shelf_id="432976766" sortable="false" />
+    <shelf name="trade-for-a-subway-sandwich" exclusive="false" review_shelf_id="432976851" sortable="false" />
+    <shelf name="shred-and-make-paper-garlands" exclusive="false" review_shelf_id="432994901" sortable="false" />
+    <shelf name="new-adult" exclusive="false" review_shelf_id="527565431" sortable="false" />
+    <shelf name="didnt-like" exclusive="false" review_shelf_id="958133914" sortable="false" />
+</shelves>
+  <recommended_for><![CDATA[Travis Maddox. Only he can enjoy reading this trash.]]></recommended_for>
+  <recommended_by>Satan.</recommended_by>
+  <started_at>Mon Apr 08 00:00:00 -0700 2013</started_at>
+  <read_at>Fri May 24 15:18:58 -0700 2013</read_at>
+  <date_added>Sat Apr 06 05:49:16 -0700 2013</date_added>
+  <date_updated>Fri Apr 10 08:41:04 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[What a load of bollocks!<br /><br /><br />Full review to come. <br /><br /><br /><br /><strong>EXTRAS:</strong><br /><br />Since I suffered whilst reading this travesty of a book, it’s only fair I make you suffer through another rendition of Carly Rae Jepson’s song. I call it <strong>‘Call me Crazy’</strong>. I can’t take all the credit for the lyrics :)<br /><br />[spoilers removed]<br /><br />Seriously,...]]>
+  </body>
+  <comments_count>5</comments_count>
+    <comments start="1" end="5" total="5">
+        <comment>
+  <id>74943303</id>
+  <body><![CDATA[HAHAHAHA! Oh man, that rendition of Carly Rae Jepson's song is going to play in my head whenever I hear "Call Me Maybe" from now on! LMAO!! Classic.]]></body>
+  
+  <user>
+    <id>12767518</id>
+    <name>Kaylee</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12767518-kaylee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1347466102p3/12767518.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1347466102p2/12767518.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 26 22:19:06 -0700 2013</created_at>
+  <updated_at>Sun May 26 22:19:06 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75057605</id>
+  <body><![CDATA[<em>Kaylee wrote: "HAHAHAHA! Oh man, that rendition of Carly Rae Jepson's song is going to play in my head whenever I hear "Call Me Maybe" from now on! LMAO!! Classic."</em><br><br>Haha, thank you! =D. It's stuck in my head too. Luckily it's not as painful as reading this book!]]></body>
+  
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue May 28 13:43:59 -0700 2013</created_at>
+  <updated_at>Tue May 28 13:43:59 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75066111</id>
+  <body><![CDATA[Is it weird that I sang the your whole version of the song?<br>This may just be the best parody ever.]]></body>
+  
+  <user>
+    <id>8492956</id>
+    <name>Rashika (is tired)</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/8492956-rashika-is-tired]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1407859013p3/8492956.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1407859013p2/8492956.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue May 28 15:35:09 -0700 2013</created_at>
+  <updated_at>Tue May 28 15:35:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75346255</id>
+  <body><![CDATA[Those paper garlands are soooo pretty! :D]]></body>
+  
+  <user>
+    <id>6891967</id>
+    <name>Cory</name>
+
+    <location>Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6891967-cory]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454928725p3/6891967.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454928725p2/6891967.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jun 01 14:22:57 -0700 2013</created_at>
+  <updated_at>Sat Jun 01 14:22:57 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>75761431</id>
+  <body><![CDATA[@ Rashika: Haha, thank you :). Not to blow my own trumpet but it <em>is</em> better than the original lol. Now, all I need is a perfectly fitting video to go with it. I'm sure clips from crimewatch will fit perfectly together ;).<br><br>@ Cory: I know, right? I just <em>had</em> to make one. They're so pretty. I have to admit though that it was just too painful to imagine disfiguring a book like that, so I just used a magazine instead. It works just as well.]]></body>
+  
+  <user>
+    <id>6006264</id>
+    <name>Kruti</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6006264-kruti]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1360965769p3/6006264.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1360965769p2/6006264.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jun 07 12:45:28 -0700 2013</created_at>
+  <updated_at>Fri Jun 07 12:45:28 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/582752934]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/582752934]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

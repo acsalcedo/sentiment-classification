@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>8343436</id>
+    
+  <user>
+    <id>576203</id>
+    <name>Sera</name>
+
+    <location>Malvern, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576203-sera]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249090685p3/576203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249090685p2/576203.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5107</id>
+  <isbn>0316769177</isbn>
+  <isbn13>9780316769174</isbn13>
+  <text_reviews_count type="integer">32355</text_reviews_count>
+  <title>The Catcher in the Rye</title>
+  <image_url>https://d.gr-assets.com/books/1398034300m/5107.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1398034300s/5107.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye</link>
+  <num_pages>277</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1830534</ratings_count>
+  <description>"...the first thing you'll probably want to know is where I was born and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don't feel like going into it, if you want to know the truth. In the first place, that stuff bores me, and in the second place, my parents would have about two hemorrhages apiece if I told anything pretty personal about them."&lt;br&gt;&lt;br&gt;Since his debut in 1951 as The Catcher in the Rye, Holden Caulfield has been synonymous with "cynical adolescent." Holden narrates the story of a couple of days in his sixteen-year-old life, just after he's been expelled from prep school, in a slang that sounds edgy even today and keeps this novel on banned book lists. His constant wry observations about what he encounters, from teachers to phonies (the two of course are not mutually exclusive) capture the essence of the eternal teenage experience of alienation.</description>
+<authors>
+<author>
+<id>819789</id>
+<name>J.D. Salinger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1288777679p5/819789.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1288777679p2/819789.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>2139236</ratings_count>
+<text_reviews_count>47737</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="hated-it" exclusive="false" review_shelf_id="3230391" sortable="false" />
+    <shelf name="1001-books" exclusive="false" review_shelf_id="324763301" sortable="false" />
+    <shelf name="classics" exclusive="false" review_shelf_id="4083905" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Feb 01 00:00:00 -0800 1994</read_at>
+  <date_added>Sun Oct 28 07:11:32 -0700 2007</date_added>
+  <date_updated>Sun Oct 28 07:13:22 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I didn't like this book and hated the main character. I've never understood what all the fuss is about and how anyone would want to emulate him in real life. As you know, this book is at the root at some real life person's desires to kill celebrity figures. I still don't get why.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/8343436]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/8343436]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

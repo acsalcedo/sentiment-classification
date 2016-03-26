@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>2859715</id>
+    
+  <user>
+    <id>101580</id>
+    <name>Jill</name>
+
+    <location>Tonawanda, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/101580-jill]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1362403755p3/101580.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1362403755p2/101580.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">446534</id>
+  <isbn>0446673544</isbn>
+  <isbn13>9780446673549</isbn13>
+  <text_reviews_count type="integer">109</text_reviews_count>
+  <title>Sex and the City</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/446534.Sex_and_the_City</link>
+  <num_pages>243</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.33</average_rating>
+  <ratings_count>36894</ratings_count>
+  <description>Enter a world where the sometimes shocking and often hilarious mating habits of the privileged are exposed by a true insider. In essays drawn from her witty and sometimes brutally candid column in the New York Observer, Candace Bushnell introduces us to the young and beautiful who travel in packs from parties to bars to clubs. Meet "Carrie," the quintessential young writer looking for love in all the wrong places..."Mr. Big," the business tycoon who drifts from one relationship to another..."Samantha Jones," the fortyish, successful, "testosterone woman" who uses sex like a man...not to mention "Psycho Moms," "Bicycle Boys," "International Crazy Girls," and the rest of the New Yorkers who have inspired one of the most watched TV series of our time. You've seen them on HBO, now read the book that started it all...</description>
+<authors>
+<author>
+<id>4415</id>
+<name>Candace Bushnell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1435063350p5/4415.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1435063350p2/4415.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4415.Candace_Bushnell]]></link>
+<average_rating>3.31</average_rating>
+<ratings_count>175479</ratings_count>
+<text_reviews_count>8972</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>23</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="yuck" exclusive="false" review_shelf_id="895472" sortable="false" />
+</shelves>
+  <recommended_for>no one</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 1999</read_at>
+  <date_added>Mon Jul 09 08:25:06 -0700 2007</date_added>
+  <date_updated>Thu Dec 17 00:01:53 -0800 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This was ridiculous. It was incredibly self-indulgent and trite. It's incredible that someone read this collection of articles and said, "Hey! Let's turn this into a wildly funny, intelligent, and timely series that will win Emmys and Jill's Heart!" Avoid the book, rent the series.]]>
+  </body>
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>1523515</id>
+  <body><![CDATA[Candace Bushnell must be avoided at all costs. A few years back, I brought another one of her books on holiday--the only book I had--and it was so bad, I had to drive to a bookstore to get something else. Anything else. Thank God something transformed a shallow piece of junk into something I have a soft-spot for.]]></body>
+  
+  <user>
+    <id>63080</id>
+    <name>Abigail</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/63080-abigail-hillinger]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1435633487p3/63080.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1435633487p2/63080.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 16 17:15:44 -0700 2008</created_at>
+  <updated_at>Sat Aug 16 17:15:44 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1523624</id>
+  <body><![CDATA[I truly believe that if an author writes a book this bad you should be allowed to burn it on their front lawn.]]></body>
+  
+  <user>
+    <id>101580</id>
+    <name>Jill</name>
+
+    <location>Tonawanda, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/101580-jill]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1362403755p3/101580.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1362403755p2/101580.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Aug 16 17:26:15 -0700 2008</created_at>
+  <updated_at>Sat Aug 16 17:26:15 -0700 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/2859715]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2859715]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,5 +1,6 @@
 library(maxent)
 source("clean.r")
+
 # Reads data from file where all reviews are stored.
 data <- read.csv(file="../data/divided/all.csv")
 

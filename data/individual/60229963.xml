@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>60229963</id>
+    
+  <user>
+    <id>2434433</id>
+    <name>Marc</name>
+
+    <location>San Diego, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2434433-marc]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">240469</id>
+  <isbn>0060750391</isbn>
+  <isbn13>9780060750398</isbn13>
+  <text_reviews_count type="integer">38</text_reviews_count>
+  <title>Deliver Us from Evil: Defeating Terrorism, Despotism, and Liberalism</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/240469.Deliver_Us_from_Evil</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.43</average_rating>
+  <ratings_count>966</ratings_count>
+  <description>&lt;blockquote&gt;Nearly three years have passed since that tragic day in September. Since then, our wounds have healed, but our senses and memories have dulled.&lt;br&gt;&lt;br&gt;At first, the nation rallied behind its leader. But by the time the confrontation with Iraq presented itself, our courage and moral certainty seemed to fade in the face of partisan bickering and posturing.&lt;br&gt;&lt;br&gt;Now the political left and the Democratic Party are trying to use the demanding aftermath of the war to exploit our national cause for their own political advantage.&lt;br&gt;&lt;br&gt;How could we allow ourselves to forget so soon?&lt;br&gt;&lt;br&gt;--from &lt;em&gt;Deliver Us from Evil&lt;/em&gt;&lt;br&gt;
+&lt;/blockquote&gt;Sean Hannity's first blockbuster book, the &lt;em&gt;New York Times&lt;/em&gt; bestseller &lt;em&gt;Let Freedom Ring&lt;/em&gt;, cemented his place as the freshest and most compelling conservative voice in the country. As the host of the phenomenally successful &lt;em&gt;Hannity &amp;amp; Colmes&lt;/em&gt; on the Fox News Channel and &lt;em&gt;The Sean Hannity Show&lt;/em&gt; on ABC Radio, Hannity has won a wildly devoted fan base. Now he brings his plainspoken, take-no-prisoners style to the continuing War on Terror abroad -- and liberalism at home -- in &lt;em&gt;Deliver Us from Evil&lt;/em&gt;.&lt;br&gt;&lt;br&gt;"Evil exists," Hannity asserts. "It is real, and it means to harm us." And in these pages he revisits the harsh lessons America has learned in confronting evil in the past and the present, to illuminate the course we must take in the future. Tracing a direct line from Adolf Hitler and Joseph Stalin through Saddam Hussein and Osama bin Laden, he reminds us of the courage and moral clarity of our great leaders. And he reveals how the disgraceful history of appeasement has reached forward from the days of Neville Chamberlain and Jimmy Carter to corrupt the unrepentant leftists of the modern Democratic Party -- from Howard Dean and John Kerry to Bill and Hillary Clinton.&lt;br&gt;&lt;br&gt;As Americans face the ongoing war against terrorists and their state sponsors around the world, Sean Hannity reminds us that we must also cope with the continuing scourge of accommodation and cowardice at home. With his trademark blend of passion and hard-hitting commentary, he urges Americans to recognize the dangers of putting our faith in toothless "multilateralism" when the times call for decisive action. For only through strong defense of our freedoms, at home and around the world, can we preserve America's security and liberty in the dangerous twenty-first century.</description>
+<authors>
+<author>
+<id>140720</id>
+<name>Sean Hannity</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1297128326p5/140720.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1297128326p2/140720.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/140720.Sean_Hannity]]></link>
+<average_rating>3.51</average_rating>
+<ratings_count>2912</ratings_count>
+<text_reviews_count>165</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 18 17:11:09 -0700 2009</date_added>
+  <date_updated>Thu Jun 18 17:11:47 -0700 2009</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I had to read this just to see... and I was right. Crap. I can't believe people think like this.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/60229963]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/60229963]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

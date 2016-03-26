@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>7211528</id>
+    
+  <user>
+    <id>226302</id>
+    <name>Kelly</name>
+
+    <location>Greeley, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/226302-kelly]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1191272058p3/226302.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1191272058p2/226302.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">56495</id>
+  <isbn>0310276993</isbn>
+  <isbn13>9780310276999</isbn13>
+  <text_reviews_count type="integer">2043</text_reviews_count>
+  <title>The Purpose Driven Life: What on Earth Am I Here for?</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/56495.The_Purpose_Driven_Life</link>
+  <num_pages>334</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Zondervan Publishing Company</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>147679</ratings_count>
+  <description>A #1 New York Times bestseller, The Purpose Driven Life will help you understand why you are alive and reveal God's amazing plan for you both here and now, and for eternity. Rick Warren will guide you through a personal forty-day spiritual journey that will transform your answer to life's most important question: What on earth am I here for? Knowing God's purpose for creating you will reduce your stress, focus your energy, simplify your decisions, give meaning to your life, and most important, prepare you for eternity. &lt;br&gt;&lt;br&gt;Movie stars and political leaders aren't the only ones turning to Rick Warren for spiritual guidance. Millions of people from NBA and LPGA players to corporate executives to high school students to prison inmates meet regularly to discuss The Purpose Driven Life.</description>
+<authors>
+<author>
+<id>711</id>
+<name>Rick Warren</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298172148p5/711.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1298172148p2/711.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/711.Rick_Warren]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>168458</ratings_count>
+<text_reviews_count>3645</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 03 12:24:53 -0700 2007</date_added>
+  <date_updated>Wed Oct 03 12:25:27 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      boo. I hate this book
+  </body>
+  <comments_count>2</comments_count>
+    <comments start="1" end="2" total="2">
+        <comment>
+  <id>160801</id>
+  <body><![CDATA[Amen Sister preach it! :)]]></body>
+  
+  <user>
+    <id>440698</id>
+    <name>Lee</name>
+
+    <location>Greeley, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/440698-lee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1191538752p3/440698.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1191538752p2/440698.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 03 15:04:42 -0700 2007</created_at>
+  <updated_at>Wed Oct 03 15:04:42 -0700 2007</updated_at>
+</comment>
+
+        <comment>
+  <id>161565</id>
+  <body><![CDATA[I personally helped sell thousands of these things, and I still didn't get why everyone loved it so. Boo. I hated it too.]]></body>
+  
+  <user>
+    <id>440949</id>
+    <name>Mel</name>
+
+    <location>Greeley, CO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/440949-mel]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1261183424p3/440949.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1261183424p2/440949.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 04 07:41:07 -0700 2007</created_at>
+  <updated_at>Thu Oct 04 07:41:07 -0700 2007</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/7211528]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/7211528]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1183546523</id>
+    
+  <user>
+    <id>39688740</id>
+    <name>Kim</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/39688740-kim-herrick]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">564449</id>
+  <isbn>088404503X</isbn>
+  <isbn13>9780884045038</isbn13>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <title>Scientology: The Fundamentals of Thought</title>
+  <image_url>https://d.gr-assets.com/books/1355431049m/564449.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1355431049s/564449.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/564449.Scientology</link>
+  <num_pages>229</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bridge Publications, Inc.</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>2.53</average_rating>
+  <ratings_count>638</ratings_count>
+  <description>Drug addiction, rising divorce rates, increasing crime and illiteracy. Why are people unable to solve some of the most pressing problems of society today? In this book, L. Ron Hubbard gives readers a practical means to overcome personal problems, become more at peace with themselves, improve communication in the family, and find greater happiness.</description>
+<authors>
+<author>
+<id>33503</id>
+<name>L. Ron Hubbard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1195072218p5/33503.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1195072218p2/33503.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33503.L_Ron_Hubbard]]></link>
+<average_rating>3.38</average_rating>
+<ratings_count>41684</ratings_count>
+<text_reviews_count>3585</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">734776804</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jan 28 15:58:12 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 27 00:00:00 -0800 2015</read_at>
+  <date_added>Wed Jan 28 15:58:11 -0800 2015</date_added>
+  <date_updated>Wed Jan 28 16:04:44 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Just a weird book with no substantiation and very little logic, if you look at the review chart its mostly #1's out of 5 - I read it however I don't understand a bit of what the author was trying to convey, prove or describe. Poor writing structure, sentence, paragraph and overall format / intro...]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1183546523]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1183546523]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

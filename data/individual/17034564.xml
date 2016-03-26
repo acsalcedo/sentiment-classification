@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>17034564</id>
+    
+  <user>
+    <id>576203</id>
+    <name>Sera</name>
+
+    <location>Malvern, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576203-sera]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249090685p3/576203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249090685p2/576203.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">5148</id>
+  <isbn>0743253973</isbn>
+  <isbn13>9780743253970</isbn13>
+  <text_reviews_count type="integer">4490</text_reviews_count>
+  <title>A Separate Peace</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5148.A_Separate_Peace</link>
+  <num_pages>204</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>148059</ratings_count>
+  <description>An American classic and great bestseller for over thirty years, &lt;em&gt;A Separate Peace&lt;/em&gt; is timeless in its description of adolescence during a period when the entire country was losing its innocence to the second world war.&lt;br&gt;&lt;br&gt;Set at a boys boarding school in New England during the early years of World War II, &lt;em&gt;A Separate Peace&lt;/em&gt; is a harrowing and luminous parable of the dark side of adolescence. Gene is a lonely, introverted intellectual. Phineas is a handsome, taunting, daredevil athlete. What happens between the two friends one summer, like the war itself, banishes the innocence of these boys and their world.&lt;br&gt;&lt;br&gt;A bestseller for more than thirty years, &lt;em&gt;A Separate Peace&lt;/em&gt; is John Knowles crowning achievement and an undisputed American classic.</description>
+<authors>
+<author>
+<id>3496</id>
+<name>John Knowles</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201185977p5/3496.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1201185977p2/3496.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3496.John_Knowles]]></link>
+<average_rating>3.55</average_rating>
+<ratings_count>149428</ratings_count>
+<text_reviews_count>5061</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="hated-it" exclusive="false" review_shelf_id="64301555" sortable="false" />
+    <shelf name="own" exclusive="false" review_shelf_id="168725483" sortable="false" />
+    <shelf name="literary-fiction" exclusive="false" review_shelf_id="6645591" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by>RGBC</recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Mar 09 00:00:00 -0800 2008</read_at>
+  <date_added>Tue Mar 04 18:31:55 -0800 2008</date_added>
+  <date_updated>Sun Mar 09 11:46:25 -0700 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I don't really have much to say about this book. ]]>
+  </body>
+  <comments_count>3</comments_count>
+    <comments start="1" end="3" total="3">
+        <comment>
+  <id>495747</id>
+  <body><![CDATA[Uh-oh.]]></body>
+  
+  <user>
+    <id>124482</id>
+    <name>Alison</name>
+
+    <location>Memphis, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/124482-alison]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453907844p3/124482.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453907844p2/124482.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Mar 09 18:02:04 -0700 2008</created_at>
+  <updated_at>Sun Mar 09 18:02:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>496593</id>
+  <body><![CDATA[LOL, Alison. It's nothing negative; the story just didn't do anything for me, but I don't think that it was bad - just ok. I was hoping that the author would take the story in different directions, but it never happened. I'll be posting some of these thoughts in the book group discussion.]]></body>
+  
+  <user>
+    <id>576203</id>
+    <name>Sera</name>
+
+    <location>Malvern, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576203-sera]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249090685p3/576203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249090685p2/576203.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Mar 10 05:42:55 -0700 2008</created_at>
+  <updated_at>Mon Mar 10 05:42:55 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>499990</id>
+  <body><![CDATA[Yeah, I'd read it before and I didn't love the story either. It's one of those that you can appreciate without enjoying, I think. I'll save more for later. :)]]></body>
+  
+  <user>
+    <id>124482</id>
+    <name>Alison</name>
+
+    <location>Memphis, TN</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/124482-alison]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1453907844p3/124482.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1453907844p2/124482.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Mar 11 07:55:26 -0700 2008</created_at>
+  <updated_at>Tue Mar 11 07:55:26 -0700 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/17034564]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/17034564]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>228800883</id>
+    
+  <user>
+    <id>4760010</id>
+    <name>Bonnie</name>
+
+    <location>Livermore, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4760010-bonnie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1319997984p3/4760010.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1319997984p2/4760010.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8702806</id>
+  <isbn>0312651201</isbn>
+  <isbn13>9780312651206</isbn13>
+  <text_reviews_count type="integer">617</text_reviews_count>
+  <title>Eve (Eve Duncan, #12; Eve, Quinn and Bonnie #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8702806-eve</link>
+  <num_pages>378</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>11029</ratings_count>
+  <description>&lt;strong&gt;
+  &lt;em&gt;The #1 bestselling author delivers the first in a trilogy that will begin to answer questions that have haunted her legion of fans for over a decade, in her newest novel of breathtaking suspense &lt;/em&gt;
+&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Eve Duncan’s mission in life is to bring closure to the families who have experienced the agony of a missing child. As a forensic sculptor, she is able to piece together bones, create a face, and bring an identity to a child who would have otherwise gone unidentified…maybe forever. Eve is brilliant, and driven, and tormented—because her own daughter, Bonnie, was taken from her years ago. And Eve has never discovered what happened to her. But now a name from the past resurfaces, thanks to CIA agent Catherine Ling who knows all too well what it’s like to lose a child.&lt;br&gt;&lt;br&gt;After teaming up with Agent Ling to find her missing son, Eve and Catherine share a bond forged by their mutual pain. Now, Catherine challenges Eve with a name: John Gallo. A man from Eve’s past. A man, seemingly raised from the dead, whose whereabouts are unknown. Could Gallo be the missing piece to the puzzle that has haunted Eve for years? Why was he in Atlanta just before Bonnie’s disappearance? With a brilliant narrative that goes back to Eve Duncan’s early life, exploring her history and motivations like no other novel before, &lt;em&gt;Eve &lt;/em&gt;reveals long-guarded secrets and is guaranteed to leave Johansen fans panting for more—soon to come in &lt;em&gt;Quinn &lt;/em&gt;(October 2011).</description>
+<authors>
+<author>
+<id>32498</id>
+<name>Iris Johansen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1266463281p5/32498.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1266463281p2/32498.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32498.Iris_Johansen]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>314337</ratings_count>
+<text_reviews_count>13338</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="beyond-bad" exclusive="false" review_shelf_id="148446800" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Oct 29 00:00:00 -0700 2011</started_at>
+  <read_at>Sun Oct 30 00:00:00 -0700 2011</read_at>
+  <date_added>Sat Oct 29 13:54:47 -0700 2011</date_added>
+  <date_updated>Sun Oct 30 14:14:07 -0700 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I'm on page 132 and so far my opinion is THIS BOOK SUCKS. And something tells me that it is not going to get any better. ]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/228800883]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/228800883]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

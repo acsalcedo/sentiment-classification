@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>9397862</id>
+    
+  <user>
+    <id>576203</id>
+    <name>Sera</name>
+
+    <location>Malvern, PA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/576203-sera]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249090685p3/576203.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249090685p2/576203.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">68210</id>
+  <isbn>031242440X</isbn>
+  <isbn13>9780312424404</isbn13>
+  <text_reviews_count type="integer">6215</text_reviews_count>
+  <title>Gilead (Gilead, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1451555787m/68210.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1451555787s/68210.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/68210.Gilead</link>
+  <num_pages>247</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Picador</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>48657</ratings_count>
+  <description>&lt;div&gt;Twenty-four years after her first novel, &lt;em&gt;Housekeeping&lt;/em&gt;, Marilynne Robinson returns with an intimate tale of three generations from the Civil War to the twentieth century: a story about fathers and sons and the spiritual battles that still rage at America's heart. Writing in the tradition of Emily Dickinson and Walt Whitman, Marilynne Robinson's beautiful, spare, and spiritual prose allows "even the faithless reader to feel the possibility of transcendent order" (&lt;em&gt;Slate&lt;/em&gt;). In the luminous and unforgettable voice of Congregationalist minister John Ames, Gilead reveals the human condition and the often unbearable beauty of an ordinary life.&lt;br&gt;
+&lt;/div&gt;</description>
+<authors>
+<author>
+<id>7491</id>
+<name>Marilynne Robinson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1256021025p5/7491.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1256021025p2/7491.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7491.Marilynne_Robinson]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>107422</ratings_count>
+<text_reviews_count>15679</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="hated-it" exclusive="false" review_shelf_id="3447847" sortable="false" />
+    <shelf name="abandoned" exclusive="false" review_shelf_id="168735305" sortable="false" />
+    <shelf name="literary-fiction" exclusive="false" review_shelf_id="4806482" sortable="false" />
+    <shelf name="own" exclusive="false" review_shelf_id="168735328" sortable="false" />
+</shelves>
+  <recommended_for>no one</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2006</read_at>
+  <date_added>Wed Nov 21 10:34:21 -0800 2007</date_added>
+  <date_updated>Mon Jun 17 10:48:33 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book sucks so bad. It's boring, and I could care less about the characters. It is rare that I don't finish a book, but I just couldn't get through this one.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/9397862]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/9397862]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

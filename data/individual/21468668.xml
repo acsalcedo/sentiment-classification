@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>21468668</id>
+    
+  <user>
+    <id>40672</id>
+    <name>Amelia</name>
+
+    <location>Irvine, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/40672-amelia-chameleon]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1213849488p3/40672.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1213849488p2/40672.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">49501</id>
+  <isbn>0375502246</isbn>
+  <isbn13>9780375502248</isbn13>
+  <text_reviews_count type="integer">1063</text_reviews_count>
+  <title>Rise and Shine</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/49501.Rise_and_Shine</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.23</average_rating>
+  <ratings_count>9143</ratings_count>
+  <description>It’s an otherwise ordinary Monday when Meghan Fitzmaurice’s perfect life hits a wall. A household name as the host of Rise and Shine, the country’s highest-rated morning talk show, Meghan cuts to a commercial break–but not before she mutters two forbidden words into her open mike.&lt;br&gt;&lt;br&gt;In an instant, it’s the end of an era, not only for Meghan, who is unaccustomed to dealing with adversity, but also for her younger sister, Bridget, a social worker in the Bronx who has always lived in Meghan’s long shadow. The effect of Meghan’s on-air truth telling reverberates through both their lives, affecting Meghan’s son, husband, friends, and fans, as well as Bridget’s perception of her sister, their complex childhood, and herself. What follows is a story about how, in very different ways, the Fitzmaurice women adapt, survive, and manage to bring the whole teeming world of New York to heel by dint of their smart mouths, quick wits, and the powerful connection between them that even the worst tragedy cannot shatter.</description>
+<authors>
+<author>
+<id>3500</id>
+<name>Anna Quindlen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387414577p5/3500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1387414577p2/3500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3500.Anna_Quindlen]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>1946994</ratings_count>
+<text_reviews_count>48666</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+</book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jun 09 00:00:00 -0700 2008</read_at>
+  <date_added>Fri May 02 11:45:50 -0700 2008</date_added>
+  <date_updated>Mon Jun 09 11:48:04 -0700 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[This book was okay. Nothing fantastic, but not terrible. When I was recapping the story to my husband, he said "sounds like a Lifetime movie" and then I realized that yeah, it did. The story was decent, but the end was a quick twist with happiness and love for all, which isn't what I had expected...]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/21468668]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/21468668]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>24405736</id>
+    
+  <user>
+    <id>993721</id>
+    <name>Christina</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/993721-christina]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1458510354p3/993721.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1458510354p2/993721.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">48625</id>
+  <isbn>076790849X</isbn>
+  <isbn13>9780767908498</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <title>The No Spin Zone: Confrontations with the Powerful and Famous in America</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/48625.The_No_Spin_Zone</link>
+  <num_pages>190</num_pages>
+  <format></format>
+  <edition_information>First Trade Paperback Edition</edition_information>
+  <publisher>Broadway Books</publisher>
+  <publication_day/>
+  <publication_year>2003</publication_year>
+  <publication_month/>
+  <average_rating>3.23</average_rating>
+  <ratings_count>1486</ratings_count>
+  <description>&lt;strong&gt;“[O'Reilly] is the real McCoy. He's the best reporter I've seen in years…He's smart, well-read, has good values…and he is fearless in picking targets.”&lt;br&gt;—Newsday&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Bill O'Reilly is even madder today than when he wrote his last book, &lt;em&gt;The O'Reilly Factor&lt;/em&gt;, and his fans love him even more. He's mad because things have gone from bad to worse in politics, in Hollywood, in every social stratum of the nation. True to its title, &lt;em&gt;The No Spin Zone&lt;/em&gt; cuts through all the rhetoric that some of O'Reilly's most infamous guests have spewed to expose what's really on their minds, while sharing plenty of his own emphatic counterpoints along the way.&lt;br&gt;&lt;br&gt;Shining a searing spotlight on public figures from President George W. Bush and Senator Hillary Clinton to the Reverends Jesse Jackson and Al Sharpton to his former CBS News colleague Dan Rather, &lt;em&gt;The No Spin Zone&lt;/em&gt; is laced with the kind of straight-shooting commentary that had made O'Reilly the voice of middle America's disenfranchised.&lt;br&gt;&lt;br&gt;&lt;strong&gt;“This explosive anchor can be articulate, bombastic, scornful, witty, iconoclastic, passionate, persuasive, and sarcastic.”&lt;br&gt;—Publisher's Weekly&lt;br&gt;&lt;br&gt;“[O'Reilly's] brand of hard-nosed, regular-guy TV talk is here to stay.”&lt;br&gt;—Newsweek&lt;br&gt;&lt;br&gt;“[&lt;em&gt;The No Spin Zone&lt;/em&gt;] vibrates with O'Reilly's gruff Irish wit and elbows-on-the-bar social criticism.”&lt;br&gt;—Atlanta Journal-Constitution&lt;/strong&gt;&lt;br&gt;&lt;br&gt;A twenty-year veteran of the television industry, &lt;strong&gt;Bill O'Reilly&lt;/strong&gt; has won two Emmy awards for excellence in reporting. He served as national correspondent for ABC News and as anchor of the nationally syndicated &lt;em&gt;Inside Edition&lt;/em&gt;. A graduate of Marist College, he holds two master's degrees, on in public administration from Harvard and another in broadcast journalism from Boston University. He lives on Long Island with his wife and their daughter.&lt;br&gt;&lt;br&gt;&lt;strong&gt;James Ellroy&lt;/strong&gt;, who contributes an Afterword to &lt;em&gt;The No Spin Zone&lt;/em&gt;, is a famed novelist and journalist who profiled Bill O'Reilly for the magazine &lt;em&gt;GQ&lt;/em&gt;.</description>
+<authors>
+<author>
+<id>27281</id>
+<name>Bill O&apos;Reilly</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415448841p5/27281.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1415448841p2/27281.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27281.Bill_O_Reilly]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>147534</ratings_count>
+<text_reviews_count>15077</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="non-fiction" exclusive="false" review_shelf_id="10200400" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jun 13 08:38:12 -0700 2008</date_added>
+  <date_updated>Fri Jun 13 08:38:42 -0700 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Horrible. I don't know why I bothered. ]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/24405736]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/24405736]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

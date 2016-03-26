@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1215335404</id>
+    
+  <user>
+    <id>28052416</id>
+    <name>Sam</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/28052416-sam]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452137781p3/28052416.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452137781p2/28052416.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">37781</id>
+  <isbn>0385474547</isbn>
+  <isbn13>9780385474542</isbn13>
+  <text_reviews_count type="integer">6969</text_reviews_count>
+  <title>Things Fall Apart (The African Trilogy, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1352082529m/37781.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1352082529s/37781.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37781.Things_Fall_Apart</link>
+  <num_pages>209</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.58</average_rating>
+  <ratings_count>182973</ratings_count>
+  <description>THINGS FALL APART tells two overlapping, intertwining stories, both of which center around Okonkwo, a “strong man” of an Ibo village in Nigeria. The first of these stories traces Okonkwo's fall from grace with the tribal world in which he lives, and in its classical purity of line and economical beauty it provides us with a powerful fable about the immemorial conflict between the individual and society. &lt;br&gt;&lt;br&gt;The second story, which is as modern as the first is ancient, and which elevates the book to a tragic plane, concerns the clash of cultures and the destruction of Okonkwo's world through the arrival of aggressive, proselytizing European missionaries. These twin dramas are perfectly harmonized, and they are modulated by an awareness capable of encompassing at once the life of nature, human history, and the mysterious compulsions of the soul. THINGS FALL APART is the most illuminating and permanent monument we have to the modern African experience as seen from within.</description>
+<authors>
+<author>
+<id>8051</id>
+<name>Chinua Achebe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294661664p5/8051.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1294661664p2/8051.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8051.Chinua_Achebe]]></link>
+<average_rating>3.60</average_rating>
+<ratings_count>199245</ratings_count>
+<text_reviews_count>9463</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">775923987</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Mar 01 12:37:37 -0800 2015</updated_at>
+          <ratings_count>1</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2015</read_at>
+  <date_added>Sun Mar 01 12:37:37 -0800 2015</date_added>
+  <date_updated>Thu Dec 31 22:25:04 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      Horrible. 
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1215335404]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1215335404]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

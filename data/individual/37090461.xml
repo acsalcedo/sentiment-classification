@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>37090461</id>
+    
+  <user>
+    <id>1169709</id>
+    <name>Rod</name>
+
+    <location>Vancouver, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1169709-rod]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1225936034p3/1169709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1225936034p2/1169709.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9742</id>
+  <isbn>0307237699</isbn>
+  <isbn13>9780307237699</isbn13>
+  <text_reviews_count type="integer">3711</text_reviews_count>
+  <title>The Audacity of Hope: Thoughts on Reclaiming the American Dream</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope</link>
+  <num_pages>375</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>103317</ratings_count>
+  <description>&lt;strong&gt;The Audacity of Hope&lt;/strong&gt; is Barack Obama's call for a new kind of politics—a politics that builds upon those shared understandings that pull us together as Americans. Lucid in his vision of America's place in the world, refreshingly candid about his family life and his time in the Senate, Obama here sets out his political convictions and inspires us to trust in the dogged optimism that has long defined us and that is our best hope going forward.</description>
+<authors>
+<author>
+<id>6356</id>
+<name>Barack Obama</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1313512321p5/6356.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1313512321p2/6356.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6356.Barack_Obama]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>220080</ratings_count>
+<text_reviews_count>10102</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>11</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Nov 06 21:51:13 -0800 2008</date_added>
+  <date_updated>Thu Nov 06 21:52:33 -0800 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I didn't like it because it was fiction parading as non-fiction, from the story to the author. William Ayers wrote this book, not Obama. And it's filled from the first page to the last with evasions, omissions, obfuscations, skirtings of the truth, and outright lies.]]>
+  </body>
+  <comments_count>7</comments_count>
+    <comments start="1" end="7" total="7">
+        <comment>
+  <id>2451987</id>
+  <body><![CDATA[You must be a Republican. ]]></body>
+  
+  <user>
+    <id>128546</id>
+    <name>Selena</name>
+
+    <location>Issaquah, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/128546-selena]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451129951p3/128546.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451129951p2/128546.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 06 22:54:12 -0800 2008</created_at>
+  <updated_at>Thu Nov 06 22:54:12 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2463652</id>
+  <body><![CDATA[How would my political affiliation influence the comments I made? Are you questioning the validity of my comments or just posting an ad hominem attack?]]></body>
+  
+  <user>
+    <id>1169709</id>
+    <name>Rod</name>
+
+    <location>Vancouver, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1169709-rod]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1225936034p3/1169709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1225936034p2/1169709.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 07 20:09:58 -0800 2008</created_at>
+  <updated_at>Fri Nov 07 20:09:58 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2465417</id>
+  <body><![CDATA[Questioning validity. ]]></body>
+  
+  <user>
+    <id>128546</id>
+    <name>Selena</name>
+
+    <location>Issaquah, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/128546-selena]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451129951p3/128546.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451129951p2/128546.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Nov 08 02:04:37 -0800 2008</created_at>
+  <updated_at>Sat Nov 08 02:04:37 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2527249</id>
+  <body><![CDATA[Did you actually read this book or did you just copy the review from foxnews.com?]]></body>
+  
+  <user>
+    <id>70078</id>
+    <name>Chloe</name>
+
+    <location>Portland, OR</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/70078-chloe]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1447257564p3/70078.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1447257564p2/70078.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Nov 12 16:22:11 -0800 2008</created_at>
+  <updated_at>Wed Nov 12 16:22:11 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2527581</id>
+  <body><![CDATA[I did read the book. Did you? ]]></body>
+  
+  <user>
+    <id>1169709</id>
+    <name>Rod</name>
+
+    <location>Vancouver, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1169709-rod]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1225936034p3/1169709.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1225936034p2/1169709.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Nov 12 16:39:50 -0800 2008</created_at>
+  <updated_at>Wed Nov 12 16:39:50 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2804395</id>
+  <body><![CDATA[I thought your assertion that "William Ayers wrote this book" over played your hand in terms of satirical parody - but wait, were you serious?<br><br>If you were, I would suggest that your position is not the least bit tenable.]]></body>
+  
+  <user>
+    <id>1751507</id>
+    <name>Therk</name>
+
+    <location>Weslaco, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1751507-therk]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1227736628p3/1751507.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1227736628p2/1751507.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Dec 04 13:10:40 -0800 2008</created_at>
+  <updated_at>Thu Dec 04 13:10:40 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>70471190</id>
+  <body><![CDATA[Who is William Ayers? He is not even mentioned in the acknowledgments. Was going to read this but your review caught my eye.]]></body>
+  
+  <user>
+    <id>15249098</id>
+    <name>Donald</name>
+
+    <location>Tacoma, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/15249098-donald-powell]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1354849510p3/15249098.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1354849510p2/15249098.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Mar 23 16:57:31 -0700 2013</created_at>
+  <updated_at>Sat Mar 23 16:57:31 -0700 2013</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/37090461]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/37090461]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>17991238</id>
+    
+  <user>
+    <id>1000027</id>
+    <name>Ronny</name>
+
+    <location>Gig Harbor, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1000027-ronny-johnson]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1205819471p3/1000027.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1205819471p2/1000027.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">9742</id>
+  <isbn>0307237699</isbn>
+  <isbn13>9780307237699</isbn13>
+  <text_reviews_count type="integer">3711</text_reviews_count>
+  <title>The Audacity of Hope: Thoughts on Reclaiming the American Dream</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9742.The_Audacity_of_Hope</link>
+  <num_pages>375</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>103317</ratings_count>
+  <description>&lt;strong&gt;The Audacity of Hope&lt;/strong&gt; is Barack Obama's call for a new kind of politics—a politics that builds upon those shared understandings that pull us together as Americans. Lucid in his vision of America's place in the world, refreshingly candid about his family life and his time in the Senate, Obama here sets out his political convictions and inspires us to trust in the dogged optimism that has long defined us and that is our best hope going forward.</description>
+<authors>
+<author>
+<id>6356</id>
+<name>Barack Obama</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1313512321p5/6356.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1313512321p2/6356.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6356.Barack_Obama]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>220080</ratings_count>
+<text_reviews_count>10102</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 17 22:10:30 -0700 2008</date_added>
+  <date_updated>Sat Mar 22 00:50:52 -0700 2008</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Very boring book I tried reading the most I could but got very bored.]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>538422</id>
+  <body><![CDATA[Eesh! I'm sorry. Someone else just gave this book a low review as well; she said it had too much about politics and not enough about hope. Go figure. ;) We need to get you a book you will enjoy. Do you have one on deck?]]></body>
+  
+  <user>
+    <id>523543</id>
+    <name>Derek</name>
+
+    <location>Seattle, WA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/523543-derek]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1191987059p3/523543.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1191987059p2/523543.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Mar 22 01:15:45 -0700 2008</created_at>
+  <updated_at>Sat Mar 22 01:15:45 -0700 2008</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/17991238]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/17991238]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

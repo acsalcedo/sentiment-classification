@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>3621559</id>
+    
+  <user>
+    <id>227463</id>
+    <name>Meg</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/227463-meg]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1367408633p3/227463.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1367408633p2/227463.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">966744</id>
+  <isbn>038529929X</isbn>
+  <isbn13>9780385299299</isbn13>
+  <text_reviews_count type="integer">77</text_reviews_count>
+  <title>Hannibal</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/966744.Hannibal</link>
+  <num_pages>486</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Delacorte Press</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>54103</ratings_count>
+  <description>Horror lit's head chef Harris serves up another course in his Hannibal "The Cannibal" Lecter trilogy, and it's a pièce de résistance for those with strong stomachs. In the first book, &lt;em&gt;Red Dragon&lt;/em&gt; (filmed as &lt;em&gt;Manhunter&lt;/em&gt;), Hannibal diabolically helps the FBI track a fascinating serial killer. (Takes one to know one.) In &lt;em&gt;The Silence of the Lambs&lt;/em&gt;, he advises fledgling FBI manhunter Clarice Starling, then makes a bloody, brilliant escape.&lt;p&gt; Years later, posing as scholarly Dr. Fell, curator of a grand family's palazzo, Hannibal lives the good life in Florence, playing lovely tunes by serial killer/composer Henry VIII and killing hardly anyone himself. Clarice is unluckier: in the novel's action-film-like opening scene, she survives an FBI shootout gone wrong, and her nemesis, Paul Krendler, makes her the fall guy. Clarice is suspended, so, unfortunately, the first cop who stumbles on Hannibal is an Italian named Pazzi, who takes after his ancestors, greedy betrayers depicted in Dante's &lt;em&gt;Inferno&lt;/em&gt;.&lt;/p&gt;&lt;p&gt; Pazzi is on the take from a character as scary as Hannibal: Mason Verger. When Verger was a young man busted for raping children, his vast wealth saved him from jail. All he needed was psychotherapy--with Dr. Lecter. Thanks to the treatment, Verger is now on a respirator, paralyzed except for one crablike hand, watching his enormous, brutal moray eel swim figure eights and devour fish. His obsession is to feed Lecter to some other brutal pets.&lt;/p&gt;&lt;p&gt; What happens when the Italian cop gets alone with Hannibal? How does Clarice's reunion with Lecter go from macabre to worse? Suffice it to say that the plot is Harris's weirdest, but it still has his signature mastery of realistic detail. There are flaws: Hannibal's madness gets a motive, which is creepy but lessens his mystery. If you want an exact duplicate of &lt;em&gt;The Silence of the Lambs&lt;/em&gt;'s Clarice/Hannibal duel, you'll miss what's cool about this book--that Hannibal is actually upstaged at points by other monsters. And if you think it's all unprecedentedly horrible, you're right. But note that the horrors are described with exquisite taste. Harris's secret recipe for success is restraint. &lt;em&gt;--Tim Appelo&lt;/em&gt;&lt;/p&gt;</description>
+<authors>
+<author>
+<id>12455</id>
+<name>Thomas Harris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1194544741p5/12455.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1194544741p2/12455.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12455.Thomas_Harris]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>587692</ratings_count>
+<text_reviews_count>8979</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="weeded" exclusive="false" review_shelf_id="64997416" sortable="false" />
+    <shelf name="read-2000" exclusive="false" review_shelf_id="351017832" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jul 26 20:12:02 -0700 2007</date_added>
+  <date_updated>Thu Jul 26 20:12:02 -0700 2007</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[an utter embarrassment. i hope harris enjoyed his trip to the bank. the only reason i own it is because i also own first editions of <em>silence of the lambs</em> and <em>red dragon</em>. to hell with being a completist, i will not be adding <em>hannibal rising</em> to my collection.]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>27163855</id>
+  <body><![CDATA[You are very right to do so. While I really enjoyed this particular book, <em>Hannibal Rising</em> was a complete waste of paper. It was a joke of a book really.]]></body>
+  
+  <user>
+    <id>5047977</id>
+    <name>Mimi</name>
+
+    <location>Springfield, MO</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5047977-mimi]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1298842924p3/5047977.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1298842924p2/5047977.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 28 19:31:57 -0800 2011</created_at>
+  <updated_at>Mon Feb 28 19:31:57 -0800 2011</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/3621559]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3621559]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

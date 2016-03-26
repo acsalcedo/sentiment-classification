@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>477836892</id>
+    
+  <user>
+    <id>1851882</id>
+    <name>Suzie</name>
+
+    <location><![CDATA[Glasgow, V8, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1851882-suzie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1451860996p3/1851882.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1451860996p2/1851882.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">1934</id>
+  <isbn>0451529308</isbn>
+  <isbn13>9780451529305</isbn13>
+  <text_reviews_count type="integer">11963</text_reviews_count>
+  <title>Little Women (Little Women, #1)</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1934.Little_Women</link>
+  <num_pages>449</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet Classics</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>1146199</ratings_count>
+  <description>Mujercitas, el clásico de Louisa May Alcott ambientado en la guerra de Secesión, fue publicado en Estados Unidos en 1868. Han pasado casi ciento cincuenta años desde entonces, pero la complicidad de las cuatro hermanas March, quienes a través de sus gestos y palabras resumen el espíritu crítico de una época, sigue siendo fuente de inspiración y disfrute para las generaciones de lectores que se asoman a las páginas de esta fascinante obra.&lt;br&gt;&lt;br&gt;Elaine Showalter, catedrática de la Universidad de Princeton, está considerada una de las voces más representativas de la crítica literaria feminista. En su brillante introducción analiza en detalle las influencias de la autora, así como el impacto de Mujercitas en la obra de escritoras de la talla de Simone de Beauvoir, Joyce Carol Oates o Cinthya Ozick.&lt;br&gt;&lt;br&gt;«Si fuese un chico, me escaparía contigo y lo pasaríamos en grande, pero soy una pobre chica y he de comportarme con propiedad y volver a casa.»</description>
+<authors>
+<author>
+<id>1315</id>
+<name>Louisa May Alcott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200326665p5/1315.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1200326665p2/1315.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1315.Louisa_May_Alcott]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1313826</ratings_count>
+<text_reviews_count>21560</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1216944348</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Jan 31 14:54:55 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>6</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="hated-this" exclusive="false" review_shelf_id="319870705" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Dec 14 17:52:43 -0800 2012</date_added>
+  <date_updated>Fri Oct 10 06:36:58 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I hate this book. I hate hate hate hate hate this book. This book is INSIPID. This book makes me feel like I need a trip to the dentist after merely looking at the cover.<br /><br />I hate this book.<br /><br />I hate Jo, and her supposed tomboyishness, and the fact that she is the most flat, and dull, and stupid charac...]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>98712494</id>
+  <body><![CDATA[Whoa, chill.]]></body>
+  
+  <user>
+    <id>30853704</id>
+    <name>Elizabeth</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/30853704-elizabeth]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1398451726p3/30853704.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1398451726p2/30853704.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun May 18 08:54:55 -0700 2014</created_at>
+  <updated_at>Sun May 18 08:54:55 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/477836892]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/477836892]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

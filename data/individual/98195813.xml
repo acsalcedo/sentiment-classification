@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>98195813</id>
+    
+  <user>
+    <id>3539985</id>
+    <name>Jill</name>
+
+    <location>Bismarck, ND</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/3539985-jill]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1366480446p3/3539985.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1366480446p2/3539985.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">114363</id>
+  <isbn>0553277472</isbn>
+  <isbn13>9780553277470</isbn13>
+  <text_reviews_count type="integer">324</text_reviews_count>
+  <title>Zen and the Art of Motorcycle Maintenance: An Inquiry into Values</title>
+  <image_url>https://d.gr-assets.com/books/1346459264m/114363.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1346459264s/114363.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/114363.Zen_and_the_Art_of_Motorcycle_Maintenance</link>
+  <num_pages>380</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam New Age Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1984</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>132384</ratings_count>
+  <description>The extraordinary story of a man's quest for truth. It will change the way you think and feel about your life. "The cycle you're working on is a cycle called 'yourself.'"&lt;br&gt;&lt;br&gt;"The study of the art of motorcycle maintainence is really a study of the art of rationality itself. Working on a motorcycle, working well, caring, is to become part of a process, to achieve an inner peace of mind. The motorcycle is primarily a mental phenomenon." -- Robert M. Pirsig&lt;br&gt;&lt;br&gt;"Profoundly important... full of insights into our most perplexing contemporary dilemmas... It is intellectual entertainment of the highest order." -- "The New York Times"&lt;br&gt;&lt;br&gt;"It lodges in the mind as few recent novels have... The book is inspired, original... As the mountains gentle toward the sea--with father and child locked in a ghostly grip--the narrative tact, the perfect economy of effect defy criticism... The analogies with "Moby Dick" are patent. Robert Pirsig invites the prodigious comparison... What more can one say?" -- "The New Yorker"&lt;br&gt;&lt;br&gt;"It's a miracle.. sparkles like an electric dream. Freshness, originality... that seduces you into loving motorcycles, as tender in their pistons as the petals in the Buddah's dawn lotus." -- "The Village Voice"</description>
+<authors>
+<author>
+<id>401</id>
+<name>Robert M. Pirsig</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440106738p5/401.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1440106738p2/401.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/401.Robert_M_Pirsig]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>136942</ratings_count>
+<text_reviews_count>5768</text_reviews_count>
+</author>
+</authors>
+  <published>1984</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>14</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="philosophy" exclusive="false" review_shelf_id="236336856" sortable="false" />
+    <shelf name="waste-of-time" exclusive="false" review_shelf_id="53976410" sortable="false" />
+</shelves>
+  <recommended_for>Pretentious douchebags</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Feb 01 00:00:00 -0800 2000</read_at>
+  <date_added>Mon Apr 12 15:29:24 -0700 2010</date_added>
+  <date_updated>Mon Jan 19 14:38:43 -0800 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I hated this book. Hated, hated, hated, hated, hated it. I'm sad no stars is not actually a rating. This is my least favorite book ever. And I've done a lot of reading. <br /><br />The problem is that it is written by some guy who apparently thinks he is God's gift to philosophy. And if you don't agree with...]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>138201093</id>
+  <body><![CDATA[Don't you think he distances himself from... himself? (with Phaedrus) He acknowledges the ideas are "insane" and frequently said "if I were him - I would've stopped here"? So in the end in lots of it he isn't saying "it's right because I said so" it's more "it's insane and here's a lesser everyday use for some of his insane ideas"?]]></body>
+  
+  <user>
+    <id>18052831</id>
+    <name>Tom</name>
+
+    <location>London, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18052831-tom-collingwood]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1369767084p3/18052831.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1369767084p2/18052831.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Aug 09 10:00:04 -0700 2015</created_at>
+  <updated_at>Sun Aug 09 10:00:04 -0700 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/98195813]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/98195813]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

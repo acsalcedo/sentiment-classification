@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>247080370</id>
+    
+  <user>
+    <id>7107769</id>
+    <name>Teresa</name>
+
+    <location>San Antonio, TX</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7107769-teresa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1420705938p3/7107769.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1420705938p2/7107769.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">8714</id>
+  <isbn>1594865671</isbn>
+  <isbn13>9781594865671</isbn13>
+  <text_reviews_count type="integer">375</text_reviews_count>
+  <title>An Inconvenient Truth: The Planetary Emergency of Global Warming and What We Can Do About It</title>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8714.An_Inconvenient_Truth</link>
+  <num_pages>328</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Rodale Books</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>5039</ratings_count>
+  <description>&lt;em&gt;An Inconvenient Truth&lt;/em&gt;—Gore's groundbreaking, battle cry of a follow-up to the bestselling &lt;em&gt;Earth in the Balance&lt;/em&gt;—is being published to tie in with a documentary film of the same name. Both the book and film were inspired by a series of multimedia presentations on global warming that Gore created and delivers to groups around the world. With this book, Gore, who is one of our environmental heroes—and a leading expert—brings together leading-edge research from top scientists around the world; photographs, charts, and other illustrations; and personal anecdotes and observations to document the fast pace and wide scope of global warming. He presents, with alarming clarity and conclusiveness—and with humor, too—that the fact of global warming is not in question and that its consequences for the world we live in will be disastrous if left unchecked. This riveting new book—written in an accessible, entertaining style—will open the eyes of even the most skeptical.</description>
+<authors>
+<author>
+<id>5658</id>
+<name>Al Gore</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206592360p5/5658.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1206592360p2/5658.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5658.Al_Gore]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>15464</ratings_count>
+<text_reviews_count>1615</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Dec 14 13:25:18 -0800 2011</date_added>
+  <date_updated>Wed Dec 14 13:27:36 -0800 2011</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Poorly written and pseudoscience.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/247080370]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/247080370]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

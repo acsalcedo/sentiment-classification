@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>921843877</id>
+    
+  <user>
+    <id>184185</id>
+    <name>Joseph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/184185-joseph]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1193198489p3/184185.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1193198489p2/184185.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">564449</id>
+  <isbn>088404503X</isbn>
+  <isbn13>9780884045038</isbn13>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <title>Scientology: The Fundamentals of Thought</title>
+  <image_url>https://d.gr-assets.com/books/1355431049m/564449.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1355431049s/564449.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/564449.Scientology</link>
+  <num_pages>229</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bridge Publications, Inc.</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>2.53</average_rating>
+  <ratings_count>638</ratings_count>
+  <description>Drug addiction, rising divorce rates, increasing crime and illiteracy. Why are people unable to solve some of the most pressing problems of society today? In this book, L. Ron Hubbard gives readers a practical means to overcome personal problems, become more at peace with themselves, improve communication in the family, and find greater happiness.</description>
+<authors>
+<author>
+<id>33503</id>
+<name>L. Ron Hubbard</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1195072218p5/33503.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1195072218p2/33503.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33503.L_Ron_Hubbard]]></link>
+<average_rating>3.38</average_rating>
+<ratings_count>41684</ratings_count>
+<text_reviews_count>3585</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">404074313</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sun Apr 27 08:01:05 -0700 2014</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 27 08:01:05 -0700 2014</date_added>
+  <date_updated>Sun Apr 27 08:05:43 -0700 2014</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[lame. <br /><br />the book is completely condescending. at one point i recall the author stating something to the effect of: "if you don't understand anything in this book, reread it until you understand it." it's also got a glossary in the back which is strange. further, there were illustrations to the "bel...]]>
+  </body>
+  <comments_count>1</comments_count>
+    <comments start="1" end="1" total="1">
+        <comment>
+  <id>97526701</id>
+  <body><![CDATA[Love this review!]]></body>
+  
+  <user>
+    <id>126060</id>
+    <name>Alicen</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/126060-alicen]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454553683p3/126060.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454553683p2/126060.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Apr 28 04:19:11 -0700 2014</created_at>
+  <updated_at>Mon Apr 28 04:19:11 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/921843877]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/921843877]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

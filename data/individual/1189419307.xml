@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1189419307</id>
+    
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">24585267</id>
+  <isbn>0062235818</isbn>
+  <isbn13>9780062235817</isbn13>
+  <text_reviews_count type="integer">571</text_reviews_count>
+  <title>The White Rose (The Lone City, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1443365160m/24585267.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1443365160s/24585267.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24585267-the-white-rose</link>
+  <num_pages>308</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>4313</ratings_count>
+  <description>Violet is on the run. After the Duchess of the Lake catches Violet with Ash, the hired companion at the Palace of the Lake, Violet has no choice but to escape the Jewel or face certain death. So along with Ash and her best friend, Raven, Violet runs away from her unbearable life of servitude.&lt;br&gt;&lt;br&gt;But no one said leaving the Jewel would be easy. As they make their way through the circles of the Lone City, Regimentals track their every move, and the trio barely manages to make it out unscathed and into the safe haven they were promised—a mysterious house in the Farm.&lt;br&gt;&lt;br&gt;But there’s a rebellion brewing, and Violet has found herself in the middle of it. Alongside a new ally, Violet discovers her Auguries are much more powerful than she ever imagined. But is she strong enough to rise up against the Jewel and everything she has ever known?&lt;br&gt;&lt;br&gt;The White Rose is a raw, captivating sequel to The Jewel that fans won’t be able to put down until the final shocking moments.</description>
+<authors>
+<author>
+<id>6549285</id>
+<name>Amy Ewing</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1410439376p5/6549285.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1410439376p2/6549285.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6549285.Amy_Ewing]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>20316</ratings_count>
+<text_reviews_count>3146</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">892746648</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Wed Jun 10 20:43:44 -0700 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">883706053</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Wed Jun 03 09:16:59 -0700 2015</updated_at>
+          <ratings_count>12</ratings_count>
+          <comments_count>1</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">742384961</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Tue Feb 03 06:55:14 -0800 2015</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>0</rating>
+  <votes>71</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="harpercollins" exclusive="false" review_shelf_id="902790275" sortable="false" />
+    <shelf name="young-adult" exclusive="false" review_shelf_id="902790200" sortable="false" />
+    <shelf name="edelweiss" exclusive="false" review_shelf_id="991317745" sortable="false" />
+    <shelf name="2015-release" exclusive="false" review_shelf_id="902790342" sortable="false" />
+    <shelf name="dystopian" exclusive="false" review_shelf_id="902790379" sortable="false" />
+    <shelf name="e-arc" exclusive="false" review_shelf_id="991317732" sortable="false" />
+    <shelf name="october" exclusive="false" review_shelf_id="902790242" sortable="false" />
+    <shelf name="did-not-finish" exclusive="false" review_shelf_id="1006733586" sortable="false" />
+    <shelf name="ebook" exclusive="false" review_shelf_id="991317737" sortable="false" />
+    <shelf name="2015-reads" exclusive="false" review_shelf_id="1006733658" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 03 00:00:00 -0700 2015</started_at>
+  <read_at>Wed Jun 10 00:00:00 -0700 2015</read_at>
+  <date_added>Tue Feb 03 06:55:13 -0800 2015</date_added>
+  <date_updated>Wed Jun 10 20:48:13 -0700 2015</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[DNF at 30%. I started this because The Jewel had an evil cliffhanger and I really wanted to know what happened to the characters. Well, upon starting The White Rose, I realized that I remember NOTHING from the first book, which made it extremely had to remain invested in this book. So once I foun...]]>
+  </body>
+  <comments_count>5</comments_count>
+    <comments start="1" end="5" total="5">
+        <comment>
+  <id>130170466</id>
+  <body><![CDATA[That's a shame. I didn't really like the first book-it was too Selection-y for me, too much focus on pretty dresses-but like you I was very intrigued by that cliffhanger.]]></body>
+  
+  <user>
+    <id>4026143</id>
+    <name>Howdy YAL </name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4026143-howdy-yal]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1445310493p3/4026143.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1445310493p2/4026143.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jun 10 20:53:53 -0700 2015</created_at>
+  <updated_at>Wed Jun 10 20:53:53 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130171869</id>
+  <body><![CDATA[Yeah, not really worth it, IMO, unless you really loved the first one.]]></body>
+  
+  <user>
+    <id>4642710</id>
+    <name>Steph</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4642710-steph-sinclair]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457555690p3/4642710.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457555690p2/4642710.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jun 10 21:36:55 -0700 2015</created_at>
+  <updated_at>Wed Jun 10 21:36:55 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>130181329</id>
+  <body><![CDATA[Good advice to reread the first. I loved The Jewel, so I'll give this one a shot.]]></body>
+  
+  <user>
+    <id>11718863</id>
+    <name>Leah</name>
+
+    <location>Charleston, SC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11718863-leah]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1436308909p3/11718863.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1436308909p2/11718863.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Jun 11 05:33:12 -0700 2015</created_at>
+  <updated_at>Thu Jun 11 05:33:12 -0700 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>142534365</id>
+  <body><![CDATA[True. I HAD to reread the Jewel for me to understand things here. Yes, she does give hints about the first book, but without rereading it, I was completely lost.]]></body>
+  
+  <user>
+    <id>41451722</id>
+    <name>MissyLily</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/41451722-missylily]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Nov 08 06:25:23 -0800 2015</created_at>
+  <updated_at>Sun Nov 08 06:25:23 -0800 2015</updated_at>
+</comment>
+
+        <comment>
+  <id>143315499</id>
+  <body><![CDATA[This doesn't even feel like the same book series. I'm so disappointed in this book.]]></body>
+  
+  <user>
+    <id>4419304</id>
+    <name>Harriet</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4419304-harriet]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1421512607p3/4419304.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1421512607p2/4419304.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 24 13:26:28 -0800 2015</created_at>
+  <updated_at>Tue Nov 24 13:26:28 -0800 2015</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/1189419307]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1189419307]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

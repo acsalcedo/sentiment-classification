@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>21231663</id>
+    
+  <user>
+    <id>665723</id>
+    <name>Clare</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665723-clare]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373946565p3/665723.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373946565p2/665723.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">85498</text_reviews_count>
+  <title>Twilight (Twilight, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1361039443m/41865.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1361039443s/41865.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>498</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.56</average_rating>
+  <ratings_count>3355297</ratings_count>
+  <description>&lt;strong&gt;About three things I was absolutely positive.&lt;br&gt;&lt;br&gt;First, Edward was a vampire.&lt;br&gt;&lt;br&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br&gt;&lt;br&gt;And third, I was unconditionally and irrevocably in love with him.&lt;/strong&gt;&lt;br&gt;&lt;br&gt;In the first book of the Twilight Saga, internationally bestselling author Stephenie Meyer introduces Bella Swan and Edward Cullen, a pair of star-crossed lovers whose forbidden relationship ripens against the backdrop of small-town suspicion and a mysterious coven of vampires. This is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1408942967p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1408942967p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.64</average_rating>
+<ratings_count>7837929</ratings_count>
+<text_reviews_count>277394</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1213613299</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Jan 29 12:34:09 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>1475</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="read-in-2008" exclusive="false" review_shelf_id="8457084" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Apr 01 00:00:00 -0700 2008</read_at>
+  <date_added>Tue Apr 29 01:22:06 -0700 2008</date_added>
+  <date_updated>Wed Dec 04 13:41:35 -0800 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I hate this book. I will probably end up reading the rest of them, because if I don't, people that love this thing will think they can convert me if I just keep reading. (<strong>ETA (Jan. 2013):</strong> Never even remotely bothered to finish the series.)<br /><br />In short: the writing mechanics are <em>atrocious.</em> The dialogu...]]>
+  </body>
+  <comments_count>332</comments_count>
+    <comments start="1" end="50" total="332">
+        <comment>
+  <id>716956</id>
+  <body><![CDATA[I am incredibly selfish and want you to keep reading so I don't have to. The excerpts I've read have sent me cringing for the corner. You are a braver woman than I. ]]></body>
+  
+  <user>
+    <id>666576</id>
+    <name>C.A.</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/666576-c-a]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1357092743p3/666576.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1357092743p2/666576.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu May 01 15:01:04 -0700 2008</created_at>
+  <updated_at>Thu May 01 15:01:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>761123</id>
+  <body><![CDATA[I give you credit; there's no way in hell I'd keep reading that crap. <br><br>I'm vaguely curious about if Edward will ever make Bella a vampire, but not enough to suffer through hundreds of pages of ridiculousness to find out.]]></body>
+  
+  <user>
+    <id>1067726</id>
+    <name>Jennifer</name>
+
+    <location>Middletown, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1067726-jennifer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1207698728p3/1067726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1207698728p2/1067726.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 10 16:52:04 -0700 2008</created_at>
+  <updated_at>Sat May 10 16:52:04 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>770735</id>
+  <body><![CDATA[Thank you, thank you, thank you! It seems like everyone in my social circle has loved this book, and I've been wondering if I'm the only one that felt like this! The example of "love" that this sets for teenage girls especially bothers me.]]></body>
+  
+  <user>
+    <id>1149293</id>
+    <name>Sally</name>
+
+    <location>Tooele, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1149293-sally]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1210276015p3/1149293.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1210276015p2/1149293.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon May 12 21:17:50 -0700 2008</created_at>
+  <updated_at>Mon May 12 21:17:50 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>831566</id>
+  <body><![CDATA[Love it! ]]></body>
+  
+  <user>
+    <id>611251</id>
+    <name>(G)Emma </name>
+
+    <location>Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/611251-g-emma]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1194732193p3/611251.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1194732193p2/611251.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat May 24 14:52:59 -0700 2008</created_at>
+  <updated_at>Sat May 24 14:52:59 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>839366</id>
+  <body><![CDATA[I think all of you took the books and yourselves too seriously. You should really lighten up life is to short to be so critical!]]></body>
+  
+  <user>
+    <id>1091820</id>
+    <name>Ken</name>
+
+    <location>North Salt Lake, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1091820-ken]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1211809898p3/1091820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1211809898p2/1091820.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon May 26 06:31:15 -0700 2008</created_at>
+  <updated_at>Mon May 26 06:31:15 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>839817</id>
+  <body><![CDATA[How on earth are we taking ourselves too seriously by saying that we didn't enjoy a book? <br><br>Differences of opinion are a part of life; it doesn't mean we "take ourselves too seriously".<br><br>Have you enjoyed every single book you've ever read? <br><br>]]></body>
+  
+  <user>
+    <id>1067726</id>
+    <name>Jennifer</name>
+
+    <location>Middletown, CT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1067726-jennifer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1207698728p3/1067726.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1207698728p2/1067726.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon May 26 08:19:55 -0700 2008</created_at>
+  <updated_at>Mon May 26 08:19:55 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>841010</id>
+  <body><![CDATA[I apologize. I did not mean to offend anyone.]]></body>
+  
+  <user>
+    <id>1091820</id>
+    <name>Ken</name>
+
+    <location>North Salt Lake, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1091820-ken]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1211809898p3/1091820.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1211809898p2/1091820.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon May 26 11:56:28 -0700 2008</created_at>
+  <updated_at>Mon May 26 11:56:28 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>906859</id>
+  <body><![CDATA[Word. I hate female characters like Bella. But I'll probably read the others in the series, and I'll probably see the movie. Usually, the book is ALWAYS better than the movie. I think the movie will be WAY better. LOL.]]></body>
+  
+  <user>
+    <id>1113510</id>
+    <name>Amy</name>
+
+    <location>Las Vegas, NV</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1113510-amy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1342151172p3/1113510.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1342151172p2/1113510.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Jun 05 12:04:07 -0700 2008</created_at>
+  <updated_at>Thu Jun 05 12:04:07 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1138397</id>
+  <body><![CDATA[I completely agree with you!]]></body>
+  
+  <user>
+    <id>1237790</id>
+    <name>Vivian</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1237790-vivian]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1214488646p3/1237790.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1214488646p2/1237790.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jul 05 10:21:31 -0700 2008</created_at>
+  <updated_at>Sat Jul 05 10:21:31 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1178051</id>
+  <body><![CDATA[THANK YOU for this review. I agree with every word. You've perfectly articulated my exact reasons for hating the book. I'm utterly baffled by the popularity of the series! Thanks for presenting your arguments in such an entertaining manner, as well. I was laughing and nodding while I read your review.]]></body>
+  
+  <user>
+    <id>980318</id>
+    <name>Sarah</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/980318-sarah]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1457558077p3/980318.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1457558077p2/980318.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jul 09 21:31:48 -0700 2008</created_at>
+  <updated_at>Wed Jul 09 21:31:48 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1178215</id>
+  <body><![CDATA[Hurray! Thank you for leaving a comment! xD]]></body>
+  
+  <user>
+    <id>665723</id>
+    <name>Clare</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665723-clare]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373946565p3/665723.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373946565p2/665723.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Jul 09 22:09:11 -0700 2008</created_at>
+  <updated_at>Wed Jul 09 22:09:11 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1428238</id>
+  <body><![CDATA[You are a braver woman than I. ONTD is all a dazzle over twilight, and I begged someone to email me the book (so I wouldn't have to buy it), and I sat down and forced myself to finish it.<br><br>All that you said and more. Don't read the rest, life is too short. ]]></body>
+  
+  <user>
+    <id>1321751</id>
+    <name>Jazzypom</name>
+
+    <location>The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1321751-jazzypom]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1215853324p3/1321751.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1215853324p2/1321751.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Aug 06 15:04:51 -0700 2008</created_at>
+  <updated_at>Wed Aug 06 15:04:51 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>1443341</id>
+  <body><![CDATA[Yes, everything you said - exactly. ]]></body>
+  
+  <user>
+    <id>167396</id>
+    <name>Amy</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/167396-amy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1244669780p3/167396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1244669780p2/167396.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Aug 07 20:39:37 -0700 2008</created_at>
+  <updated_at>Thu Aug 07 20:39:37 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2006375</id>
+  <body><![CDATA[I didn't like it either and I know most of my friends and my bookgroup and my niece all thought it was great.<br><br>Yuck! Poor role model for sure. That relationship was idiotic and I never saw any progression in character. Bella was not very interesting, just like she kept saying. So it must be a fulfilling fantasy for ordinary girls to think that some "perfect" man/monster will sweep them off their feet.<br><br>Yuck!]]></body>
+  
+  <user>
+    <id>838486</id>
+    <name>Sage</name>
+
+    <location>Brewster, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/838486-sage]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1214248880p3/838486.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1214248880p2/838486.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 01 06:04:43 -0700 2008</created_at>
+  <updated_at>Wed Oct 01 06:04:43 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2176458</id>
+  <body><![CDATA[I LOVED your post, it summed up exactly how I feel about these books. I'm actually almost through with the 4th book, and by now it's become a chore. I actually didn't realize until the 4th that I really disliked the series and Meyer's inability to prove any literary training. Something just kept annoying me as I read the others, and it was like the 4th hit me full force. <br><br>... and if I ever hear "dazzling" to describe anyone ever again, I might implode...<br><br>Appreciated your critique, made me laugh.]]></body>
+  
+  <user>
+    <id>1019893</id>
+    <name>Marie</name>
+
+    <location>Lynchburg, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1019893-marie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1310179227p3/1019893.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1310179227p2/1019893.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 14 18:43:45 -0700 2008</created_at>
+  <updated_at>Tue Oct 14 18:43:45 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2235768</id>
+  <body><![CDATA[Completely agreed. The vampires' family relations were the only compelling part of the book. If only Bella had really died at the hands of James...]]></body>
+  
+  <user>
+    <id>986785</id>
+    <name>Jennifer</name>
+
+    <location>Raleigh, NC</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/986785-jennifer]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1356033707p3/986785.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1356033707p2/986785.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Oct 19 15:43:45 -0700 2008</created_at>
+  <updated_at>Sun Oct 19 15:43:45 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2321490</id>
+  <body><![CDATA[HA HA your description of the book is so dead on! I keep reading because I want to know how it ends BUT seriously Bella is driving me crazy...she is absolutely week and embarrassing as a character and Edward is too controlling, LORD I don't know why they need to spend every freaking minute together and how is it possible they're not bored with each other??? Whatever! I will continue this JUST to see how the story ends.]]></body>
+  
+  <user>
+    <id>346334</id>
+    <name>Mertal</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/346334-mertal]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Oct 27 09:40:15 -0700 2008</created_at>
+  <updated_at>Mon Oct 27 09:40:15 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2357073</id>
+  <body><![CDATA[Oh man, you took the words right out of my mouth. I didn't even know where to start a review of this book, but you just hit the nail right on the head. ]]></body>
+  
+  <user>
+    <id>911704</id>
+    <name>Loni</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/911704-loni]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1203498822p3/911704.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1203498822p2/911704.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 30 06:56:11 -0700 2008</created_at>
+  <updated_at>Thu Oct 30 06:56:11 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2368991</id>
+  <body><![CDATA[Chelsey, I like your review but I don't agree with everything that you said. I like this book, because it's about love, love that is beautiful, pure and good. I would agree that Bella and Edward shows love that it's too selfish etc. But then it's like 'first love' - not really prefect to the end. Plus it's interesting, something going on all the time. <br><br>Yes, Edward wanted to kill her but he was a vimpere. Fantasy part of this world that Meyer created. So I wouldn't take so seriously. I like also the way that Meyer wrote this book - her style of writing. I didn't really want to put down this book and this is the most importing thing that you would like to achieve when you're a writer. <br><br>I agree that it could be wrong 'love model' for really young girls but then what about Harry Potter? His also a perfect boy and has supernatural power...<br><br>So in my opinion if you have distance to every fiction world it's good. But when you start to want to have everything like characters have in any book then it's just bad.<br><br>]]></body>
+  
+  <user>
+    <id>856442</id>
+    <name>Monika</name>
+
+    <location>Katowice, 40-820, Poland</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/856442-monika]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1306440481p3/856442.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1306440481p2/856442.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 31 09:37:52 -0700 2008</created_at>
+  <updated_at>Fri Oct 31 09:37:52 -0700 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2438956</id>
+  <body><![CDATA[Harry Potter doesn't watch girls while they sleep. Thanks for commenting! ]]></body>
+  
+  <user>
+    <id>665723</id>
+    <name>Clare</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665723-clare]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373946565p3/665723.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373946565p2/665723.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Nov 05 20:30:07 -0800 2008</created_at>
+  <updated_at>Wed Nov 05 20:30:07 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2629888</id>
+  <body><![CDATA[Thank you for this review! Not only did I laugh my butt off but I completely agree. I'm tired of people talking about how perfect Edward and Bella are, and how their love is perfect, when it barely comes across as love to me. Hooray!]]></body>
+  
+  <user>
+    <id>167811</id>
+    <name>Vonny</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/167811-vonny]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1220398361p3/167811.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1220398361p2/167811.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Nov 20 18:08:07 -0800 2008</created_at>
+  <updated_at>Thu Nov 20 18:08:07 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2636812</id>
+  <body><![CDATA[One of the MAJOR problems that I have with this story (among SO many others) is the overt romantasizing of the violence that Edward is constantly projecting towards Bella. Even worse is her response to it. It's not, "He might turn me into a vampire - that makes me feel all hot and sexy because, like, vampires are totally hot and stuff," it's, "He literally wants to kill me - like in a really particularly vulgar and intimate way - yet I am turned on." That is f-ed up. <br><br>Monika said, "Yes, Edward wanted to kill her but he was a [vampire:]." Let's try that again. "Yes, Edward wanted to kill her but he was a murderer." "Yes Edward wanted to rape her but he was a rapist." Kind of weird right. Actually kind of totally f-ed up I think.<br><br>]]></body>
+  
+  <user>
+    <id>167396</id>
+    <name>Amy</name>
+
+    <location>Brooklyn, NY</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/167396-amy]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1244669780p3/167396.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1244669780p2/167396.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 21 13:24:11 -0800 2008</created_at>
+  <updated_at>Fri Nov 21 13:24:11 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2637280</id>
+  <body><![CDATA[I don't get why people are not allowed to dislike this book. It's fluff, pure and simple. Not everyone likes literary Twinkies and that's okay. <br><br>Unclench, y'all.]]></body>
+  
+  <user>
+    <id>860186</id>
+    <name>Kirstin</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/860186-kirstin]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1213657104p3/860186.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1213657104p2/860186.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Nov 21 14:12:34 -0800 2008</created_at>
+  <updated_at>Fri Nov 21 14:12:34 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2692174</id>
+  <body><![CDATA[I met a girl on the train today who was not only stunned that I hadn't read Twilight, but said "I don't read books much, but I think Twilight may have tainted all books for me because I'll never like another book as much."<br><br>*quietly dying inside*]]></body>
+  
+  <user>
+    <id>1105819</id>
+    <name>Rachel</name>
+
+    <location>Salt Lake City, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1105819-rachel]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1213657537p3/1105819.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1213657537p2/1105819.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 25 19:31:22 -0800 2008</created_at>
+  <updated_at>Tue Nov 25 19:31:22 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2694030</id>
+  <body><![CDATA[AAAAAAAAAAAAAAAGH. Oh, girl. That pained me long-distance. I can hear your writerly heart crying out. :D]]></body>
+  
+  <user>
+    <id>665723</id>
+    <name>Clare</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665723-clare]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1373946565p3/665723.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1373946565p2/665723.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Nov 25 23:07:25 -0800 2008</created_at>
+  <updated_at>Tue Nov 25 23:07:25 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2826574</id>
+  <body><![CDATA[I agree with your argument 100%<br>I am ashamed to share the same age group as some of the girls who gush over how hot and how sweet Edward is. He is a jerk who can't seem to grow up now matter how old he freaking gets. <br>And every time Bella describes his beauty using overly-fluffed words, or heck, anytime she SPEAKS makes me want to peel my skin off! <br>Agh, I really want to kick something.....]]></body>
+  
+  <user>
+    <id>1779535</id>
+    <name>Hater#1</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1779535-hater-1]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Dec 06 02:45:04 -0800 2008</created_at>
+  <updated_at>Sat Dec 06 02:45:04 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>2920656</id>
+  <body><![CDATA[I actually love this book for all the reasons you hate it. To each her own I suppose. Don't read the rest of them if you don't want to, that seems like an awful waste of time - the writing doesn't get any better.]]></body>
+  
+  <user>
+    <id>254605</id>
+    <name>Aurora</name>
+
+    <location>San Francisco, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/254605-aurora]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1190333454p3/254605.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1190333454p2/254605.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Dec 12 16:34:16 -0800 2008</created_at>
+  <updated_at>Fri Dec 12 16:34:16 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3060748</id>
+  <body><![CDATA[ok, im just putting this up cuz i forgot it on my first comment. <br><br> DONT BE A HATER!!!!!!!!!!!!!!!!!!!<br>there we go, thats about it, but seriously chelsey. ur review is just 9 paragraphs of hate! the part about 'reading just to back up how much u hate it', thats just retarded! i get u want an opinion, but still! if u hate it stop reading!!!!! i mean come on! duh!!!!!!! seriously! <br> watever, i dont get why im letting ur review bug me, i love twilight so i shouldnt be bothered by other peoples thoughts on it. its just infuriating!grrrrrrrrrrrrrrrrrrrrrr............... ]]></body>
+  
+  <user>
+    <id>1827236</id>
+    <name>Jenn</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1827236-jenn]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1334451579p3/1827236.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1334451579p2/1827236.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Dec 23 11:55:13 -0800 2008</created_at>
+  <updated_at>Tue Dec 23 11:55:13 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3091140</id>
+  <body><![CDATA[Like, listen I get u want 2 like be like a professional writur, but im like, the creator of a stephanie meyer fan club, and she is like... a pro at weird. A PRO chelsey. A PRO. Now, IF u will excuse me I have other h8rs 2 go harass.<br><br><br>]]></body>
+  
+  <user>
+    <id>665158</id>
+    <name>Jory</name>
+
+    <location>Provo, UT</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/665158-jory-dayne]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1240870705p3/665158.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1240870705p2/665158.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Dec 25 14:52:12 -0800 2008</created_at>
+  <updated_at>Thu Dec 25 14:52:12 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3113601</id>
+  <body><![CDATA[Great review. Better than the book!]]></body>
+  
+  <user>
+    <id>978027</id>
+    <name>Sunflower</name>
+
+    <location>Dunedin, F7, New Zealand</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/978027-sunflower]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1211183655p3/978027.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1211183655p2/978027.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Dec 27 11:47:34 -0800 2008</created_at>
+  <updated_at>Sat Dec 27 11:47:34 -0800 2008</updated_at>
+</comment>
+
+        <comment>
+  <id>3254817</id>
+  <body><![CDATA[I loved the book Twilight and the 3 books following Twilight. I don't mean to be rude but I do agree a bit with Jenn because some people read this to see if they should read a book and if you write badly about it, they might not read a book they may have really loved. Though I do think it is ncie that you explained it so that someone reading it can see what you hated about it. Like I said, please do not take this the wrong way. I just wanted to get my opinion out there. I do agree with you about one thing, it is really cool that they can't sleep at all. anyway, I like to read these to see why peopel hate this book so much and I guess I see why now. Thanks!]]></body>
+  
+  <user>
+    <id>1859624</id>
+    <name>Sami</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1859624-sami]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1247334988p3/1859624.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1247334988p2/1859624.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jan 04 11:42:20 -0800 2009</created_at>
+  <updated_at>Sun Jan 04 11:42:20 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3268974</id>
+  <body><![CDATA[When someone is really in love, the flaws of the person they love does not matter to them. He could be rude and selfish etc but the girl knows who he really is ouside of that momentary persona.<br>Love should never be placed in a restricting box and labled to be a certain way. People love differently. Thats the beauty of it. In the first chapter of New Moon, Bella states that she cannot believe how fortunate she is to have Edward of all people in her life. When Love is restricted it often goes to the extreme when it is finally released. I don't know the character Bella well enough but if she was intended to be the girl that never got a date or never had someone else to love in that way before, then that begins to justify her actions.<br><br>I agree however with the comment made about the descriptions of his 'beauty'. I read one chapter of <a href="https://www.goodreads.com/book/show/49041.New_Moon__The_Twilight_Saga__Book_2_" title="New Moon (The Twilight Saga, Book 2) by Stephenie Meyer">New Moon</a> online and I noticed how many descriptions there where.<br><br>When Stephenie Meyer chose the name for Edward she was thinking about Mr Rochester in Jane Eyre by Charelotte Bronte, which I am coincedently reading at the moment. Mr Rocheste tells Jane at one point in Chapter 27 that he wold love her even if she was as mad as Bertha:<br><br><em>"Jane, my little darling (so I will call you, for so you are), you <br>don't know what you are talking about; you misjudge me again: it is <br>not because she is mad I hate her. If you were mad, do you think I <br>should hate you?" <br><br>"I do indeed, sir." <br><br>"Then you are mistaken, and you know nothing about me, and nothing <br>about the sort of love of which I am capable. Every atom of your <br>flesh is as dear to me as my own: in pain and sickness it would <br>still be dear. Your mind is my treasure, and if it were broken, it <br>would be my treasure still: if you raved, my arms should confine <br>you, and not a strait waistcoat--your grasp, even in fury, would <br>have a charm for me: if you flew at me as wildly as that woman did <br>this morning, I should receive you in an embrace, at least as fond <br>as it would be restrictive. I should not shrink from you with <br>disgust as I did from her: in your quiet moments you should have no <br>watcher and no nurse but me; and I could hang over you with untiring <br>tenderness, though you gave me no smile in return; and never weary <br>of gazing into your eyes, though they had no longer a ray of <br>recognition for me.</em><br><br>Maybe this is exactly how Bella feels. <br>]]></body>
+  
+  <user>
+    <id>1818980</id>
+    <name>Chanel</name>
+
+    <location>South Africa</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1818980-chanel]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1367665436p3/1818980.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1367665436p2/1818980.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jan 05 05:55:46 -0800 2009</created_at>
+  <updated_at>Mon Jan 05 05:55:46 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3295448</id>
+  <body><![CDATA[Well said! I want to be friends with you. I honestly can't believe I have so many friends who like this book - it's disgusting.]]></body>
+  
+  <user>
+    <id>1849711</id>
+    <name>Hilary</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1849711-hilary]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Jan 06 18:01:02 -0800 2009</created_at>
+  <updated_at>Tue Jan 06 18:01:02 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3474728</id>
+  <body><![CDATA[wow.....no words.....]]></body>
+  
+  <user>
+    <id>1547053</id>
+    <name>Sheila</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1547053-sheila-vazquez]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1352343863p3/1547053.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1352343863p2/1547053.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sat Jan 17 07:49:09 -0800 2009</created_at>
+  <updated_at>Sat Jan 17 07:49:09 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3732617</id>
+  <body><![CDATA[Wow...thank you for the honest review. Most people who have actually read Twilight, never read at all normally, so they have no idea that the writing itself was so awful.]]></body>
+  
+  <user>
+    <id>1977236</id>
+    <name>C</name>
+
+    <location>Livonia, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1977236-c]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jan 30 21:32:03 -0800 2009</created_at>
+  <updated_at>Fri Jan 30 21:32:03 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>3921553</id>
+  <body><![CDATA[I think you got it wrong. It isn't a romance, it's a horror. Just imagine the world where vampires are falling in love with 17-year-old Americans (some sorry, because I didn't read the book I don't have the slightest clue if they do it in a body or this was just a exception). Such a sweet little sweethearts... Uhm. Children of the night should be ashamed of yourselfs. Just the idea... one is nearly dreading leaving his own house. <br><br>But enough of this, your review was excellent. Well-written and interesting (especially for sworn enemies of S. Meyer). Thanks for it! And sorry about my english... improvement in progress.]]></body>
+  
+  <user>
+    <id>1753272</id>
+    <name>Edith</name>
+
+    <location>Prague, Czech Republic</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1753272-edith]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1269896646p3/1753272.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1269896646p2/1753272.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Feb 10 13:13:56 -0800 2009</created_at>
+  <updated_at>Tue Feb 10 13:13:56 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4025269</id>
+  <body><![CDATA[What is it that u hate about the book. I am not saying there is anything wrong with that i mean everyone has their own opion. i personaly loved it but doesn't mean every one has to. so i just want to know what it is that u hate about the book???]]></body>
+  
+  <user>
+    <id>2038502</id>
+    <name>Cassie</name>
+
+    <location>Alpena, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2038502-cassie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1234816121p3/2038502.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1234816121p2/2038502.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Feb 16 12:33:22 -0800 2009</created_at>
+  <updated_at>Mon Feb 16 12:33:22 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4062508</id>
+  <body><![CDATA[Thnx, I am so glad I did read the reviews here, this way I can save the Money. Cheers! :)]]></body>
+  
+  <user>
+    <id>2045153</id>
+    <name>Nesrin</name>
+
+    <location>Smurftown, Germany</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2045153-nesrin-l]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1454293745p3/2045153.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1454293745p2/2045153.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Feb 18 07:03:10 -0800 2009</created_at>
+  <updated_at>Wed Feb 18 07:03:10 -0800 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4509162</id>
+  <body><![CDATA[My friends and I use the books as our bibles they are the mean of life. <br><br>The only reason the character is empty was because Stephenie did that on purpose so you put your own personal traits into Bella. That way when you read it you feel like you are the character and you get more into the books. <br><br>Fist off, I would defiantly 100% recommend these books to young girls. It’s a great book, very well written about a strong 17 year old girl who falls in love. (Wow I didn’t know that a simple book could upset someone so much) <br><br>Secondly, I don’t know why it bothered you so much that she wanted to have sex, really, she was 19 years old that’s on adult, I think she should be allowed to do adult activities. Plus she was engaged to her boyfriend of 2 years and a virgin. Bella and Edward didn’t end up even sleeping together until they where married that’s more then most 16 year olds can say for them self’s. I think that’s a very good example of responsibility and self control (on Edward part especially). That teaches girls that it’s good to wait for the one you love.<br><br>As for, the relationship, between Edward and Bella. It was on of the most romantic love stories i have ever read, heard or seen. It was pure love and adoration; they both are will to risk everything including their own lives for each other. I think that is the most compassionate, selfless, loving things anyone could do for another human being. I have only met one couple like that I n my entire life and that’s my mother and father, they to meet when they were seventeen have me when they were nineteen , and look, they are still together. That’s a lot more then a lot of teens can say about their parents who have waited until they where In their twenties and thirties to get married and have a family. <br><br>Bella Swan, I don’t even know how to describe how well written she was. She is well, well just an ordinary girl who happens to find an amazing guy. What is so wrong about that? Just because you think everyone should be miserable dose not mean that because a make-believe character is happy you have to diss an entire series. Don’t you think it’s reasonable to too have your whole life tied up in your husband? She does have goals, did you read the books? Like one whole book her and Edward are look for collages. Goal? I think so. Passions, well how about her husband, daughter, best friend, and family, not those don’t seem like reasonable passions for a married woman! Not at all! Ambitions? Do you even know what ambitions are? Ambitions are an eager or strong desire to achieve something, is it just me or is Bella eager to marry Edward and have a strong desire to go be a vampire?, and dreams well I guess she doesn’t have any dreams even though the book talks about all her dreams! You put other than Edward but I don’t think she needs anything other then her family. Have you ever heard the saying “All you need is love”?<br><br>Edward, well yes he does have mood swings, but don’t you think you would too if you had to go through all that pain. (Read midnight sun and you will know what I mean) It is like shoving a red flaming hot metal bar down your throat every time she’s around. He loves her so much the goes through unbearable pain just to be with her. I think its romantic that he watches her sleep. Imagine if someone loved you so much that they thought watching you sleep was fascinating. I want to find my Edward.<br><br>I liked the story a lot and would never want to change one little bit of it. I do agree with you thought Carlisle’s and Alice’s stories are very compelling and they would make good main characters.<br><br>Last of all there is no reason in hell why, you, a little nobody with a sheer lack of creativity should be criticising a woman who is making billions of dollars on the books you are say are so horrible. Obviously they are not. So next time you want to criticise that much think, Stephenie Meyer-you-Stephenie Meyer-you. <br><br>Kay? <br>Thanks. <br><br>]]></body>
+  
+  <user>
+    <id>2122854</id>
+    <name>Michaela Kenzie</name>
+
+    <location>Regina, SK, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2122854-michaela-kenzie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1236917113p3/2122854.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1236917113p2/2122854.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Mar 12 22:24:29 -0700 2009</created_at>
+  <updated_at>Thu Mar 12 22:24:29 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>4945494</id>
+  <body><![CDATA[I really like this book and I think you took out all of your feelings of hatrid in your review. Twilight is a great book. It has a wonderful plot, great characters, beautiful writing, good attention to detail and the 'idiocy' between Bella and Edward could actually be called love. They are teenagers! Their love is not going to be perfect as you are so obvisly expecting.<br><br>I am a writer myself and when I read Twilight I did not read it because I like fantasy and vampires but because I like to read books. I gave the book te judgment it deserved. <br><br>Yes, teir are things I do not like about the book but I have decided not to take sides and be a 'Twilight lover" or 'Twilight hater'<br><br>Instead I let others know what I thought of the book without sounding like a complete snob!]]></body>
+  
+  <user>
+    <id>2106179</id>
+    <name>Elvishmaiden</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2106179-elvishmaiden]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Apr 03 18:01:58 -0700 2009</created_at>
+  <updated_at>Fri Apr 03 18:01:58 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6734091</id>
+  <body><![CDATA[I liked twilight, but i dont understand people telling you too read the rest, they get progressively worse in my opinion. I think that for those who are able to get totally swept up in... well mostly just in Edward to be honest, the writing can be pretty much ignored. once Edward gets a little old some of the series' major floors become more apparent. I really do sympathize with everyone who disliked Bella, I grew less sympathetic towards her as the book went on, but i was just so relieved to escape from a world of intolerably "feisty" heroines. ]]></body>
+  
+  <user>
+    <id>2382540</id>
+    <name>Lauren</name>
+
+    <location><![CDATA[London, H9, The United Kingdom]]></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2382540-lauren]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1245618726p3/2382540.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1245618726p2/2382540.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Jun 21 14:04:55 -0700 2009</created_at>
+  <updated_at>Sun Jun 21 14:04:55 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6770883</id>
+  <body><![CDATA[SHUT UP!!! i love twilight]]></body>
+  
+  <user>
+    <id>2437536</id>
+    <name>Ella</name>
+
+    <location>Sunnyvale, CA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2437536-ella-m]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jun 22 17:08:50 -0700 2009</created_at>
+  <updated_at>Mon Jun 22 17:08:50 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6774870</id>
+  <body><![CDATA[Thanks for this review. At least there are some people out there who know a bad book when they see one.<br><br>Some of the comments above from the fans are ridiculous, "very well written" You're kidding, right?]]></body>
+  
+  <user>
+    <id>2442547</id>
+    <name>Beth</name>
+
+    <location>Leeds, I2, The United Kingdom</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2442547-beth-durant]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1245602146p3/2442547.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1245602146p2/2442547.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Jun 22 18:59:48 -0700 2009</created_at>
+  <updated_at>Mon Jun 22 18:59:48 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>6912326</id>
+  <body><![CDATA[I could not agree more with what you wrote, except for the fact you're willing to continue to torture yourself by reading more of this crap. Good Luck to you! ]]></body>
+  
+  <user>
+    <id>584895</id>
+    <name>Sherese</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/584895-sherese]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jun 26 23:08:08 -0700 2009</created_at>
+  <updated_at>Fri Jun 26 23:08:08 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>7121744</id>
+  <body><![CDATA[You, madame, deserve 1 internets. <br><br>I wish I could have put all that into words that you did. Thank you for taking the time to do so. ]]></body>
+  
+  <user>
+    <id>1992374</id>
+    <name>Lee</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1992374-lee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249009997p3/1992374.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249009997p2/1992374.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Jul 03 15:14:16 -0700 2009</created_at>
+  <updated_at>Fri Jul 03 15:14:16 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8293531</id>
+  <body><![CDATA[Unfortunately, that argument won't work. If you don't finish the books, they tell you "Well, if you READ the books, you'd like them." But if you do read them to back you up they'll say "If you didn't like them, why did you read them then?" gggrrrrrrrrrr...]]></body>
+  
+  <user>
+    <id>1966248</id>
+    <name>Sophie</name>
+
+    <location>Dover, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1966248-sophie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1272976738p3/1966248.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1272976738p2/1966248.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 11 06:59:53 -0700 2009</created_at>
+  <updated_at>Tue Aug 11 06:59:53 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8293539</id>
+  <body><![CDATA[P.s. I agree that Twilight is a disgusting excuse for a piece of literature.]]></body>
+  
+  <user>
+    <id>1966248</id>
+    <name>Sophie</name>
+
+    <location>Dover, NH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1966248-sophie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1272976738p3/1966248.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1272976738p2/1966248.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Aug 11 07:00:22 -0700 2009</created_at>
+  <updated_at>Tue Aug 11 07:00:22 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8709558</id>
+  <body><![CDATA[I agree with about how people are making such a big deal about it. Some of my friends are like "when I grow up I want to be Bella". It is SO annoying. Bella is to obsessed with Edward. When I grow up, I do not want to be Bella.<br><br>The movie is even more of a joke]]></body>
+  
+  <user>
+    <id>2661339</id>
+    <name>Whitney</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2661339-whitney]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Aug 24 12:25:13 -0700 2009</created_at>
+  <updated_at>Mon Aug 24 12:25:13 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8962278</id>
+  <body><![CDATA[That's dumb. Nobody reads Twilight because of Stephanie Meyer's mechanics. They read it because it's the ideal New-Age fairytale. It's got what stories like Cinderella and Sleeping Beauty don't have. That the impossibility of this gorgeous I-can-have-anyone-if-I-wanted-to man loves this normal teenage girl, who wants nothing more than to just get through high school as painlessly as possible. That's lots of women's dream, isn't? That the man who loves you loves you for you, not your outsides. Not your body, not your money, or anything else. That's the magic of this book. They-lots of women and girls out there-find so much of Bella similar to themselves. Insecurities, dreams, and resignation for a completely mundane future, things that women relate to in Bella, keep us(them) rooting for her. That and loving Edward-because, frankly-if she gets Edward, in a way, we all get Edward.You see? Oh, and you reading the rest of the series just to dislike it even more and have more evidence to back up your rude arguments even more is the stupidest piece of bull crap I've ever heard. If you don't like a book, don't read the series! How hard is that? Really? While I agree with some of what you said, like, for instance, the part about controlling, yeah, Edward really needs to just chill out and give Bella her space and you know, other small things, I still think that you're being rude. So you didn't like it, big deal. There are lots of books that I've read that I didn't like, but did I write rude reviews about them? Uh, no!!!! So yeah, maybe, you have a point. But you know what? So do I!!! And just as a little head's up for everybody out there, while a majority of girls may not read normally, I do. And so does my lovely little crew of nerd friends. So get over yourself and all your hatin' and go read something that doesn't cause you to write rude reviews for God's sake.]]></body>
+  
+  <user>
+    <id>2600683</id>
+    <name>Em</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2600683-em]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1405620474p3/2600683.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1405620474p2/2600683.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Sep 01 22:17:04 -0700 2009</created_at>
+  <updated_at>Tue Sep 01 22:17:04 -0700 2009</updated_at>
+</comment>
+
+        <comment>
+  <id>8962850</id>
+  <body><![CDATA[What you're saying is contradictory.<br><br>You claim the appeal of Edward is that he's a gorgeous dream-come-true, and then say that it's awesome how he doesn't care about Bella's looks... <br><br>do looks matter or don't they?<br><br>]]></body>
+  
+  <user>
+    <id>1992374</id>
+    <name>Lee</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1992374-lee]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1249009997p3/1992374.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1249009997p2/1992374.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Sep 02 00:07:27 -0700 2009</created_at>
+  <updated_at>Wed Sep 02 00:07:27 -0700 2009</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/21231663]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/21231663]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

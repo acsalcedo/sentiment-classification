@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1577315128</id>
+    
+  <user>
+    <id>183328</id>
+    <name>Cecile</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/183328-cecile]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1202443455p3/183328.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1202443455p2/183328.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29103014</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">87</text_reviews_count>
+  <title>Orchids and Stone</title>
+  <image_url>https://d.gr-assets.com/books/1455564709m/29103014.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1455564709s/29103014.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29103014-orchids-and-stone</link>
+  <num_pages>322</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Thomas &amp; Mercer</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.42</average_rating>
+  <ratings_count>880</ratings_count>
+  <description>They’re trying to take me. Help! Help me, please.&lt;br&gt;&lt;br&gt;Daphne Mayfield sought a moment of quiet in a park—a break from city life, a tense relationship, and chronic overwork—but then an elderly woman makes a desperate plea. Daphne is reluctant to get involved when she’s not sure what’s happening, but she wants to help the stranger. Is the rambling old lady the victim of a crime or a victim of dementia?&lt;br&gt;&lt;br&gt;As her unease grows, Daphne can’t let go of the encounter. No matter what her boyfriend or her friends say. No matter what the retired homicide detective warns. Though she knows she’s meddling in other people’s lives, her instincts scream that the danger is real.&lt;br&gt;&lt;br&gt;With each increasingly bold intervention, Daphne involves herself in someone else’s crisis until she’s in too deep to turn back. She’s not just fighting for a stranger’s life…she’s fighting for her own.</description>
+<authors>
+<author>
+<id>6079326</id>
+<name>Lisa Preston</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452288980p5/6079326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1452288980p2/6079326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6079326.Lisa_Preston]]></link>
+<average_rating>3.42</average_rating>
+<ratings_count>890</ratings_count>
+<text_reviews_count>102</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1275341798</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Sat Mar 12 22:39:03 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1274386257</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Mar 12 06:45:23 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 12 06:45:23 -0800 2016</started_at>
+  <read_at>Sat Mar 12 22:39:03 -0800 2016</read_at>
+  <date_added>Sat Mar 12 06:45:23 -0800 2016</date_added>
+  <date_updated>Sat Mar 12 22:49:18 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[Really disjointed storytelling and uninspiring dialogue. I am not sure I understand the title's relation to the plot either, or the significance of the main character's choice to become a roofer (which seemed to be highlighted often) except to make her ability to push over large appliances more c...]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1577315128]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1577315128]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

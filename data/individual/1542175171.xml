@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1542175171</id>
+    
+  <user>
+    <id>14814803</id>
+    <name>joana marie</name>
+
+    <location>Philippines</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/14814803-joana-marie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1450629018p3/14814803.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1450629018p2/14814803.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25785357</id>
+  <isbn>0373211570</isbn>
+  <isbn13>9780373211579</isbn13>
+  <text_reviews_count type="integer">326</text_reviews_count>
+  <title>Firstlife (Everlife, #1)</title>
+  <image_url>https://d.gr-assets.com/books/1456503579m/25785357.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456503579s/25785357.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25785357-firstlife</link>
+  <num_pages>480</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harlequin Teen</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>1199</ratings_count>
+  <description>ONE CHOICE.&lt;br&gt;TWO REALMS.&lt;br&gt;NO SECOND CHANCE.&lt;br&gt;&lt;br&gt;Tenley “Ten” Lockwood is an average seventeen-year-old girl…who has spent the past thirteen months locked inside the Prynne Asylum. The reason? Not her obsession with numbers, but her refusal to let her parents choose where she’ll live—after she dies.&lt;br&gt;&lt;br&gt;There is an eternal truth most of the world has come to accept: Firstlife is merely a dress rehearsal, and real life begins after death.&lt;br&gt;&lt;br&gt;In the Everlife, two realms are in power: Troika and Myriad, longtime enemies and deadly rivals. Both will do anything to recruit Ten, including sending their top Laborers to lure her to their side. Soon, Ten finds herself on the run, caught in a wild tug-of-war between the two realms who will do anything to win the right to her soul. Who can she trust? And what if the realm she’s drawn to isn’t home to the boy she’s falling for? She just has to stay alive long enough to make a decision…</description>
+<authors>
+<author>
+<id>48192</id>
+<name>Gena Showalter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447177534p5/48192.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1447177534p2/48192.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/48192.Gena_Showalter]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>651916</ratings_count>
+<text_reviews_count>34981</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">91644903</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sat Mar 19 19:26:45 -0700 2016</created_at>
+          <updated_at type="datetime">Sat Mar 19 19:27:20 -0700 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">1</ratings_count>
+          <percent type="integer">21</percent>
+          <work_id type="integer">45540518</work_id>
+          <note_uri>kca://note/amzn1.grok.note.5c8b41f4397c9379c730fcd4c97323d3</note_uri>
+          <note_updated_at type="datetime">Sat Mar 19 19:27:20 -0700 2016</note_updated_at>
+          <body><![CDATA[LOVEEEE the protagonist but that love is getting less and less when her narrative seems to be written from a sappy, over emotional romance book every time she sees one of the male lead. Please, it's annoying.]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1286939251</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Mar 21 22:04:19 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1284084636</id>
+          <old_status>to-read</old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Sat Mar 19 19:23:35 -0700 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1229135891</id>
+          <old_status></old_status>
+          <status>to-read</status>
+          <updated_at type="datetime">Mon Feb 08 16:44:45 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 19 00:00:00 -0700 2016</started_at>
+  <read_at>Mon Mar 21 00:00:00 -0700 2016</read_at>
+  <date_added>Mon Feb 08 16:44:44 -0800 2016</date_added>
+  <date_updated>Mon Mar 21 22:06:50 -0700 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      Meh.
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1542175171]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1542175171]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

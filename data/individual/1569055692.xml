@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1569055692</id>
+    
+  <user>
+    <id>2221525</id>
+    <name>Brett</name>
+
+    <location>West Palm Beach, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/2221525-brett-sorge]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1378922420p3/2221525.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1378922420p2/2221525.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">25337081</id>
+  <isbn>0399170898</isbn>
+  <isbn13>9780399170898</isbn13>
+  <text_reviews_count type="integer">552</text_reviews_count>
+  <title>Brotherhood in Death (In Death, #42)</title>
+  <image_url>https://d.gr-assets.com/books/1439226052m/25337081.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1439226052s/25337081.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25337081-brotherhood-in-death</link>
+  <num_pages>388</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Berkley</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.39</average_rating>
+  <ratings_count>5623</ratings_count>
+  <description>&lt;strong&gt;Sometimes brotherhood can be another word for conspiracy...&lt;/strong&gt;&lt;br&gt;&lt;br&gt;Dennis Mira just had two unpleasant surprises. First he learned that his cousin Edward was secretly meeting with a real estate agent about their late grandfather’s magnificent West Village brownstone, despite the promise they both made to keep it in the family. Then, when he went to the house to confront Edward about it, he got a blunt object to the back of the head.&lt;br&gt;&lt;br&gt;Luckily Dennis is married to Charlotte Mira, the NYPSD’s top profiler and a good friend of Lieutenant Eve Dallas. When the two arrive on the scene, he explains that the last thing he saw was Edward in a chair, bruised and bloody. When he came to, his cousin was gone. With the mess cleaned up and the security disks removed, there’s nothing left behind but a few traces for forensics to analyze. &lt;br&gt;&lt;br&gt;As a former lawyer, judge, and senator, Edward Mira mingled with the elite and crossed paths with criminals, making enemies on a regular basis. Like so many politicians, he also made some very close friends behind closed—and locked—doors. But a badge and a billionaire husband can get you into places others can’t go, and Eve intends to shine some light on the dirty deals and dark motives behind the disappearance of a powerful man, the family discord over a multimillion-dollar piece of real estate . . . and a new case that no one saw coming.</description>
+<authors>
+<author>
+<id>17065</id>
+<name>J.D. Robb</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1441140344p5/17065.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1441140344p2/17065.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17065.J_D_Robb]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>982091</ratings_count>
+<text_reviews_count>37923</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">1263802957</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Fri Mar 04 10:53:29 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 04 10:55:51 -0800 2016</read_at>
+  <date_added>Fri Mar 04 10:53:29 -0800 2016</date_added>
+  <date_updated>Fri Mar 04 10:55:51 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I got to page 600 and decided to call it quits. I kept nodding off falling asleep and the book did not keep my attention. It started out well enough, but gets bogged down on to much garbage. Maybe this works with a female audience, but not with me.]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1569055692]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1569055692]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

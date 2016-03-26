@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>746865698</id>
+    
+  <user>
+    <id>12290478</id>
+    <name>Sarah</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12290478-sarah-arthur]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430359088p3/12290478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430359088p2/12290478.jpg]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">17736795</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">733</text_reviews_count>
+  <title>Allegiant (Divergent, #3)</title>
+  <image_url>https://d.gr-assets.com/books/1382450470m/17736795.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1382450470s/17736795.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17736795-allegiant</link>
+  <num_pages>526</num_pages>
+  <format>Hardcover</format>
+  <edition_information>UK edition</edition_information>
+  <publisher>HarperCollins Children's Book's</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>561053</ratings_count>
+  <description>The faction-based society that Tris Prior once believed in is shattered - fractured by violence and power struggles and scarred by loss and betrayal. So when offered a chance to explore the world past the limits she's known, Tris is ready. Perhaps beyond the fence, she and Tobias will find a simple new life together, free from complicated lies, tangled loyalties, and painful memories.&lt;br&gt;&lt;br&gt;But Tris's new reality is even more alarming than the one she left behind. Old discoveries are quickly rendered meaningliess. Explosive new truths change the hearts of those she loves. And once again, Tris must battle to comprehend to complexities of human nature - and of herself - while facing impossible choices about courage, allegiance, sacrifice, and love.&lt;br&gt;&lt;br&gt;Told from a riveting dual perspective, ALLEGIANT, by #1 &lt;em&gt;New York Times&lt;/em&gt; best-selling author Veronica Roth, brings the DIVERGENT series to a powerful conclusion while revealing the secrets of the dystopian world that has captivated millions of readers in DIVERGENT and INSURGENT.</description>
+<authors>
+<author>
+<id>4039811</id>
+<name>Veronica Roth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1363910238p5/4039811.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1363910238p2/4039811.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4039811.Veronica_Roth]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>3497029</ratings_count>
+<text_reviews_count>226587</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+</book>
+
+
+    <read_statuses>
+        <read_status>
+          <id type="integer">187812646</id>
+          <old_status></old_status>
+          <status>read</status>
+          <updated_at type="datetime">Tue Oct 22 13:06:42 -0700 2013</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>2</rating>
+  <votes>44</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 22 13:06:42 -0700 2013</date_added>
+  <date_updated>Wed Oct 23 03:07:16 -0700 2013</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[So bitterly disappointed with this. To be led on this journey with Tris and Four and be made to care so deeply about them, to then be handed that ending? I'm getting my money back!]]>
+  </body>
+  <comments_count>43</comments_count>
+    <comments start="1" end="43" total="43">
+        <comment>
+  <id>85381840</id>
+  <body><![CDATA[I'm really glad I'm not the only one who feels that way. Do you think they give refunds for broken hearts and so many tears that your eyes sting?]]></body>
+  
+  <user>
+    <id>4545304</id>
+    <name>Marissa</name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4545304-marissa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1327012564p3/4545304.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1327012564p2/4545304.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 13:55:05 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 13:55:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85382917</id>
+  <body><![CDATA[I don't get it. Why is everyone so angry just because it didn't have a happily ever after ending? Where was it ever written that this was a requirement for any book, even a YA novel? I think that is a very limited way of looking at things. No one is happy that Tris died in the end, but that doesn't make the book bad or not worth reading or the whole series a waste of time. Come on, people, grow up. (I know you're just one person, but this is addressed to the fandom at large; you should see Amazon -- this book has just been HAMMERED with one- and two-star ratings, seemingly for no reason other than not getting the ending they want. Limited, I tell you. Very limited way of thinking.)]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 14:12:05 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 14:12:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85392862</id>
+  <body><![CDATA[We live with disappointment in our everyday lives. When we read, it's to escape that reality for a while. When a trilogy that we've devoted our hearts and time and money to turns so sour, then why bother? I know what it's like to lose a someone close to me. I don't need to live it over and again in the books I read, too. That's not an escape for me, no matter how limited someone believes my thought process to be.]]></body>
+  
+  <user>
+    <id>12290478</id>
+    <name>Sarah</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12290478-sarah-arthur]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430359088p3/12290478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430359088p2/12290478.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 16:47:23 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 16:47:23 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85394551</id>
+  <body><![CDATA[<em>Sarah wrote: "We live with disappointment in our everyday lives. When we read, it's to escape that reality for a while. When a trilogy that we've devoted our hearts and time and money to turns so sour, then why ..."</em><br><br>Your thought process isn't limited. There are trolls out there trying to save Roth's reputation at this point. Amazon has the book rated at 2 stars currently. <br>My opinion:<br><a href="http://imgur.com/duDjkqv" rel="nofollow">
+  <img src="https://d.gr-assets.com/hostedimages/1382465284ra/5903487.gif" class="gr-hostedUserImg"></a>]]></body>
+  
+  <user>
+    <id>22495428</id>
+    <name>♥The Shredder♥</name>
+
+    <location>Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22495428-the-shredder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399495958p3/22495428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399495958p2/22495428.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:17:22 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:17:22 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85394654</id>
+  <body><![CDATA[Escapism doesn't guarantee a happy ending either. Escape from "real life" means just that -- real life, because this book is fiction, not an escape from all things that could possibly happen in reality, including the bad. That's not what books are for. I don't read books to feel happy at the end, because real life is depressing enough. I read to experience a story. That's what books are for.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:19:03 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:19:03 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85395025</id>
+  <body><![CDATA[Doesn't matter. This book is gonna go down like Requiem by Lauren Oliver. The trust that many bestowed on this author was taken advantage of. No one was asking for a "happily ever after" they were asking for hope. Which is what everyone wants to read in a book. They have to have hope to keep them turning the page and with this book there was none. Period.]]></body>
+  
+  <user>
+    <id>22495428</id>
+    <name>♥The Shredder♥</name>
+
+    <location>Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22495428-the-shredder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399495958p3/22495428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399495958p2/22495428.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:25:50 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:25:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85395187</id>
+  <body><![CDATA[It isn't just about the ending for me. I didn't feel like these characters were the characters I fell in love with in the first two books. Tris was bossy and completely 'my way or the highway' as well as a grudge holder, except for where her brother is concerned when he deserved it the most. Four came across much more insecure and a tad bit whiny. Even Christina in the end stopping Four from taking the memory serum is selfish. Making Tris Jesus Christ shouldn't have been the end of this story because it doesn't make sense. She still sacrificed herself and everyone else (Except Uriah) gets there happy ending. Oh, and Four because he's left grieving. It's just not an ending that made any sense given all the stuff they went through. What was the point of all of it if not for them to be together? The greater good? No one is that selfless no matter how much Roth wants us to think they are.]]></body>
+  
+  <user>
+    <id>11320517</id>
+    <name>Heather</name>
+
+    <location>Freeland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11320517-heather]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1385217840p3/11320517.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1385217840p2/11320517.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:28:31 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:28:31 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85395310</id>
+  <body><![CDATA[<em>Heather wrote: "It isn't just about the ending for me. I didn't feel like these characters were the characters I fell in love with in the first two books. Tris was bossy and completely 'my way or the highway' as w..."</em><br>Amen!]]></body>
+  
+  <user>
+    <id>22495428</id>
+    <name>♥The Shredder♥</name>
+
+    <location>Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22495428-the-shredder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399495958p3/22495428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399495958p2/22495428.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:30:47 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:30:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85395453</id>
+  <body><![CDATA[I don't want to experience every story that is why I research about books before I read them! You are welcome to delve into whatever experience an author takes you on but I'm not going there! Life is hard enough, I don't need a harsh reality shoved in my face from the books I read! Go Lauren and enjoy your "real" life, glad I don't have do the same!]]></body>
+  
+  <user>
+    <id>5672798</id>
+    <name>Carrie</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/5672798-carrie]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1335827962p3/5672798.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1335827962p2/5672798.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:33:17 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:33:17 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85395757</id>
+  <body><![CDATA[<em>Carrie wrote: "I don't want to experience every story that is why I research about books before I read them! You are welcome to delve into whatever experience an author takes you on but I'm not going there! Life ..."</em><br>Agreed!<br><a href="http://imgur.com/A533B9h" rel="nofollow">
+  <img src="https://d.gr-assets.com/hostedimages/1380437860ra/885251.gif" class="gr-hostedUserImg"></a>]]></body>
+  
+  <user>
+    <id>22495428</id>
+    <name>♥The Shredder♥</name>
+
+    <location>Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22495428-the-shredder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399495958p3/22495428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399495958p2/22495428.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 17:38:13 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 17:38:13 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85402121</id>
+  <body><![CDATA[<em>Carrie wrote: "I don't want to experience every story that is why I research about books before I read them! You are welcome to delve into whatever experience an author takes you on but I'm not going there! Life ..."</em><br><br>That's exactly what I do! I wish I had waited before I bought it...I could have saved myself some tears and just imagined my own happy ending.<br><br>And Lauren, we are living 'real life' everyday, why not have someplace to get away from all that? Such as in a book! Why would I want to read about any sad experience when I'll probably have to face at some point in my life? If I really wanted to read something realistic, I'd read a newspaper.]]></body>
+  
+  <user>
+    <id>4545304</id>
+    <name>Marissa</name>
+
+    <location>Toronto, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4545304-marissa]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1327012564p3/4545304.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1327012564p2/4545304.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 19:19:00 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 19:19:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85402638</id>
+  <body><![CDATA[I take it none of you bothered to read The Fault In Our Stars, then. Because who wants to read about THAT?]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 19:27:15 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 19:27:15 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85402910</id>
+  <body><![CDATA[Actually I read The Fault In Our Stars. A book that was very descriptive when telling the reader "Hey, they have health problems and the likelihood of a main character dying is very real." Yea...I read that book. I gave it a 5 star rating too because the ending was executed perfectly. Roth went beyond her skill. That's where she screwed up. She should take lessons from Green if she chooses to venture into this realm again.]]></body>
+  
+  <user>
+    <id>22495428</id>
+    <name>♥The Shredder♥</name>
+
+    <location>Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22495428-the-shredder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399495958p3/22495428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399495958p2/22495428.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 19:31:47 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 19:31:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85405123</id>
+  <body><![CDATA[Roth didn't know how to tie up her story. She took the easy way out by doing what she did. And, if she did it for the shock factor, it sadly backfired in her face. Simply because she didn't know how to execute a "shock" ending. I have no issue with characters dying in books. Hell, even the main character. Want a good example of how to do a shocking ending properly? Read Cujo, by Stephen King. This has nothing to do with not handling the "real world" or living in denial. It has to do with the inability of an author to execute a proper ending and taking a very easy way out. <br>I have read The Fault in Our Stars and loved it. <br>Roth had no logical reason to end the series that way. <em>That's</em> what makes it fail.]]></body>
+  
+  <user>
+    <id>7897213</id>
+    <name>Andrea ❤Ninja Bunneh❤</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7897213-andrea-ninja-bunneh]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1455471466p3/7897213.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1455471466p2/7897213.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Tue Oct 22 20:19:50 -0700 2013</created_at>
+  <updated_at>Tue Oct 22 20:19:50 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85422260</id>
+  <body><![CDATA[You know, after i watched the Dexter finale this summer I couldn't sleep for days because I was SO upset that my characters didn't get the ending I thought they deserved....and I felt that similar tug at my heart with Tris. However, I felt like it really was right in line with her character. She would never have been happy allowing her brother to die and despite Four being broken, she did also help put him back together and gave him his mother back. He healed in different ways throughout the book and was left a better person at the end. Sigh. Such a great story.]]></body>
+  
+  <user>
+    <id>4319523</id>
+    <name>Megan</name>
+
+    <location>Florence, AL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/4319523-megan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1285123703p3/4319523.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1285123703p2/4319523.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 23 07:28:16 -0700 2013</created_at>
+  <updated_at>Wed Oct 23 07:28:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85477856</id>
+  <body><![CDATA[There was no point in Tris' death! What exactly did it accomplish?? The problem with this book (in my opinion) is that the battle between the factions and the factionless was solved not by Tris' death but by Tobias simply asking his mother to give up. Had he asked her at the beginning of the book then no one would have even left the city. The way Ms. Roth chose to fix the conflict actually made the entire book worthless. She could have saved us all the trouble of reading about GD &amp; GP and the experiment which was illogical in the extreme.]]></body>
+  
+  <user>
+    <id>7328227</id>
+    <name>Shaune</name>
+
+    <location>Saint Catharines, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7328227-shaune]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331814963p3/7328227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331814963p2/7328227.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 24 04:42:25 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 04:42:25 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85525182</id>
+  <body><![CDATA[people who came we don't like the ending because it was "not a happy ending" know what they are talking about. I never expect a happy ending in YA lit. Have ya read "The Fault in Our Stars"? happy? no. A fitting ending? yes. A fitting/appropriate ending is NOT what the characters in "allegiant" got. nope. they got shafted pointlessly. Caleb needed redemption. Roth denied him this. Tobias needed unconditional love. Roth denied him this. Tris needed a future to experience peace. Roth denied her of this. Epic failure of an ending.]]></body>
+  
+  <user>
+    <id>1974288</id>
+    <name>Kerri</name>
+
+    <location>Willoughby, OH</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/1974288-kerri-bowden]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1304002790p3/1974288.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1304002790p2/1974288.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Thu Oct 24 19:31:00 -0700 2013</created_at>
+  <updated_at>Thu Oct 24 19:31:00 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85538521</id>
+  <body><![CDATA[People don't always get to the get the redemption they need or deserve, and I'm fine with that. I'm even fine with Tris sacrificing herself for the greater good, selflessly taking the place of the brother who didn't deserve that sacrifice. I think it would have shown the "fitting ending" better if Roth had taken more time to show -- SHOW, not tell in two empty paragraphs -- how the mission that Tris died for changed everyone's lives, how the Bureau memory reset lit the first spark of revolution in the GP vs. GD debate. She should have shown us that big, nationwide change, change that would eventually affect everything, was started by this one change that Tris died for. She should have made her death have a more monumental effect. She should have shown that Tris died to change the world.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 03:17:09 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 03:17:09 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85539809</id>
+  <body><![CDATA[No human is that selfless. There has to be a human connection for someone to give up his or her life for, and Caleb isn't that connection. Not with everything he did against her. Only Tobias or to a lesser extent Christina would work as that connection. Tris is not Jesus Christ And I resent her being turned into a Christ-like figure in the LAST book. If Roth wanted Tris to be Christ-like, she should have established that in the first book. Like Harry Potter or Frodo Baggins or Asland (from The Chronicles of Narnia).]]></body>
+  
+  <user>
+    <id>12290478</id>
+    <name>Sarah</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12290478-sarah-arthur]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430359088p3/12290478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430359088p2/12290478.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 04:16:18 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 04:16:18 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85540758</id>
+  <body><![CDATA[So, Lauren, you're kind of agreeing with us. I said from the beginning that while no I don't love the idea of Tris dying, if she had to there should've been more to it. The way it was, left me feeling as if there wasn't much point to her sacrifice while making her parents sacrifice completely pointless. By saying that Roth should've showed us more that came from Tris death...it's kind of the same thing.<br><br>All in all, people are allowed to hate a book because of the way it ends. Whether they want all the characters to live, die, become aliens or sister wives. But those of us that think Allegiant fell short in A LOT of areas, we are not in the minority here. <br><br>Also, Tris is much more likable, relatable (since people are ranting about realism) if she is not a Christ-figure as a lot have stated (including me and professional reviewers). ONe of my favorite reviews of this (EW) called it a clumsy racial allegory. Clumsy indeed.]]></body>
+  
+  <user>
+    <id>11320517</id>
+    <name>Heather</name>
+
+    <location>Freeland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11320517-heather]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1385217840p3/11320517.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1385217840p2/11320517.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 04:57:54 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 04:57:54 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85541339</id>
+  <body><![CDATA[@Sarah: It saddens me (why, I don't know, since we don't even know each other) that you assume no human being could be that selfless. Sure they are. And I have no problem believing Tris is that type of person, and it does harken back to the original theme of the series where she didn't believe she WAS selfless and didn't belong in her faction. And for Tris, Caleb was the human connection. Not because he deserved it -- he didn't. He's a traitor. But that's precisely why Tris sacrificing herself for him anyway proves how selfless she is -- because whether or not he deserved it wasn't the point. He was her brother, and despite what he did, which was truly unforgivable, she loved him anyway and loved him enough to lay down her life for him anyway. That is what being selfless means. It is not giving of ourselves only to the people who deserve our sacrifices.<br><br>But I agree that another point where Veronica failed in this execution (no pun intended) is that she should have established this tone from the very beginning. I believe her when she said she intended the series to end this way from the start, the whole selflessness theme and all, but the series didn't read like the kind of story where the main character would sacrifice herself and die in the end. I think that's also kind of why some people feel like they've been "cheated." I disagree with the reasoning of some of those people, that they're supposed to get a HEA when they read a YA novel, because that's stupid and the author doesn't owe the readers the story that THEY want. But I think I understand another way to say that they've been "cheated" because the Divergent series was just not set up to feel like this kind of story. Veronica should have established this as a ruthless, unforgiving story from the very, very beginning. Insurgent kind of came off as a totally different story from Divergent, and Allegiant seems like a totally different series altogether. That's why the ending fell flat for so many people -- even though I get it and I do think the theme was set up, that tone doesn't match the tone that was established in the rest of the series. I guess they're like, "Where did this come from??" For me, the entire book was a "Where did this come from?", although I guess within the confines of the third book alone the ending works but it doesn't fit with the tone of the trilogy as a whole.<br><br>Which is why I think writers need to plot out their entire stories from the beginning. "Pantsing" only works in stand-alone books.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 05:20:49 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 05:20:49 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85541733</id>
+  <body><![CDATA["There was no point in Tris' death! What exactly did it accomplish?? The problem with this book (in my opinion) is that the battle between the factions and the factionless was solved not by Tris' death but by Tobias simply asking his mother to give up. Had he asked her at the beginning of the book then no one would have even left the city. The way Ms. Roth chose to fix the conflict actually made the entire book worthless."<br><br>@Shaune: That's not what the suicide mission was for. It was to stop the scientists from releasing the memory serum in Chicago and resetting everyone's memories. The Marcus vs Evelyn thing -- which was solved waaaaay too easily -- was the reason the scientists decided to do it, but the fact that Tobias talked them down didn't stop the mind reset plan from going forward.<br><br>The impact that I think Veronica tried to convey with Tris's sacrifice was that, by succeeding in unleashing the memory serum on the scientists, she not only prevented the Chicago citizens from being reset but also allowed the Bureau to have their memories and agendas reprogrammed, so the experiment was shut down, so Chicago was "freed" from that crazy plan, so the fight for GD/GP equality would begin. That was the effect of the mission that Tris died for. Where Veronica lost everyone was that she TOLD these things, briefly, rather than SHOW us, in real time, how the first seeds of change were sown from Tris's sacrifice. It didn't change the entire world -- GD/GP oppression was still going on elsewhere -- but equality was starting in Chicago, and you know what they say about change. It just starts with one thing, and grows and grows. She should have showed how Tris's sacrifice set in motion the first seeds of change that would change the world.<br><br>This book was far from perfect and not nearly as good as the first two, and Tris's death and the aftermath/impact should have been written better. But I still disagree with the idea that it was bad on principle for not being a happy ending. Too many people -- not just on this website -- disagree with the ending for that reason alone, because they invested in Tris and Tobias and they "deserved" a better ending to their love story and they feel cheated and betrayed by Veronica. There are many reasons to dislike the ending, but that's just unfair and unrealistic.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 05:33:44 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 05:33:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85542733</id>
+  <body><![CDATA[Well Lauren, we will have to agree to disagree on some aspects of your post. Because as I sadden you because I don't believe people I to be altruistic, I believe it's very naïve to believe they are. <br>And by all the people she killed, Tris proved she's not Christ like in the first two books. But I'm Glad you enjoyed the book. Everyone is entitled to their opinions.]]></body>
+  
+  <user>
+    <id>12290478</id>
+    <name>Sarah</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12290478-sarah-arthur]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430359088p3/12290478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430359088p2/12290478.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 06:02:11 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 06:02:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85544788</id>
+  <body><![CDATA[I completely agree! I was left feeling empty and very emotional. I kinda wish that I just stopped with Insurgent and made up my own ending. I guess I'm just a sap who wanted a happy ending for Triss and Four.]]></body>
+  
+  <user>
+    <id>7457362</id>
+    <name>Veronica</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7457362-veronica]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_111x148-8060b12280b2aec7543bafb574ee8422.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 06:49:11 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 06:49:11 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85547866</id>
+  <body><![CDATA[Lauren, the ultimate reason Tris decided to do this was to save her city from harm. This was accomplished by Tobias asking his mother to stand down. Totally unbelievable! Tris didn't want them reset. You are absolutely right about that. The question is, would the bureau have reset them since Evelyn surrendered to Johanna and Marcus was finished? I agree with Sarah. You are entitled to your opinion as am I. I don't think that this novel was up to the standards of the other 2. I'm glad I read this on my Kobo so at least I can say that Innocent trees weren't killed for my reading displeasure.]]></body>
+  
+  <user>
+    <id>7328227</id>
+    <name>Shaune</name>
+
+    <location>Saint Catharines, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7328227-shaune]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331814963p3/7328227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331814963p2/7328227.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 07:58:01 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 07:58:01 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85548458</id>
+  <body><![CDATA["Lauren, the ultimate reason Tris decided to do this was to save her city from harm. This was accomplished by Tobias asking his mother to stand down. Totally unbelievable! Tris didn't want them reset. You are absolutely right about that. The question is, would the bureau have reset them since Evelyn surrendered to Johanna and Marcus was finished?"<br><br>There were two things going on that were going to destroy the city: Marcus and Evelyn's war, and the Bureau's mind reset. Tobias stopped the first one, but the second one was still going to happen. That was the point of the Weapons Lab mission.<br><br>David and his Bureau underlings didn't know the conflict had been resolved, but even if they did, would they have canceled the plan for the reset? Actually, they likely would have. The Chicago experiment was increasingly unstable and volatile, and the government was threatening to shut it down if anything got out of hand again. Even though the Battle of the Eatons had been averted, there was still a possibility -- even a likelihood -- that something else would happen down the road, sooner or later, probably sooner, because the city was still a mess. It is entirely believable, with what we got to know about David and his ruthless narrow-mindedness about his project, that he would order the reset anyway.<br><br>I agree that this book wasn't up to par with the other two, but the problem wasn't limited to the ending.<br><br>@Sarah: Actually, no, I don't believe that people, deep down, are all that altruistic. I think people in general are assholes. That's why I prefer to read about fictional people that don't talk back to me. I don't even think I'm particularly selfless. On the contrary, I tend to think I am quite the opportunist. But I do believe there exists some good in the world, and there really are good people in the world, and we all know that for all the asshole-ish tendencies people have, there is still the capacity for love that allows people to give their lives for the people they love. It's why a mother pushes her child out of the way of a speeding truck or a husband takes a bullet for his wife. Whether it happens in an instant or not. Tris's sacrifice was not purely done for the greater good of the mission with the Bureau; it was out of the love she had for her brother, and it was an example of the nature of truly unconditional love that she was able to do that for the little weasel. No, people in general are not that selfless, not that giving, not that capable of that level of such unconditional love. Very few people are that good and pure of heart. But Veronica was trying to tell us, not just here but throughout the series, that Tris was one of those good people.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:10:05 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:10:05 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85548582</id>
+  <body><![CDATA[<em>Shaune wrote: "I'm glad I read this on my Kobo so at least I can say that Innocent trees weren't killed for my reading displeasure. "</em><br><br>Snorted pop out my nose on that one.]]></body>
+  
+  <user>
+    <id>11320517</id>
+    <name>Heather</name>
+
+    <location>Freeland, MI</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/11320517-heather]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1385217840p3/11320517.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1385217840p2/11320517.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:12:42 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:12:42 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85548914</id>
+  <body><![CDATA[Sorry about the pop Heather.<br><br>Lauren, you are making assumptions on what the bureau would have done. In the first place, everything the bureau did was illogical and not even plausible. If they could damage people's DNA to begin with, they also had the technology to fix it. Why would they wait for 10 generations of people to become GP? How is that even possible? Everyone in the city were GD. Breeding together would have caused all kinds of problems not to mention inbreeding. That's why I am saying that there were bigger problems with the book than just Tris's death.]]></body>
+  
+  <user>
+    <id>7328227</id>
+    <name>Shaune</name>
+
+    <location>Saint Catharines, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7328227-shaune]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331814963p3/7328227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331814963p2/7328227.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:19:16 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:19:16 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85549331</id>
+  <body><![CDATA[@Shaune: The entire plot was illogical and not plausible. The ending falls apart on the pure fact that everything that happened in the book made absolutely no sense. But I'm trying to suspend my disbelief -- and giving myself a hernia in the process -- to try to make sense of it. If we take a huge leap and accept the steps and plot points that led to this whole "erase the Bureau's memories" mission, then we can try to make sense of why things happened the way they did. I'm just trying to contain the logic of the death within the immediate event. The whole thing falls apart when you take a step back and try to work out the logic of why, because the avalanche of why's never stop and you will eventually find yourself back to the beginning of the novel, because there is no logical answer to a single "why" in the entire plot. Why did they have to reset the Bureau's memories? Oh, because otherwise the Bureau was going to reset Chicago's memory. But that makes no sense, why would the Bureau think a citywide reset would be a good idea, that's a totally random evil thing to do and helps no one. Okay, but let's pretend it does and that's the only way the experiment can go on. But wait, why does the experiment have to go on? Oh, yes, because they want to study "damaged" people and weed out the damaged genes and make more pure people. But wait a second again, haven't they realized that they've wasted some 200 years on this already? What the hell kind of "experiment" goes on for eight generations of people trapped in a city with no idea about the world beyond*? And for that matter, why did this experiment even start in the first place? Whose dumb idea was it to manipulate people's genes in order to correct human behavior? <br><br>*This was actually my main gripe about the series from the first book, to be honest. I found it very implausible that no one ever seemed to wonder or care why no one ever came into the city and no one ever left, why they were surrounded by a big fence and they have no idea what's on the other side. So that idea is not confined to this book, because that's been bothering me from the beginning.<br><br>So, is this plot ridiculous? Yeah, it really is. Ain't gonna lie. Gotta admit, I was NOT particularly impressed with the Big Reveal about what's outside the fence and why they're here.<br><br>The main reason the ending doesn't make sense is because the entire plot in and of itself makes very little sense. But I just try to pretend that it does, and then the ending will kind of sort of fit into it. Because the plot part aside, it did make sense with the themes and character arcs. But in terms of a viable plot point, it made no sense only because everything that led to that step made no sense to begin with.<br><br>Of course, a reader shouldn't have to pretend the plot makes sense even when it doesn't just to make it work.<br><br>But never mind about what the Bureau WOULD have done if they had known the Eaton fight was over. The reality is that they didn't, and the reset was still on schedule to happen as planned.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:27:07 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:27:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85550136</id>
+  <body><![CDATA[Okay. Now I see where you're coming from. I had issues with the plot (or lack thereof) right from the beginning. As I've said numerous times, this was not up to the writing standards that I've come to expect from Ms. Roth. I really didn't like it. It honestly had little to do with Tris's death. I am a realist. I can slip into fantasy for the sake of a story but in this instance it was too much of a stretch. I cried for hours when JKR killed off Dobby the house elf but that death had a purpose so I wasn't angry. I tend to agree with other posters that maybe Ms. Roth had trouble closing out the story. There were too many missed opportunities in this book to make it an enjoyable read. Unfortunately, I still stand by my opinion that she should have worked it out differently. Not necessarily giving us the HEA that so many people wanted but at least some closure that made a bit more sense.]]></body>
+  
+  <user>
+    <id>7328227</id>
+    <name>Shaune</name>
+
+    <location>Saint Catharines, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7328227-shaune]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331814963p3/7328227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331814963p2/7328227.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:42:59 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:42:59 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85550358</id>
+  <body><![CDATA["Tris's death served a purpose...."<br><a href="http://imgur.com/J2t3Hy1" rel="nofollow">
+  <img src="https://d.gr-assets.com/hostedimages/1382715785ra/6142353.gif" class="gr-hostedUserImg"></a>]]></body>
+  
+  <user>
+    <id>22495428</id>
+    <name>♥The Shredder♥</name>
+
+    <location>Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22495428-the-shredder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399495958p3/22495428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399495958p2/22495428.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:46:51 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:46:51 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85550472</id>
+  <body><![CDATA[See, Goodreads brings people together! :)<br><br>Yeah, I didn't hate the ending the way most people do. Now that I've recovered emotionally I'm doing that thing that I do where I start picking apart the writer's decisions and fixing things they should have done. I see what Veronica was trying to do, and I get it, and it works for the character, but it didn't work in the plot because the surrounding plot and the aftermath weren't written well. If they get to adapt the entire trilogy, maybe the movie version will write it better.<br><br>I have no doubt that Veronica had trouble closing out the story, regardless of her knowing how the story would end (Tris's sacrifice) from the beginning, because I have yet to read a trilogy ender that didn't feel like a cop out in some way. There is just no way to do a good "Part 3," it seems.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:49:01 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:49:01 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85550508</id>
+  <body><![CDATA[Crushed reviews, I have never said her death served a purpose. Just the opposite in fact.]]></body>
+  
+  <user>
+    <id>7328227</id>
+    <name>Shaune</name>
+
+    <location>Saint Catharines, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7328227-shaune]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331814963p3/7328227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331814963p2/7328227.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:49:41 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:49:41 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85550701</id>
+  <body><![CDATA[<em>Lauren wrote: "See, Goodreads brings people together! :)<br><br>Yeah, I didn't hate the ending the way most people do. Now that I've recovered emotionally I'm doing that thing that I do where I start picking apart the..."</em><br><br>I agree with you there. Have you read "Unwind" by N. Shusterman? I'm told there will be a third book but I think I'll stop at 2. It's also dystopian. Very disturbing though but very well written.]]></body>
+  
+  <user>
+    <id>7328227</id>
+    <name>Shaune</name>
+
+    <location>Saint Catharines, ON, Canada</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/7328227-shaune]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1331814963p3/7328227.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1331814963p2/7328227.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:53:44 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:53:44 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85550847</id>
+  <body><![CDATA[Ooh, I loved Unwind! Yes, the third book came out last week and I read it and it's awesome. It was originally going to be a trilogy but the third book got so long that Shusterman had to cut it off and expand the last section into a fourth book, so we have that to look forward to but I don't know the name or release date yet for it.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:57:07 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:57:07 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85550950</id>
+  <body><![CDATA[<em>Shaune wrote: "Crushed reviews, I have never said her death served a purpose. Just the opposite in fact."</em><br><br>I wasn't referring to you. :)]]></body>
+  
+  <user>
+    <id>22495428</id>
+    <name>♥The Shredder♥</name>
+
+    <location>Malta</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/22495428-the-shredder]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1399495958p3/22495428.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1399495958p2/22495428.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 08:59:01 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 08:59:01 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85551101</id>
+  <body><![CDATA[Her death did serve a purpose, as allowing the scientists' memories to be reset allowed change, but Veronica didn't do a good enough job showing and explaining it. I think that's where she lost people. She just mentioned all the changes in a couple of one-paragraph narrations, which made it seem inconsequential.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 09:01:54 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 09:01:54 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85551208</id>
+  <body><![CDATA[And one thing that could have avoided the whole "suicide mission" thing. Did it not occur to ANYONE to try to figure out a way to get the passcode from David so they could sneak into the Weapons Lab without setting off the death serum? It was also a plot contrivance that they so easily accepted the sacrifice plan with no one bothering to think of any way to avoid doing it that way.]]></body>
+  
+  <user>
+    <id>18334844</id>
+    <name>Lauren</name>
+
+    <location>Miami, FL</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/18334844-lauren]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 09:03:49 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 09:03:49 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85552766</id>
+  <body><![CDATA[My final thoughts on this subject, we all have opinions and like in religion and politics, we all think everyone else's stink. In my OPINION this book is an EPIC FAIL. <br><br>Now on to the next book!]]></body>
+  
+  <user>
+    <id>12290478</id>
+    <name>Sarah</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12290478-sarah-arthur]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430359088p3/12290478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430359088p2/12290478.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Oct 25 09:33:46 -0700 2013</created_at>
+  <updated_at>Fri Oct 25 09:33:46 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85724019</id>
+  <body><![CDATA[It's not really about Tris dying as the whole book seemed rushed and to make NO SENSE... I could've written a better conclusion.]]></body>
+  
+  <user>
+    <id>9901011</id>
+    <name>Meghan</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/9901011-meghan]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1452811878p3/9901011.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1452811878p2/9901011.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Mon Oct 28 01:42:47 -0700 2013</created_at>
+  <updated_at>Mon Oct 28 01:42:47 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>85855841</id>
+  <body><![CDATA[The author did the ultimate. She killed off the character that her readers identified with. Not the boyfriend. That could have shown us more strength in Triss. I am a Christian and feel the author could have accomplished her objective by having the mom say "not yet, you have your whole life ahead of you." Then Triss could have shared that comfort with others. Fixing the current world and knowing there is an even better place. I feel betrayed. I won't see the movies.]]></body>
+  
+  <user>
+    <id>6008590</id>
+    <name>Becky</name>
+
+    <location>Lorton, VA</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/6008590-becky-beckster]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1362968280p3/6008590.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1362968280p2/6008590.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Wed Oct 30 05:23:34 -0700 2013</created_at>
+  <updated_at>Wed Oct 30 05:23:34 -0700 2013</updated_at>
+</comment>
+
+        <comment>
+  <id>96486250</id>
+  <body><![CDATA[ACCEPT THE END I DID EVEN THOUGH I CRIED THE ENDING MADE SENSE]]></body>
+  
+  <user>
+    <id>26880626</id>
+    <name>Filip</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/26880626-filip]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+  <created_at>Fri Apr 11 23:03:24 -0700 2014</created_at>
+  <updated_at>Fri Apr 11 23:03:24 -0700 2014</updated_at>
+</comment>
+
+        <comment>
+  <id>96588798</id>
+  <body><![CDATA[No actually the ending did not, in fact, make sense. As a messiah character Tris should've been resurrected. That is the archetype of the messiah character. And Four being okay with her death because he finally has his mommy wants to be Oedipal but doesn't hit the mark. And it's this break from characterization that so disappoints me. Four never started out as or continued on as, in either Divergent or Insurgent, as Oedipal. But feel free to write your own review to contradict, just not here. Thanks.]]></body>
+  
+  <user>
+    <id>12290478</id>
+    <name>Sarah</name>
+
+    <location>The United States</location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/12290478-sarah-arthur]]></link>
+
+    <image_url><![CDATA[https://d.gr-assets.com/users/1430359088p3/12290478.jpg]]></image_url>
+    <small_image_url><![CDATA[https://d.gr-assets.com/users/1430359088p2/12290478.jpg]]></small_image_url>
+
+  </user>
+
+  <created_at>Sun Apr 13 16:53:52 -0700 2014</created_at>
+  <updated_at>Sun Apr 13 16:53:52 -0700 2014</updated_at>
+</comment>
+
+    </comments>
+    <url><![CDATA[https://www.goodreads.com/review/show/746865698]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/746865698]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

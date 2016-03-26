@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[HGmnXC4msdSA8LNb7ejQ]]></key>
+    <method><![CDATA[review_show]]></method>
+  </Request>
+      <review>
+  <id>1561843533</id>
+    
+  <user>
+    <id>17076127</id>
+    <name>Maureen</name>
+
+    <location></location>
+
+    <link><![CDATA[https://www.goodreads.com/user/show/17076127-maureen-tumenas]]></link>
+
+    <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_111x148-9394ebedbb3c6c218f64be9549657029.png]]></image_url>
+    <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]></small_image_url>
+
+  </user>
+
+    <book>
+  <id type="integer">29348770</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <title>Hidden Bodies (You, #2)</title>
+  <image_url>https://d.gr-assets.com/books/1456544181m/29348770.jpg</image_url>
+  <small_image_url>https://d.gr-assets.com/books/1456544181s/29348770.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29348770-hidden-bodies</link>
+  <num_pages></num_pages>
+  <format>Audible Audio</format>
+  <edition_information/>
+  <publisher>Unabridged </publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>2640</ratings_count>
+  <description>In the compulsively readable follow-up to her widely acclaimed debut novel, You, Caroline Kepnes weaves a tale that Booklist calls “the love child of Holden Caulfield and Patrick Bateman.”&lt;br&gt;&lt;br&gt;Hidden Bodies marks the return of a voice that Stephen King described as original and hypnotic, and through the divisive and charmingly sociopathic character of Joe Goldberg, Kepnes satirizes and dissects our culture, blending suspense with scathing wit.&lt;br&gt;&lt;br&gt;Joe Goldberg is no stranger to hiding bodies. In the past ten years, this thirty-something has buried four of them, collateral damage in his quest for love. Now he’s heading west to Los Angeles, the city of second chances, determined to put his past behind him.&lt;br&gt;&lt;br&gt;In Hollywood, Joe blends in effortlessly with the other young upstarts. He eats guac, works in a bookstore, and flirts with a journalist neighbor. But while others seem fixated on their own reflections, Joe can’t stop looking over his shoulder. The problem with hidden bodies is that they don’t always stay that way. They re-emerge, like dark thoughts, multiplying and threatening to destroy what Joe wants most: truelove. And when he finds it in a darkened room in Soho House, he’s more desperate than ever to keep his secrets buried. He doesn’t want to hurt his new girlfriend—he wants to be with her forever. But if she ever finds out what he’s done, he may not have a choice...</description>
+<authors>
+<author>
+<id>202260</id>
+<name>Caroline Kepnes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417479736p5/202260.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://d.gr-assets.com/authors/1417479736p2/202260.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/202260.Caroline_Kepnes]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>23627</ratings_count>
+<text_reviews_count>5145</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+</book>
+
+
+    <user_statuses>
+        <user_status>
+          <id type="integer">89704357</id>
+          <page type="integer"></page>
+          <chapter type="integer"></chapter>
+          <comments_count>0</comments_count>
+          <created_at type="datetime">Sun Feb 28 10:13:34 -0800 2016</created_at>
+          <updated_at type="datetime">Sun Feb 28 10:14:25 -0800 2016</updated_at>
+          <last_comment_at type="datetime"></last_comment_at>
+          <ratings_count type="integer">0</ratings_count>
+          <percent type="integer">10</percent>
+          <work_id type="integer">43082571</work_id>
+          <note_uri>kca://note/amzn1.grok.note.34c84aef5e7ae43e6a5312b1e1256eb5</note_uri>
+          <note_updated_at type="datetime">Sun Feb 28 10:14:25 -0800 2016</note_updated_at>
+          <body><![CDATA[So far this is a vile novel with nothing to recommend it. Gratuitous sex and violence, nasty language. May have to return it]]></body>
+        </user_status>
+    </user_statuses>
+    <read_statuses>
+        <read_status>
+          <id type="integer">1258542143</id>
+          <old_status>currently-reading</old_status>
+          <status>read</status>
+          <updated_at type="datetime">Mon Feb 29 15:37:43 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+        <read_status>
+          <id type="integer">1254547928</id>
+          <old_status></old_status>
+          <status>currently-reading</status>
+          <updated_at type="datetime">Fri Feb 26 19:36:35 -0800 2016</updated_at>
+          <ratings_count>0</ratings_count>
+          <comments_count>0</comments_count>
+        </read_status>
+    </read_statuses>
+  <rating>1</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+  <shelf name="read" exclusive="true" />
+
+    <shelf name="audible" exclusive="false" review_shelf_id="1238587958" sortable="false" />
+</shelves>
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 26 00:00:00 -0800 2016</started_at>
+  <read_at>Mon Feb 29 15:41:42 -0800 2016</read_at>
+  <date_added>Fri Feb 26 19:36:35 -0800 2016</date_added>
+  <date_updated>Mon Feb 29 15:41:42 -0800 2016</date_updated>
+  <read_count></read_count>
+  <body>
+      <![CDATA[I did not enjoy this book at all. It was a struggle to finish it. Especially at the beginning, there is far too much gratuitous sex and violence and really foul language. Didn't help that I was listening to this via audible. I almost returned it- it was that bad. It got marginally better. At leas...]]>
+  </body>
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1561843533]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1561843533]]></link>
+    <owned>0</owned>
+</review>
+
+
+</GoodreadsResponse>

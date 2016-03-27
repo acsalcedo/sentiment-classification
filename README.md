@@ -1,7 +1,20 @@
 # sentiment-classification
 Proyecto final de Análisis de Sentimiento - Inteligencia Artificial 2
 
+### Lenguajes y librerías a descargar 
+
+1. Python
+    * requests
+2. R
+    * tm
+    * plyr
+    * class
+    * e1071
+    * maxent
+
 ### Cómo correr el proyecto
+
+En la carpeta _src/_ correr el siguiente comando:
 
 ```
 $ Rscript main.r <algorithm>

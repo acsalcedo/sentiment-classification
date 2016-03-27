@@ -1,5 +1,4 @@
 library(e1071)
-library(rpart)
 source("clean.r")
 
 # Reads the data positive and negative reviews.
@@ -30,8 +29,8 @@ trainSet <- mergedTrainSet[sample(nrow(mergedTrainSet)),]
 testSet  <- mergedTestSet[sample(nrow(mergedTestSet)),]
 
 # Sets the SVM model.
-svmModel <- svm(class ~ ., data = trainSet, gamma = 10, cost = 1000)
-print(summary(svmModel))
+svmModel <- svm(class ~ ., data = trainSet, gamma = 0.75, cost = 2)
+# print(summary(svmModel))
 
 # Predicts the class for each example of the testing set.
 prediction <- predict(svmModel, testSet[-2])
@@ -40,10 +39,8 @@ prediction <- predict(svmModel, testSet[-2])
 confusionMatrix <- table(pred = prediction, true = testSet[,2])
 
 size <- nrow(testSet)
-# # Tuning of data to determine the best values for each parameter.
-# svmTune <- tune.svm(class ~ ., data=trainSet, cost = 10^(-10:10),
-#                     kernel= "radial", gamma= c(0.01,0.25,0.5,1,2,3))
+
+# Tuning of data to determine the best values for each parameter.
+# svmTune <- tune.svm(class ~ ., data=trainSet, cost = c(1,2,3,4),
+#                     kernel= "radial", gamma= c(0.25,0.5,0.75,1,2,3))
 # print(svmTune)
-
-
-#kernel = linear, radial polynomial

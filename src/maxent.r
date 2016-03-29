@@ -27,8 +27,9 @@ model <- maxent(trainSet,trainSetClass)
 
 # Classifies test set given the max entropy model.
 classifiedTestSet <- predict(model,testSet)
+testSetClass <- sortedData$class[trainIndex:dataSize]
 
-getConfusionMatrix <- function(results) {
+getConfusionMatrix <- function(results,testSetClass) {
 
     posAsPos <- 0
     posAsNeg <- 0
@@ -39,15 +40,15 @@ getConfusionMatrix <- function(results) {
     
     while (i <= resultSize) {
         
-        if (results[[i,1]] == "positive") {
-            if (results[i,2] > 0.5) {
+        if (results[[i,1]] == testSetClass[i]) {
+            if (testSetClass[i] == "positive") {
                 posAsPos <- posAsPos + 1
             } else {
-                posAsNeg <- posAsNeg + 1
+                negAsNeg <- negAsNeg + 1
             }
         } else {
-            if (results[[i,3]] > 0.5) {
-                negAsNeg <- negAsNeg + 1
+            if (testSetClass[i] == "positive") {
+                posAsNeg <- posAsNeg + 1
             } else {
                 negAsPos <- negAsPos + 1
             }    
@@ -63,5 +64,5 @@ getConfusionMatrix <- function(results) {
     return (result)
 }
 
-confusionMatrix <- getConfusionMatrix(classifiedTestSet)
+confusionMatrix <- getConfusionMatrix(classifiedTestSet,testSetClass)
 size <- nrow(testSet)

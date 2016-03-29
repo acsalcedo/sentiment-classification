@@ -1,7 +1,7 @@
 library("tm")
 options(stringAsFactors = FALSE)
 
-reviews <- c("positive.data", "negative.data")
+reviews <- c("positive.data", "negative.data","neutral.data")
 path = "../data/divided/"
 
 preProcessData <- function(dataSet) {
@@ -32,7 +32,8 @@ getPreProcessedData <- function(reviews, path) {
 }
 
 cleanedData = lapply(reviews,getPreProcessedData, path = path)
-files = c("outputPositive.csv","outputNegative.csv","all.csv")
+
+files = c("outputPositive.csv","outputNegative.csv","all.csv","neutral.csv")
 
 addHeader <- function(fileName) {
     cat(c("review","class"),file = paste(path,fileName,sep=""), fill=TRUE, sep=",")
@@ -53,8 +54,12 @@ addContent <- function(fileName,contentList,classify) {
 
 posList <- cleanedData[[1]]$content
 negList <- cleanedData[[2]]$content
+neuList <- cleanedData[[3]]$content
 
 addContent(paste(path,files[1],sep=""),posList,"positive")
 addContent(paste(path,files[2],sep=""),negList,"negative")
+
 addContent(paste(path,files[3],sep=""),posList,"positive")
 addContent(paste(path,files[3],sep=""),negList,"negative")
+
+addContent(paste(path,files[4],sep=""),neuList,"neutral")

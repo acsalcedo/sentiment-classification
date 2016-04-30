@@ -4,8 +4,8 @@ import time
 import os
 import csv
 
-key = 'HGmnXC4msdSA8LNb7ejQ'
-secret = '8oSbMVVrHxKDZblIpjR7xwqsPcbdyRO3zS8FRfBiRQ'
+key = #insert key 
+secret = #insert secret
 dataFolder = "../data/"
 NUMREVIEWS = 5000
 
